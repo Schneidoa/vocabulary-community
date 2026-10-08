@@ -1,0 +1,2906 @@
+# 🔗 Funktionswörter – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a"
+  lemma: "a"
+  pos: determiner
+  level: A1
+  ipa: "/ə/"
+  example: "I have a dog."
+  translations:
+    de: ["ein", "eine"]
+  example_translations:
+    de: "Ich habe einen Hund."
+
+- id: "a-lot"
+  lemma: "a lot"
+  pos: pronoun
+  level: A1
+  ipa: "/ə ˈlɒt/"
+  example: "I learned a lot."
+  translations:
+    de: ["viel", "eine Menge"]
+  example_translations:
+    de: "Ich habe viel gelernt."
+
+- id: "about-adverb"
+  lemma: "about"
+  pos: adverb
+  level: A1
+  ipa: "/əˈbaʊt/"
+  example: "It costs about ten pounds."
+  translations:
+    de: ["ungefähr", "etwa"]
+  example_translations:
+    de: "Es kostet ungefähr zehn Pfund."
+
+- id: "about-preposition"
+  lemma: "about"
+  pos: preposition
+  level: A1
+  ipa: "/əˈbaʊt/"
+  example: "This book is about a cat."
+  translations:
+    de: ["über", "von"]
+  example_translations:
+    de: "Dieses Buch handelt von einer Katze."
+
+- id: "above-adverb"
+  lemma: "above"
+  pos: adverb
+  level: A1
+  ipa: "/əˈbʌv/"
+  example: "See the example above."
+  translations:
+    de: ["oben", "darüber"]
+  example_translations:
+    de: "Siehe das Beispiel oben."
+
+- id: "above-preposition"
+  lemma: "above"
+  pos: preposition
+  level: A1
+  ipa: "/əˈbʌv/"
+  example: "The picture is above the sofa."
+  translations:
+    de: ["über", "oberhalb"]
+  example_translations:
+    de: "Das Bild hängt über dem Sofa."
+
+- id: "according-to"
+  lemma: "according to"
+  pos: preposition
+  level: A2
+  ipa: "/əˈkɔː.dɪŋ tuː/"
+  example: "According to the news, it will rain."
+  translations:
+    de: ["laut", "nach", "gemäß"]
+  example_translations:
+    de: "Laut den Nachrichten wird es regnen."
+
+- id: "across-adverb"
+  lemma: "across"
+  pos: adverb
+  level: A1
+  ipa: "/əˈkrɒs/"
+  example: "He swam across to the other side."
+  translations:
+    de: ["hinüber", "herüber"]
+  example_translations:
+    de: "Er schwamm hinüber auf die andere Seite."
+
+- id: "across-preposition"
+  lemma: "across"
+  pos: preposition
+  level: A1
+  ipa: "/əˈkrɒs/"
+  example: "We walked across the bridge."
+  translations:
+    de: ["über", "quer durch"]
+  example_translations:
+    de: "Wir gingen über die Brücke."
+
+- id: "after"
+  lemma: "after"
+  pos: preposition
+  level: A2
+  ipa: "/ˈɑːf.tər/"
+  example: "We went for a walk after lunch."
+  translations:
+    de: ["nach", "nachdem"]
+  example_translations:
+    de: "Nach dem Mittagessen sind wir spazieren gegangen."
+
+- id: "after-conjunction"
+  lemma: "after"
+  pos: conjunction
+  level: A2
+  ipa: "/ˈɑːf.tər/"
+  example: "I called you after I got home."
+  translations:
+    de: ["nachdem"]
+  example_translations:
+    de: "Ich habe dich angerufen, nachdem ich nach Hause gekommen war."
+
+- id: "against"
+  lemma: "against"
+  pos: preposition
+  level: A2
+  ipa: "/əˈɡenst/"
+  example: "We played against a strong team."
+  translations:
+    de: ["gegen"]
+  example_translations:
+    de: "Wir haben gegen eine starke Mannschaft gespielt."
+
+- id: "ahead"
+  lemma: "ahead"
+  pos: adverb
+  level: B1
+  ipa: "/əˈhed/"
+  example: "Go straight ahead."
+  translations:
+    de: ["voraus", "vorn"]
+  example_translations:
+    de: "Geh geradeaus weiter."
+
+- id: "all-determiner"
+  lemma: "all"
+  pos: determiner
+  level: A1
+  ipa: "/ɔːl/"
+  example: "All my friends are here."
+  translations:
+    de: ["alle", "ganz"]
+  example_translations:
+    de: "Alle meine Freunde sind hier."
+
+- id: "all-pronoun"
+  lemma: "all"
+  pos: pronoun
+  level: A1
+  ipa: "/ɔːl/"
+  example: "That's all for today."
+  translations:
+    de: ["alle", "alles"]
+  example_translations:
+    de: "Das ist alles für heute."
+
+- id: "almost"
+  lemma: "almost"
+  pos: adverb
+  level: A2
+  ipa: "/ˈɔːl.məʊst/"
+  example: "It's almost ten o'clock."
+  translations:
+    de: ["fast", "beinahe"]
+  example_translations:
+    de: "Es ist fast zehn Uhr."
+
+- id: "along-adverb"
+  lemma: "along"
+  pos: adverb
+  level: A2
+  ipa: "/əˈlɒŋ/"
+  example: "Why don't you come along?"
+  translations:
+    de: ["mit", "weiter"]
+  example_translations:
+    de: "Warum kommst du nicht mit?"
+
+- id: "along-preposition"
+  lemma: "along"
+  pos: preposition
+  level: A2
+  ipa: "/əˈlɒŋ/"
+  example: "We walked along the river."
+  translations:
+    de: ["entlang"]
+  example_translations:
+    de: "Wir gingen am Fluss entlang."
+
+- id: "also"
+  lemma: "also"
+  pos: adverb
+  level: A1
+  ipa: "/ˈɔːl.səʊ/"
+  example: "I also speak French."
+  translations:
+    de: ["auch"]
+  example_translations:
+    de: "Ich spreche auch Französisch."
+
+- id: "although"
+  lemma: "although"
+  pos: conjunction
+  level: A2
+  ipa: "/ɔːlˈðəʊ/"
+  example: "Although it was raining, we went out."
+  translations:
+    de: ["obwohl"]
+  example_translations:
+    de: "Obwohl es regnete, gingen wir hinaus."
+
+- id: "among"
+  lemma: "among"
+  pos: preposition
+  level: A2
+  ipa: "/əˈmʌŋ/"
+  example: "She was among the best students."
+  translations:
+    de: ["unter", "zwischen"]
+  example_translations:
+    de: "Sie war unter den besten Schülern."
+
+- id: "an"
+  lemma: "an"
+  pos: determiner
+  level: A1
+  ipa: "/æn/"
+  example: "I ate an orange."
+  translations:
+    de: ["ein", "eine"]
+  example_translations:
+    de: "Ich habe eine Orange gegessen."
+
+- id: "and"
+  lemma: "and"
+  pos: conjunction
+  level: A1
+  ipa: "/ænd/"
+  example: "Tom and Anna are friends."
+  translations:
+    de: ["und"]
+  example_translations:
+    de: "Tom und Anna sind Freunde."
+
+- id: "another-determiner"
+  lemma: "another"
+  pos: determiner
+  level: A1
+  ipa: "/əˈnʌð.ər/"
+  example: "Can I have another cup of tea?"
+  translations:
+    de: ["noch ein", "ein anderer"]
+  example_translations:
+    de: "Kann ich noch eine Tasse Tee haben?"
+
+- id: "another-pronoun"
+  lemma: "another"
+  pos: pronoun
+  level: A1
+  ipa: "/əˈnʌð.ər/"
+  example: "This one is broken. Can I have another?"
+  translations:
+    de: ["ein anderer", "noch einer"]
+  example_translations:
+    de: "Das hier ist kaputt. Kann ich ein anderes haben?"
+
+- id: "any-determiner"
+  lemma: "any"
+  pos: determiner
+  level: A1
+  ipa: "/ˈen.i/"
+  example: "Do you have any questions?"
+  translations:
+    de: ["irgendein", "etwas"]
+  example_translations:
+    de: "Hast du irgendwelche Fragen?"
+
+- id: "any-pronoun"
+  lemma: "any"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈen.i/"
+  example: "I wanted some cake, but there wasn't any."
+  translations:
+    de: ["welche", "keine"]
+  example_translations:
+    de: "Ich wollte Kuchen, aber es gab keinen."
+
+- id: "anybody"
+  lemma: "anybody"
+  pos: pronoun
+  level: A2
+  ipa: "/ˈen.iˌbɒd.i/"
+  example: "Is anybody there?"
+  translations:
+    de: ["jemand", "irgendjemand"]
+  example_translations:
+    de: "Ist da jemand?"
+
+- id: "anyone"
+  lemma: "anyone"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈen.i.wʌn/"
+  example: "Does anyone know the answer?"
+  translations:
+    de: ["jemand", "irgendjemand"]
+  example_translations:
+    de: "Weiß jemand die Antwort?"
+
+- id: "anything"
+  lemma: "anything"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈen.i.θɪŋ/"
+  example: "Do you need anything?"
+  translations:
+    de: ["etwas", "irgendetwas"]
+  example_translations:
+    de: "Brauchst du etwas?"
+
+- id: "anywhere"
+  lemma: "anywhere"
+  pos: adverb
+  level: A2
+  ipa: "/ˈen.i.weər/"
+  example: "I can't find my keys anywhere."
+  translations:
+    de: ["irgendwo", "überall"]
+  example_translations:
+    de: "Ich kann meine Schlüssel nirgendwo finden."
+
+- id: "apart"
+  lemma: "apart"
+  pos: adverb
+  level: B1
+  ipa: "/əˈpɑːt/"
+  example: "They live apart now."
+  translations:
+    de: ["auseinander", "getrennt"]
+  example_translations:
+    de: "Sie leben jetzt getrennt."
+
+- id: "around-adverb"
+  lemma: "around"
+  pos: adverb
+  level: A1
+  ipa: "/əˈraʊnd/"
+  example: "There were around fifty people."
+  translations:
+    de: ["herum", "ungefähr"]
+  example_translations:
+    de: "Es waren ungefähr fünfzig Leute da."
+
+- id: "around-preposition"
+  lemma: "around"
+  pos: preposition
+  level: A1
+  ipa: "/əˈraʊnd/"
+  example: "We walked around the lake."
+  translations:
+    de: ["um", "um … herum"]
+  example_translations:
+    de: "Wir sind um den See herum gelaufen."
+
+- id: "as-adverb"
+  lemma: "as"
+  pos: adverb
+  level: A2
+  ipa: "/æz/"
+  example: "He is as tall as his father."
+  translations:
+    de: ["so", "genauso"]
+  example_translations:
+    de: "Er ist so groß wie sein Vater."
+
+- id: "as-conjunction"
+  lemma: "as"
+  pos: conjunction
+  level: A2
+  ipa: "/æz/"
+  example: "As it was late, we went home."
+  translations:
+    de: ["als", "da", "während"]
+  example_translations:
+    de: "Da es spät war, gingen wir nach Hause."
+
+- id: "as-preposition"
+  lemma: "as"
+  pos: preposition
+  level: A1
+  ipa: "/æz/"
+  example: "She works as a teacher."
+  translations:
+    de: ["als", "wie"]
+  example_translations:
+    de: "Sie arbeitet als Lehrerin."
+
+- id: "at"
+  lemma: "at"
+  pos: preposition
+  level: A1
+  ipa: "/æt/"
+  example: "See you at eight o'clock."
+  translations:
+    de: ["an", "in", "um", "bei"]
+  example_translations:
+    de: "Wir sehen uns um acht Uhr."
+
+- id: "away"
+  lemma: "away"
+  pos: adverb
+  level: A1
+  ipa: "/əˈweɪ/"
+  example: "The station is two kilometres away."
+  translations:
+    de: ["weg", "entfernt"]
+  example_translations:
+    de: "Der Bahnhof ist zwei Kilometer entfernt."
+
+- id: "back-adverb"
+  lemma: "back"
+  pos: adverb
+  level: A1
+  ipa: "/bæk/"
+  example: "I'll be back in five minutes."
+  translations:
+    de: ["zurück"]
+  example_translations:
+    de: "Ich bin in fünf Minuten zurück."
+
+- id: "backwards"
+  lemma: "backwards"
+  pos: adverb
+  level: B1
+  ipa: "/ˈbæk.wədz/"
+  example: "He took a step backwards."
+  translations:
+    de: ["rückwärts", "zurück"]
+  example_translations:
+    de: "Er machte einen Schritt zurück."
+
+- id: "because"
+  lemma: "because"
+  pos: conjunction
+  level: A2
+  ipa: "/bɪˈkɒz/"
+  example: "I stay at home because I'm ill."
+  translations:
+    de: ["weil", "da"]
+  example_translations:
+    de: "Ich bleibe zu Hause, weil ich krank bin."
+
+- id: "because-of"
+  lemma: "because of"
+  pos: preposition
+  level: A1
+  ipa: "/bɪˈkɒz əv/"
+  example: "The game was cancelled because of the rain."
+  translations:
+    de: ["wegen"]
+  example_translations:
+    de: "Das Spiel wurde wegen des Regens abgesagt."
+
+- id: "before"
+  lemma: "before"
+  pos: preposition
+  level: A2
+  ipa: "/bɪˈfɔːr/"
+  example: "Wash your hands before dinner."
+  translations:
+    de: ["vor", "bevor"]
+  example_translations:
+    de: "Wasch dir vor dem Essen die Hände."
+
+- id: "before-conjunction"
+  lemma: "before"
+  pos: conjunction
+  level: A2
+  ipa: "/bɪˈfɔːr/"
+  example: "Wash your hands before you eat."
+  translations:
+    de: ["bevor"]
+  example_translations:
+    de: "Wasch dir die Hände, bevor du isst."
+
+- id: "behind"
+  lemma: "behind"
+  pos: preposition
+  level: A2
+  ipa: "/bɪˈhaɪnd/"
+  example: "The garden is behind the house."
+  translations:
+    de: ["hinter"]
+  example_translations:
+    de: "Der Garten ist hinter dem Haus."
+
+- id: "behind-adverb"
+  lemma: "behind"
+  pos: adverb
+  level: A1
+  ipa: "/bɪˈhaɪnd/"
+  example: "She stayed behind after the lesson."
+  translations:
+    de: ["hinten", "zurück"]
+  example_translations:
+    de: "Sie blieb nach dem Unterricht noch da."
+
+- id: "below-adverb"
+  lemma: "below"
+  pos: adverb
+  level: A1
+  ipa: "/bɪˈləʊ/"
+  example: "Write your name below."
+  translations:
+    de: ["unten", "darunter"]
+  example_translations:
+    de: "Schreib deinen Namen darunter."
+
+- id: "below-preposition"
+  lemma: "below"
+  pos: preposition
+  level: A1
+  ipa: "/bɪˈləʊ/"
+  example: "The temperature is below zero."
+  translations:
+    de: ["unter", "unterhalb"]
+  example_translations:
+    de: "Die Temperatur liegt unter null."
+
+- id: "between"
+  lemma: "between"
+  pos: preposition
+  level: A2
+  ipa: "/bɪˈtwiːn/"
+  example: "The bank is between the café and the shop."
+  translations:
+    de: ["zwischen"]
+  example_translations:
+    de: "Die Bank ist zwischen dem Café und dem Laden."
+
+- id: "between-adverb"
+  lemma: "between"
+  pos: adverb
+  level: A2
+  ipa: "/bɪˈtwiːn/"
+  example: "Two houses with a garden in between."
+  translations:
+    de: ["dazwischen"]
+  example_translations:
+    de: "Zwei Häuser mit einem Garten dazwischen."
+
+- id: "beyond-adverb"
+  lemma: "beyond"
+  pos: adverb
+  level: B2
+  ipa: "/biˈjɒnd/"
+  example: "We can see the sea and the islands beyond."
+  translations:
+    de: ["darüber hinaus"]
+  example_translations:
+    de: "Wir sehen das Meer und die Inseln dahinter."
+
+- id: "beyond-preposition"
+  lemma: "beyond"
+  pos: preposition
+  level: B2
+  ipa: "/biˈjɒnd/"
+  example: "The village is beyond the hills."
+  translations:
+    de: ["jenseits", "über … hinaus"]
+  example_translations:
+    de: "Das Dorf liegt jenseits der Hügel."
+
+- id: "both-determiner"
+  lemma: "both"
+  pos: determiner
+  level: A1
+  ipa: "/bəʊθ/"
+  example: "Both my parents are teachers."
+  translations:
+    de: ["beide"]
+  example_translations:
+    de: "Meine beiden Eltern sind Lehrer."
+
+- id: "both-pronoun"
+  lemma: "both"
+  pos: pronoun
+  level: A1
+  ipa: "/bəʊθ/"
+  example: "I like both."
+  translations:
+    de: ["beide"]
+  example_translations:
+    de: "Ich mag beide."
+
+- id: "but"
+  lemma: "but"
+  pos: conjunction
+  level: A1
+  ipa: "/bʌt/"
+  example: "I'm tired but happy."
+  translations:
+    de: ["aber"]
+  example_translations:
+    de: "Ich bin müde, aber glücklich."
+
+- id: "but-preposition"
+  lemma: "but"
+  pos: preposition
+  level: B2
+  ipa: "/bʌt/"
+  example: "Everyone but me was invited."
+  translations:
+    de: ["außer"]
+  example_translations:
+    de: "Alle außer mir wurden eingeladen."
+
+- id: "by-adverb"
+  lemma: "by"
+  pos: adverb
+  level: B1
+  ipa: "/baɪ/"
+  example: "A car drove by."
+  translations:
+    de: ["vorbei"]
+  example_translations:
+    de: "Ein Auto fuhr vorbei."
+
+- id: "by-preposition"
+  lemma: "by"
+  pos: preposition
+  level: A1
+  ipa: "/baɪ/"
+  example: "This book is by a German author."
+  translations:
+    de: ["von", "mit", "bei", "bis"]
+  example_translations:
+    de: "Dieses Buch ist von einem deutschen Autor."
+
+- id: "can-verb"
+  lemma: "can"
+  pos: verb
+  level: A1
+  ipa: "/kæn/"
+  example: "I can swim."
+  translations:
+    de: ["können", "dürfen"]
+  example_translations:
+    de: "Ich kann schwimmen."
+
+- id: "cannot"
+  lemma: "cannot"
+  pos: verb
+  level: A1
+  ipa: "/ˈkæn.ɒt/"
+  example: "I cannot come today."
+  translations:
+    de: ["nicht können"]
+  example_translations:
+    de: "Ich kann heute nicht kommen."
+
+- id: "close-adverb"
+  lemma: "close"
+  pos: adverb
+  level: B1
+  ipa: "/kləʊs/"
+  example: "Come close to me."
+  translations:
+    de: ["nah", "dicht"]
+  example_translations:
+    de: "Komm nah zu mir."
+
+- id: "could"
+  lemma: "could"
+  pos: verb
+  level: A1
+  ipa: "/kʊd/"
+  example: "Could you help me, please?"
+  translations:
+    de: ["könnte", "konnte"]
+  example_translations:
+    de: "Könntest du mir bitte helfen?"
+
+- id: "despite"
+  lemma: "despite"
+  pos: preposition
+  level: B1
+  ipa: "/dɪˈspaɪt/"
+  example: "We went out despite the rain."
+  translations:
+    de: ["trotz"]
+  example_translations:
+    de: "Wir gingen trotz des Regens hinaus."
+
+- id: "directly"
+  lemma: "directly"
+  pos: adverb
+  level: B1
+  ipa: "/daɪˈrekt.li/"
+  example: "You should talk to him directly."
+  translations:
+    de: ["direkt", "unmittelbar"]
+  example_translations:
+    de: "Du solltest direkt mit ihm sprechen."
+
+- id: "down-adverb"
+  lemma: "down"
+  pos: adverb
+  level: A1
+  ipa: "/daʊn/"
+  example: "Sit down, please."
+  translations:
+    de: ["nach unten", "hinunter"]
+  example_translations:
+    de: "Setz dich bitte."
+
+- id: "down-preposition"
+  lemma: "down"
+  pos: preposition
+  level: A1
+  ipa: "/daʊn/"
+  example: "She walked down the street."
+  translations:
+    de: ["hinunter", "entlang"]
+  example_translations:
+    de: "Sie ging die Straße entlang."
+
+- id: "downwards"
+  lemma: "downwards"
+  pos: adverb
+  level: B2
+  ipa: "/ˈdaʊn.wədz/"
+  example: "The road goes downwards to the river."
+  translations:
+    de: ["nach unten", "abwärts"]
+  example_translations:
+    de: "Die Straße führt abwärts zum Fluss."
+
+- id: "each-determiner"
+  lemma: "each"
+  pos: determiner
+  level: A1
+  ipa: "/iːtʃ/"
+  example: "Each student has a book."
+  translations:
+    de: ["jeder", "jede", "jedes"]
+  example_translations:
+    de: "Jeder Schüler hat ein Buch."
+
+- id: "each-pronoun"
+  lemma: "each"
+  pos: pronoun
+  level: A1
+  ipa: "/iːtʃ/"
+  example: "The tickets cost ten euros each."
+  translations:
+    de: ["jeder", "jede", "jedes", "je"]
+  example_translations:
+    de: "Die Karten kosten je zehn Euro."
+
+- id: "either-adverb"
+  lemma: "either"
+  pos: adverb
+  level: A2
+  ipa: "/ˈaɪ.ðər/"
+  example: "I don't like it either."
+  translations:
+    de: ["auch nicht"]
+  example_translations:
+    de: "Ich mag es auch nicht."
+
+- id: "either-determiner"
+  lemma: "either"
+  pos: determiner
+  level: A2
+  ipa: "/ˈaɪ.ðər/"
+  example: "You can take either bus."
+  translations:
+    de: ["einer von beiden", "beide"]
+  example_translations:
+    de: "Du kannst einen der beiden Busse nehmen."
+
+- id: "either-pronoun"
+  lemma: "either"
+  pos: pronoun
+  level: A2
+  ipa: "/ˈaɪ.ðər/"
+  example: "I don't like either of them."
+  translations:
+    de: ["einer von beiden", "keiner von beiden"]
+  example_translations:
+    de: "Ich mag keinen von beiden."
+
+- id: "else"
+  lemma: "else"
+  pos: adverb
+  level: A1
+  ipa: "/els/"
+  example: "Do you want anything else?"
+  translations:
+    de: ["sonst", "andere"]
+  example_translations:
+    de: "Möchtest du sonst noch etwas?"
+
+- id: "elsewhere"
+  lemma: "elsewhere"
+  pos: adverb
+  level: B2
+  ipa: "/ˌelsˈweər/"
+  example: "Let's go elsewhere."
+  translations:
+    de: ["woanders", "anderswo"]
+  example_translations:
+    de: "Lass uns woanders hingehen."
+
+- id: "enough"
+  lemma: "enough"
+  pos: determiner
+  level: A2
+  ipa: "/ɪˈnʌf/"
+  example: "We don't have enough time."
+  translations:
+    de: ["genug", "genügend"]
+  example_translations:
+    de: "Wir haben nicht genug Zeit."
+
+- id: "especially"
+  lemma: "especially"
+  pos: adverb
+  level: A2
+  ipa: "/ɪˈspeʃ.əl.i/"
+  example: "I love fruit, especially apples."
+  translations:
+    de: ["besonders", "vor allem"]
+  example_translations:
+    de: "Ich liebe Obst, besonders Äpfel."
+
+- id: "even-adverb"
+  lemma: "even"
+  pos: adverb
+  level: A1
+  ipa: "/ˈiː.vən/"
+  example: "Even my grandmother uses a smartphone."
+  translations:
+    de: ["sogar", "selbst"]
+  example_translations:
+    de: "Sogar meine Großmutter benutzt ein Smartphone."
+
+- id: "every"
+  lemma: "every"
+  pos: determiner
+  level: A1
+  ipa: "/ˈev.ri/"
+  example: "I go swimming every day."
+  translations:
+    de: ["jeder", "jede", "jedes"]
+  example_translations:
+    de: "Ich gehe jeden Tag schwimmen."
+
+- id: "everybody"
+  lemma: "everybody"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈev.riˌbɒd.i/"
+  example: "Everybody likes her."
+  translations:
+    de: ["jeder", "alle"]
+  example_translations:
+    de: "Alle mögen sie."
+
+- id: "everyone"
+  lemma: "everyone"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈev.ri.wʌn/"
+  example: "Everyone is here."
+  translations:
+    de: ["jeder", "alle"]
+  example_translations:
+    de: "Alle sind da."
+
+- id: "everything"
+  lemma: "everything"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈev.ri.θɪŋ/"
+  example: "Thanks for everything."
+  translations:
+    de: ["alles"]
+  example_translations:
+    de: "Danke für alles."
+
+- id: "everywhere"
+  lemma: "everywhere"
+  pos: adverb
+  level: A2
+  ipa: "/ˈev.ri.weər/"
+  example: "I looked everywhere for my keys."
+  translations:
+    de: ["überall"]
+  example_translations:
+    de: "Ich habe überall nach meinen Schlüsseln gesucht."
+
+- id: "except-conjunction"
+  lemma: "except"
+  pos: conjunction
+  level: B1
+  ipa: "/ɪkˈsept/"
+  example: "I'd go, except I don't have time."
+  translations:
+    de: ["nur dass", "außer dass"]
+  example_translations:
+    de: "Ich würde gehen, nur habe ich keine Zeit."
+
+- id: "except-preposition"
+  lemma: "except"
+  pos: preposition
+  level: A2
+  ipa: "/ɪkˈsept/"
+  example: "Everyone came except Tom."
+  translations:
+    de: ["außer"]
+  example_translations:
+    de: "Alle kamen außer Tom."
+
+- id: "far-adverb"
+  lemma: "far"
+  pos: adverb
+  level: A1
+  ipa: "/fɑːr/"
+  example: "Is it far from here?"
+  translations:
+    de: ["weit"]
+  example_translations:
+    de: "Ist es weit von hier?"
+
+- id: "few-determiner"
+  lemma: "few"
+  pos: determiner
+  level: A1
+  ipa: "/fjuː/"
+  example: "I have a few friends in London."
+  translations:
+    de: ["wenige", "ein paar"]
+  example_translations:
+    de: "Ich habe ein paar Freunde in London."
+
+- id: "few-pronoun"
+  lemma: "few"
+  pos: pronoun
+  level: A1
+  ipa: "/fjuː/"
+  example: "Few of them speak English."
+  translations:
+    de: ["wenige", "ein paar"]
+  example_translations:
+    de: "Wenige von ihnen sprechen Englisch."
+
+- id: "following-preposition"
+  lemma: "following"
+  pos: preposition
+  level: B2
+  ipa: "/ˈfɒl.əʊ.ɪŋ/"
+  example: "Following the meeting, we had lunch."
+  translations:
+    de: ["nach", "im Anschluss an"]
+  example_translations:
+    de: "Im Anschluss an die Besprechung aßen wir zu Mittag."
+
+- id: "for"
+  lemma: "for"
+  pos: preposition
+  level: A1
+  ipa: "/fɔːr/"
+  example: "This present is for you."
+  translations:
+    de: ["für", "seit"]
+  example_translations:
+    de: "Dieses Geschenk ist für dich."
+
+- id: "forward-adverb"
+  lemma: "forward"
+  pos: adverb
+  level: A2
+  ipa: "/ˈfɔː.wəd/"
+  example: "Please move forward."
+  translations:
+    de: ["vorwärts", "nach vorn"]
+  example_translations:
+    de: "Bitte gehen Sie nach vorne."
+
+- id: "from"
+  lemma: "from"
+  pos: preposition
+  level: A1
+  ipa: "/frɒm/"
+  example: "I'm from Germany."
+  translations:
+    de: ["von", "aus"]
+  example_translations:
+    de: "Ich komme aus Deutschland."
+
+- id: "further-adverb"
+  lemma: "further"
+  pos: adverb
+  level: B1
+  ipa: "/ˈfɜː.ðər/"
+  example: "I can't walk any further."
+  translations:
+    de: ["weiter"]
+  example_translations:
+    de: "Ich kann nicht weiter laufen."
+
+- id: "hardly"
+  lemma: "hardly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈhɑːd.li/"
+  example: "I can hardly hear you."
+  translations:
+    de: ["kaum"]
+  example_translations:
+    de: "Ich kann dich kaum hören."
+
+- id: "have-to"
+  lemma: "have to"
+  pos: verb
+  level: A1
+  ipa: "/ˈhæv tuː/"
+  example: "I have to go now."
+  translations:
+    de: ["müssen"]
+  example_translations:
+    de: "Ich muss jetzt gehen."
+
+- id: "he"
+  lemma: "he"
+  pos: pronoun
+  level: A1
+  ipa: "/hiː/"
+  example: "He is my brother."
+  translations:
+    de: ["er"]
+  example_translations:
+    de: "Er ist mein Bruder."
+
+- id: "her-determiner"
+  lemma: "her"
+  pos: determiner
+  level: A1
+  ipa: "/hɜːr/"
+  example: "This is her bag."
+  translations:
+    de: ["ihr", "ihre"]
+  example_translations:
+    de: "Das ist ihre Tasche."
+
+- id: "her-pronoun"
+  lemma: "her"
+  pos: pronoun
+  level: A1
+  ipa: "/hɜːr/"
+  example: "I saw her yesterday."
+  translations:
+    de: ["sie", "ihr"]
+  example_translations:
+    de: "Ich habe sie gestern gesehen."
+
+- id: "here"
+  lemma: "here"
+  pos: adverb
+  level: A1
+  ipa: "/hɪər/"
+  example: "Wait here, please."
+  translations:
+    de: ["hier"]
+  example_translations:
+    de: "Warte bitte hier."
+
+- id: "hers"
+  lemma: "hers"
+  pos: pronoun
+  level: A2
+  ipa: "/hɜːz/"
+  example: "This book is hers."
+  translations:
+    de: ["ihrer", "ihre", "ihres"]
+  example_translations:
+    de: "Dieses Buch gehört ihr."
+
+- id: "herself"
+  lemma: "herself"
+  pos: pronoun
+  level: A2
+  ipa: "/hɜːˈself/"
+  example: "She made the dress herself."
+  translations:
+    de: ["sich", "sich selbst", "selbst"]
+  example_translations:
+    de: "Sie hat das Kleid selbst genäht."
+
+- id: "him"
+  lemma: "him"
+  pos: pronoun
+  level: A1
+  ipa: "/hɪm/"
+  example: "I love him."
+  translations:
+    de: ["ihn", "ihm"]
+  example_translations:
+    de: "Ich liebe ihn."
+
+- id: "himself"
+  lemma: "himself"
+  pos: pronoun
+  level: A2
+  ipa: "/hɪmˈself/"
+  example: "He cut himself."
+  translations:
+    de: ["sich", "sich selbst", "selbst"]
+  example_translations:
+    de: "Er hat sich geschnitten."
+
+- id: "his-determiner"
+  lemma: "his"
+  pos: determiner
+  level: A1
+  ipa: "/hɪz/"
+  example: "This is his car."
+  translations:
+    de: ["sein", "seine"]
+  example_translations:
+    de: "Das ist sein Auto."
+
+- id: "his-pronoun"
+  lemma: "his"
+  pos: pronoun
+  level: A2
+  ipa: "/hɪz/"
+  example: "The blue bag is his."
+  translations:
+    de: ["seiner", "seine", "seins"]
+  example_translations:
+    de: "Die blaue Tasche gehört ihm."
+
+- id: "how"
+  lemma: "how"
+  pos: adverb
+  level: A1
+  ipa: "/haʊ/"
+  example: "How are you?"
+  translations:
+    de: ["wie"]
+  example_translations:
+    de: "Wie geht es dir?"
+
+- id: "i"
+  lemma: "I"
+  pos: pronoun
+  level: A1
+  ipa: "/aɪ/"
+  example: "I am from Germany."
+  translations:
+    de: ["ich"]
+  example_translations:
+    de: "Ich komme aus Deutschland."
+
+- id: "if"
+  lemma: "if"
+  pos: conjunction
+  level: A2
+  ipa: "/ɪf/"
+  example: "Call me if you need help."
+  translations:
+    de: ["wenn", "falls", "ob"]
+  example_translations:
+    de: "Ruf mich an, wenn du Hilfe brauchst."
+
+- id: "in"
+  lemma: "in"
+  pos: preposition
+  level: A1
+  ipa: "/ɪn/"
+  example: "The milk is in the fridge."
+  translations:
+    de: ["in"]
+  example_translations:
+    de: "Die Milch ist im Kühlschrank."
+
+- id: "in-adverb"
+  lemma: "in"
+  pos: adverb
+  level: A1
+  ipa: "/ɪn/"
+  example: "Come in!"
+  translations:
+    de: ["herein", "hinein", "zu Hause"]
+  example_translations:
+    de: "Herein!"
+
+- id: "including"
+  lemma: "including"
+  pos: preposition
+  level: A2
+  ipa: "/ɪnˈkluː.dɪŋ/"
+  example: "There were ten of us, including the children."
+  translations:
+    de: ["einschließlich", "inklusive"]
+  example_translations:
+    de: "Wir waren zu zehnt, die Kinder eingeschlossen."
+
+- id: "inside-adverb"
+  lemma: "inside"
+  pos: adverb
+  level: A2
+  ipa: "/ɪnˈsaɪd/"
+  example: "Let's go inside."
+  translations:
+    de: ["drinnen", "hinein"]
+  example_translations:
+    de: "Lass uns reingehen."
+
+- id: "inside-preposition"
+  lemma: "inside"
+  pos: preposition
+  level: A2
+  ipa: "/ɪnˈsaɪd/"
+  example: "What's inside the box?"
+  translations:
+    de: ["in", "innerhalb"]
+  example_translations:
+    de: "Was ist in der Kiste?"
+
+- id: "instead"
+  lemma: "instead"
+  pos: adverb
+  level: A2
+  ipa: "/ɪnˈsted/"
+  example: "I didn't go out. I stayed at home instead."
+  translations:
+    de: ["stattdessen"]
+  example_translations:
+    de: "Ich bin nicht ausgegangen. Stattdessen bin ich zu Hause geblieben."
+
+- id: "instead-of"
+  lemma: "instead of"
+  pos: preposition
+  level: A2
+  ipa: "/ɪnˈsted əv/"
+  example: "Can I have tea instead of coffee?"
+  translations:
+    de: ["statt", "anstatt"]
+  example_translations:
+    de: "Kann ich Tee statt Kaffee haben?"
+
+- id: "into"
+  lemma: "into"
+  pos: preposition
+  level: A1
+  ipa: "/ˈɪn.tuː/"
+  example: "She went into the house."
+  translations:
+    de: ["in", "hinein"]
+  example_translations:
+    de: "Sie ging ins Haus."
+
+- id: "it-pronoun"
+  lemma: "it"
+  pos: pronoun
+  level: A1
+  ipa: "/ɪt/"
+  example: "Where is my phone? I can't find it."
+  translations:
+    de: ["es", "er", "sie"]
+  example_translations:
+    de: "Wo ist mein Handy? Ich finde es nicht."
+
+- id: "its"
+  lemma: "its"
+  pos: determiner
+  level: A1
+  ipa: "/ɪts/"
+  example: "The dog wagged its tail."
+  translations:
+    de: ["sein", "seine", "ihr", "ihre"]
+  example_translations:
+    de: "Der Hund wedelte mit dem Schwanz."
+
+- id: "itself"
+  lemma: "itself"
+  pos: pronoun
+  level: A2
+  ipa: "/ɪtˈself/"
+  example: "The door opened by itself."
+  translations:
+    de: ["sich", "sich selbst", "selbst"]
+  example_translations:
+    de: "Die Tür öffnete sich von selbst."
+
+- id: "just"
+  lemma: "just"
+  pos: adverb
+  level: A1
+  ipa: "/dʒʌst/"
+  example: "I just want a coffee."
+  translations:
+    de: ["nur", "gerade", "genau"]
+  example_translations:
+    de: "Ich möchte nur einen Kaffee."
+
+- id: "least-adverb"
+  lemma: "least"
+  pos: adverb
+  level: A2
+  ipa: "/liːst/"
+  example: "I like this one least."
+  translations:
+    de: ["am wenigsten"]
+  example_translations:
+    de: "Dieses mag ich am wenigsten."
+
+- id: "least-determiner"
+  lemma: "least"
+  pos: determiner
+  level: A2
+  ipa: "/liːst/"
+  example: "She has the least money of all of us."
+  translations:
+    de: ["wenigste", "geringste"]
+  example_translations:
+    de: "Sie hat von uns allen das wenigste Geld."
+
+- id: "less-adverb"
+  lemma: "less"
+  pos: adverb
+  level: A2
+  ipa: "/les/"
+  example: "You should eat less."
+  translations:
+    de: ["weniger"]
+  example_translations:
+    de: "Du solltest weniger essen."
+
+- id: "less-determiner"
+  lemma: "less"
+  pos: determiner
+  level: A2
+  ipa: "/les/"
+  example: "I have less money than you."
+  translations:
+    de: ["weniger"]
+  example_translations:
+    de: "Ich habe weniger Geld als du."
+
+- id: "like-preposition"
+  lemma: "like"
+  pos: preposition
+  level: A1
+  ipa: "/laɪk/"
+  example: "She sings like an angel."
+  translations:
+    de: ["wie"]
+  example_translations:
+    de: "Sie singt wie ein Engel."
+
+- id: "little-determiner"
+  lemma: "little"
+  pos: determiner
+  level: A1
+  ipa: "/ˈlɪt.əl/"
+  example: "We have very little time."
+  translations:
+    de: ["wenig"]
+  example_translations:
+    de: "Wir haben sehr wenig Zeit."
+
+- id: "mainly"
+  lemma: "mainly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈmeɪn.li/"
+  example: "The students are mainly from Europe."
+  translations:
+    de: ["hauptsächlich", "vor allem"]
+  example_translations:
+    de: "Die Studenten kommen hauptsächlich aus Europa."
+
+- id: "many"
+  lemma: "many"
+  pos: determiner
+  level: A1
+  ipa: "/ˈmen.i/"
+  example: "How many people are coming?"
+  translations:
+    de: ["viele"]
+  example_translations:
+    de: "Wie viele Leute kommen?"
+
+- id: "may-verb"
+  lemma: "may"
+  pos: verb
+  level: A2
+  ipa: "/meɪ/"
+  example: "May I come in?"
+  translations:
+    de: ["dürfen", "können", "mögen"]
+  example_translations:
+    de: "Darf ich hereinkommen?"
+
+- id: "me"
+  lemma: "me"
+  pos: pronoun
+  level: A1
+  ipa: "/miː/"
+  example: "Can you help me?"
+  translations:
+    de: ["mich", "mir"]
+  example_translations:
+    de: "Kannst du mir helfen?"
+
+- id: "might"
+  lemma: "might"
+  pos: verb
+  level: A2
+  ipa: "/maɪt/"
+  example: "It might rain later."
+  translations:
+    de: ["könnte", "vielleicht"]
+  example_translations:
+    de: "Es könnte später regnen."
+
+- id: "mine-pronoun"
+  lemma: "mine"
+  pos: pronoun
+  level: A2
+  ipa: "/maɪn/"
+  example: "This bag is mine."
+  translations:
+    de: ["meiner", "meine", "meins"]
+  example_translations:
+    de: "Diese Tasche gehört mir."
+
+- id: "more-adverb"
+  lemma: "more"
+  pos: adverb
+  level: A1
+  ipa: "/mɔːr/"
+  example: "You should sleep more."
+  translations:
+    de: ["mehr", "eher"]
+  example_translations:
+    de: "Du solltest mehr schlafen."
+
+- id: "more-determiner"
+  lemma: "more"
+  pos: determiner
+  level: A1
+  ipa: "/mɔːr/"
+  example: "We need more time."
+  translations:
+    de: ["mehr"]
+  example_translations:
+    de: "Wir brauchen mehr Zeit."
+
+- id: "most-adverb"
+  lemma: "most"
+  pos: adverb
+  level: A1
+  ipa: "/məʊst/"
+  example: "What do you like most?"
+  translations:
+    de: ["am meisten", "höchst"]
+  example_translations:
+    de: "Was magst du am meisten?"
+
+- id: "most-determiner"
+  lemma: "most"
+  pos: determiner
+  level: A1
+  ipa: "/məʊst/"
+  example: "Most people like music."
+  translations:
+    de: ["die meisten", "das meiste"]
+  example_translations:
+    de: "Die meisten Menschen mögen Musik."
+
+- id: "mostly"
+  lemma: "mostly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈməʊst.li/"
+  example: "We mostly eat at home."
+  translations:
+    de: ["meistens", "hauptsächlich"]
+  example_translations:
+    de: "Wir essen meistens zu Hause."
+
+- id: "much-adverb"
+  lemma: "much"
+  pos: adverb
+  level: A1
+  ipa: "/mʌtʃ/"
+  example: "Thank you very much."
+  translations:
+    de: ["sehr", "viel"]
+  example_translations:
+    de: "Vielen Dank."
+
+- id: "much-determiner"
+  lemma: "much"
+  pos: determiner
+  level: A1
+  ipa: "/mʌtʃ/"
+  example: "I don't have much money."
+  translations:
+    de: ["viel"]
+  example_translations:
+    de: "Ich habe nicht viel Geld."
+
+- id: "must"
+  lemma: "must"
+  pos: verb
+  level: A1
+  ipa: "/mʌst/"
+  example: "You must wear a seat belt."
+  translations:
+    de: ["müssen"]
+  example_translations:
+    de: "Du musst dich anschnallen."
+
+- id: "my"
+  lemma: "my"
+  pos: determiner
+  level: A1
+  ipa: "/maɪ/"
+  example: "This is my brother."
+  translations:
+    de: ["mein", "meine"]
+  example_translations:
+    de: "Das ist mein Bruder."
+
+- id: "myself"
+  lemma: "myself"
+  pos: pronoun
+  level: A2
+  ipa: "/maɪˈself/"
+  example: "I made it myself."
+  translations:
+    de: ["mich", "mir", "selbst"]
+  example_translations:
+    de: "Ich habe es selbst gemacht."
+
+- id: "near-adverb"
+  lemma: "near"
+  pos: adverb
+  level: A1
+  ipa: "/nɪər/"
+  example: "Do you live near?"
+  translations:
+    de: ["nah", "in der Nähe"]
+  example_translations:
+    de: "Wohnst du in der Nähe?"
+
+- id: "near-preposition"
+  lemma: "near"
+  pos: preposition
+  level: A1
+  ipa: "/nɪər/"
+  example: "We live near the station."
+  translations:
+    de: ["in der Nähe von", "nahe"]
+  example_translations:
+    de: "Wir wohnen in der Nähe des Bahnhofs."
+
+- id: "nearly"
+  lemma: "nearly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈnɪə.li/"
+  example: "I nearly forgot."
+  translations:
+    de: ["fast", "beinahe"]
+  example_translations:
+    de: "Ich hätte es fast vergessen."
+
+- id: "necessarily"
+  lemma: "necessarily"
+  pos: adverb
+  level: B1
+  ipa: "/ˌnes.əˈser.əl.i/"
+  example: "Expensive isn't necessarily better."
+  translations:
+    de: ["unbedingt", "notwendigerweise"]
+  example_translations:
+    de: "Teuer ist nicht unbedingt besser."
+
+- id: "neither-adverb"
+  lemma: "neither"
+  pos: adverb
+  level: B1
+  ipa: "/ˈnaɪ.ðər/"
+  example: "I can't swim. – Neither can I."
+  translations:
+    de: ["auch nicht"]
+  example_translations:
+    de: "Ich kann nicht schwimmen. – Ich auch nicht."
+
+- id: "neither-determiner"
+  lemma: "neither"
+  pos: determiner
+  level: A2
+  ipa: "/ˈnaɪ.ðər/"
+  example: "Neither answer is correct."
+  translations:
+    de: ["keiner von beiden"]
+  example_translations:
+    de: "Keine der beiden Antworten ist richtig."
+
+- id: "neither-pronoun"
+  lemma: "neither"
+  pos: pronoun
+  level: A2
+  ipa: "/ˈnaɪ.ðər/"
+  example: "Neither of them came."
+  translations:
+    de: ["keiner von beiden"]
+  example_translations:
+    de: "Keiner von beiden ist gekommen."
+
+- id: "next-to"
+  lemma: "next to"
+  pos: preposition
+  level: A1
+  ipa: "/ˈnekst tuː/"
+  example: "Sit next to me."
+  translations:
+    de: ["neben"]
+  example_translations:
+    de: "Setz dich neben mich."
+
+- id: "no-determiner"
+  lemma: "no"
+  pos: determiner
+  level: A1
+  ipa: "/nəʊ/"
+  example: "I have no time."
+  translations:
+    de: ["kein", "keine"]
+  example_translations:
+    de: "Ich habe keine Zeit."
+
+- id: "no-one"
+  lemma: "no one"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈnəʊ wʌn/"
+  example: "No one knows the answer."
+  translations:
+    de: ["niemand"]
+  example_translations:
+    de: "Niemand weiß die Antwort."
+
+- id: "nobody"
+  lemma: "nobody"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈnəʊ.bə.di/"
+  example: "Nobody was at home."
+  translations:
+    de: ["niemand"]
+  example_translations:
+    de: "Niemand war zu Hause."
+
+- id: "none"
+  lemma: "none"
+  pos: pronoun
+  level: A2
+  ipa: "/nʌn/"
+  example: "None of my friends came."
+  translations:
+    de: ["keiner", "keine", "keines"]
+  example_translations:
+    de: "Keiner meiner Freunde ist gekommen."
+
+- id: "nor"
+  lemma: "nor"
+  pos: conjunction
+  level: B1
+  ipa: "/nɔːr/"
+  example: "He neither called nor wrote."
+  translations:
+    de: ["noch", "auch nicht"]
+  example_translations:
+    de: "Er hat weder angerufen noch geschrieben."
+
+- id: "not"
+  lemma: "not"
+  pos: adverb
+  level: A1
+  ipa: "/nɒt/"
+  example: "I'm not hungry."
+  translations:
+    de: ["nicht"]
+  example_translations:
+    de: "Ich habe keinen Hunger."
+
+- id: "nothing"
+  lemma: "nothing"
+  pos: pronoun
+  level: A2
+  ipa: "/ˈnʌθ.ɪŋ/"
+  example: "There is nothing in the fridge."
+  translations:
+    de: ["nichts"]
+  example_translations:
+    de: "Im Kühlschrank ist nichts."
+
+- id: "nowhere"
+  lemma: "nowhere"
+  pos: adverb
+  level: A2
+  ipa: "/ˈnəʊ.weər/"
+  example: "There's nowhere to sit."
+  translations:
+    de: ["nirgendwo", "nirgends"]
+  example_translations:
+    de: "Es gibt nirgendwo einen Sitzplatz."
+
+- id: "of"
+  lemma: "of"
+  pos: preposition
+  level: A1
+  ipa: "/ɒv/"
+  example: "A cup of tea, please."
+  translations:
+    de: ["von"]
+  example_translations:
+    de: "Eine Tasse Tee, bitte."
+
+- id: "off-adverb"
+  lemma: "off"
+  pos: adverb
+  level: A1
+  ipa: "/ɒf/"
+  example: "Turn off the TV."
+  translations:
+    de: ["aus", "weg", "ab"]
+  example_translations:
+    de: "Mach den Fernseher aus."
+
+- id: "off-preposition"
+  lemma: "off"
+  pos: preposition
+  level: A1
+  ipa: "/ɒf/"
+  example: "He fell off his bike."
+  translations:
+    de: ["von … herunter", "von"]
+  example_translations:
+    de: "Er ist vom Fahrrad gefallen."
+
+- id: "on"
+  lemma: "on"
+  pos: preposition
+  level: A1
+  ipa: "/ɒn/"
+  example: "The book is on the table."
+  translations:
+    de: ["auf", "an"]
+  example_translations:
+    de: "Das Buch liegt auf dem Tisch."
+
+- id: "on-adverb"
+  lemma: "on"
+  pos: adverb
+  level: A1
+  ipa: "/ɒn/"
+  example: "Is the light on?"
+  translations:
+    de: ["an", "weiter"]
+  example_translations:
+    de: "Ist das Licht an?"
+
+- id: "once-conjunction"
+  lemma: "once"
+  pos: conjunction
+  level: B1
+  ipa: "/wʌns/"
+  example: "Once you finish, you can go home."
+  translations:
+    de: ["sobald", "wenn"]
+  example_translations:
+    de: "Sobald du fertig bist, kannst du nach Hause gehen."
+
+- id: "one-pronoun"
+  lemma: "one"
+  pos: pronoun
+  level: A1
+  ipa: "/wʌn/"
+  example: "I'd like the red one."
+  translations:
+    de: ["einer", "eine", "eins", "man"]
+  example_translations:
+    de: "Ich hätte gern das rote."
+
+- id: "only-adverb"
+  lemma: "only"
+  pos: adverb
+  level: A1
+  ipa: "/ˈəʊn.li/"
+  example: "It only costs five euros."
+  translations:
+    de: ["nur", "erst"]
+  example_translations:
+    de: "Es kostet nur fünf Euro."
+
+- id: "onto"
+  lemma: "onto"
+  pos: preposition
+  level: A2
+  ipa: "/ˈɒn.tuː/"
+  example: "The cat jumped onto the table."
+  translations:
+    de: ["auf"]
+  example_translations:
+    de: "Die Katze sprang auf den Tisch."
+
+- id: "opposite-preposition"
+  lemma: "opposite"
+  pos: preposition
+  level: A1
+  ipa: "/ˈɒp.ə.zɪt/"
+  example: "The bank is opposite the post office."
+  translations:
+    de: ["gegenüber"]
+  example_translations:
+    de: "Die Bank ist gegenüber der Post."
+
+- id: "or"
+  lemma: "or"
+  pos: conjunction
+  level: A2
+  ipa: "/ɔːr/"
+  example: "Tea or coffee?"
+  translations:
+    de: ["oder"]
+  example_translations:
+    de: "Tee oder Kaffee?"
+
+- id: "other-adjective"
+  lemma: "other"
+  pos: adjective
+  level: A1
+  ipa: "/ˈʌð.ər/"
+  example: "Where are the other students?"
+  translations:
+    de: ["andere"]
+  example_translations:
+    de: "Wo sind die anderen Schüler?"
+
+- id: "other-pronoun"
+  lemma: "other"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈʌð.ər/"
+  example: "One is red, the other is blue."
+  translations:
+    de: ["der andere", "die anderen"]
+  example_translations:
+    de: "Einer ist rot, der andere ist blau."
+
+- id: "otherwise"
+  lemma: "otherwise"
+  pos: adverb
+  level: B2
+  ipa: "/ˈʌð.ə.waɪz/"
+  example: "Hurry, otherwise we'll be late."
+  translations:
+    de: ["sonst", "ansonsten"]
+  example_translations:
+    de: "Beeil dich, sonst kommen wir zu spät."
+
+- id: "ought"
+  lemma: "ought"
+  pos: verb
+  level: B1
+  ipa: "/ɔːt/"
+  example: "You ought to see a doctor."
+  translations:
+    de: ["sollte"]
+  example_translations:
+    de: "Du solltest zum Arzt gehen."
+
+- id: "our"
+  lemma: "our"
+  pos: determiner
+  level: A1
+  ipa: "/aʊər/"
+  example: "This is our house."
+  translations:
+    de: ["unser", "unsere"]
+  example_translations:
+    de: "Das ist unser Haus."
+
+- id: "ours"
+  lemma: "ours"
+  pos: pronoun
+  level: B1
+  ipa: "/aʊəz/"
+  example: "The car is ours."
+  translations:
+    de: ["unserer", "unsere", "unseres"]
+  example_translations:
+    de: "Das Auto gehört uns."
+
+- id: "ourselves"
+  lemma: "ourselves"
+  pos: pronoun
+  level: A2
+  ipa: "/ˌaʊəˈselvz/"
+  example: "We built it ourselves."
+  translations:
+    de: ["uns", "uns selbst", "selbst"]
+  example_translations:
+    de: "Wir haben es selbst gebaut."
+
+- id: "out-adverb"
+  lemma: "out"
+  pos: adverb
+  level: A1
+  ipa: "/aʊt/"
+  example: "Let's go out tonight."
+  translations:
+    de: ["hinaus", "draußen", "aus"]
+  example_translations:
+    de: "Lass uns heute Abend ausgehen."
+
+- id: "out-preposition"
+  lemma: "out"
+  pos: preposition
+  level: A1
+  ipa: "/aʊt/"
+  example: "He looked out the window."
+  translations:
+    de: ["aus … heraus", "hinaus"]
+  example_translations:
+    de: "Er schaute aus dem Fenster."
+
+- id: "outside-adverb"
+  lemma: "outside"
+  pos: adverb
+  level: A1
+  ipa: "/ˌaʊtˈsaɪd/"
+  example: "The children are playing outside."
+  translations:
+    de: ["draußen", "nach draußen"]
+  example_translations:
+    de: "Die Kinder spielen draußen."
+
+- id: "outside-preposition"
+  lemma: "outside"
+  pos: preposition
+  level: A2
+  ipa: "/ˌaʊtˈsaɪd/"
+  example: "I'll wait outside the cinema."
+  translations:
+    de: ["vor", "außerhalb"]
+  example_translations:
+    de: "Ich warte vor dem Kino."
+
+- id: "over-adverb"
+  lemma: "over"
+  pos: adverb
+  level: A1
+  ipa: "/ˈəʊ.vər/"
+  example: "The film is over."
+  translations:
+    de: ["vorbei", "herüber", "um"]
+  example_translations:
+    de: "Der Film ist vorbei."
+
+- id: "over-preposition"
+  lemma: "over"
+  pos: preposition
+  level: A1
+  ipa: "/ˈəʊ.vər/"
+  example: "The plane flew over the city."
+  translations:
+    de: ["über"]
+  example_translations:
+    de: "Das Flugzeug flog über die Stadt."
+
+- id: "own-adjective"
+  lemma: "own"
+  pos: adjective
+  level: A1
+  ipa: "/əʊn/"
+  example: "I have my own room."
+  translations:
+    de: ["eigen"]
+  example_translations:
+    de: "Ich habe mein eigenes Zimmer."
+
+- id: "particularly"
+  lemma: "particularly"
+  pos: adverb
+  level: B1
+  ipa: "/pəˈtɪk.jə.lə.li/"
+  example: "I'm not particularly hungry."
+  translations:
+    de: ["besonders"]
+  example_translations:
+    de: "Ich habe nicht besonders viel Hunger."
+
+- id: "partly"
+  lemma: "partly"
+  pos: adverb
+  level: B2
+  ipa: "/ˈpɑːt.li/"
+  example: "It was partly my fault."
+  translations:
+    de: ["teilweise", "zum Teil"]
+  example_translations:
+    de: "Es war zum Teil meine Schuld."
+
+- id: "per"
+  lemma: "per"
+  pos: preposition
+  level: A2
+  ipa: "/pɜːr/"
+  example: "It costs ten euros per person."
+  translations:
+    de: ["pro", "je"]
+  example_translations:
+    de: "Es kostet zehn Euro pro Person."
+
+- id: "plenty"
+  lemma: "plenty"
+  pos: pronoun
+  level: B1
+  ipa: "/ˈplen.ti/"
+  example: "We have plenty of time."
+  translations:
+    de: ["reichlich", "genug"]
+  example_translations:
+    de: "Wir haben reichlich Zeit."
+
+- id: "pretty-adverb"
+  lemma: "pretty"
+  pos: adverb
+  level: A1
+  ipa: "/ˈprɪt.i/"
+  example: "It's pretty cold today."
+  translations:
+    de: ["ziemlich"]
+  example_translations:
+    de: "Heute ist es ziemlich kalt."
+
+- id: "quite"
+  lemma: "quite"
+  pos: adverb
+  level: A1
+  ipa: "/kwaɪt/"
+  example: "It's quite cold today."
+  translations:
+    de: ["ziemlich", "ganz"]
+  example_translations:
+    de: "Heute ist es ziemlich kalt."
+
+- id: "rather"
+  lemma: "rather"
+  pos: adverb
+  level: A2
+  ipa: "/ˈrɑː.ðər/"
+  example: "I'd rather stay at home."
+  translations:
+    de: ["ziemlich", "eher", "lieber"]
+  example_translations:
+    de: "Ich bleibe lieber zu Hause."
+
+- id: "really"
+  lemma: "really"
+  pos: adverb
+  level: A1
+  ipa: "/ˈrɪə.li/"
+  example: "I really like it."
+  translations:
+    de: ["wirklich", "sehr"]
+  example_translations:
+    de: "Es gefällt mir wirklich."
+
+- id: "round-preposition"
+  lemma: "round"
+  pos: preposition
+  level: A2
+  ipa: "/raʊnd/"
+  example: "We sat round the table."
+  translations:
+    de: ["um", "um … herum"]
+  example_translations:
+    de: "Wir saßen um den Tisch."
+
+- id: "several"
+  lemma: "several"
+  pos: determiner
+  level: A2
+  ipa: "/ˈsev.ər.əl/"
+  example: "I've been there several times."
+  translations:
+    de: ["mehrere", "einige"]
+  example_translations:
+    de: "Ich war schon mehrmals dort."
+
+- id: "shall"
+  lemma: "shall"
+  pos: verb
+  level: A2
+  ipa: "/ʃæl/"
+  example: "Shall I open the window?"
+  translations:
+    de: ["sollen", "werden"]
+  example_translations:
+    de: "Soll ich das Fenster öffnen?"
+
+- id: "she"
+  lemma: "she"
+  pos: pronoun
+  level: A1
+  ipa: "/ʃiː/"
+  example: "She is a doctor."
+  translations:
+    de: ["sie"]
+  example_translations:
+    de: "Sie ist Ärztin."
+
+- id: "should"
+  lemma: "should"
+  pos: verb
+  level: A1
+  ipa: "/ʃʊd/"
+  example: "You should drink more water."
+  translations:
+    de: ["sollte", "sollten"]
+  example_translations:
+    de: "Du solltest mehr Wasser trinken."
+
+- id: "simply"
+  lemma: "simply"
+  pos: adverb
+  level: B1
+  ipa: "/ˈsɪm.pli/"
+  example: "I simply don't know."
+  translations:
+    de: ["einfach", "nur"]
+  example_translations:
+    de: "Ich weiß es einfach nicht."
+
+- id: "since-conjunction"
+  lemma: "since"
+  pos: conjunction
+  level: A2
+  ipa: "/sɪns/"
+  example: "Since it was raining, we stayed at home."
+  translations:
+    de: ["seit", "da"]
+  example_translations:
+    de: "Da es regnete, blieben wir zu Hause."
+
+- id: "so-adverb"
+  lemma: "so"
+  pos: adverb
+  level: A1
+  ipa: "/səʊ/"
+  example: "I'm so tired."
+  translations:
+    de: ["so", "also"]
+  example_translations:
+    de: "Ich bin so müde."
+
+- id: "so-conjunction"
+  lemma: "so"
+  pos: conjunction
+  level: A1
+  ipa: "/səʊ/"
+  example: "It was late, so we went home."
+  translations:
+    de: ["also", "deshalb", "damit"]
+  example_translations:
+    de: "Es war spät, also gingen wir nach Hause."
+
+- id: "some-determiner"
+  lemma: "some"
+  pos: determiner
+  level: A1
+  ipa: "/sʌm/"
+  example: "I need some help."
+  translations:
+    de: ["einige", "etwas", "manche"]
+  example_translations:
+    de: "Ich brauche etwas Hilfe."
+
+- id: "some-pronoun"
+  lemma: "some"
+  pos: pronoun
+  level: A1
+  ipa: "/sʌm/"
+  example: "There's cake. Do you want some?"
+  translations:
+    de: ["einige", "welche", "etwas"]
+  example_translations:
+    de: "Es gibt Kuchen. Möchtest du welchen?"
+
+- id: "somebody"
+  lemma: "somebody"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈsʌm.bə.di/"
+  example: "Somebody called you."
+  translations:
+    de: ["jemand"]
+  example_translations:
+    de: "Jemand hat dich angerufen."
+
+- id: "someone"
+  lemma: "someone"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈsʌm.wʌn/"
+  example: "Someone is at the door."
+  translations:
+    de: ["jemand"]
+  example_translations:
+    de: "Jemand ist an der Tür."
+
+- id: "something"
+  lemma: "something"
+  pos: pronoun
+  level: A1
+  ipa: "/ˈsʌm.θɪŋ/"
+  example: "I want to tell you something."
+  translations:
+    de: ["etwas"]
+  example_translations:
+    de: "Ich will dir etwas sagen."
+
+- id: "somewhat"
+  lemma: "somewhat"
+  pos: adverb
+  level: B2
+  ipa: "/ˈsʌm.wɒt/"
+  example: "The situation is somewhat better."
+  translations:
+    de: ["etwas", "einigermaßen"]
+  example_translations:
+    de: "Die Lage ist etwas besser."
+
+- id: "somewhere"
+  lemma: "somewhere"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsʌm.weər/"
+  example: "Let's go somewhere warm."
+  translations:
+    de: ["irgendwo", "irgendwohin"]
+  example_translations:
+    de: "Lass uns irgendwohin fahren, wo es warm ist."
+
+- id: "such"
+  lemma: "such"
+  pos: determiner
+  level: A2
+  ipa: "/sʌtʃ/"
+  example: "It was such a nice day."
+  translations:
+    de: ["solch", "so ein"]
+  example_translations:
+    de: "Es war so ein schöner Tag."
+
+- id: "than-conjunction"
+  lemma: "than"
+  pos: conjunction
+  level: A1
+  ipa: "/ðæn/"
+  example: "She is older than me."
+  translations:
+    de: ["als"]
+  example_translations:
+    de: "Sie ist älter als ich."
+
+- id: "than-preposition"
+  lemma: "than"
+  pos: preposition
+  level: A1
+  ipa: "/ðæn/"
+  example: "It costs more than ten euros."
+  translations:
+    de: ["als"]
+  example_translations:
+    de: "Es kostet mehr als zehn Euro."
+
+- id: "that-conjunction"
+  lemma: "that"
+  pos: conjunction
+  level: A1
+  ipa: "/ðæt/"
+  example: "I think that he's right."
+  translations:
+    de: ["dass"]
+  example_translations:
+    de: "Ich glaube, dass er recht hat."
+
+- id: "that-determiner"
+  lemma: "that"
+  pos: determiner
+  level: A1
+  ipa: "/ðæt/"
+  example: "Who is that man?"
+  translations:
+    de: ["der", "die", "das", "jener"]
+  example_translations:
+    de: "Wer ist der Mann dort?"
+
+- id: "that-pronoun"
+  lemma: "that"
+  pos: pronoun
+  level: A1
+  ipa: "/ðæt/"
+  example: "What's that?"
+  translations:
+    de: ["das", "der", "die"]
+  example_translations:
+    de: "Was ist das?"
+
+- id: "the"
+  lemma: "the"
+  pos: determiner
+  level: A1
+  ipa: "/ðə/"
+  example: "The sun is shining."
+  translations:
+    de: ["der", "die", "das"]
+  example_translations:
+    de: "Die Sonne scheint."
+
+- id: "their"
+  lemma: "their"
+  pos: determiner
+  level: A1
+  ipa: "/ðeər/"
+  example: "This is their house."
+  translations:
+    de: ["ihr", "ihre"]
+  example_translations:
+    de: "Das ist ihr Haus."
+
+- id: "theirs"
+  lemma: "theirs"
+  pos: pronoun
+  level: B1
+  ipa: "/ðeəz/"
+  example: "The car is theirs."
+  translations:
+    de: ["ihrer", "ihre", "ihres"]
+  example_translations:
+    de: "Das Auto gehört ihnen."
+
+- id: "them"
+  lemma: "them"
+  pos: pronoun
+  level: A1
+  ipa: "/ðem/"
+  example: "I saw them yesterday."
+  translations:
+    de: ["sie", "ihnen"]
+  example_translations:
+    de: "Ich habe sie gestern gesehen."
+
+- id: "themselves"
+  lemma: "themselves"
+  pos: pronoun
+  level: A2
+  ipa: "/ðəmˈselvz/"
+  example: "They built the house themselves."
+  translations:
+    de: ["sich", "sich selbst", "selbst"]
+  example_translations:
+    de: "Sie haben das Haus selbst gebaut."
+
+- id: "there"
+  lemma: "there"
+  pos: adverb
+  level: A1
+  ipa: "/ðeər/"
+  example: "Put it there."
+  translations:
+    de: ["dort", "da"]
+  example_translations:
+    de: "Leg es dorthin."
+
+- id: "they"
+  lemma: "they"
+  pos: pronoun
+  level: A1
+  ipa: "/ðeɪ/"
+  example: "They live in Paris."
+  translations:
+    de: ["sie"]
+  example_translations:
+    de: "Sie wohnen in Paris."
+
+- id: "this"
+  lemma: "this"
+  pos: determiner
+  level: A1
+  ipa: "/ðɪs/"
+  example: "This apple is sweet."
+  translations:
+    de: ["dieser", "diese", "dieses", "das"]
+  example_translations:
+    de: "Dieser Apfel ist süß."
+
+- id: "this-pronoun"
+  lemma: "this"
+  pos: pronoun
+  level: A1
+  ipa: "/ðɪs/"
+  example: "This is my sister."
+  translations:
+    de: ["das", "dies", "dieses"]
+  example_translations:
+    de: "Das ist meine Schwester."
+
+- id: "though-conjunction"
+  lemma: "though"
+  pos: conjunction
+  level: B1
+  ipa: "/ðəʊ/"
+  example: "Though it was cold, we swam."
+  translations:
+    de: ["obwohl"]
+  example_translations:
+    de: "Obwohl es kalt war, sind wir geschwommen."
+
+- id: "through-adverb"
+  lemma: "through"
+  pos: adverb
+  level: A1
+  ipa: "/θruː/"
+  example: "Let me through, please."
+  translations:
+    de: ["durch", "hindurch"]
+  example_translations:
+    de: "Lassen Sie mich bitte durch."
+
+- id: "through-preposition"
+  lemma: "through"
+  pos: preposition
+  level: A1
+  ipa: "/θruː/"
+  example: "We drove through the forest."
+  translations:
+    de: ["durch"]
+  example_translations:
+    de: "Wir fuhren durch den Wald."
+
+- id: "throughout"
+  lemma: "throughout"
+  pos: preposition
+  level: B1
+  ipa: "/θruːˈaʊt/"
+  example: "It rained throughout the day."
+  translations:
+    de: ["überall in", "während des ganzen"]
+  example_translations:
+    de: "Es regnete den ganzen Tag."
+
+- id: "to"
+  lemma: "to"
+  pos: preposition
+  level: A1
+  ipa: "/tuː/"
+  example: "I'm going to London."
+  translations:
+    de: ["zu", "nach", "bis"]
+  example_translations:
+    de: "Ich fahre nach London."
+
+- id: "together"
+  lemma: "together"
+  pos: adverb
+  level: A1
+  ipa: "/təˈɡeð.ər/"
+  example: "Let's go together."
+  translations:
+    de: ["zusammen", "gemeinsam"]
+  example_translations:
+    de: "Lass uns zusammen gehen."
+
+- id: "too"
+  lemma: "too"
+  pos: adverb
+  level: A1
+  ipa: "/tuː/"
+  example: "It's too hot."
+  translations:
+    de: ["zu", "auch"]
+  example_translations:
+    de: "Es ist zu heiß."
+
+- id: "towards"
+  lemma: "towards"
+  pos: preposition
+  level: A2
+  ipa: "/təˈwɔːdz/"
+  example: "She walked towards the door."
+  translations:
+    de: ["auf … zu", "in Richtung", "gegenüber"]
+  example_translations:
+    de: "Sie ging auf die Tür zu."
+
+- id: "under"
+  lemma: "under"
+  pos: preposition
+  level: A2
+  ipa: "/ˈʌn.dər/"
+  example: "The cat is under the table."
+  translations:
+    de: ["unter"]
+  example_translations:
+    de: "Die Katze ist unter dem Tisch."
+
+- id: "underground-adverb"
+  lemma: "underground"
+  pos: adverb
+  level: A2
+  ipa: "/ˌʌn.dəˈɡraʊnd/"
+  example: "The animals live underground."
+  translations:
+    de: ["unter der Erde"]
+  example_translations:
+    de: "Die Tiere leben unter der Erde."
+
+- id: "unless"
+  lemma: "unless"
+  pos: conjunction
+  level: B1
+  ipa: "/ənˈles/"
+  example: "We'll go out unless it rains."
+  translations:
+    de: ["es sei denn", "wenn nicht"]
+  example_translations:
+    de: "Wir gehen raus, es sei denn, es regnet."
+
+- id: "unlike"
+  lemma: "unlike"
+  pos: preposition
+  level: B1
+  ipa: "/ʌnˈlaɪk/"
+  example: "Unlike his brother, he loves sport."
+  translations:
+    de: ["anders als", "im Gegensatz zu"]
+  example_translations:
+    de: "Im Gegensatz zu seinem Bruder liebt er Sport."
+
+- id: "up-adverb"
+  lemma: "up"
+  pos: adverb
+  level: A1
+  ipa: "/ʌp/"
+  example: "Stand up, please."
+  translations:
+    de: ["hoch", "nach oben", "auf"]
+  example_translations:
+    de: "Steht bitte auf."
+
+- id: "up-preposition"
+  lemma: "up"
+  pos: preposition
+  level: A1
+  ipa: "/ʌp/"
+  example: "We walked up the hill."
+  translations:
+    de: ["hinauf", "nach oben"]
+  example_translations:
+    de: "Wir gingen den Hügel hinauf."
+
+- id: "upon"
+  lemma: "upon"
+  pos: preposition
+  level: B2
+  ipa: "/əˈpɒn/"
+  example: "Once upon a time, there was a king."
+  translations:
+    de: ["auf", "bei"]
+  example_translations:
+    de: "Es war einmal ein König."
+
+- id: "upwards"
+  lemma: "upwards"
+  pos: adverb
+  level: B2
+  ipa: "/ˈʌp.wədz/"
+  example: "Prices are moving upwards."
+  translations:
+    de: ["nach oben", "aufwärts"]
+  example_translations:
+    de: "Die Preise steigen."
+
+- id: "us"
+  lemma: "us"
+  pos: pronoun
+  level: A1
+  ipa: "/ʌs/"
+  example: "Can you help us?"
+  translations:
+    de: ["uns"]
+  example_translations:
+    de: "Kannst du uns helfen?"
+
+- id: "very"
+  lemma: "very"
+  pos: adverb
+  level: A1
+  ipa: "/ˈver.i/"
+  example: "It is very cold."
+  translations:
+    de: ["sehr"]
+  example_translations:
+    de: "Es ist sehr kalt."
+
+- id: "via"
+  lemma: "via"
+  pos: preposition
+  level: B2
+  ipa: "/ˈvaɪ.ə/"
+  example: "We flew to Sydney via Dubai."
+  translations:
+    de: ["über", "via"]
+  example_translations:
+    de: "Wir sind über Dubai nach Sydney geflogen."
+
+- id: "we"
+  lemma: "we"
+  pos: pronoun
+  level: A1
+  ipa: "/wiː/"
+  example: "We are at home."
+  translations:
+    de: ["wir"]
+  example_translations:
+    de: "Wir sind zu Hause."
+
+- id: "what"
+  lemma: "what"
+  pos: pronoun
+  level: A1
+  ipa: "/wɒt/"
+  example: "What is this?"
+  translations:
+    de: ["was"]
+  example_translations:
+    de: "Was ist das?"
+
+- id: "whatever"
+  lemma: "whatever"
+  pos: pronoun
+  level: B1
+  ipa: "/wɒtˈev.ər/"
+  example: "Do whatever you want."
+  translations:
+    de: ["was auch immer", "alles, was"]
+  example_translations:
+    de: "Mach, was du willst."
+
+- id: "where"
+  lemma: "where"
+  pos: adverb
+  level: A1
+  ipa: "/weər/"
+  example: "Where do you live?"
+  translations:
+    de: ["wo"]
+  example_translations:
+    de: "Wo wohnst du?"
+
+- id: "whereas"
+  lemma: "whereas"
+  pos: conjunction
+  level: B2
+  ipa: "/weəˈræz/"
+  example: "I like tea, whereas my wife likes coffee."
+  translations:
+    de: ["während", "wohingegen"]
+  example_translations:
+    de: "Ich mag Tee, während meine Frau Kaffee mag."
+
+- id: "wherever"
+  lemma: "wherever"
+  pos: conjunction
+  level: B2
+  ipa: "/weəˈrev.ər/"
+  example: "Sit wherever you like."
+  translations:
+    de: ["wo auch immer", "überall wo"]
+  example_translations:
+    de: "Setz dich, wohin du willst."
+
+- id: "whether"
+  lemma: "whether"
+  pos: conjunction
+  level: B1
+  ipa: "/ˈweð.ər/"
+  example: "I don't know whether he's coming."
+  translations:
+    de: ["ob"]
+  example_translations:
+    de: "Ich weiß nicht, ob er kommt."
+
+- id: "which-determiner"
+  lemma: "which"
+  pos: determiner
+  level: A1
+  ipa: "/wɪtʃ/"
+  example: "Which colour do you like?"
+  translations:
+    de: ["welcher", "welche", "welches"]
+  example_translations:
+    de: "Welche Farbe magst du?"
+
+- id: "which-pronoun"
+  lemma: "which"
+  pos: pronoun
+  level: A1
+  ipa: "/wɪtʃ/"
+  example: "Which is your car?"
+  translations:
+    de: ["welcher", "welche", "welches", "der", "die", "das"]
+  example_translations:
+    de: "Welches ist dein Auto?"
+
+- id: "who"
+  lemma: "who"
+  pos: pronoun
+  level: A1
+  ipa: "/huː/"
+  example: "Who is that?"
+  translations:
+    de: ["wer", "der", "die"]
+  example_translations:
+    de: "Wer ist das?"
+
+- id: "whom"
+  lemma: "whom"
+  pos: pronoun
+  level: B2
+  ipa: "/huːm/"
+  example: "To whom did you give it?"
+  translations:
+    de: ["wen", "wem"]
+  example_translations:
+    de: "Wem hast du es gegeben?"
+
+- id: "whose"
+  lemma: "whose"
+  pos: pronoun
+  level: A2
+  ipa: "/huːz/"
+  example: "Whose bag is this?"
+  translations:
+    de: ["wessen", "dessen", "deren"]
+  example_translations:
+    de: "Wessen Tasche ist das?"
+
+- id: "why"
+  lemma: "why"
+  pos: adverb
+  level: A1
+  ipa: "/waɪ/"
+  example: "Why are you late?"
+  translations:
+    de: ["warum"]
+  example_translations:
+    de: "Warum bist du spät dran?"
+
+- id: "will-verb"
+  lemma: "will"
+  pos: verb
+  level: A1
+  ipa: "/wɪl/"
+  example: "It will rain tomorrow."
+  translations:
+    de: ["werden"]
+  example_translations:
+    de: "Morgen wird es regnen."
+
+- id: "with"
+  lemma: "with"
+  pos: preposition
+  level: A1
+  ipa: "/wɪð/"
+  example: "I go with my friend."
+  translations:
+    de: ["mit"]
+  example_translations:
+    de: "Ich gehe mit meinem Freund."
+
+- id: "within"
+  lemma: "within"
+  pos: preposition
+  level: B1
+  ipa: "/wɪˈðɪn/"
+  example: "Please reply within three days."
+  translations:
+    de: ["innerhalb"]
+  example_translations:
+    de: "Bitte antworten Sie innerhalb von drei Tagen."
+
+- id: "without"
+  lemma: "without"
+  pos: preposition
+  level: A2
+  ipa: "/wɪˈðaʊt/"
+  example: "I can't live without music."
+  translations:
+    de: ["ohne"]
+  example_translations:
+    de: "Ich kann nicht ohne Musik leben."
+
+- id: "would"
+  lemma: "would"
+  pos: verb
+  level: A1
+  ipa: "/wʊd/"
+  example: "I would like a coffee."
+  translations:
+    de: ["würde", "würden"]
+  example_translations:
+    de: "Ich hätte gern einen Kaffee."
+
+- id: "yet-conjunction"
+  lemma: "yet"
+  pos: conjunction
+  level: B2
+  ipa: "/jet/"
+  example: "It's cheap, yet good."
+  translations:
+    de: ["doch", "aber"]
+  example_translations:
+    de: "Es ist billig und doch gut."
+
+- id: "you"
+  lemma: "you"
+  pos: pronoun
+  level: A1
+  ipa: "/juː/"
+  example: "Are you hungry?"
+  translations:
+    de: ["du", "Sie", "ihr"]
+  example_translations:
+    de: "Hast du Hunger?"
+
+- id: "your"
+  lemma: "your"
+  pos: determiner
+  level: A1
+  ipa: "/jɔːr/"
+  example: "What's your name?"
+  translations:
+    de: ["dein", "deine", "Ihr", "Ihre", "euer"]
+  example_translations:
+    de: "Wie heißt du?"
+
+- id: "yours"
+  lemma: "yours"
+  pos: pronoun
+  level: A2
+  ipa: "/jɔːz/"
+  example: "Is this pen yours?"
+  translations:
+    de: ["deiner", "deine", "deins", "Ihrer"]
+  example_translations:
+    de: "Ist das dein Stift?"
+
+- id: "yourself"
+  lemma: "yourself"
+  pos: pronoun
+  level: A1
+  ipa: "/jɔːˈself/"
+  example: "Help yourself!"
+  translations:
+    de: ["dich", "dir", "sich", "selbst"]
+  example_translations:
+    de: "Bedien dich!"

@@ -1,0 +1,27 @@
+name: Katalog prüfen
+
+on:
+  pull_request:
+  push:
+    branches: [main, develop]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # der Vergleich mit dem Ziel-Branch braucht dessen Stand
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Schema, IDs und Verweise prüfen
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python scripts/validate.py --base "origin/${{ github.base_ref }}"
+          else
+            python scripts/validate.py
+          fi

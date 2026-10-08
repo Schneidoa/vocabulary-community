@@ -1,0 +1,1685 @@
+# ⏰ Zeit & Kalender – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "after-adverb"
+  lemma: "after"
+  pos: adverb
+  level: A2
+  ipa: "/ˈɑːf.tər/"
+  example: "She left soon after."
+  translations:
+    de: ["danach", "später"]
+  example_translations:
+    de: "Sie ging kurz danach."
+
+- id: "afternoon"
+  lemma: "afternoon"
+  pos: noun
+  level: A1
+  ipa: "/ˌɑːf.təˈnuːn/"
+  example: "I play football in the afternoon."
+  translations:
+    de: ["der Nachmittag"]
+  example_translations:
+    de: "Ich spiele am Nachmittag Fußball."
+
+- id: "afterwards"
+  lemma: "afterwards"
+  pos: adverb
+  level: B2
+  ipa: "/ˈɑːf.tə.wədz/"
+  example: "We went to the cinema and afterwards to a restaurant."
+  translations:
+    de: ["danach", "anschließend"]
+  example_translations:
+    de: "Wir gingen ins Kino und danach in ein Restaurant."
+
+- id: "again"
+  lemma: "again"
+  pos: adverb
+  level: A1
+  ipa: "/əˈɡen/"
+  example: "Please say that again."
+  translations:
+    de: ["wieder", "noch einmal"]
+  example_translations:
+    de: "Bitte sag das noch einmal."
+
+- id: "ago"
+  lemma: "ago"
+  pos: adverb
+  level: A1
+  ipa: "/əˈɡəʊ/"
+  example: "I moved here two years ago."
+  translations:
+    de: ["vor"]
+  example_translations:
+    de: "Ich bin vor zwei Jahren hierher gezogen."
+
+- id: "already"
+  lemma: "already"
+  pos: adverb
+  level: A2
+  ipa: "/ɔːlˈred.i/"
+  example: "I have already eaten."
+  translations:
+    de: ["schon", "bereits"]
+  example_translations:
+    de: "Ich habe schon gegessen."
+
+- id: "always"
+  lemma: "always"
+  pos: adverb
+  level: A2
+  ipa: "/ˈɔːl.weɪz/"
+  example: "She is always on time."
+  translations:
+    de: ["immer"]
+  example_translations:
+    de: "Sie ist immer pünktlich."
+
+- id: "anniversary"
+  lemma: "anniversary"
+  pos: noun
+  level: B2
+  ipa: "/ˌæn.ɪˈvɜː.sər.i/"
+  example: "Today is our wedding anniversary."
+  translations:
+    de: ["der Jahrestag"]
+  example_translations:
+    de: "Heute ist unser Hochzeitstag."
+
+- id: "annual"
+  lemma: "annual"
+  pos: adjective
+  level: B2
+  ipa: "/ˈæn.ju.əl/"
+  example: "The annual meeting is in May."
+  translations:
+    de: ["jährlich"]
+  example_translations:
+    de: "Die jährliche Versammlung ist im Mai."
+
+- id: "any-more"
+  lemma: "any more"
+  pos: adverb
+  level: A2
+  ipa: "/ˌen.i ˈmɔːr/"
+  example: "She doesn't live here any more."
+  translations:
+    de: ["nicht mehr"]
+  example_translations:
+    de: "Sie wohnt nicht mehr hier."
+
+- id: "appointment"
+  lemma: "appointment"
+  pos: noun
+  level: B1
+  ipa: "/əˈpɔɪnt.mənt/"
+  example: "I have a doctor's appointment at ten."
+  translations:
+    de: ["der Termin"]
+  example_translations:
+    de: "Ich habe um zehn einen Arzttermin."
+
+- id: "april"
+  lemma: "April"
+  pos: noun
+  level: A1
+  ipa: "/ˈeɪ.prəl/"
+  example: "My birthday is in April."
+  translations:
+    de: ["der April"]
+  example_translations:
+    de: "Mein Geburtstag ist im April."
+
+- id: "august"
+  lemma: "August"
+  pos: noun
+  level: A1
+  ipa: "/ˈɔː.ɡəst/"
+  example: "We go on holiday in August."
+  translations:
+    de: ["der August"]
+  example_translations:
+    de: "Wir fahren im August in den Urlaub."
+
+- id: "autumn"
+  lemma: "autumn"
+  pos: noun
+  level: A1
+  ipa: "/ˈɔː.təm/"
+  example: "The leaves fall in autumn."
+  translations:
+    de: ["der Herbst"]
+  example_translations:
+    de: "Im Herbst fallen die Blätter."
+
+- id: "before-adverb"
+  lemma: "before"
+  pos: adverb
+  level: A2
+  ipa: "/bɪˈfɔːr/"
+  example: "Have you been here before?"
+  translations:
+    de: ["vorher", "schon einmal"]
+  example_translations:
+    de: "Warst du schon einmal hier?"
+
+- id: "beginning"
+  lemma: "beginning"
+  pos: noun
+  level: A1
+  ipa: "/bɪˈɡɪn.ɪŋ/"
+  example: "I didn't see the beginning of the film."
+  translations:
+    de: ["der Anfang", "der Beginn"]
+  example_translations:
+    de: "Ich habe den Anfang des Films nicht gesehen."
+
+- id: "birthday"
+  lemma: "birthday"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɜːθ.deɪ/"
+  example: "Happy birthday!"
+  translations:
+    de: ["der Geburtstag"]
+  example_translations:
+    de: "Alles Gute zum Geburtstag!"
+
+- id: "century"
+  lemma: "century"
+  pos: noun
+  level: A1
+  ipa: "/ˈsen.tʃər.i/"
+  example: "The church was built in the 12th century."
+  translations:
+    de: ["das Jahrhundert"]
+  example_translations:
+    de: "Die Kirche wurde im 12. Jahrhundert gebaut."
+
+- id: "clock"
+  lemma: "clock"
+  pos: noun
+  level: A1
+  ipa: "/klɒk/"
+  example: "The clock on the wall is slow."
+  translations:
+    de: ["die Uhr"]
+  example_translations:
+    de: "Die Uhr an der Wand geht nach."
+
+- id: "constantly"
+  lemma: "constantly"
+  pos: adverb
+  level: B2
+  ipa: "/ˈkɒn.stənt.li/"
+  example: "He is constantly late."
+  translations:
+    de: ["ständig"]
+  example_translations:
+    de: "Er kommt ständig zu spät."
+
+- id: "current-adjective"
+  lemma: "current"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkʌr.ənt/"
+  example: "What is your current address?"
+  translations:
+    de: ["aktuell", "gegenwärtig"]
+  example_translations:
+    de: "Wie ist deine aktuelle Adresse?"
+
+- id: "currently"
+  lemma: "currently"
+  pos: adverb
+  level: B1
+  ipa: "/ˈkʌr.ənt.li/"
+  example: "She is currently living in Rome."
+  translations:
+    de: ["derzeit", "zurzeit"]
+  example_translations:
+    de: "Sie wohnt zurzeit in Rom."
+
+- id: "daily-adjective"
+  lemma: "daily"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdeɪ.li/"
+  example: "I read the daily newspaper."
+  translations:
+    de: ["täglich"]
+  example_translations:
+    de: "Ich lese die Tageszeitung."
+
+- id: "daily-adverb"
+  lemma: "daily"
+  pos: adverb
+  level: B1
+  ipa: "/ˈdeɪ.li/"
+  example: "The shop is open daily."
+  translations:
+    de: ["täglich"]
+  example_translations:
+    de: "Der Laden ist täglich geöffnet."
+
+- id: "dark-noun"
+  lemma: "dark"
+  pos: noun
+  level: A2
+  ipa: "/dɑːk/"
+  example: "Are you afraid of the dark?"
+  translations:
+    de: ["die Dunkelheit"]
+  example_translations:
+    de: "Hast du Angst im Dunkeln?"
+
+- id: "date-noun"
+  lemma: "date"
+  pos: noun
+  level: A1
+  ipa: "/deɪt/"
+  example: "What's the date today?"
+  translations:
+    de: ["das Datum", "die Verabredung"]
+  example_translations:
+    de: "Welches Datum haben wir heute?"
+
+- id: "date-verb"
+  lemma: "date"
+  pos: verb
+  level: B2
+  ipa: "/deɪt/"
+  example: "The church dates from the 12th century."
+  translations:
+    de: ["datieren", "zurückgehen auf"]
+  example_translations:
+    de: "Die Kirche stammt aus dem 12. Jahrhundert."
+
+- id: "day"
+  lemma: "day"
+  pos: noun
+  level: A1
+  ipa: "/deɪ/"
+  example: "Have a nice day!"
+  translations:
+    de: ["der Tag"]
+  example_translations:
+    de: "Einen schönen Tag!"
+
+- id: "decade"
+  lemma: "decade"
+  pos: noun
+  level: B1
+  ipa: "/ˈdek.eɪd/"
+  example: "Prices have doubled in a decade."
+  translations:
+    de: ["das Jahrzehnt"]
+  example_translations:
+    de: "Die Preise haben sich in einem Jahrzehnt verdoppelt."
+
+- id: "december"
+  lemma: "December"
+  pos: noun
+  level: A1
+  ipa: "/dɪˈsem.bər/"
+  example: "Christmas is in December."
+  translations:
+    de: ["der Dezember"]
+  example_translations:
+    de: "Weihnachten ist im Dezember."
+
+- id: "diary"
+  lemma: "diary"
+  pos: noun
+  level: A2
+  ipa: "/ˈdaɪə.ri/"
+  example: "I write in my diary every night."
+  translations:
+    de: ["das Tagebuch", "der Terminkalender"]
+  example_translations:
+    de: "Ich schreibe jeden Abend in mein Tagebuch."
+
+- id: "due"
+  lemma: "due"
+  pos: adjective
+  level: B1
+  ipa: "/djuː/"
+  example: "The train is due at five."
+  translations:
+    de: ["fällig", "erwartet"]
+  example_translations:
+    de: "Der Zug soll um fünf ankommen."
+
+- id: "during"
+  lemma: "during"
+  pos: preposition
+  level: A1
+  ipa: "/ˈdʒʊə.rɪŋ/"
+  example: "Don't talk during the film."
+  translations:
+    de: ["während"]
+  example_translations:
+    de: "Sprich nicht während des Films."
+
+- id: "early"
+  lemma: "early"
+  pos: adverb
+  level: A2
+  ipa: "/ˈɜː.li/"
+  example: "I get up early."
+  translations:
+    de: ["früh"]
+  example_translations:
+    de: "Ich stehe früh auf."
+
+- id: "early-adjective"
+  lemma: "early"
+  pos: adjective
+  level: A1
+  ipa: "/ˈɜː.li/"
+  example: "I take the early train."
+  translations:
+    de: ["früh"]
+  example_translations:
+    de: "Ich nehme den frühen Zug."
+
+- id: "end-noun"
+  lemma: "end"
+  pos: noun
+  level: A1
+  ipa: "/end/"
+  example: "I didn't see the end of the film."
+  translations:
+    de: ["das Ende", "der Schluss"]
+  example_translations:
+    de: "Ich habe das Ende des Films nicht gesehen."
+
+- id: "end-verb"
+  lemma: "end"
+  pos: verb
+  level: A1
+  ipa: "/end/"
+  example: "The lesson ends at twelve."
+  translations:
+    de: ["enden", "beenden"]
+  example_translations:
+    de: "Der Unterricht endet um zwölf."
+
+- id: "evening"
+  lemma: "evening"
+  pos: noun
+  level: A1
+  ipa: "/ˈiːv.nɪŋ/"
+  example: "We watch TV in the evening."
+  translations:
+    de: ["der Abend"]
+  example_translations:
+    de: "Am Abend sehen wir fern."
+
+- id: "eventually"
+  lemma: "eventually"
+  pos: adverb
+  level: B1
+  ipa: "/ɪˈven.tʃu.ə.li/"
+  example: "Eventually, we found the hotel."
+  translations:
+    de: ["schließlich", "endlich"]
+  example_translations:
+    de: "Schließlich fanden wir das Hotel."
+
+- id: "ever"
+  lemma: "ever"
+  pos: adverb
+  level: A1
+  ipa: "/ˈev.ər/"
+  example: "Have you ever been to London?"
+  translations:
+    de: ["je", "jemals"]
+  example_translations:
+    de: "Warst du jemals in London?"
+
+- id: "february"
+  lemma: "February"
+  pos: noun
+  level: A1
+  ipa: "/ˈfeb.ru.ər.i/"
+  example: "February is the shortest month."
+  translations:
+    de: ["der Februar"]
+  example_translations:
+    de: "Der Februar ist der kürzeste Monat."
+
+- id: "finally"
+  lemma: "finally"
+  pos: adverb
+  level: A2
+  ipa: "/ˈfaɪ.nəl.i/"
+  example: "Finally, the bus arrived."
+  translations:
+    de: ["endlich", "schließlich"]
+  example_translations:
+    de: "Endlich kam der Bus."
+
+- id: "first-adverb"
+  lemma: "first"
+  pos: adverb
+  level: A1
+  ipa: "/ˈfɜːst/"
+  example: "First, read the text."
+  translations:
+    de: ["zuerst", "erstens", "zum ersten Mal"]
+  example_translations:
+    de: "Lies zuerst den Text."
+
+- id: "following-adjective"
+  lemma: "following"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfɒl.əʊ.ɪŋ/"
+  example: "We met again the following day."
+  translations:
+    de: ["folgend", "nächste"]
+  example_translations:
+    de: "Wir trafen uns am nächsten Tag wieder."
+
+- id: "forever"
+  lemma: "forever"
+  pos: adverb
+  level: B1
+  ipa: "/fəˈrev.ər/"
+  example: "I will love you forever."
+  translations:
+    de: ["für immer", "ewig"]
+  example_translations:
+    de: "Ich werde dich für immer lieben."
+
+- id: "former"
+  lemma: "former"
+  pos: adjective
+  level: B2
+  ipa: "/ˈfɔː.mər/"
+  example: "He is a former student of mine."
+  translations:
+    de: ["ehemalig", "früher"]
+  example_translations:
+    de: "Er ist ein ehemaliger Schüler von mir."
+
+- id: "frequently"
+  lemma: "frequently"
+  pos: adverb
+  level: B1
+  ipa: "/ˈfriː.kwənt.li/"
+  example: "He frequently travels to Asia."
+  translations:
+    de: ["häufig", "oft"]
+  example_translations:
+    de: "Er reist häufig nach Asien."
+
+- id: "friday"
+  lemma: "Friday"
+  pos: noun
+  level: A1
+  ipa: "/ˈfraɪ.deɪ/"
+  example: "See you on Friday!"
+  translations:
+    de: ["der Freitag"]
+  example_translations:
+    de: "Bis Freitag!"
+
+- id: "future-adjective"
+  lemma: "future"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfjuː.tʃər/"
+  example: "I met my future wife at university."
+  translations:
+    de: ["zukünftig", "künftig"]
+  example_translations:
+    de: "Ich habe meine zukünftige Frau an der Uni kennengelernt."
+
+- id: "future-noun"
+  lemma: "future"
+  pos: noun
+  level: A1
+  ipa: "/ˈfjuː.tʃər/"
+  example: "What are your plans for the future?"
+  translations:
+    de: ["die Zukunft"]
+  example_translations:
+    de: "Was sind deine Zukunftspläne?"
+
+- id: "gradually"
+  lemma: "gradually"
+  pos: adverb
+  level: B2
+  ipa: "/ˈɡrædʒ.u.ə.li/"
+  example: "The weather gradually improved."
+  translations:
+    de: ["allmählich", "nach und nach"]
+  example_translations:
+    de: "Das Wetter wurde allmählich besser."
+
+- id: "hour"
+  lemma: "hour"
+  pos: noun
+  level: A1
+  ipa: "/aʊər/"
+  example: "The film is two hours long."
+  translations:
+    de: ["die Stunde"]
+  example_translations:
+    de: "Der Film ist zwei Stunden lang."
+
+- id: "hurry-noun"
+  lemma: "hurry"
+  pos: noun
+  level: B1
+  ipa: "/ˈhʌr.i/"
+  example: "I'm in a hurry."
+  translations:
+    de: ["die Eile"]
+  example_translations:
+    de: "Ich habe es eilig."
+
+- id: "immediate"
+  lemma: "immediate"
+  pos: adjective
+  level: B1
+  ipa: "/ɪˈmiː.di.ət/"
+  example: "We need an immediate answer."
+  translations:
+    de: ["sofortig", "unmittelbar"]
+  example_translations:
+    de: "Wir brauchen eine sofortige Antwort."
+
+- id: "immediately"
+  lemma: "immediately"
+  pos: adverb
+  level: A2
+  ipa: "/ɪˈmiː.di.ət.li/"
+  example: "Come here immediately!"
+  translations:
+    de: ["sofort"]
+  example_translations:
+    de: "Komm sofort her!"
+
+- id: "initial"
+  lemma: "initial"
+  pos: adjective
+  level: B2
+  ipa: "/ɪˈnɪʃ.əl/"
+  example: "My initial reaction was surprise."
+  translations:
+    de: ["anfänglich", "Anfangs-"]
+  example_translations:
+    de: "Meine erste Reaktion war Überraschung."
+
+- id: "initially"
+  lemma: "initially"
+  pos: adverb
+  level: B2
+  ipa: "/ɪˈnɪʃ.əl.i/"
+  example: "Initially, I didn't like him."
+  translations:
+    de: ["anfangs", "zunächst"]
+  example_translations:
+    de: "Anfangs mochte ich ihn nicht."
+
+- id: "january"
+  lemma: "January"
+  pos: noun
+  level: A1
+  ipa: "/ˈdʒæn.ju.ər.i/"
+  example: "It snows a lot in January."
+  translations:
+    de: ["der Januar"]
+  example_translations:
+    de: "Im Januar schneit es viel."
+
+- id: "july"
+  lemma: "July"
+  pos: noun
+  level: A1
+  ipa: "/dʒʊˈlaɪ/"
+  example: "We go on holiday in July."
+  translations:
+    de: ["der Juli"]
+  example_translations:
+    de: "Wir fahren im Juli in den Urlaub."
+
+- id: "june"
+  lemma: "June"
+  pos: noun
+  level: A1
+  ipa: "/dʒuːn/"
+  example: "School finishes in June."
+  translations:
+    de: ["der Juni"]
+  example_translations:
+    de: "Die Schule endet im Juni."
+
+- id: "last-adverb"
+  lemma: "last"
+  pos: adverb
+  level: A2
+  ipa: "/lɑːst/"
+  example: "When did you last see her?"
+  translations:
+    de: ["zuletzt", "als Letztes"]
+  example_translations:
+    de: "Wann hast du sie zuletzt gesehen?"
+
+- id: "last-determiner"
+  lemma: "last"
+  pos: determiner
+  level: A1
+  ipa: "/lɑːst/"
+  example: "I saw him last week."
+  translations:
+    de: ["letzte"]
+  example_translations:
+    de: "Ich habe ihn letzte Woche gesehen."
+
+- id: "last-verb"
+  lemma: "last"
+  pos: verb
+  level: A2
+  ipa: "/lɑːst/"
+  example: "The film lasts two hours."
+  translations:
+    de: ["dauern", "halten"]
+  example_translations:
+    de: "Der Film dauert zwei Stunden."
+
+- id: "late"
+  lemma: "late"
+  pos: adverb
+  level: A2
+  ipa: "/leɪt/"
+  example: "Sorry, I came late."
+  translations:
+    de: ["spät"]
+  example_translations:
+    de: "Entschuldigung, ich bin spät gekommen."
+
+- id: "late-adjective"
+  lemma: "late"
+  pos: adjective
+  level: A1
+  ipa: "/leɪt/"
+  example: "Sorry, I'm late."
+  translations:
+    de: ["spät", "verspätet"]
+  example_translations:
+    de: "Entschuldigung, ich bin spät dran."
+
+- id: "later-adjective"
+  lemma: "later"
+  pos: adjective
+  level: A2
+  ipa: "/ˈleɪ.tər/"
+  example: "We'll take a later train."
+  translations:
+    de: ["spätere"]
+  example_translations:
+    de: "Wir nehmen einen späteren Zug."
+
+- id: "later-adverb"
+  lemma: "later"
+  pos: adverb
+  level: A1
+  ipa: "/ˈleɪ.tər/"
+  example: "See you later!"
+  translations:
+    de: ["später"]
+  example_translations:
+    de: "Bis später!"
+
+- id: "latest"
+  lemma: "latest"
+  pos: adjective
+  level: B1
+  ipa: "/ˈleɪ.tɪst/"
+  example: "Have you heard the latest news?"
+  translations:
+    de: ["neueste", "letzte"]
+  example_translations:
+    de: "Hast du die neuesten Nachrichten gehört?"
+
+- id: "long-adverb"
+  lemma: "long"
+  pos: adverb
+  level: A1
+  ipa: "/lɒŋ/"
+  example: "I can't stay long."
+  translations:
+    de: ["lange"]
+  example_translations:
+    de: "Ich kann nicht lange bleiben."
+
+- id: "long-term"
+  lemma: "long-term"
+  pos: adjective
+  level: B2
+  ipa: "/ˌlɒŋˈtɜːm/"
+  example: "We need a long-term solution."
+  translations:
+    de: ["langfristig"]
+  example_translations:
+    de: "Wir brauchen eine langfristige Lösung."
+
+- id: "march"
+  lemma: "March"
+  pos: noun
+  level: A1
+  ipa: "/mɑːtʃ/"
+  example: "Spring starts in March."
+  translations:
+    de: ["der März"]
+  example_translations:
+    de: "Der Frühling beginnt im März."
+
+- id: "may-noun"
+  lemma: "May"
+  pos: noun
+  level: A1
+  ipa: "/meɪ/"
+  example: "My birthday is in May."
+  translations:
+    de: ["der Mai"]
+  example_translations:
+    de: "Mein Geburtstag ist im Mai."
+
+- id: "meanwhile"
+  lemma: "meanwhile"
+  pos: adverb
+  level: B1
+  ipa: "/ˈmiːn.waɪl/"
+  example: "Meanwhile, the others were waiting."
+  translations:
+    de: ["inzwischen", "währenddessen"]
+  example_translations:
+    de: "Währenddessen warteten die anderen."
+
+- id: "midnight"
+  lemma: "midnight"
+  pos: noun
+  level: A1
+  ipa: "/ˈmɪd.naɪt/"
+  example: "We went to bed at midnight."
+  translations:
+    de: ["die Mitternacht"]
+  example_translations:
+    de: "Wir gingen um Mitternacht ins Bett."
+
+- id: "minute"
+  lemma: "minute"
+  pos: noun
+  level: A2
+  ipa: "/ˈmɪn.ɪt/"
+  example: "Wait a minute, please."
+  translations:
+    de: ["die Minute"]
+  example_translations:
+    de: "Warte bitte eine Minute."
+
+- id: "moment"
+  lemma: "moment"
+  pos: noun
+  level: A1
+  ipa: "/ˈməʊ.mənt/"
+  example: "Wait a moment, please."
+  translations:
+    de: ["der Moment", "der Augenblick"]
+  example_translations:
+    de: "Warte bitte einen Moment."
+
+- id: "monday"
+  lemma: "Monday"
+  pos: noun
+  level: A1
+  ipa: "/ˈmʌn.deɪ/"
+  example: "The course starts on Monday."
+  translations:
+    de: ["der Montag"]
+  example_translations:
+    de: "Der Kurs beginnt am Montag."
+
+- id: "month"
+  lemma: "month"
+  pos: noun
+  level: A1
+  ipa: "/mʌnθ/"
+  example: "We visit them every month."
+  translations:
+    de: ["der Monat"]
+  example_translations:
+    de: "Wir besuchen sie jeden Monat."
+
+- id: "morning"
+  lemma: "morning"
+  pos: noun
+  level: A1
+  ipa: "/ˈmɔː.nɪŋ/"
+  example: "I run in the morning."
+  translations:
+    de: ["der Morgen", "der Vormittag"]
+  example_translations:
+    de: "Ich laufe am Morgen."
+
+- id: "never"
+  lemma: "never"
+  pos: adverb
+  level: A2
+  ipa: "/ˈnev.ər/"
+  example: "I never drink coffee."
+  translations:
+    de: ["nie", "niemals"]
+  example_translations:
+    de: "Ich trinke nie Kaffee."
+
+- id: "next-adjective"
+  lemma: "next"
+  pos: adjective
+  level: A1
+  ipa: "/nekst/"
+  example: "See you next week!"
+  translations:
+    de: ["nächste"]
+  example_translations:
+    de: "Bis nächste Woche!"
+
+- id: "next-adverb"
+  lemma: "next"
+  pos: adverb
+  level: A1
+  ipa: "/nekst/"
+  example: "What happened next?"
+  translations:
+    de: ["als Nächstes", "danach"]
+  example_translations:
+    de: "Was ist als Nächstes passiert?"
+
+- id: "night"
+  lemma: "night"
+  pos: noun
+  level: A1
+  ipa: "/naɪt/"
+  example: "Good night!"
+  translations:
+    de: ["die Nacht"]
+  example_translations:
+    de: "Gute Nacht!"
+
+- id: "normally"
+  lemma: "normally"
+  pos: adverb
+  level: A2
+  ipa: "/ˈnɔː.mə.li/"
+  example: "I normally get up at seven."
+  translations:
+    de: ["normalerweise"]
+  example_translations:
+    de: "Normalerweise stehe ich um sieben auf."
+
+- id: "november"
+  lemma: "November"
+  pos: noun
+  level: A1
+  ipa: "/nəʊˈvem.bər/"
+  example: "It often rains in November."
+  translations:
+    de: ["der November"]
+  example_translations:
+    de: "Im November regnet es oft."
+
+- id: "now"
+  lemma: "now"
+  pos: adverb
+  level: A1
+  ipa: "/naʊ/"
+  example: "I have to go now."
+  translations:
+    de: ["jetzt", "nun"]
+  example_translations:
+    de: "Ich muss jetzt gehen."
+
+- id: "o-clock"
+  lemma: "o'clock"
+  pos: adverb
+  level: A1
+  ipa: "/əˈklɒk/"
+  example: "It's three o'clock."
+  translations:
+    de: ["Uhr"]
+  example_translations:
+    de: "Es ist drei Uhr."
+
+- id: "occasion"
+  lemma: "occasion"
+  pos: noun
+  level: B1
+  ipa: "/əˈkeɪ.ʒən/"
+  example: "It's a special occasion."
+  translations:
+    de: ["die Gelegenheit", "der Anlass"]
+  example_translations:
+    de: "Es ist ein besonderer Anlass."
+
+- id: "occasionally"
+  lemma: "occasionally"
+  pos: adverb
+  level: B2
+  ipa: "/əˈkeɪ.ʒən.əl.i/"
+  example: "We occasionally eat out."
+  translations:
+    de: ["gelegentlich", "ab und zu"]
+  example_translations:
+    de: "Wir gehen ab und zu essen."
+
+- id: "october"
+  lemma: "October"
+  pos: noun
+  level: A1
+  ipa: "/ɒkˈtəʊ.bər/"
+  example: "The leaves fall in October."
+  translations:
+    de: ["der Oktober"]
+  example_translations:
+    de: "Im Oktober fallen die Blätter."
+
+- id: "often"
+  lemma: "often"
+  pos: adverb
+  level: A2
+  ipa: "/ˈɒf.ən/"
+  example: "We often go to the cinema."
+  translations:
+    de: ["oft"]
+  example_translations:
+    de: "Wir gehen oft ins Kino."
+
+- id: "once-adverb"
+  lemma: "once"
+  pos: adverb
+  level: A1
+  ipa: "/wʌns/"
+  example: "I go swimming once a week."
+  translations:
+    de: ["einmal", "früher einmal"]
+  example_translations:
+    de: "Ich gehe einmal pro Woche schwimmen."
+
+- id: "originally"
+  lemma: "originally"
+  pos: adverb
+  level: B1
+  ipa: "/əˈrɪdʒ.ən.əl.i/"
+  example: "I'm originally from Hamburg."
+  translations:
+    de: ["ursprünglich"]
+  example_translations:
+    de: "Ich komme ursprünglich aus Hamburg."
+
+- id: "past-adjective"
+  lemma: "past"
+  pos: adjective
+  level: A1
+  ipa: "/pɑːst/"
+  example: "I've been busy for the past few weeks."
+  translations:
+    de: ["vergangen", "letzte"]
+  example_translations:
+    de: "Ich war die letzten Wochen sehr beschäftigt."
+
+- id: "past-noun"
+  lemma: "past"
+  pos: noun
+  level: A1
+  ipa: "/pɑːst/"
+  example: "Forget the past."
+  translations:
+    de: ["die Vergangenheit"]
+  example_translations:
+    de: "Vergiss die Vergangenheit."
+
+- id: "past-preposition"
+  lemma: "past"
+  pos: preposition
+  level: A1
+  ipa: "/pɑːst/"
+  example: "It's half past ten."
+  translations:
+    de: ["nach", "an … vorbei"]
+  example_translations:
+    de: "Es ist halb elf."
+
+- id: "period"
+  lemma: "period"
+  pos: noun
+  level: A1
+  ipa: "/ˈpɪə.ri.əd/"
+  example: "It was a difficult period in my life."
+  translations:
+    de: ["die Zeit", "der Zeitraum", "die Periode"]
+  example_translations:
+    de: "Es war eine schwierige Zeit in meinem Leben."
+
+- id: "permanent"
+  lemma: "permanent"
+  pos: adjective
+  level: B2
+  ipa: "/ˈpɜː.mə.nənt/"
+  example: "She has a permanent job."
+  translations:
+    de: ["dauerhaft", "fest", "ständig"]
+  example_translations:
+    de: "Sie hat eine feste Stelle."
+
+- id: "phase"
+  lemma: "phase"
+  pos: noun
+  level: B2
+  ipa: "/feɪz/"
+  example: "It's just a phase."
+  translations:
+    de: ["die Phase", "der Abschnitt"]
+  example_translations:
+    de: "Das ist nur eine Phase."
+
+- id: "previous"
+  lemma: "previous"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpriː.vi.əs/"
+  example: "I met him on a previous visit."
+  translations:
+    de: ["vorherige", "frühere"]
+  example_translations:
+    de: "Ich habe ihn bei einem früheren Besuch getroffen."
+
+- id: "previously"
+  lemma: "previously"
+  pos: adverb
+  level: B1
+  ipa: "/ˈpriː.vi.əs.li/"
+  example: "She previously worked in a bank."
+  translations:
+    de: ["vorher", "früher"]
+  example_translations:
+    de: "Sie hat früher in einer Bank gearbeitet."
+
+- id: "quarter"
+  lemma: "quarter"
+  pos: noun
+  level: A1
+  ipa: "/ˈkwɔː.tər/"
+  example: "It's a quarter past six."
+  translations:
+    de: ["das Viertel", "die Viertelstunde"]
+  example_translations:
+    de: "Es ist Viertel nach sechs."
+
+- id: "rarely"
+  lemma: "rarely"
+  pos: adverb
+  level: B1
+  ipa: "/ˈreə.li/"
+  example: "We rarely go out."
+  translations:
+    de: ["selten"]
+  example_translations:
+    de: "Wir gehen selten aus."
+
+- id: "recent"
+  lemma: "recent"
+  pos: adjective
+  level: A2
+  ipa: "/ˈriː.sənt/"
+  example: "In recent years, prices have risen."
+  translations:
+    de: ["neu", "kürzlich", "jüngste"]
+  example_translations:
+    de: "In den letzten Jahren sind die Preise gestiegen."
+
+- id: "recently"
+  lemma: "recently"
+  pos: adverb
+  level: A2
+  ipa: "/ˈriː.sənt.li/"
+  example: "I recently moved to Berlin."
+  translations:
+    de: ["kürzlich", "vor Kurzem"]
+  example_translations:
+    de: "Ich bin vor Kurzem nach Berlin gezogen."
+
+- id: "regularly"
+  lemma: "regularly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈreɡ.jə.lə.li/"
+  example: "I go to the gym regularly."
+  translations:
+    de: ["regelmäßig"]
+  example_translations:
+    de: "Ich gehe regelmäßig ins Fitnessstudio."
+
+- id: "routine"
+  lemma: "routine"
+  pos: noun
+  level: A1
+  ipa: "/ruːˈtiːn/"
+  example: "What is your daily routine?"
+  translations:
+    de: ["die Routine", "der Alltag"]
+  example_translations:
+    de: "Wie sieht dein Tagesablauf aus?"
+
+- id: "rush-noun"
+  lemma: "rush"
+  pos: noun
+  level: B2
+  ipa: "/rʌʃ/"
+  example: "I'm in a rush."
+  translations:
+    de: ["die Eile", "der Ansturm"]
+  example_translations:
+    de: "Ich bin in Eile."
+
+- id: "saturday"
+  lemma: "Saturday"
+  pos: noun
+  level: A1
+  ipa: "/ˈsæt.ə.deɪ/"
+  example: "We go shopping on Saturday."
+  translations:
+    de: ["der Samstag"]
+  example_translations:
+    de: "Am Samstag gehen wir einkaufen."
+
+- id: "schedule-noun"
+  lemma: "schedule"
+  pos: noun
+  level: A2
+  ipa: "/ˈʃedʒ.uːl/"
+  example: "What's your schedule for today?"
+  translations:
+    de: ["der Zeitplan", "der Fahrplan"]
+  example_translations:
+    de: "Was steht heute auf deinem Plan?"
+
+- id: "schedule-verb"
+  lemma: "schedule"
+  pos: verb
+  level: B2
+  ipa: "/ˈʃedʒ.uːl/"
+  example: "The meeting is scheduled for Monday."
+  translations:
+    de: ["planen", "ansetzen"]
+  example_translations:
+    de: "Die Besprechung ist für Montag angesetzt."
+
+- id: "season"
+  lemma: "season"
+  pos: noun
+  level: A2
+  ipa: "/ˈsiː.zən/"
+  example: "Summer is my favourite season."
+  translations:
+    de: ["die Jahreszeit", "die Saison"]
+  example_translations:
+    de: "Der Sommer ist meine Lieblingsjahreszeit."
+
+- id: "second-noun"
+  lemma: "second"
+  pos: noun
+  level: A1
+  ipa: "/ˈsek.ənd/"
+  example: "Wait a second!"
+  translations:
+    de: ["die Sekunde"]
+  example_translations:
+    de: "Warte eine Sekunde!"
+
+- id: "september"
+  lemma: "September"
+  pos: noun
+  level: A1
+  ipa: "/sepˈtem.bər/"
+  example: "School starts in September."
+  translations:
+    de: ["der September"]
+  example_translations:
+    de: "Die Schule beginnt im September."
+
+- id: "session"
+  lemma: "session"
+  pos: noun
+  level: B2
+  ipa: "/ˈseʃ.ən/"
+  example: "The training session lasts two hours."
+  translations:
+    de: ["die Sitzung", "die Einheit"]
+  example_translations:
+    de: "Die Trainingseinheit dauert zwei Stunden."
+
+- id: "since-adverb"
+  lemma: "since"
+  pos: adverb
+  level: B1
+  ipa: "/sɪns/"
+  example: "I haven't seen him since."
+  translations:
+    de: ["seitdem"]
+  example_translations:
+    de: "Seitdem habe ich ihn nicht gesehen."
+
+- id: "since-preposition"
+  lemma: "since"
+  pos: preposition
+  level: A2
+  ipa: "/sɪns/"
+  example: "I've lived here since 2010."
+  translations:
+    de: ["seit"]
+  example_translations:
+    de: "Ich wohne seit 2010 hier."
+
+- id: "sometimes"
+  lemma: "sometimes"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsʌm.taɪmz/"
+  example: "Sometimes I walk to work."
+  translations:
+    de: ["manchmal"]
+  example_translations:
+    de: "Manchmal gehe ich zu Fuß zur Arbeit."
+
+- id: "soon"
+  lemma: "soon"
+  pos: adverb
+  level: A2
+  ipa: "/suːn/"
+  example: "See you soon!"
+  translations:
+    de: ["bald"]
+  example_translations:
+    de: "Bis bald!"
+
+- id: "spring-noun"
+  lemma: "spring"
+  pos: noun
+  level: A1
+  ipa: "/sprɪŋ/"
+  example: "Flowers bloom in spring."
+  translations:
+    de: ["der Frühling", "die Quelle", "die Feder"]
+  example_translations:
+    de: "Im Frühling blühen die Blumen."
+
+- id: "start-noun"
+  lemma: "start"
+  pos: noun
+  level: A2
+  ipa: "/stɑːt/"
+  example: "We missed the start of the film."
+  translations:
+    de: ["der Anfang", "der Start"]
+  example_translations:
+    de: "Wir haben den Anfang des Films verpasst."
+
+- id: "start-verb"
+  lemma: "start"
+  pos: verb
+  level: A1
+  ipa: "/stɑːt/"
+  example: "The film starts at eight."
+  translations:
+    de: ["anfangen", "beginnen", "starten"]
+  example_translations:
+    de: "Der Film beginnt um acht."
+
+- id: "still-adverb"
+  lemma: "still"
+  pos: adverb
+  level: A1
+  ipa: "/stɪl/"
+  example: "Are you still at work?"
+  translations:
+    de: ["noch", "immer noch", "trotzdem"]
+  example_translations:
+    de: "Bist du noch bei der Arbeit?"
+
+- id: "sudden"
+  lemma: "sudden"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsʌd.ən/"
+  example: "There was a sudden noise."
+  translations:
+    de: ["plötzlich"]
+  example_translations:
+    de: "Es gab ein plötzliches Geräusch."
+
+- id: "suddenly"
+  lemma: "suddenly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsʌd.ən.li/"
+  example: "Suddenly, the lights went out."
+  translations:
+    de: ["plötzlich"]
+  example_translations:
+    de: "Plötzlich ging das Licht aus."
+
+- id: "summer"
+  lemma: "summer"
+  pos: noun
+  level: A1
+  ipa: "/ˈsʌm.ər/"
+  example: "We go to the beach in summer."
+  translations:
+    de: ["der Sommer"]
+  example_translations:
+    de: "Im Sommer fahren wir an den Strand."
+
+- id: "sunday"
+  lemma: "Sunday"
+  pos: noun
+  level: A1
+  ipa: "/ˈsʌn.deɪ/"
+  example: "The shops are closed on Sunday."
+  translations:
+    de: ["der Sonntag"]
+  example_translations:
+    de: "Sonntags sind die Geschäfte geschlossen."
+
+- id: "temporary"
+  lemma: "temporary"
+  pos: adjective
+  level: B2
+  ipa: "/ˈtem.pər.ər.i/"
+  example: "It's only a temporary job."
+  translations:
+    de: ["vorübergehend", "befristet"]
+  example_translations:
+    de: "Es ist nur ein befristeter Job."
+
+- id: "then"
+  lemma: "then"
+  pos: adverb
+  level: A1
+  ipa: "/ðen/"
+  example: "First we ate, then we went out."
+  translations:
+    de: ["dann", "damals"]
+  example_translations:
+    de: "Zuerst haben wir gegessen, dann sind wir ausgegangen."
+
+- id: "thursday"
+  lemma: "Thursday"
+  pos: noun
+  level: A1
+  ipa: "/ˈθɜːz.deɪ/"
+  example: "I have English on Thursday."
+  translations:
+    de: ["der Donnerstag"]
+  example_translations:
+    de: "Am Donnerstag habe ich Englisch."
+
+- id: "till"
+  lemma: "till"
+  pos: preposition
+  level: B1
+  ipa: "/tɪl/"
+  example: "The shop is open till eight."
+  translations:
+    de: ["bis"]
+  example_translations:
+    de: "Der Laden hat bis acht geöffnet."
+
+- id: "time"
+  lemma: "time"
+  pos: verb
+  level: B2
+  ipa: "/taɪm/"
+  example: "She timed the race."
+  translations:
+    de: ["die Zeit messen", "zeitlich planen"]
+  example_translations:
+    de: "Sie stoppte die Zeit beim Rennen."
+
+- id: "today"
+  lemma: "today"
+  pos: adverb
+  level: A1
+  ipa: "/təˈdeɪ/"
+  example: "Today is Monday."
+  translations:
+    de: ["heute"]
+  example_translations:
+    de: "Heute ist Montag."
+
+- id: "tomorrow"
+  lemma: "tomorrow"
+  pos: adverb
+  level: A1
+  ipa: "/təˈmɒr.əʊ/"
+  example: "See you tomorrow."
+  translations:
+    de: ["morgen"]
+  example_translations:
+    de: "Bis morgen."
+
+- id: "tonight"
+  lemma: "tonight"
+  pos: adverb
+  level: A1
+  ipa: "/təˈnaɪt/"
+  example: "What are you doing tonight?"
+  translations:
+    de: ["heute Abend", "heute Nacht"]
+  example_translations:
+    de: "Was machst du heute Abend?"
+
+- id: "tuesday"
+  lemma: "Tuesday"
+  pos: noun
+  level: A1
+  ipa: "/ˈtʃuːz.deɪ/"
+  example: "I'll see you on Tuesday."
+  translations:
+    de: ["der Dienstag"]
+  example_translations:
+    de: "Wir sehen uns am Dienstag."
+
+- id: "until-conjunction"
+  lemma: "until"
+  pos: conjunction
+  level: A1
+  ipa: "/ənˈtɪl/"
+  example: "Wait until I come back."
+  translations:
+    de: ["bis"]
+  example_translations:
+    de: "Warte, bis ich zurückkomme."
+
+- id: "until-preposition"
+  lemma: "until"
+  pos: preposition
+  level: A1
+  ipa: "/ənˈtɪl/"
+  example: "I'll wait until five."
+  translations:
+    de: ["bis"]
+  example_translations:
+    de: "Ich warte bis fünf."
+
+- id: "used-to"
+  lemma: "used to"
+  pos: verb
+  level: A2
+  ipa: "/ˈjuːst tuː/"
+  example: "I used to live in London."
+  translations:
+    de: ["früher (etwas tun)", "gewohnt sein"]
+  example_translations:
+    de: "Früher habe ich in London gewohnt."
+
+- id: "usually"
+  lemma: "usually"
+  pos: adverb
+  level: A1
+  ipa: "/ˈjuː.ʒu.ə.li/"
+  example: "I usually walk to work."
+  translations:
+    de: ["normalerweise", "meistens"]
+  example_translations:
+    de: "Normalerweise gehe ich zu Fuß zur Arbeit."
+
+- id: "wait-noun"
+  lemma: "wait"
+  pos: noun
+  level: A2
+  ipa: "/weɪt/"
+  example: "We had a long wait for the bus."
+  translations:
+    de: ["die Wartezeit"]
+  example_translations:
+    de: "Wir mussten lange auf den Bus warten."
+
+- id: "wednesday"
+  lemma: "Wednesday"
+  pos: noun
+  level: A1
+  ipa: "/ˈwenz.deɪ/"
+  example: "The meeting is on Wednesday."
+  translations:
+    de: ["der Mittwoch"]
+  example_translations:
+    de: "Das Treffen ist am Mittwoch."
+
+- id: "week"
+  lemma: "week"
+  pos: noun
+  level: A1
+  ipa: "/wiːk/"
+  example: "I work five days a week."
+  translations:
+    de: ["die Woche"]
+  example_translations:
+    de: "Ich arbeite fünf Tage pro Woche."
+
+- id: "weekend"
+  lemma: "weekend"
+  pos: noun
+  level: A2
+  ipa: "/ˌwiːkˈend/"
+  example: "What are you doing at the weekend?"
+  translations:
+    de: ["das Wochenende"]
+  example_translations:
+    de: "Was machst du am Wochenende?"
+
+- id: "when-adverb"
+  lemma: "when"
+  pos: adverb
+  level: A1
+  ipa: "/wen/"
+  example: "When does the film start?"
+  translations:
+    de: ["wann"]
+  example_translations:
+    de: "Wann beginnt der Film?"
+
+- id: "when-conjunction"
+  lemma: "when"
+  pos: conjunction
+  level: A1
+  ipa: "/wen/"
+  example: "Call me when you arrive."
+  translations:
+    de: ["wenn", "als"]
+  example_translations:
+    de: "Ruf mich an, wenn du ankommst."
+
+- id: "whenever"
+  lemma: "whenever"
+  pos: conjunction
+  level: B1
+  ipa: "/wenˈev.ər/"
+  example: "Come whenever you like."
+  translations:
+    de: ["wann immer", "jedes Mal wenn"]
+  example_translations:
+    de: "Komm, wann immer du willst."
+
+- id: "while-conjunction"
+  lemma: "while"
+  pos: conjunction
+  level: A2
+  ipa: "/waɪl/"
+  example: "I read while I wait."
+  translations:
+    de: ["während"]
+  example_translations:
+    de: "Ich lese, während ich warte."
+
+- id: "while-noun"
+  lemma: "while"
+  pos: noun
+  level: B1
+  ipa: "/waɪl/"
+  example: "Wait a while."
+  translations:
+    de: ["die Weile"]
+  example_translations:
+    de: "Warte eine Weile."
+
+- id: "winter"
+  lemma: "winter"
+  pos: noun
+  level: A1
+  ipa: "/ˈwɪn.tər/"
+  example: "It snows in winter."
+  translations:
+    de: ["der Winter"]
+  example_translations:
+    de: "Im Winter schneit es."
+
+- id: "year"
+  lemma: "year"
+  pos: noun
+  level: A1
+  ipa: "/jɪər/"
+  example: "She is twenty years old."
+  translations:
+    de: ["das Jahr"]
+  example_translations:
+    de: "Sie ist zwanzig Jahre alt."
+
+- id: "yesterday"
+  lemma: "yesterday"
+  pos: adverb
+  level: A1
+  ipa: "/ˈjes.tə.deɪ/"
+  example: "I was at home yesterday."
+  translations:
+    de: ["gestern"]
+  example_translations:
+    de: "Gestern war ich zu Hause."
+
+- id: "yet-adverb"
+  lemma: "yet"
+  pos: adverb
+  level: A2
+  ipa: "/jet/"
+  example: "Have you finished yet?"
+  translations:
+    de: ["noch", "schon"]
+  example_translations:
+    de: "Bist du schon fertig?"

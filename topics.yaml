@@ -1,0 +1,141 @@
+# Themen: Der Dateiname unter words/<sprache>/ ist der Slug. Namen je Basissprache.
+
+- slug: "basics"
+  icon: "👋"
+  names:
+    de: "Grundlagen"
+
+- slug: "people"
+  icon: "👪"
+  names:
+    de: "Menschen & Familie"
+
+- slug: "food"
+  icon: "🍎"
+  names:
+    de: "Essen & Trinken"
+
+- slug: "home"
+  icon: "🏠"
+  names:
+    de: "Zuhause"
+
+- slug: "body"
+  icon: "🫀"
+  names:
+    de: "Körper & Gesundheit"
+
+- slug: "clothes"
+  icon: "👕"
+  names:
+    de: "Kleidung"
+
+- slug: "colors"
+  icon: "🎨"
+  names:
+    de: "Farben"
+
+- slug: "numbers"
+  icon: "🔢"
+  names:
+    de: "Zahlen"
+
+- slug: "time"
+  icon: "⏰"
+  names:
+    de: "Zeit & Kalender"
+
+- slug: "weather"
+  icon: "🌦️"
+  names:
+    de: "Wetter & Natur"
+
+- slug: "animals"
+  icon: "🐾"
+  names:
+    de: "Tiere"
+
+- slug: "travel"
+  icon: "✈️"
+  names:
+    de: "Reisen & Verkehr"
+
+- slug: "city"
+  icon: "🏙️"
+  names:
+    de: "Stadt & Orte"
+
+- slug: "school"
+  icon: "📚"
+  names:
+    de: "Schule & Lernen"
+
+- slug: "work"
+  icon: "💼"
+  names:
+    de: "Arbeit & Berufe"
+
+- slug: "hobbies"
+  icon: "⚽"
+  names:
+    de: "Freizeit & Hobbys"
+
+- slug: "shopping"
+  icon: "🛒"
+  names:
+    de: "Einkaufen & Geld"
+
+- slug: "feelings"
+  icon: "😊"
+  names:
+    de: "Gefühle"
+
+- slug: "technology"
+  icon: "💻"
+  names:
+    de: "Technik & Medien"
+
+- slug: "actions"
+  icon: "🏃"
+  names:
+    de: "Alltägliche Verben"
+
+- slug: "descriptions"
+  icon: "✨"
+  names:
+    de: "Eigenschaften"
+
+- slug: "function"
+  icon: "🔗"
+  names:
+    de: "Funktionswörter"
+
+- slug: "communication"
+  icon: "💬"
+  names:
+    de: "Sprache & Kommunikation"
+
+- slug: "mind"
+  icon: "🧠"
+  names:
+    de: "Denken & Meinung"
+
+- slug: "society"
+  icon: "🏛️"
+  names:
+    de: "Gesellschaft & Politik"
+
+- slug: "science"
+  icon: "🔬"
+  names:
+    de: "Wissenschaft & Forschung"
+
+- slug: "culture"
+  icon: "🎭"
+  names:
+    de: "Kunst & Kultur"
+
+- slug: "general"
+  icon: "🧩"
+  names:
+    de: "Allgemeine Begriffe"

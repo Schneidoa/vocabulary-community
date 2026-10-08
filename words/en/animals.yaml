@@ -1,0 +1,398 @@
+# 🐾 Tiere – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "animal"
+  lemma: "animal"
+  pos: noun
+  level: A1
+  ipa: "/ˈæn.ɪ.məl/"
+  example: "What is your favourite animal?"
+  translations:
+    de: ["das Tier"]
+  example_translations:
+    de: "Was ist dein Lieblingstier?"
+
+- id: "bear-noun"
+  lemma: "bear"
+  pos: noun
+  level: A2
+  ipa: "/beər/"
+  example: "We saw a bear in the forest."
+  translations:
+    de: ["der Bär"]
+  example_translations:
+    de: "Wir haben einen Bären im Wald gesehen."
+
+- id: "bee"
+  lemma: "bee"
+  pos: noun
+  level: B1
+  ipa: "/biː/"
+  example: "A bee stung me."
+  translations:
+    de: ["die Biene"]
+  example_translations:
+    de: "Eine Biene hat mich gestochen."
+
+- id: "bird"
+  lemma: "bird"
+  pos: noun
+  level: A1
+  ipa: "/bɜːd/"
+  example: "A bird is singing."
+  translations:
+    de: ["der Vogel"]
+  example_translations:
+    de: "Ein Vogel singt."
+
+- id: "cat"
+  lemma: "cat"
+  pos: noun
+  level: A1
+  ipa: "/kæt/"
+  example: "The cat sleeps on the sofa."
+  translations:
+    de: ["die Katze"]
+  example_translations:
+    de: "Die Katze schläft auf dem Sofa."
+
+- id: "cow"
+  lemma: "cow"
+  pos: noun
+  level: A1
+  ipa: "/kaʊ/"
+  example: "The cow gives milk."
+  translations:
+    de: ["die Kuh"]
+  example_translations:
+    de: "Die Kuh gibt Milch."
+
+- id: "creature"
+  lemma: "creature"
+  pos: noun
+  level: B2
+  ipa: "/ˈkriː.tʃər/"
+  example: "Strange creatures live in the sea."
+  translations:
+    de: ["das Lebewesen", "das Geschöpf"]
+  example_translations:
+    de: "Im Meer leben seltsame Lebewesen."
+
+- id: "dog"
+  lemma: "dog"
+  pos: noun
+  level: A1
+  ipa: "/dɒɡ/"
+  example: "The dog is barking."
+  translations:
+    de: ["der Hund"]
+  example_translations:
+    de: "Der Hund bellt."
+
+- id: "duck"
+  lemma: "duck"
+  pos: noun
+  level: A2
+  ipa: "/dʌk/"
+  example: "The ducks are swimming on the lake."
+  translations:
+    de: ["die Ente"]
+  example_translations:
+    de: "Die Enten schwimmen auf dem See."
+
+- id: "elephant"
+  lemma: "elephant"
+  pos: noun
+  level: A1
+  ipa: "/ˈel.ɪ.fənt/"
+  example: "The elephant is a huge animal."
+  translations:
+    de: ["der Elefant"]
+  example_translations:
+    de: "Der Elefant ist ein riesiges Tier."
+
+- id: "farm-noun"
+  lemma: "farm"
+  pos: noun
+  level: A1
+  ipa: "/fɑːm/"
+  example: "My uncle has a farm."
+  translations:
+    de: ["der Bauernhof", "die Farm"]
+  example_translations:
+    de: "Mein Onkel hat einen Bauernhof."
+
+- id: "feather"
+  lemma: "feather"
+  pos: noun
+  level: B2
+  ipa: "/ˈfeð.ər/"
+  example: "The bird has blue feathers."
+  translations:
+    de: ["die Feder"]
+  example_translations:
+    de: "Der Vogel hat blaue Federn."
+
+- id: "feed-verb"
+  lemma: "feed"
+  pos: verb
+  level: A2
+  ipa: "/fiːd/"
+  example: "Don't forget to feed the cat."
+  translations:
+    de: ["füttern", "ernähren"]
+  example_translations:
+    de: "Vergiss nicht, die Katze zu füttern."
+
+- id: "female-noun"
+  lemma: "female"
+  pos: noun
+  level: A2
+  ipa: "/ˈfiː.meɪl/"
+  example: "The female lays the eggs."
+  translations:
+    de: ["das Weibchen", "die Frau"]
+  example_translations:
+    de: "Das Weibchen legt die Eier."
+
+- id: "fly-noun"
+  lemma: "fly"
+  pos: noun
+  level: A2
+  ipa: "/flaɪ/"
+  example: "There's a fly in my soup!"
+  translations:
+    de: ["die Fliege"]
+  example_translations:
+    de: "In meiner Suppe ist eine Fliege!"
+
+- id: "frog"
+  lemma: "frog"
+  pos: noun
+  level: A2
+  ipa: "/frɒɡ/"
+  example: "There is a frog in the pond."
+  translations:
+    de: ["der Frosch"]
+  example_translations:
+    de: "Im Teich ist ein Frosch."
+
+- id: "fur"
+  lemma: "fur"
+  pos: noun
+  level: B1
+  ipa: "/fɜːr/"
+  example: "The cat has soft fur."
+  translations:
+    de: ["das Fell", "der Pelz"]
+  example_translations:
+    de: "Die Katze hat ein weiches Fell."
+
+- id: "horse"
+  lemma: "horse"
+  pos: noun
+  level: A1
+  ipa: "/hɔːs/"
+  example: "She rides a horse."
+  translations:
+    de: ["das Pferd"]
+  example_translations:
+    de: "Sie reitet ein Pferd."
+
+- id: "hunt-verb"
+  lemma: "hunt"
+  pos: verb
+  level: B1
+  ipa: "/hʌnt/"
+  example: "Lions hunt at night."
+  translations:
+    de: ["jagen", "suchen"]
+  example_translations:
+    de: "Löwen jagen nachts."
+
+- id: "insect"
+  lemma: "insect"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.sekt/"
+  example: "Ants are insects."
+  translations:
+    de: ["das Insekt"]
+  example_translations:
+    de: "Ameisen sind Insekten."
+
+- id: "lion"
+  lemma: "lion"
+  pos: noun
+  level: A1
+  ipa: "/ˈlaɪ.ən/"
+  example: "The lion is the king of the jungle."
+  translations:
+    de: ["der Löwe"]
+  example_translations:
+    de: "Der Löwe ist der König des Dschungels."
+
+- id: "male-noun"
+  lemma: "male"
+  pos: noun
+  level: A2
+  ipa: "/meɪl/"
+  example: "The male has bright feathers."
+  translations:
+    de: ["das Männchen", "der Mann"]
+  example_translations:
+    de: "Das Männchen hat leuchtende Federn."
+
+- id: "monkey"
+  lemma: "monkey"
+  pos: noun
+  level: A2
+  ipa: "/ˈmʌŋ.ki/"
+  example: "The monkey is eating a banana."
+  translations:
+    de: ["der Affe"]
+  example_translations:
+    de: "Der Affe isst eine Banane."
+
+- id: "mouse"
+  lemma: "mouse"
+  pos: noun
+  level: A2
+  ipa: "/maʊs/"
+  example: "The cat is chasing a mouse."
+  translations:
+    de: ["die Maus"]
+  example_translations:
+    de: "Die Katze jagt eine Maus."
+
+- id: "pet"
+  lemma: "pet"
+  pos: noun
+  level: A2
+  ipa: "/pet/"
+  example: "Do you have any pets?"
+  translations:
+    de: ["das Haustier"]
+  example_translations:
+    de: "Hast du Haustiere?"
+
+- id: "pig"
+  lemma: "pig"
+  pos: noun
+  level: A2
+  ipa: "/pɪɡ/"
+  example: "The farmer has ten pigs."
+  translations:
+    de: ["das Schwein"]
+  example_translations:
+    de: "Der Bauer hat zehn Schweine."
+
+- id: "rabbit"
+  lemma: "rabbit"
+  pos: noun
+  level: A2
+  ipa: "/ˈræb.ɪt/"
+  example: "My sister has a pet rabbit."
+  translations:
+    de: ["das Kaninchen", "der Hase"]
+  example_translations:
+    de: "Meine Schwester hat ein Kaninchen."
+
+- id: "sheep"
+  lemma: "sheep"
+  pos: noun
+  level: A2
+  ipa: "/ʃiːp/"
+  example: "There are sheep on the hill."
+  translations:
+    de: ["das Schaf"]
+  example_translations:
+    de: "Auf dem Hügel sind Schafe."
+
+- id: "shell"
+  lemma: "shell"
+  pos: noun
+  level: B1
+  ipa: "/ʃel/"
+  example: "We collected shells on the beach."
+  translations:
+    de: ["die Muschel", "die Schale", "das Gehäuse"]
+  example_translations:
+    de: "Wir haben am Strand Muscheln gesammelt."
+
+- id: "snake"
+  lemma: "snake"
+  pos: noun
+  level: A1
+  ipa: "/sneɪk/"
+  example: "I'm afraid of snakes."
+  translations:
+    de: ["die Schlange"]
+  example_translations:
+    de: "Ich habe Angst vor Schlangen."
+
+- id: "species"
+  lemma: "species"
+  pos: noun
+  level: B2
+  ipa: "/ˈspiː.ʃiːz/"
+  example: "This species is in danger."
+  translations:
+    de: ["die Art", "die Spezies"]
+  example_translations:
+    de: "Diese Art ist vom Aussterben bedroht."
+
+- id: "spider"
+  lemma: "spider"
+  pos: noun
+  level: A2
+  ipa: "/ˈspaɪ.dər/"
+  example: "There's a spider in the bath."
+  translations:
+    de: ["die Spinne"]
+  example_translations:
+    de: "In der Badewanne ist eine Spinne."
+
+- id: "tail"
+  lemma: "tail"
+  pos: noun
+  level: B1
+  ipa: "/teɪl/"
+  example: "The dog is wagging its tail."
+  translations:
+    de: ["der Schwanz"]
+  example_translations:
+    de: "Der Hund wedelt mit dem Schwanz."
+
+- id: "wild"
+  lemma: "wild"
+  pos: adjective
+  level: A2
+  ipa: "/waɪld/"
+  example: "We saw wild animals."
+  translations:
+    de: ["wild"]
+  example_translations:
+    de: "Wir haben wilde Tiere gesehen."
+
+- id: "wildlife"
+  lemma: "wildlife"
+  pos: noun
+  level: B2
+  ipa: "/ˈwaɪld.laɪf/"
+  example: "The island is famous for its wildlife."
+  translations:
+    de: ["die Tierwelt", "wild lebende Tiere"]
+  example_translations:
+    de: "Die Insel ist berühmt für ihre Tierwelt."
+
+- id: "wing"
+  lemma: "wing"
+  pos: noun
+  level: B1
+  ipa: "/wɪŋ/"
+  example: "The bird hurt its wing."
+  translations:
+    de: ["der Flügel"]
+  example_translations:
+    de: "Der Vogel hat sich den Flügel verletzt."

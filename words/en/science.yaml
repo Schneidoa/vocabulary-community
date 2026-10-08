@@ -1,0 +1,695 @@
+# 🔬 Wissenschaft & Forschung – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "analyse"
+  lemma: "analyse"
+  pos: verb
+  level: B1
+  ipa: "/ˈæn.əl.aɪz/"
+  example: "We need to analyse the results."
+  translations:
+    de: ["analysieren", "untersuchen"]
+  example_translations:
+    de: "Wir müssen die Ergebnisse analysieren."
+
+- id: "analysis"
+  lemma: "analysis"
+  pos: noun
+  level: B1
+  ipa: "/əˈnæl.ə.sɪs/"
+  example: "The analysis took two weeks."
+  translations:
+    de: ["die Analyse", "die Untersuchung"]
+  example_translations:
+    de: "Die Analyse dauerte zwei Wochen."
+
+- id: "angle"
+  lemma: "angle"
+  pos: noun
+  level: B2
+  ipa: "/ˈæŋ.ɡəl/"
+  example: "Look at it from a different angle."
+  translations:
+    de: ["der Winkel", "der Blickwinkel"]
+  example_translations:
+    de: "Betrachte es aus einem anderen Blickwinkel."
+
+- id: "bacteria"
+  lemma: "bacteria"
+  pos: noun
+  level: B2
+  ipa: "/bækˈtɪə.ri.ə/"
+  example: "Wash your hands to kill bacteria."
+  translations:
+    de: ["die Bakterien"]
+  example_translations:
+    de: "Wasch dir die Hände, um Bakterien abzutöten."
+
+- id: "cell"
+  lemma: "cell"
+  pos: noun
+  level: B2
+  ipa: "/sel/"
+  example: "The body is made of millions of cells."
+  translations:
+    de: ["die Zelle"]
+  example_translations:
+    de: "Der Körper besteht aus Millionen von Zellen."
+
+- id: "chart-verb"
+  lemma: "chart"
+  pos: verb
+  level: B2
+  ipa: "/tʃɑːt/"
+  example: "The study charts the changes in climate."
+  translations:
+    de: ["aufzeichnen", "darstellen"]
+  example_translations:
+    de: "Die Studie zeichnet die Klimaveränderungen auf."
+
+- id: "chemical-adjective"
+  lemma: "chemical"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkem.ɪ.kəl/"
+  example: "There was a chemical reaction."
+  translations:
+    de: ["chemisch"]
+  example_translations:
+    de: "Es gab eine chemische Reaktion."
+
+- id: "chemical-noun"
+  lemma: "chemical"
+  pos: noun
+  level: B1
+  ipa: "/ˈkem.ɪ.kəl/"
+  example: "Don't use dangerous chemicals."
+  translations:
+    de: ["die Chemikalie"]
+  example_translations:
+    de: "Verwende keine gefährlichen Chemikalien."
+
+- id: "coal"
+  lemma: "coal"
+  pos: noun
+  level: B1
+  ipa: "/kəʊl/"
+  example: "The power station burns coal."
+  translations:
+    de: ["die Kohle"]
+  example_translations:
+    de: "Das Kraftwerk verbrennt Kohle."
+
+- id: "component"
+  lemma: "component"
+  pos: noun
+  level: B2
+  ipa: "/kəmˈpəʊ.nənt/"
+  example: "The machine has many components."
+  translations:
+    de: ["der Bestandteil", "die Komponente"]
+  example_translations:
+    de: "Die Maschine hat viele Bestandteile."
+
+- id: "conduct-verb"
+  lemma: "conduct"
+  pos: verb
+  level: B2
+  ipa: "/kənˈdʌkt/"
+  example: "They conducted a survey."
+  translations:
+    de: ["durchführen", "leiten", "dirigieren"]
+  example_translations:
+    de: "Sie führten eine Umfrage durch."
+
+- id: "detect"
+  lemma: "detect"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈtekt/"
+  example: "The test can detect the disease early."
+  translations:
+    de: ["entdecken", "feststellen", "erkennen"]
+  example_translations:
+    de: "Der Test kann die Krankheit früh erkennen."
+
+- id: "discovery"
+  lemma: "discovery"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈskʌv.ər.i/"
+  example: "It was an important scientific discovery."
+  translations:
+    de: ["die Entdeckung"]
+  example_translations:
+    de: "Es war eine wichtige wissenschaftliche Entdeckung."
+
+- id: "earth"
+  lemma: "earth"
+  pos: noun
+  level: A2
+  ipa: "/ɜːθ/"
+  example: "The earth goes around the sun."
+  translations:
+    de: ["die Erde"]
+  example_translations:
+    de: "Die Erde dreht sich um die Sonne."
+
+- id: "element"
+  lemma: "element"
+  pos: noun
+  level: B1
+  ipa: "/ˈel.ɪ.mənt/"
+  example: "Oxygen is a chemical element."
+  translations:
+    de: ["das Element", "der Bestandteil"]
+  example_translations:
+    de: "Sauerstoff ist ein chemisches Element."
+
+- id: "energy"
+  lemma: "energy"
+  pos: noun
+  level: A2
+  ipa: "/ˈen.ə.dʒi/"
+  example: "I have no energy today."
+  translations:
+    de: ["die Energie", "die Kraft"]
+  example_translations:
+    de: "Ich habe heute keine Energie."
+
+- id: "engineering"
+  lemma: "engineering"
+  pos: noun
+  level: B1
+  ipa: "/ˌen.dʒɪˈnɪə.rɪŋ/"
+  example: "He studies engineering."
+  translations:
+    de: ["das Ingenieurwesen", "die Technik"]
+  example_translations:
+    de: "Er studiert Ingenieurwesen."
+
+- id: "examine"
+  lemma: "examine"
+  pos: verb
+  level: B1
+  ipa: "/ɪɡˈzæm.ɪn/"
+  example: "The doctor examined my leg."
+  translations:
+    de: ["untersuchen", "prüfen"]
+  example_translations:
+    de: "Der Arzt untersuchte mein Bein."
+
+- id: "experiment-noun"
+  lemma: "experiment"
+  pos: noun
+  level: A2
+  ipa: "/ɪkˈsper.ɪ.mənt/"
+  example: "We did an experiment in class."
+  translations:
+    de: ["das Experiment", "der Versuch"]
+  example_translations:
+    de: "Wir haben im Unterricht ein Experiment gemacht."
+
+- id: "experiment-verb"
+  lemma: "experiment"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈsper.ɪ.ment/"
+  example: "I like to experiment with new recipes."
+  translations:
+    de: ["experimentieren"]
+  example_translations:
+    de: "Ich experimentiere gern mit neuen Rezepten."
+
+- id: "finding"
+  lemma: "finding"
+  pos: noun
+  level: B2
+  ipa: "/ˈfaɪn.dɪŋ/"
+  example: "The findings of the study are surprising."
+  translations:
+    de: ["das Ergebnis", "der Befund"]
+  example_translations:
+    de: "Die Ergebnisse der Studie sind überraschend."
+
+- id: "force-noun"
+  lemma: "force"
+  pos: noun
+  level: B1
+  ipa: "/fɔːs/"
+  example: "They used force to open the door."
+  translations:
+    de: ["die Kraft", "die Gewalt", "die Streitkräfte"]
+  example_translations:
+    de: "Sie öffneten die Tür mit Gewalt."
+
+- id: "generate"
+  lemma: "generate"
+  pos: verb
+  level: B2
+  ipa: "/ˈdʒen.ər.eɪt/"
+  example: "Wind is used to generate electricity."
+  translations:
+    de: ["erzeugen", "generieren"]
+  example_translations:
+    de: "Wind wird zur Stromerzeugung genutzt."
+
+- id: "institute"
+  lemma: "institute"
+  pos: noun
+  level: B2
+  ipa: "/ˈɪn.stɪ.tʃuːt/"
+  example: "She works at a research institute."
+  translations:
+    de: ["das Institut"]
+  example_translations:
+    de: "Sie arbeitet an einem Forschungsinstitut."
+
+- id: "invent"
+  lemma: "invent"
+  pos: verb
+  level: A2
+  ipa: "/ɪnˈvent/"
+  example: "Who invented the telephone?"
+  translations:
+    de: ["erfinden"]
+  example_translations:
+    de: "Wer hat das Telefon erfunden?"
+
+- id: "invention"
+  lemma: "invention"
+  pos: noun
+  level: A2
+  ipa: "/ɪnˈven.ʃən/"
+  example: "The internet is a great invention."
+  translations:
+    de: ["die Erfindung"]
+  example_translations:
+    de: "Das Internet ist eine großartige Erfindung."
+
+- id: "journal"
+  lemma: "journal"
+  pos: noun
+  level: B1
+  ipa: "/ˈdʒɜː.nəl/"
+  example: "She published an article in a medical journal."
+  translations:
+    de: ["die Fachzeitschrift", "das Tagebuch"]
+  example_translations:
+    de: "Sie veröffentlichte einen Artikel in einer medizinischen Fachzeitschrift."
+
+- id: "lab"
+  lemma: "lab"
+  pos: noun
+  level: A2
+  ipa: "/læb/"
+  example: "We did experiments in the lab."
+  translations:
+    de: ["das Labor"]
+  example_translations:
+    de: "Wir haben im Labor Experimente gemacht."
+
+- id: "laboratory"
+  lemma: "laboratory"
+  pos: noun
+  level: B1
+  ipa: "/ləˈbɒr.ə.tər.i/"
+  example: "The samples were sent to a laboratory."
+  translations:
+    de: ["das Labor"]
+  example_translations:
+    de: "Die Proben wurden in ein Labor geschickt."
+
+- id: "liquid-adjective"
+  lemma: "liquid"
+  pos: adjective
+  level: B1
+  ipa: "/ˈlɪk.wɪd/"
+  example: "Use liquid soap."
+  translations:
+    de: ["flüssig"]
+  example_translations:
+    de: "Benutze Flüssigseife."
+
+- id: "liquid-noun"
+  lemma: "liquid"
+  pos: noun
+  level: B1
+  ipa: "/ˈlɪk.wɪd/"
+  example: "You can't take liquids on the plane."
+  translations:
+    de: ["die Flüssigkeit"]
+  example_translations:
+    de: "Du darfst keine Flüssigkeiten mit ins Flugzeug nehmen."
+
+- id: "metal"
+  lemma: "metal"
+  pos: noun
+  level: A2
+  ipa: "/ˈmet.əl/"
+  example: "The chair is made of metal."
+  translations:
+    de: ["das Metall"]
+  example_translations:
+    de: "Der Stuhl ist aus Metall."
+
+- id: "mineral"
+  lemma: "mineral"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɪn.ər.əl/"
+  example: "Fruit contains vitamins and minerals."
+  translations:
+    de: ["das Mineral"]
+  example_translations:
+    de: "Obst enthält Vitamine und Mineralstoffe."
+
+- id: "monitor-verb"
+  lemma: "monitor"
+  pos: verb
+  level: B2
+  ipa: "/ˈmɒn.ɪ.tər/"
+  example: "Doctors are monitoring his condition."
+  translations:
+    de: ["überwachen", "beobachten"]
+  example_translations:
+    de: "Die Ärzte überwachen seinen Zustand."
+
+- id: "moon"
+  lemma: "moon"
+  pos: noun
+  level: A2
+  ipa: "/muːn/"
+  example: "The moon is full tonight."
+  translations:
+    de: ["der Mond"]
+  example_translations:
+    de: "Heute Nacht ist Vollmond."
+
+- id: "nuclear"
+  lemma: "nuclear"
+  pos: adjective
+  level: B1
+  ipa: "/ˈnjuː.kli.ər/"
+  example: "They want to close the nuclear power station."
+  translations:
+    de: ["Atom-", "nuklear"]
+  example_translations:
+    de: "Sie wollen das Atomkraftwerk schließen."
+
+- id: "observation"
+  lemma: "observation"
+  pos: noun
+  level: B2
+  ipa: "/ˌɒb.zəˈveɪ.ʃən/"
+  example: "He is in hospital for observation."
+  translations:
+    de: ["die Beobachtung", "die Bemerkung"]
+  example_translations:
+    de: "Er liegt zur Beobachtung im Krankenhaus."
+
+- id: "observe"
+  lemma: "observe"
+  pos: verb
+  level: B2
+  ipa: "/əbˈzɜːv/"
+  example: "We observed the birds."
+  translations:
+    de: ["beobachten", "bemerken"]
+  example_translations:
+    de: "Wir haben die Vögel beobachtet."
+
+- id: "phenomenon"
+  lemma: "phenomenon"
+  pos: noun
+  level: B2
+  ipa: "/fəˈnɒm.ɪ.nən/"
+  example: "Rainbows are a natural phenomenon."
+  translations:
+    de: ["das Phänomen", "die Erscheinung"]
+  example_translations:
+    de: "Regenbögen sind ein Naturphänomen."
+
+- id: "planet"
+  lemma: "planet"
+  pos: noun
+  level: A2
+  ipa: "/ˈplæn.ɪt/"
+  example: "Mars is the red planet."
+  translations:
+    de: ["der Planet"]
+  example_translations:
+    de: "Der Mars ist der rote Planet."
+
+- id: "plastic-noun"
+  lemma: "plastic"
+  pos: noun
+  level: A2
+  ipa: "/ˈplæs.tɪk/"
+  example: "The toy is made of plastic."
+  translations:
+    de: ["das Plastik", "der Kunststoff"]
+  example_translations:
+    de: "Das Spielzeug ist aus Plastik."
+
+- id: "poison-noun"
+  lemma: "poison"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɔɪ.zən/"
+  example: "This is rat poison."
+  translations:
+    de: ["das Gift"]
+  example_translations:
+    de: "Das ist Rattengift."
+
+- id: "psychology"
+  lemma: "psychology"
+  pos: noun
+  level: B2
+  ipa: "/saɪˈkɒl.ə.dʒi/"
+  example: "He studies psychology."
+  translations:
+    de: ["die Psychologie"]
+  example_translations:
+    de: "Er studiert Psychologie."
+
+- id: "renewable"
+  lemma: "renewable"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈnjuː.ə.bəl/"
+  example: "Wind is a renewable energy source."
+  translations:
+    de: ["erneuerbar"]
+  example_translations:
+    de: "Wind ist eine erneuerbare Energiequelle."
+
+- id: "research-noun"
+  lemma: "research"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈsɜːtʃ/"
+  example: "She does research on cancer."
+  translations:
+    de: ["die Forschung", "die Recherche"]
+  example_translations:
+    de: "Sie forscht über Krebs."
+
+- id: "research-verb"
+  lemma: "research"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈsɜːtʃ/"
+  example: "I researched the topic online."
+  translations:
+    de: ["forschen", "recherchieren"]
+  example_translations:
+    de: "Ich habe das Thema online recherchiert."
+
+- id: "researcher"
+  lemma: "researcher"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈsɜː.tʃər/"
+  example: "The researchers made an important discovery."
+  translations:
+    de: ["der Forscher", "die Forscherin"]
+  example_translations:
+    de: "Die Forscher machten eine wichtige Entdeckung."
+
+- id: "sample-noun"
+  lemma: "sample"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɑːm.pəl/"
+  example: "The doctor took a blood sample."
+  translations:
+    de: ["die Probe", "das Muster"]
+  example_translations:
+    de: "Der Arzt nahm eine Blutprobe."
+
+- id: "satellite"
+  lemma: "satellite"
+  pos: noun
+  level: B2
+  ipa: "/ˈsæt.əl.aɪt/"
+  example: "The signal comes from a satellite."
+  translations:
+    de: ["der Satellit"]
+  example_translations:
+    de: "Das Signal kommt von einem Satelliten."
+
+- id: "science"
+  lemma: "science"
+  pos: noun
+  level: A1
+  ipa: "/ˈsaɪ.əns/"
+  example: "I'm good at science."
+  translations:
+    de: ["die Wissenschaft", "die Naturwissenschaft"]
+  example_translations:
+    de: "Ich bin gut in Naturwissenschaften."
+
+- id: "scientific"
+  lemma: "scientific"
+  pos: adjective
+  level: B1
+  ipa: "/ˌsaɪ.ənˈtɪf.ɪk/"
+  example: "There is no scientific evidence."
+  translations:
+    de: ["wissenschaftlich"]
+  example_translations:
+    de: "Es gibt keinen wissenschaftlichen Beweis."
+
+- id: "scientist"
+  lemma: "scientist"
+  pos: noun
+  level: A1
+  ipa: "/ˈsaɪ.ən.tɪst/"
+  example: "She is a famous scientist."
+  translations:
+    de: ["der Wissenschaftler", "die Wissenschaftlerin"]
+  example_translations:
+    de: "Sie ist eine berühmte Wissenschaftlerin."
+
+- id: "solar"
+  lemma: "solar"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsəʊ.lər/"
+  example: "We have solar panels on our roof."
+  translations:
+    de: ["Solar-", "Sonnen-"]
+  example_translations:
+    de: "Wir haben Solarmodule auf dem Dach."
+
+- id: "solid-noun"
+  lemma: "solid"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɒl.ɪd/"
+  example: "Ice is a solid."
+  translations:
+    de: ["der Feststoff", "feste Nahrung"]
+  example_translations:
+    de: "Eis ist ein Feststoff."
+
+- id: "space"
+  lemma: "space"
+  pos: noun
+  level: A1
+  ipa: "/speɪs/"
+  example: "There's no space in the car."
+  translations:
+    de: ["der Platz", "der Raum", "der Weltraum"]
+  example_translations:
+    de: "Im Auto ist kein Platz."
+
+- id: "star-noun"
+  lemma: "star"
+  pos: noun
+  level: A1
+  ipa: "/stɑːr/"
+  example: "Look at the stars!"
+  translations:
+    de: ["der Stern", "der Star"]
+  example_translations:
+    de: "Schau dir die Sterne an!"
+
+- id: "steel"
+  lemma: "steel"
+  pos: noun
+  level: B2
+  ipa: "/stiːl/"
+  example: "The bridge is made of steel."
+  translations:
+    de: ["der Stahl"]
+  example_translations:
+    de: "Die Brücke ist aus Stahl."
+
+- id: "study-noun"
+  lemma: "study"
+  pos: noun
+  level: A1
+  ipa: "/ˈstʌd.i/"
+  example: "A new study shows that coffee is healthy."
+  translations:
+    de: ["die Studie", "das Studium", "das Arbeitszimmer"]
+  example_translations:
+    de: "Eine neue Studie zeigt, dass Kaffee gesund ist."
+
+- id: "substance"
+  lemma: "substance"
+  pos: noun
+  level: B1
+  ipa: "/ˈsʌb.stəns/"
+  example: "This is a dangerous substance."
+  translations:
+    de: ["die Substanz", "der Stoff"]
+  example_translations:
+    de: "Das ist ein gefährlicher Stoff."
+
+- id: "survey-noun"
+  lemma: "survey"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɜː.veɪ/"
+  example: "We did a survey in class."
+  translations:
+    de: ["die Umfrage", "die Untersuchung"]
+  example_translations:
+    de: "Wir haben in der Klasse eine Umfrage gemacht."
+
+- id: "survey-verb"
+  lemma: "survey"
+  pos: verb
+  level: B2
+  ipa: "/səˈveɪ/"
+  example: "We surveyed 100 students."
+  translations:
+    de: ["befragen", "begutachten"]
+  example_translations:
+    de: "Wir haben 100 Studenten befragt."
+
+- id: "theory"
+  lemma: "theory"
+  pos: noun
+  level: B1
+  ipa: "/ˈθɪə.ri/"
+  example: "In theory, it should work."
+  translations:
+    de: ["die Theorie"]
+  example_translations:
+    de: "Theoretisch sollte es funktionieren."
+
+- id: "universe"
+  lemma: "universe"
+  pos: noun
+  level: B2
+  ipa: "/ˈjuː.nɪ.vɜːs/"
+  example: "The universe is huge."
+  translations:
+    de: ["das Universum", "das Weltall"]
+  example_translations:
+    de: "Das Universum ist riesig."

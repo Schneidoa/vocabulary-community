@@ -1,0 +1,1201 @@
+# 🛒 Einkaufen & Geld – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "account-noun"
+  lemma: "account"
+  pos: noun
+  level: B1
+  ipa: "/əˈkaʊnt/"
+  example: "I opened a bank account."
+  translations:
+    de: ["das Konto"]
+  example_translations:
+    de: "Ich habe ein Bankkonto eröffnet."
+
+- id: "afford"
+  lemma: "afford"
+  pos: verb
+  level: B1
+  ipa: "/əˈfɔːd/"
+  example: "We can't afford a new car."
+  translations:
+    de: ["sich leisten"]
+  example_translations:
+    de: "Wir können uns kein neues Auto leisten."
+
+- id: "bag"
+  lemma: "bag"
+  pos: noun
+  level: A1
+  ipa: "/bæɡ/"
+  example: "Can I have a bag, please?"
+  translations:
+    de: ["die Tasche", "die Tüte"]
+  example_translations:
+    de: "Kann ich bitte eine Tüte haben?"
+
+- id: "bill-noun"
+  lemma: "bill"
+  pos: noun
+  level: A1
+  ipa: "/bɪl/"
+  example: "Can we have the bill, please?"
+  translations:
+    de: ["die Rechnung"]
+  example_translations:
+    de: "Können wir bitte die Rechnung haben?"
+
+- id: "bill-verb"
+  lemma: "bill"
+  pos: verb
+  level: B2
+  ipa: "/bɪl/"
+  example: "They will bill you later."
+  translations:
+    de: ["eine Rechnung schicken", "in Rechnung stellen"]
+  example_translations:
+    de: "Sie schicken Ihnen später eine Rechnung."
+
+- id: "brand-noun"
+  lemma: "brand"
+  pos: noun
+  level: B1
+  ipa: "/brænd/"
+  example: "What brand of coffee do you buy?"
+  translations:
+    de: ["die Marke"]
+  example_translations:
+    de: "Welche Kaffeemarke kaufst du?"
+
+- id: "brand-verb"
+  lemma: "brand"
+  pos: verb
+  level: B1
+  ipa: "/brænd/"
+  example: "The press branded him a liar."
+  translations:
+    de: ["abstempeln", "als Marke kennzeichnen"]
+  example_translations:
+    de: "Die Presse stempelte ihn als Lügner ab."
+
+- id: "budget"
+  lemma: "budget"
+  pos: noun
+  level: B2
+  ipa: "/ˈbʌdʒ.ɪt/"
+  example: "We have a small budget for the holiday."
+  translations:
+    de: ["das Budget", "der Etat"]
+  example_translations:
+    de: "Wir haben ein kleines Budget für den Urlaub."
+
+- id: "buy"
+  lemma: "buy"
+  pos: verb
+  level: A1
+  ipa: "/baɪ/"
+  example: "I want to buy a new phone."
+  translations:
+    de: ["kaufen"]
+  example_translations:
+    de: "Ich möchte ein neues Handy kaufen."
+
+- id: "card"
+  lemma: "card"
+  pos: noun
+  level: A1
+  ipa: "/kɑːd/"
+  example: "Can I pay by card?"
+  translations:
+    de: ["die Karte"]
+  example_translations:
+    de: "Kann ich mit Karte zahlen?"
+
+- id: "cash"
+  lemma: "cash"
+  pos: noun
+  level: A2
+  ipa: "/kæʃ/"
+  example: "I don't have any cash."
+  translations:
+    de: ["das Bargeld"]
+  example_translations:
+    de: "Ich habe kein Bargeld."
+
+- id: "cent"
+  lemma: "cent"
+  pos: noun
+  level: A1
+  ipa: "/sent/"
+  example: "It costs fifty cents."
+  translations:
+    de: ["der Cent"]
+  example_translations:
+    de: "Es kostet fünfzig Cent."
+
+- id: "charge-noun"
+  lemma: "charge"
+  pos: noun
+  level: B1
+  ipa: "/tʃɑːdʒ/"
+  example: "There is no charge for children."
+  translations:
+    de: ["die Gebühr", "die Anklage"]
+  example_translations:
+    de: "Für Kinder ist es kostenlos."
+
+- id: "charge-verb"
+  lemma: "charge"
+  pos: verb
+  level: B1
+  ipa: "/tʃɑːdʒ/"
+  example: "I need to charge my phone."
+  translations:
+    de: ["berechnen", "aufladen", "anklagen"]
+  example_translations:
+    de: "Ich muss mein Handy aufladen."
+
+- id: "cheap"
+  lemma: "cheap"
+  pos: adjective
+  level: A1
+  ipa: "/tʃiːp/"
+  example: "This shirt is cheap."
+  translations:
+    de: ["billig", "günstig"]
+  example_translations:
+    de: "Dieses Hemd ist billig."
+
+- id: "cigarette"
+  lemma: "cigarette"
+  pos: noun
+  level: A2
+  ipa: "/ˌsɪɡ.ərˈet/"
+  example: "He smokes ten cigarettes a day."
+  translations:
+    de: ["die Zigarette"]
+  example_translations:
+    de: "Er raucht zehn Zigaretten am Tag."
+
+- id: "coin"
+  lemma: "coin"
+  pos: noun
+  level: B1
+  ipa: "/kɔɪn/"
+  example: "I need some coins for the machine."
+  translations:
+    de: ["die Münze"]
+  example_translations:
+    de: "Ich brauche ein paar Münzen für den Automaten."
+
+- id: "consume"
+  lemma: "consume"
+  pos: verb
+  level: B1
+  ipa: "/kənˈsjuːm/"
+  example: "The car consumes a lot of fuel."
+  translations:
+    de: ["verbrauchen", "konsumieren"]
+  example_translations:
+    de: "Das Auto verbraucht viel Benzin."
+
+- id: "consumer"
+  lemma: "consumer"
+  pos: noun
+  level: B1
+  ipa: "/kənˈsjuː.mər/"
+  example: "Consumers want cheaper products."
+  translations:
+    de: ["der Verbraucher", "die Verbraucherin"]
+  example_translations:
+    de: "Die Verbraucher wollen günstigere Produkte."
+
+- id: "cost-noun"
+  lemma: "cost"
+  pos: noun
+  level: A1
+  ipa: "/kɒst/"
+  example: "The cost of living is high here."
+  translations:
+    de: ["die Kosten", "der Preis"]
+  example_translations:
+    de: "Die Lebenshaltungskosten sind hier hoch."
+
+- id: "cost-verb"
+  lemma: "cost"
+  pos: verb
+  level: A1
+  ipa: "/kɒst/"
+  example: "How much does it cost?"
+  translations:
+    de: ["kosten"]
+  example_translations:
+    de: "Wie viel kostet das?"
+
+- id: "credit-noun"
+  lemma: "credit"
+  pos: noun
+  level: A2
+  ipa: "/ˈkred.ɪt/"
+  example: "Can I pay by credit card?"
+  translations:
+    de: ["der Kredit", "die Anerkennung", "das Guthaben"]
+  example_translations:
+    de: "Kann ich mit Kreditkarte bezahlen?"
+
+- id: "credit-verb"
+  lemma: "credit"
+  pos: verb
+  level: B2
+  ipa: "/ˈkred.ɪt/"
+  example: "The money was credited to my account."
+  translations:
+    de: ["gutschreiben", "zuschreiben"]
+  example_translations:
+    de: "Das Geld wurde meinem Konto gutgeschrieben."
+
+- id: "currency"
+  lemma: "currency"
+  pos: noun
+  level: B1
+  ipa: "/ˈkʌr.ən.si/"
+  example: "What is the currency of Japan?"
+  translations:
+    de: ["die Währung"]
+  example_translations:
+    de: "Was ist die Währung von Japan?"
+
+- id: "customer"
+  lemma: "customer"
+  pos: noun
+  level: A2
+  ipa: "/ˈkʌs.tə.mər/"
+  example: "The shop has many customers."
+  translations:
+    de: ["der Kunde", "die Kundin"]
+  example_translations:
+    de: "Der Laden hat viele Kunden."
+
+- id: "debt"
+  lemma: "debt"
+  pos: noun
+  level: B2
+  ipa: "/det/"
+  example: "He is in debt."
+  translations:
+    de: ["die Schulden"]
+  example_translations:
+    de: "Er hat Schulden."
+
+- id: "deliver"
+  lemma: "deliver"
+  pos: verb
+  level: B1
+  ipa: "/dɪˈlɪv.ər/"
+  example: "They deliver pizza to your door."
+  translations:
+    de: ["liefern", "zustellen"]
+  example_translations:
+    de: "Sie liefern Pizza bis an die Haustür."
+
+- id: "delivery"
+  lemma: "delivery"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈlɪv.ər.i/"
+  example: "Delivery is free."
+  translations:
+    de: ["die Lieferung", "die Zustellung"]
+  example_translations:
+    de: "Die Lieferung ist kostenlos."
+
+- id: "diamond"
+  lemma: "diamond"
+  pos: noun
+  level: B1
+  ipa: "/ˈdaɪə.mənd/"
+  example: "The ring has a big diamond."
+  translations:
+    de: ["der Diamant"]
+  example_translations:
+    de: "Der Ring hat einen großen Diamanten."
+
+- id: "discount-noun"
+  lemma: "discount"
+  pos: noun
+  level: B1
+  ipa: "/ˈdɪs.kaʊnt/"
+  example: "Students get a 10% discount."
+  translations:
+    de: ["der Rabatt", "die Ermäßigung"]
+  example_translations:
+    de: "Studenten bekommen 10 % Rabatt."
+
+- id: "discount-verb"
+  lemma: "discount"
+  pos: verb
+  level: B2
+  ipa: "/dɪsˈkaʊnt/"
+  example: "All shoes are discounted this week."
+  translations:
+    de: ["reduzieren", "nicht berücksichtigen"]
+  example_translations:
+    de: "Alle Schuhe sind diese Woche reduziert."
+
+- id: "display-noun"
+  lemma: "display"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈspleɪ/"
+  example: "The shoes in the display are on sale."
+  translations:
+    de: ["die Auslage", "die Anzeige", "die Ausstellung"]
+  example_translations:
+    de: "Die Schuhe in der Auslage sind im Angebot."
+
+- id: "display-verb"
+  lemma: "display"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈspleɪ/"
+  example: "The museum displays old coins."
+  translations:
+    de: ["ausstellen", "anzeigen"]
+  example_translations:
+    de: "Das Museum stellt alte Münzen aus."
+
+- id: "dollar"
+  lemma: "dollar"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɒl.ər/"
+  example: "It costs twenty dollars."
+  translations:
+    de: ["der Dollar"]
+  example_translations:
+    de: "Es kostet zwanzig Dollar."
+
+- id: "euro"
+  lemma: "euro"
+  pos: noun
+  level: A1
+  ipa: "/ˈjʊə.rəʊ/"
+  example: "It costs five euros."
+  translations:
+    de: ["der Euro"]
+  example_translations:
+    de: "Es kostet fünf Euro."
+
+- id: "exchange-verb"
+  lemma: "exchange"
+  pos: verb
+  level: B1
+  ipa: "/ɪksˈtʃeɪndʒ/"
+  example: "Can I exchange this shirt?"
+  translations:
+    de: ["austauschen", "umtauschen", "wechseln"]
+  example_translations:
+    de: "Kann ich dieses Hemd umtauschen?"
+
+- id: "expense"
+  lemma: "expense"
+  pos: noun
+  level: B2
+  ipa: "/ɪkˈspens/"
+  example: "We had a lot of expenses this month."
+  translations:
+    de: ["die Ausgabe", "die Kosten"]
+  example_translations:
+    de: "Wir hatten diesen Monat viele Ausgaben."
+
+- id: "expensive"
+  lemma: "expensive"
+  pos: adjective
+  level: A1
+  ipa: "/ɪkˈspen.sɪv/"
+  example: "London is expensive."
+  translations:
+    de: ["teuer"]
+  example_translations:
+    de: "London ist teuer."
+
+- id: "extra-adverb"
+  lemma: "extra"
+  pos: adverb
+  level: B1
+  ipa: "/ˈek.strə/"
+  example: "You have to pay extra for breakfast."
+  translations:
+    de: ["extra", "zusätzlich"]
+  example_translations:
+    de: "Für das Frühstück musst du extra bezahlen."
+
+- id: "extra-noun"
+  lemma: "extra"
+  pos: noun
+  level: B1
+  ipa: "/ˈek.strə/"
+  example: "The car has a lot of extras."
+  translations:
+    de: ["das Extra", "die Zusatzleistung"]
+  example_translations:
+    de: "Das Auto hat viele Extras."
+
+- id: "fee"
+  lemma: "fee"
+  pos: noun
+  level: B2
+  ipa: "/fiː/"
+  example: "The entrance fee is five euros."
+  translations:
+    de: ["die Gebühr", "das Honorar"]
+  example_translations:
+    de: "Die Eintrittsgebühr beträgt fünf Euro."
+
+- id: "finance-noun"
+  lemma: "finance"
+  pos: noun
+  level: B2
+  ipa: "/ˈfaɪ.næns/"
+  example: "She works in finance."
+  translations:
+    de: ["die Finanzen", "das Finanzwesen"]
+  example_translations:
+    de: "Sie arbeitet im Finanzwesen."
+
+- id: "finance-verb"
+  lemma: "finance"
+  pos: verb
+  level: B2
+  ipa: "/ˈfaɪ.næns/"
+  example: "The project is financed by the state."
+  translations:
+    de: ["finanzieren"]
+  example_translations:
+    de: "Das Projekt wird vom Staat finanziert."
+
+- id: "financial"
+  lemma: "financial"
+  pos: adjective
+  level: B1
+  ipa: "/faɪˈnæn.ʃəl/"
+  example: "They have financial problems."
+  translations:
+    de: ["finanziell", "Finanz-"]
+  example_translations:
+    de: "Sie haben finanzielle Probleme."
+
+- id: "fortune"
+  lemma: "fortune"
+  pos: noun
+  level: B2
+  ipa: "/ˈfɔː.tʃuːn/"
+  example: "That car cost a fortune."
+  translations:
+    de: ["das Vermögen", "das Glück", "das Schicksal"]
+  example_translations:
+    de: "Das Auto hat ein Vermögen gekostet."
+
+- id: "free-adverb"
+  lemma: "free"
+  pos: adverb
+  level: A2
+  ipa: "/friː/"
+  example: "Children travel free."
+  translations:
+    de: ["kostenlos", "umsonst"]
+  example_translations:
+    de: "Kinder reisen kostenlos."
+
+- id: "fund-noun"
+  lemma: "fund"
+  pos: noun
+  level: B2
+  ipa: "/fʌnd/"
+  example: "We are collecting funds for the school."
+  translations:
+    de: ["der Fonds", "die Mittel"]
+  example_translations:
+    de: "Wir sammeln Geld für die Schule."
+
+- id: "fund-verb"
+  lemma: "fund"
+  pos: verb
+  level: B2
+  ipa: "/fʌnd/"
+  example: "The project is funded by the EU."
+  translations:
+    de: ["finanzieren"]
+  example_translations:
+    de: "Das Projekt wird von der EU finanziert."
+
+- id: "funding"
+  lemma: "funding"
+  pos: noun
+  level: B2
+  ipa: "/ˈfʌn.dɪŋ/"
+  example: "The school needs more funding."
+  translations:
+    de: ["die Finanzierung", "die Fördermittel"]
+  example_translations:
+    de: "Die Schule braucht mehr Fördermittel."
+
+- id: "gift"
+  lemma: "gift"
+  pos: noun
+  level: A2
+  ipa: "/ɡɪft/"
+  example: "This is a gift for you."
+  translations:
+    de: ["das Geschenk", "die Begabung"]
+  example_translations:
+    de: "Das ist ein Geschenk für dich."
+
+- id: "gold-noun"
+  lemma: "gold"
+  pos: noun
+  level: A2
+  ipa: "/ɡəʊld/"
+  example: "The ring is made of gold."
+  translations:
+    de: ["das Gold"]
+  example_translations:
+    de: "Der Ring ist aus Gold."
+
+- id: "goods"
+  lemma: "goods"
+  pos: noun
+  level: B1
+  ipa: "/ɡʊdz/"
+  example: "The shop sells electrical goods."
+  translations:
+    de: ["die Waren", "die Güter"]
+  example_translations:
+    de: "Der Laden verkauft Elektrowaren."
+
+- id: "guarantee-noun"
+  lemma: "guarantee"
+  pos: noun
+  level: B2
+  ipa: "/ˌɡær.ənˈtiː/"
+  example: "The TV has a two-year guarantee."
+  translations:
+    de: ["die Garantie"]
+  example_translations:
+    de: "Der Fernseher hat zwei Jahre Garantie."
+
+- id: "hire-noun"
+  lemma: "hire"
+  pos: noun
+  level: B2
+  ipa: "/haɪər/"
+  example: "Bikes are available for hire."
+  translations:
+    de: ["die Miete", "der Verleih"]
+  example_translations:
+    de: "Fahrräder können ausgeliehen werden."
+
+- id: "hire-verb"
+  lemma: "hire"
+  pos: verb
+  level: B1
+  ipa: "/haɪər/"
+  example: "We hired a car for a week."
+  translations:
+    de: ["mieten", "einstellen"]
+  example_translations:
+    de: "Wir haben für eine Woche ein Auto gemietet."
+
+- id: "included"
+  lemma: "included"
+  pos: adjective
+  level: A2
+  ipa: "/ɪnˈkluː.dɪd/"
+  example: "Service is not included."
+  translations:
+    de: ["inbegriffen", "inklusive"]
+  example_translations:
+    de: "Die Bedienung ist nicht inbegriffen."
+
+- id: "insurance"
+  lemma: "insurance"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈʃɔː.rəns/"
+  example: "Do you have travel insurance?"
+  translations:
+    de: ["die Versicherung"]
+  example_translations:
+    de: "Hast du eine Reiseversicherung?"
+
+- id: "invest"
+  lemma: "invest"
+  pos: verb
+  level: B1
+  ipa: "/ɪnˈvest/"
+  example: "He invested his money in shares."
+  translations:
+    de: ["investieren", "anlegen"]
+  example_translations:
+    de: "Er hat sein Geld in Aktien angelegt."
+
+- id: "investment"
+  lemma: "investment"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈvest.mənt/"
+  example: "A house is a good investment."
+  translations:
+    de: ["die Investition", "die Geldanlage"]
+  example_translations:
+    de: "Ein Haus ist eine gute Geldanlage."
+
+- id: "item"
+  lemma: "item"
+  pos: noun
+  level: A2
+  ipa: "/ˈaɪ.təm/"
+  example: "There are ten items on the list."
+  translations:
+    de: ["der Artikel", "der Gegenstand", "der Punkt"]
+  example_translations:
+    de: "Auf der Liste stehen zehn Punkte."
+
+- id: "label-noun"
+  lemma: "label"
+  pos: noun
+  level: B1
+  ipa: "/ˈleɪ.bəl/"
+  example: "Read the label on the bottle."
+  translations:
+    de: ["das Etikett", "das Schild", "das Label"]
+  example_translations:
+    de: "Lies das Etikett auf der Flasche."
+
+- id: "loan"
+  lemma: "loan"
+  pos: noun
+  level: B2
+  ipa: "/ləʊn/"
+  example: "We got a loan from the bank."
+  translations:
+    de: ["der Kredit", "das Darlehen"]
+  example_translations:
+    de: "Wir haben einen Kredit von der Bank bekommen."
+
+- id: "luxury-adjective"
+  lemma: "luxury"
+  pos: adjective
+  level: B1
+  ipa: "/ˈlʌk.ʃər.i/"
+  example: "We stayed in a luxury hotel."
+  translations:
+    de: ["Luxus-"]
+  example_translations:
+    de: "Wir haben in einem Luxushotel übernachtet."
+
+- id: "luxury-noun"
+  lemma: "luxury"
+  pos: noun
+  level: B1
+  ipa: "/ˈlʌk.ʃər.i/"
+  example: "They live in luxury."
+  translations:
+    de: ["der Luxus"]
+  example_translations:
+    de: "Sie leben im Luxus."
+
+- id: "make-noun"
+  lemma: "make"
+  pos: noun
+  level: B2
+  ipa: "/meɪk/"
+  example: "What make is your car?"
+  translations:
+    de: ["die Marke", "das Fabrikat"]
+  example_translations:
+    de: "Welche Marke ist dein Auto?"
+
+- id: "mall"
+  lemma: "mall"
+  pos: noun
+  level: B1
+  ipa: "/mɔːl/"
+  example: "Let's go to the mall."
+  translations:
+    de: ["das Einkaufszentrum"]
+  example_translations:
+    de: "Lass uns ins Einkaufszentrum gehen."
+
+- id: "money"
+  lemma: "money"
+  pos: noun
+  level: A1
+  ipa: "/ˈmʌn.i/"
+  example: "I don't have much money."
+  translations:
+    de: ["das Geld"]
+  example_translations:
+    de: "Ich habe nicht viel Geld."
+
+- id: "offer-noun"
+  lemma: "offer"
+  pos: noun
+  level: A2
+  ipa: "/ˈɒf.ər/"
+  example: "This is a special offer."
+  translations:
+    de: ["das Angebot"]
+  example_translations:
+    de: "Das ist ein Sonderangebot."
+
+- id: "owe"
+  lemma: "owe"
+  pos: verb
+  level: B2
+  ipa: "/əʊ/"
+  example: "I owe you ten euros."
+  translations:
+    de: ["schulden"]
+  example_translations:
+    de: "Ich schulde dir zehn Euro."
+
+- id: "own-verb"
+  lemma: "own"
+  pos: verb
+  level: A2
+  ipa: "/əʊn/"
+  example: "They own two cars."
+  translations:
+    de: ["besitzen"]
+  example_translations:
+    de: "Sie besitzen zwei Autos."
+
+- id: "pack-noun"
+  lemma: "pack"
+  pos: noun
+  level: B1
+  ipa: "/pæk/"
+  example: "I bought a pack of cards."
+  translations:
+    de: ["die Packung", "das Paket", "das Rudel"]
+  example_translations:
+    de: "Ich habe ein Kartenspiel gekauft."
+
+- id: "package-noun"
+  lemma: "package"
+  pos: noun
+  level: B1
+  ipa: "/ˈpæk.ɪdʒ/"
+  example: "A package arrived for you."
+  translations:
+    de: ["das Paket", "das Päckchen", "die Pauschalreise"]
+  example_translations:
+    de: "Ein Paket ist für dich angekommen."
+
+- id: "package-verb"
+  lemma: "package"
+  pos: verb
+  level: B2
+  ipa: "/ˈpæk.ɪdʒ/"
+  example: "The food is packaged in plastic."
+  translations:
+    de: ["verpacken"]
+  example_translations:
+    de: "Das Essen ist in Plastik verpackt."
+
+- id: "pay"
+  lemma: "pay"
+  pos: verb
+  level: A2
+  ipa: "/peɪ/"
+  example: "Can I pay by card?"
+  translations:
+    de: ["bezahlen", "zahlen"]
+  example_translations:
+    de: "Kann ich mit Karte bezahlen?"
+
+- id: "payment"
+  lemma: "payment"
+  pos: noun
+  level: B1
+  ipa: "/ˈpeɪ.mənt/"
+  example: "We accept payment by card."
+  translations:
+    de: ["die Zahlung", "die Bezahlung"]
+  example_translations:
+    de: "Wir akzeptieren Kartenzahlung."
+
+- id: "penny"
+  lemma: "penny"
+  pos: noun
+  level: A2
+  ipa: "/ˈpen.i/"
+  example: "It costs 99 pence."
+  translations:
+    de: ["der Penny"]
+  example_translations:
+    de: "Es kostet 99 Pence."
+
+- id: "possess"
+  lemma: "possess"
+  pos: verb
+  level: B2
+  ipa: "/pəˈzes/"
+  example: "He possesses three houses."
+  translations:
+    de: ["besitzen"]
+  example_translations:
+    de: "Er besitzt drei Häuser."
+
+- id: "possession"
+  lemma: "possession"
+  pos: noun
+  level: A2
+  ipa: "/pəˈzeʃ.ən/"
+  example: "He lost all his possessions in the fire."
+  translations:
+    de: ["der Besitz", "das Eigentum"]
+  example_translations:
+    de: "Er verlor seinen ganzen Besitz im Feuer."
+
+- id: "pound"
+  lemma: "pound"
+  pos: noun
+  level: A1
+  ipa: "/paʊnd/"
+  example: "It costs ten pounds."
+  translations:
+    de: ["das Pfund"]
+  example_translations:
+    de: "Es kostet zehn Pfund."
+
+- id: "present-noun"
+  lemma: "present"
+  pos: noun
+  level: A1
+  ipa: "/ˈprez.ənt/"
+  example: "I bought a present for my sister."
+  translations:
+    de: ["das Geschenk", "die Gegenwart"]
+  example_translations:
+    de: "Ich habe ein Geschenk für meine Schwester gekauft."
+
+- id: "price"
+  lemma: "price"
+  pos: noun
+  level: A1
+  ipa: "/praɪs/"
+  example: "What is the price?"
+  translations:
+    de: ["der Preis"]
+  example_translations:
+    de: "Wie hoch ist der Preis?"
+
+- id: "price-verb"
+  lemma: "price"
+  pos: verb
+  level: B2
+  ipa: "/praɪs/"
+  example: "The tickets are priced at 20 euros."
+  translations:
+    de: ["den Preis festsetzen", "auszeichnen"]
+  example_translations:
+    de: "Die Karten kosten 20 Euro."
+
+- id: "product"
+  lemma: "product"
+  pos: noun
+  level: A1
+  ipa: "/ˈprɒd.ʌkt/"
+  example: "We sell organic products."
+  translations:
+    de: ["das Produkt", "das Erzeugnis"]
+  example_translations:
+    de: "Wir verkaufen Bioprodukte."
+
+- id: "purchase-noun"
+  lemma: "purchase"
+  pos: noun
+  level: B2
+  ipa: "/ˈpɜː.tʃəs/"
+  example: "Keep the receipt of your purchase."
+  translations:
+    de: ["der Kauf", "die Anschaffung"]
+  example_translations:
+    de: "Bewahre den Kassenbon deines Einkaufs auf."
+
+- id: "purchase-verb"
+  lemma: "purchase"
+  pos: verb
+  level: B2
+  ipa: "/ˈpɜː.tʃəs/"
+  example: "You can purchase tickets online."
+  translations:
+    de: ["kaufen", "erwerben"]
+  example_translations:
+    de: "Du kannst Karten online kaufen."
+
+- id: "queue-noun"
+  lemma: "queue"
+  pos: noun
+  level: B1
+  ipa: "/kjuː/"
+  example: "There was a long queue at the bank."
+  translations:
+    de: ["die Schlange", "die Warteschlange"]
+  example_translations:
+    de: "Bei der Bank war eine lange Schlange."
+
+- id: "queue-verb"
+  lemma: "queue"
+  pos: verb
+  level: B1
+  ipa: "/kjuː/"
+  example: "We queued for an hour."
+  translations:
+    de: ["Schlange stehen", "anstehen"]
+  example_translations:
+    de: "Wir haben eine Stunde angestanden."
+
+- id: "receipt"
+  lemma: "receipt"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈsiːt/"
+  example: "Can I have the receipt, please?"
+  translations:
+    de: ["die Quittung", "der Kassenbon"]
+  example_translations:
+    de: "Kann ich bitte die Quittung haben?"
+
+- id: "sale"
+  lemma: "sale"
+  pos: noun
+  level: A2
+  ipa: "/seɪl/"
+  example: "The house is for sale."
+  translations:
+    de: ["der Verkauf", "der Ausverkauf"]
+  example_translations:
+    de: "Das Haus steht zum Verkauf."
+
+- id: "saving"
+  lemma: "saving"
+  pos: noun
+  level: B2
+  ipa: "/ˈseɪ.vɪŋ/"
+  example: "He spent all his savings."
+  translations:
+    de: ["die Ersparnis", "die Einsparung"]
+  example_translations:
+    de: "Er hat all seine Ersparnisse ausgegeben."
+
+- id: "selection"
+  lemma: "selection"
+  pos: noun
+  level: B2
+  ipa: "/sɪˈlek.ʃən/"
+  example: "The shop has a good selection of wines."
+  translations:
+    de: ["die Auswahl"]
+  example_translations:
+    de: "Der Laden hat eine gute Weinauswahl."
+
+- id: "sell"
+  lemma: "sell"
+  pos: verb
+  level: A1
+  ipa: "/sel/"
+  example: "They sell fresh fish."
+  translations:
+    de: ["verkaufen"]
+  example_translations:
+    de: "Sie verkaufen frischen Fisch."
+
+- id: "service"
+  lemma: "service"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɜː.vɪs/"
+  example: "The service in this restaurant is excellent."
+  translations:
+    de: ["der Service", "die Bedienung", "der Dienst"]
+  example_translations:
+    de: "Der Service in diesem Restaurant ist ausgezeichnet."
+
+- id: "share-noun"
+  lemma: "share"
+  pos: noun
+  level: B1
+  ipa: "/ʃeər/"
+  example: "Everyone paid their share."
+  translations:
+    de: ["der Anteil", "die Aktie"]
+  example_translations:
+    de: "Jeder hat seinen Anteil bezahlt."
+
+- id: "ship-verb"
+  lemma: "ship"
+  pos: verb
+  level: B2
+  ipa: "/ʃɪp/"
+  example: "We ship to all countries."
+  translations:
+    de: ["versenden", "verschicken"]
+  example_translations:
+    de: "Wir liefern in alle Länder."
+
+- id: "shop-verb"
+  lemma: "shop"
+  pos: verb
+  level: A1
+  ipa: "/ʃɒp/"
+  example: "I shop at the market."
+  translations:
+    de: ["einkaufen"]
+  example_translations:
+    de: "Ich kaufe auf dem Markt ein."
+
+- id: "shopping"
+  lemma: "shopping"
+  pos: noun
+  level: A1
+  ipa: "/ˈʃɒp.ɪŋ/"
+  example: "I go shopping on Saturdays."
+  translations:
+    de: ["das Einkaufen", "die Einkäufe"]
+  example_translations:
+    de: "Samstags gehe ich einkaufen."
+
+- id: "silver"
+  lemma: "silver"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪl.vər/"
+  example: "The ring is made of silver."
+  translations:
+    de: ["das Silber"]
+  example_translations:
+    de: "Der Ring ist aus Silber."
+
+- id: "size"
+  lemma: "size"
+  pos: noun
+  level: A2
+  ipa: "/saɪz/"
+  example: "Do you have this in a smaller size?"
+  translations:
+    de: ["die Größe"]
+  example_translations:
+    de: "Haben Sie das in einer kleineren Größe?"
+
+- id: "spend"
+  lemma: "spend"
+  pos: verb
+  level: A2
+  ipa: "/spend/"
+  example: "I spend too much money on clothes."
+  translations:
+    de: ["ausgeben", "verbringen"]
+  example_translations:
+    de: "Ich gebe zu viel Geld für Kleidung aus."
+
+- id: "spending"
+  lemma: "spending"
+  pos: noun
+  level: B1
+  ipa: "/ˈspen.dɪŋ/"
+  example: "Government spending has increased."
+  translations:
+    de: ["die Ausgaben"]
+  example_translations:
+    de: "Die Staatsausgaben sind gestiegen."
+
+- id: "stand-noun"
+  lemma: "stand"
+  pos: noun
+  level: B2
+  ipa: "/stænd/"
+  example: "We bought fruit at a stand."
+  translations:
+    de: ["der Stand", "die Tribüne"]
+  example_translations:
+    de: "Wir haben Obst an einem Stand gekauft."
+
+- id: "stock"
+  lemma: "stock"
+  pos: noun
+  level: B2
+  ipa: "/stɒk/"
+  example: "These shoes are out of stock."
+  translations:
+    de: ["der Vorrat", "der Bestand", "die Aktie"]
+  example_translations:
+    de: "Diese Schuhe sind ausverkauft."
+
+- id: "store-noun"
+  lemma: "store"
+  pos: noun
+  level: A2
+  ipa: "/stɔːr/"
+  example: "The store opens at nine."
+  translations:
+    de: ["das Geschäft", "der Laden", "der Vorrat"]
+  example_translations:
+    de: "Der Laden öffnet um neun."
+
+- id: "supermarket"
+  lemma: "supermarket"
+  pos: noun
+  level: A1
+  ipa: "/ˈsuː.pəˌmɑː.kɪt/"
+  example: "I buy food at the supermarket."
+  translations:
+    de: ["der Supermarkt"]
+  example_translations:
+    de: "Ich kaufe Lebensmittel im Supermarkt."
+
+- id: "transfer-verb"
+  lemma: "transfer"
+  pos: verb
+  level: B2
+  ipa: "/trænsˈfɜːr/"
+  example: "I transferred the money to your account."
+  translations:
+    de: ["übertragen", "überweisen", "versetzen"]
+  example_translations:
+    de: "Ich habe das Geld auf dein Konto überwiesen."
+
+- id: "value-noun"
+  lemma: "value"
+  pos: noun
+  level: B1
+  ipa: "/ˈvæl.juː/"
+  example: "What is the value of this painting?"
+  translations:
+    de: ["der Wert"]
+  example_translations:
+    de: "Was ist dieses Gemälde wert?"
+
+- id: "wealth"
+  lemma: "wealth"
+  pos: noun
+  level: B2
+  ipa: "/welθ/"
+  example: "He has great wealth."
+  translations:
+    de: ["der Reichtum", "das Vermögen"]
+  example_translations:
+    de: "Er hat großen Reichtum."
+
+- id: "worth"
+  lemma: "worth"
+  pos: adjective
+  level: B1
+  ipa: "/wɜːθ/"
+  example: "The museum is worth a visit."
+  translations:
+    de: ["wert"]
+  example_translations:
+    de: "Das Museum ist einen Besuch wert."

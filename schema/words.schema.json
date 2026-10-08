@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "words.schema.json",
+  "title": "Vokabeln eines Themas (words/<sprache>/<thema>.yaml)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "lemma", "pos", "level", "translations"],
+    "properties": {
+      "id": {
+        "description": "Stabile Kennung, eindeutig je Sprache. Darf nach dem Merge nie geändert werden – Lernfortschritt hängt daran.",
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+        "maxLength": 64
+      },
+      "lemma": {"type": "string", "minLength": 1, "maxLength": 128},
+      "pos": {
+        "enum": ["noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction", "numeral",
+                 "phrase", "interjection", "determiner"]
+      },
+      "level": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
+      "ipa": {"type": "string", "maxLength": 128},
+      "example": {"type": "string", "minLength": 1, "maxLength": 512},
+      "translations": {
+        "description": "Je Basissprache eine Liste; die erste ist die Hauptübersetzung, alle gelten als richtig.",
+        "type": "object",
+        "minProperties": 1,
+        "propertyNames": {"pattern": "^[a-z]{2,3}$"},
+        "additionalProperties": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"type": "string", "minLength": 1, "maxLength": 128}
+        }
+      },
+      "example_translations": {
+        "type": "object",
+        "propertyNames": {"pattern": "^[a-z]{2,3}$"},
+        "additionalProperties": {"type": "string", "minLength": 1, "maxLength": 512}
+      }
+    }
+  }
+}

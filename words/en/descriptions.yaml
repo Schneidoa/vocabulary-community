@@ -1,0 +1,4479 @@
+# ✨ Eigenschaften – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "able"
+  lemma: "able"
+  pos: adjective
+  level: A2
+  ipa: "/ˈeɪ.bəl/"
+  example: "Will you be able to come tomorrow?"
+  translations:
+    de: ["fähig", "in der Lage"]
+  example_translations:
+    de: "Wirst du morgen kommen können?"
+
+- id: "absolute"
+  lemma: "absolute"
+  pos: adjective
+  level: B2
+  ipa: "/ˈæb.sə.luːt/"
+  example: "The party was an absolute disaster."
+  translations:
+    de: ["absolut", "völlig"]
+  example_translations:
+    de: "Die Party war eine absolute Katastrophe."
+
+- id: "absolutely"
+  lemma: "absolutely"
+  pos: adverb
+  level: B1
+  ipa: "/ˌæb.səˈluːt.li/"
+  example: "You are absolutely right."
+  translations:
+    de: ["absolut", "völlig"]
+  example_translations:
+    de: "Du hast völlig recht."
+
+- id: "acceptable"
+  lemma: "acceptable"
+  pos: adjective
+  level: B2
+  ipa: "/əkˈsep.tə.bəl/"
+  example: "Is this price acceptable to you?"
+  translations:
+    de: ["akzeptabel", "annehmbar"]
+  example_translations:
+    de: "Ist dieser Preis für Sie akzeptabel?"
+
+- id: "accurate"
+  lemma: "accurate"
+  pos: adjective
+  level: B2
+  ipa: "/ˈæk.jə.rət/"
+  example: "The information is accurate."
+  translations:
+    de: ["genau", "zutreffend"]
+  example_translations:
+    de: "Die Information ist genau."
+
+- id: "active"
+  lemma: "active"
+  pos: adjective
+  level: A2
+  ipa: "/ˈæk.tɪv/"
+  example: "My grandmother is still very active."
+  translations:
+    de: ["aktiv"]
+  example_translations:
+    de: "Meine Großmutter ist noch sehr aktiv."
+
+- id: "actual"
+  lemma: "actual"
+  pos: adjective
+  level: B2
+  ipa: "/ˈæk.tʃu.əl/"
+  example: "The actual cost was much higher."
+  translations:
+    de: ["tatsächlich", "eigentlich"]
+  example_translations:
+    de: "Die tatsächlichen Kosten waren viel höher."
+
+- id: "additional"
+  lemma: "additional"
+  pos: adjective
+  level: B2
+  ipa: "/əˈdɪʃ.ən.əl/"
+  example: "There is an additional charge for breakfast."
+  translations:
+    de: ["zusätzlich"]
+  example_translations:
+    de: "Für das Frühstück gibt es einen Aufpreis."
+
+- id: "advance-adjective"
+  lemma: "advance"
+  pos: adjective
+  level: B2
+  ipa: "/ədˈvɑːns/"
+  example: "We need advance booking for the trip."
+  translations:
+    de: ["Voraus-", "vorherig"]
+  example_translations:
+    de: "Für die Reise brauchen wir eine Vorausbuchung."
+
+- id: "advanced"
+  lemma: "advanced"
+  pos: adjective
+  level: B1
+  ipa: "/ədˈvɑːnst/"
+  example: "This is an advanced English course."
+  translations:
+    de: ["fortgeschritten", "modern"]
+  example_translations:
+    de: "Das ist ein Englischkurs für Fortgeschrittene."
+
+- id: "aggressive"
+  lemma: "aggressive"
+  pos: adjective
+  level: B2
+  ipa: "/əˈɡres.ɪv/"
+  example: "The dog was very aggressive."
+  translations:
+    de: ["aggressiv"]
+  example_translations:
+    de: "Der Hund war sehr aggressiv."
+
+- id: "alive"
+  lemma: "alive"
+  pos: adjective
+  level: A2
+  ipa: "/əˈlaɪv/"
+  example: "Is the fish still alive?"
+  translations:
+    de: ["lebendig", "am Leben"]
+  example_translations:
+    de: "Lebt der Fisch noch?"
+
+- id: "alone"
+  lemma: "alone"
+  pos: adjective
+  level: A2
+  ipa: "/əˈləʊn/"
+  example: "She lives alone."
+  translations:
+    de: ["allein"]
+  example_translations:
+    de: "Sie lebt allein."
+
+- id: "alternative-adjective"
+  lemma: "alternative"
+  pos: adjective
+  level: B1
+  ipa: "/ɒlˈtɜː.nə.tɪv/"
+  example: "We took an alternative route."
+  translations:
+    de: ["alternativ"]
+  example_translations:
+    de: "Wir nahmen eine alternative Route."
+
+- id: "amazing"
+  lemma: "amazing"
+  pos: adjective
+  level: A1
+  ipa: "/əˈmeɪ.zɪŋ/"
+  example: "The concert was amazing!"
+  translations:
+    de: ["erstaunlich", "toll"]
+  example_translations:
+    de: "Das Konzert war toll!"
+
+- id: "ambitious"
+  lemma: "ambitious"
+  pos: adjective
+  level: B1
+  ipa: "/æmˈbɪʃ.əs/"
+  example: "He is very ambitious."
+  translations:
+    de: ["ehrgeizig"]
+  example_translations:
+    de: "Er ist sehr ehrgeizig."
+
+- id: "ancient"
+  lemma: "ancient"
+  pos: adjective
+  level: A2
+  ipa: "/ˈeɪn.ʃənt/"
+  example: "We visited an ancient temple."
+  translations:
+    de: ["antik", "uralt"]
+  example_translations:
+    de: "Wir haben einen antiken Tempel besucht."
+
+- id: "apparent"
+  lemma: "apparent"
+  pos: adjective
+  level: B2
+  ipa: "/əˈpær.ənt/"
+  example: "It was apparent that she was tired."
+  translations:
+    de: ["offensichtlich", "scheinbar"]
+  example_translations:
+    de: "Es war offensichtlich, dass sie müde war."
+
+- id: "appropriate"
+  lemma: "appropriate"
+  pos: adjective
+  level: B2
+  ipa: "/əˈprəʊ.pri.ət/"
+  example: "Jeans are not appropriate for the party."
+  translations:
+    de: ["angemessen", "passend"]
+  example_translations:
+    de: "Jeans sind für die Feier nicht angemessen."
+
+- id: "artificial"
+  lemma: "artificial"
+  pos: adjective
+  level: B2
+  ipa: "/ˌɑː.tɪˈfɪʃ.əl/"
+  example: "The flowers are artificial."
+  translations:
+    de: ["künstlich"]
+  example_translations:
+    de: "Die Blumen sind künstlich."
+
+- id: "associated"
+  lemma: "associated"
+  pos: adjective
+  level: B2
+  ipa: "/əˈsəʊ.si.eɪ.tɪd/"
+  example: "There are risks associated with this sport."
+  translations:
+    de: ["verbunden", "zusammenhängend"]
+  example_translations:
+    de: "Mit diesem Sport sind Risiken verbunden."
+
+- id: "attractive"
+  lemma: "attractive"
+  pos: adjective
+  level: A2
+  ipa: "/əˈtræk.tɪv/"
+  example: "It's an attractive offer."
+  translations:
+    de: ["attraktiv", "reizvoll"]
+  example_translations:
+    de: "Das ist ein attraktives Angebot."
+
+- id: "available"
+  lemma: "available"
+  pos: adjective
+  level: A2
+  ipa: "/əˈveɪ.lə.bəl/"
+  example: "Is this room available?"
+  translations:
+    de: ["verfügbar", "erhältlich"]
+  example_translations:
+    de: "Ist dieses Zimmer frei?"
+
+- id: "awful"
+  lemma: "awful"
+  pos: adjective
+  level: A2
+  ipa: "/ˈɔː.fəl/"
+  example: "The weather was awful."
+  translations:
+    de: ["schrecklich", "furchtbar"]
+  example_translations:
+    de: "Das Wetter war furchtbar."
+
+- id: "back-adjective"
+  lemma: "back"
+  pos: adjective
+  level: A2
+  ipa: "/bæk/"
+  example: "Please use the back door."
+  translations:
+    de: ["hintere", "Hinter-"]
+  example_translations:
+    de: "Bitte benutzen Sie die Hintertür."
+
+- id: "bad"
+  lemma: "bad"
+  pos: adjective
+  level: A1
+  ipa: "/bæd/"
+  example: "The weather is bad."
+  translations:
+    de: ["schlecht", "schlimm"]
+  example_translations:
+    de: "Das Wetter ist schlecht."
+
+- id: "badly"
+  lemma: "badly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈbæd.li/"
+  example: "He played badly today."
+  translations:
+    de: ["schlecht", "schwer"]
+  example_translations:
+    de: "Er hat heute schlecht gespielt."
+
+- id: "based"
+  lemma: "based"
+  pos: adjective
+  level: A2
+  ipa: "/beɪst/"
+  example: "The company is based in Berlin."
+  translations:
+    de: ["ansässig", "basierend"]
+  example_translations:
+    de: "Die Firma hat ihren Sitz in Berlin."
+
+- id: "basic"
+  lemma: "basic"
+  pos: adjective
+  level: B1
+  ipa: "/ˈbeɪ.sɪk/"
+  example: "I have a basic knowledge of Spanish."
+  translations:
+    de: ["grundlegend", "einfach"]
+  example_translations:
+    de: "Ich habe Grundkenntnisse in Spanisch."
+
+- id: "beautiful"
+  lemma: "beautiful"
+  pos: adjective
+  level: A1
+  ipa: "/ˈbjuː.tɪ.fəl/"
+  example: "What a beautiful day!"
+  translations:
+    de: ["schön", "wunderschön"]
+  example_translations:
+    de: "Was für ein schöner Tag!"
+
+- id: "beauty"
+  lemma: "beauty"
+  pos: noun
+  level: B1
+  ipa: "/ˈbjuː.ti/"
+  example: "We enjoyed the beauty of the landscape."
+  translations:
+    de: ["die Schönheit"]
+  example_translations:
+    de: "Wir genossen die Schönheit der Landschaft."
+
+- id: "bent"
+  lemma: "bent"
+  pos: adjective
+  level: B2
+  ipa: "/bent/"
+  example: "The fork is bent."
+  translations:
+    de: ["verbogen", "gebogen"]
+  example_translations:
+    de: "Die Gabel ist verbogen."
+
+- id: "best-adjective"
+  lemma: "best"
+  pos: adjective
+  level: A1
+  ipa: "/best/"
+  example: "She is my best friend."
+  translations:
+    de: ["beste"]
+  example_translations:
+    de: "Sie ist meine beste Freundin."
+
+- id: "best-adverb"
+  lemma: "best"
+  pos: adverb
+  level: A2
+  ipa: "/best/"
+  example: "Which song do you like best?"
+  translations:
+    de: ["am besten"]
+  example_translations:
+    de: "Welches Lied gefällt dir am besten?"
+
+- id: "better-adjective"
+  lemma: "better"
+  pos: adjective
+  level: A1
+  ipa: "/ˈbet.ər/"
+  example: "This one is better."
+  translations:
+    de: ["besser"]
+  example_translations:
+    de: "Das hier ist besser."
+
+- id: "better-adverb"
+  lemma: "better"
+  pos: adverb
+  level: A2
+  ipa: "/ˈbet.ər/"
+  example: "She sings better than me."
+  translations:
+    de: ["besser"]
+  example_translations:
+    de: "Sie singt besser als ich."
+
+- id: "big"
+  lemma: "big"
+  pos: adjective
+  level: A1
+  ipa: "/bɪɡ/"
+  example: "They have a big house."
+  translations:
+    de: ["groß"]
+  example_translations:
+    de: "Sie haben ein großes Haus."
+
+- id: "bitter"
+  lemma: "bitter"
+  pos: adjective
+  level: B2
+  ipa: "/ˈbɪt.ər/"
+  example: "The coffee tastes bitter."
+  translations:
+    de: ["bitter"]
+  example_translations:
+    de: "Der Kaffee schmeckt bitter."
+
+- id: "boring"
+  lemma: "boring"
+  pos: adjective
+  level: A1
+  ipa: "/ˈbɔː.rɪŋ/"
+  example: "The film was boring."
+  translations:
+    de: ["langweilig"]
+  example_translations:
+    de: "Der Film war langweilig."
+
+- id: "bottom-adjective"
+  lemma: "bottom"
+  pos: adjective
+  level: A2
+  ipa: "/ˈbɒt.əm/"
+  example: "The book is on the bottom shelf."
+  translations:
+    de: ["unterste"]
+  example_translations:
+    de: "Das Buch steht im untersten Regal."
+
+- id: "brave"
+  lemma: "brave"
+  pos: adjective
+  level: B1
+  ipa: "/breɪv/"
+  example: "The firefighter was very brave."
+  translations:
+    de: ["mutig", "tapfer"]
+  example_translations:
+    de: "Der Feuerwehrmann war sehr mutig."
+
+- id: "brief"
+  lemma: "brief"
+  pos: adjective
+  level: B2
+  ipa: "/briːf/"
+  example: "We had a brief conversation."
+  translations:
+    de: ["kurz"]
+  example_translations:
+    de: "Wir hatten ein kurzes Gespräch."
+
+- id: "bright"
+  lemma: "bright"
+  pos: adjective
+  level: A2
+  ipa: "/braɪt/"
+  example: "The room is very bright."
+  translations:
+    de: ["hell", "leuchtend", "klug"]
+  example_translations:
+    de: "Das Zimmer ist sehr hell."
+
+- id: "brilliant"
+  lemma: "brilliant"
+  pos: adjective
+  level: A2
+  ipa: "/ˈbrɪl.jənt/"
+  example: "That's a brilliant idea!"
+  translations:
+    de: ["brillant", "großartig"]
+  example_translations:
+    de: "Das ist eine großartige Idee!"
+
+- id: "broad"
+  lemma: "broad"
+  pos: adjective
+  level: B2
+  ipa: "/brɔːd/"
+  example: "He has broad shoulders."
+  translations:
+    de: ["breit", "weit"]
+  example_translations:
+    de: "Er hat breite Schultern."
+
+- id: "broken"
+  lemma: "broken"
+  pos: adjective
+  level: A2
+  ipa: "/ˈbrəʊ.kən/"
+  example: "My phone is broken."
+  translations:
+    de: ["kaputt", "gebrochen"]
+  example_translations:
+    de: "Mein Handy ist kaputt."
+
+- id: "busy"
+  lemma: "busy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈbɪz.i/"
+  example: "I'm busy today."
+  translations:
+    de: ["beschäftigt"]
+  example_translations:
+    de: "Ich bin heute beschäftigt."
+
+- id: "calm-adjective"
+  lemma: "calm"
+  pos: adjective
+  level: B1
+  ipa: "/kɑːm/"
+  example: "Stay calm!"
+  translations:
+    de: ["ruhig", "gelassen"]
+  example_translations:
+    de: "Bleib ruhig!"
+
+- id: "capable"
+  lemma: "capable"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkeɪ.pə.bəl/"
+  example: "She is capable of doing better."
+  translations:
+    de: ["fähig", "imstande"]
+  example_translations:
+    de: "Sie kann es besser."
+
+- id: "careful"
+  lemma: "careful"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkeə.fəl/"
+  example: "Be careful on the stairs."
+  translations:
+    de: ["vorsichtig", "sorgfältig"]
+  example_translations:
+    de: "Sei vorsichtig auf der Treppe."
+
+- id: "carefully"
+  lemma: "carefully"
+  pos: adverb
+  level: A2
+  ipa: "/ˈkeə.fəl.i/"
+  example: "Read the questions carefully."
+  translations:
+    de: ["vorsichtig", "sorgfältig"]
+  example_translations:
+    de: "Lies die Fragen sorgfältig."
+
+- id: "careless"
+  lemma: "careless"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkeə.ləs/"
+  example: "It was careless of me."
+  translations:
+    de: ["unvorsichtig", "nachlässig"]
+  example_translations:
+    de: "Das war unvorsichtig von mir."
+
+- id: "characteristic-adjective"
+  lemma: "characteristic"
+  pos: adjective
+  level: B2
+  ipa: "/ˌkær.ək.təˈrɪs.tɪk/"
+  example: "This dish is characteristic of the region."
+  translations:
+    de: ["typisch", "charakteristisch"]
+  example_translations:
+    de: "Dieses Gericht ist typisch für die Region."
+
+- id: "chief-adjective"
+  lemma: "chief"
+  pos: adjective
+  level: B2
+  ipa: "/tʃiːf/"
+  example: "What is the chief reason?"
+  translations:
+    de: ["Haupt-", "wichtigste"]
+  example_translations:
+    de: "Was ist der Hauptgrund?"
+
+- id: "classic-adjective"
+  lemma: "classic"
+  pos: adjective
+  level: B2
+  ipa: "/ˈklæs.ɪk/"
+  example: "It's a classic example."
+  translations:
+    de: ["klassisch", "typisch"]
+  example_translations:
+    de: "Das ist ein klassisches Beispiel."
+
+- id: "clean-adjective"
+  lemma: "clean"
+  pos: adjective
+  level: A1
+  ipa: "/kliːn/"
+  example: "The kitchen is clean now."
+  translations:
+    de: ["sauber"]
+  example_translations:
+    de: "Die Küche ist jetzt sauber."
+
+- id: "clear-adjective"
+  lemma: "clear"
+  pos: adjective
+  level: A2
+  ipa: "/klɪər/"
+  example: "Is that clear?"
+  translations:
+    de: ["klar", "deutlich"]
+  example_translations:
+    de: "Ist das klar?"
+
+- id: "clearly"
+  lemma: "clearly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈklɪə.li/"
+  example: "Please speak clearly."
+  translations:
+    de: ["deutlich", "klar"]
+  example_translations:
+    de: "Bitte sprich deutlich."
+
+- id: "clever"
+  lemma: "clever"
+  pos: adjective
+  level: A2
+  ipa: "/ˈklev.ər/"
+  example: "She is a very clever girl."
+  translations:
+    de: ["klug", "schlau"]
+  example_translations:
+    de: "Sie ist ein sehr kluges Mädchen."
+
+- id: "close-adjective"
+  lemma: "close"
+  pos: adjective
+  level: A2
+  ipa: "/kləʊs/"
+  example: "The school is close to my house."
+  translations:
+    de: ["nah", "eng"]
+  example_translations:
+    de: "Die Schule ist nah an meinem Haus."
+
+- id: "closed"
+  lemma: "closed"
+  pos: adjective
+  level: A2
+  ipa: "/kləʊzd/"
+  example: "The shop is closed on Sundays."
+  translations:
+    de: ["geschlossen"]
+  example_translations:
+    de: "Der Laden ist sonntags geschlossen."
+
+- id: "closely"
+  lemma: "closely"
+  pos: adverb
+  level: B2
+  ipa: "/ˈkləʊs.li/"
+  example: "Watch closely."
+  translations:
+    de: ["genau", "eng"]
+  example_translations:
+    de: "Schau genau hin."
+
+- id: "comfortable"
+  lemma: "comfortable"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkʌm.fə.tə.bəl/"
+  example: "This chair is very comfortable."
+  translations:
+    de: ["bequem", "gemütlich"]
+  example_translations:
+    de: "Dieser Stuhl ist sehr bequem."
+
+- id: "common"
+  lemma: "common"
+  pos: adjective
+  level: A1
+  ipa: "/ˈkɒm.ən/"
+  example: "Smith is a common name."
+  translations:
+    de: ["häufig", "üblich", "gemeinsam"]
+  example_translations:
+    de: "Smith ist ein häufiger Name."
+
+- id: "commonly"
+  lemma: "commonly"
+  pos: adverb
+  level: B2
+  ipa: "/ˈkɒm.ən.li/"
+  example: "This word is commonly used."
+  translations:
+    de: ["häufig", "allgemein"]
+  example_translations:
+    de: "Dieses Wort wird häufig verwendet."
+
+- id: "competitive"
+  lemma: "competitive"
+  pos: adjective
+  level: B1
+  ipa: "/kəmˈpet.ɪ.tɪv/"
+  example: "He is very competitive."
+  translations:
+    de: ["wettbewerbsfähig", "ehrgeizig"]
+  example_translations:
+    de: "Er ist sehr ehrgeizig."
+
+- id: "complete-adjective"
+  lemma: "complete"
+  pos: adjective
+  level: A1
+  ipa: "/kəmˈpliːt/"
+  example: "The list is complete."
+  translations:
+    de: ["vollständig", "komplett"]
+  example_translations:
+    de: "Die Liste ist vollständig."
+
+- id: "completely"
+  lemma: "completely"
+  pos: adverb
+  level: A2
+  ipa: "/kəmˈpliːt.li/"
+  example: "I completely forgot!"
+  translations:
+    de: ["völlig", "komplett"]
+  example_translations:
+    de: "Das habe ich völlig vergessen!"
+
+- id: "complex-adjective"
+  lemma: "complex"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkɒm.pleks/"
+  example: "It's a complex problem."
+  translations:
+    de: ["komplex", "kompliziert"]
+  example_translations:
+    de: "Das ist ein komplexes Problem."
+
+- id: "complicated"
+  lemma: "complicated"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkɒm.plɪ.keɪ.tɪd/"
+  example: "The rules are complicated."
+  translations:
+    de: ["kompliziert"]
+  example_translations:
+    de: "Die Regeln sind kompliziert."
+
+- id: "confusing"
+  lemma: "confusing"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈfjuː.zɪŋ/"
+  example: "The instructions are confusing."
+  translations:
+    de: ["verwirrend"]
+  example_translations:
+    de: "Die Anleitung ist verwirrend."
+
+- id: "connected"
+  lemma: "connected"
+  pos: adjective
+  level: A2
+  ipa: "/kəˈnek.tɪd/"
+  example: "The two problems are connected."
+  translations:
+    de: ["verbunden", "zusammenhängend"]
+  example_translations:
+    de: "Die beiden Probleme hängen zusammen."
+
+- id: "consistent"
+  lemma: "consistent"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈsɪs.tənt/"
+  example: "Her work is very consistent."
+  translations:
+    de: ["beständig", "gleichbleibend", "konsequent"]
+  example_translations:
+    de: "Ihre Arbeit ist sehr gleichbleibend."
+
+- id: "constant"
+  lemma: "constant"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkɒn.stənt/"
+  example: "The constant noise drives me crazy."
+  translations:
+    de: ["ständig", "konstant"]
+  example_translations:
+    de: "Der ständige Lärm macht mich verrückt."
+
+- id: "continuous"
+  lemma: "continuous"
+  pos: adjective
+  level: B1
+  ipa: "/kənˈtɪn.ju.əs/"
+  example: "There was continuous rain all day."
+  translations:
+    de: ["ununterbrochen", "ständig"]
+  example_translations:
+    de: "Es regnete den ganzen Tag ununterbrochen."
+
+- id: "convenient"
+  lemma: "convenient"
+  pos: adjective
+  level: B1
+  ipa: "/kənˈviː.ni.ənt/"
+  example: "Is Monday convenient for you?"
+  translations:
+    de: ["praktisch", "günstig", "passend"]
+  example_translations:
+    de: "Passt dir Montag?"
+
+- id: "cool-adjective"
+  lemma: "cool"
+  pos: adjective
+  level: A1
+  ipa: "/kuːl/"
+  example: "It's cool in the evening."
+  translations:
+    de: ["kühl", "cool"]
+  example_translations:
+    de: "Abends ist es kühl."
+
+- id: "core-adjective"
+  lemma: "core"
+  pos: adjective
+  level: B2
+  ipa: "/kɔːr/"
+  example: "Maths is a core subject."
+  translations:
+    de: ["Kern-", "zentral"]
+  example_translations:
+    de: "Mathe ist ein Kernfach."
+
+- id: "covered"
+  lemma: "covered"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkʌv.əd/"
+  example: "The mountains are covered in snow."
+  translations:
+    de: ["bedeckt"]
+  example_translations:
+    de: "Die Berge sind mit Schnee bedeckt."
+
+- id: "crazy"
+  lemma: "crazy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkreɪ.zi/"
+  example: "You're crazy!"
+  translations:
+    de: ["verrückt"]
+  example_translations:
+    de: "Du bist verrückt!"
+
+- id: "creative"
+  lemma: "creative"
+  pos: adjective
+  level: A2
+  ipa: "/kriˈeɪ.tɪv/"
+  example: "She is very creative."
+  translations:
+    de: ["kreativ"]
+  example_translations:
+    de: "Sie ist sehr kreativ."
+
+- id: "critical"
+  lemma: "critical"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkrɪt.ɪ.kəl/"
+  example: "She is very critical of the plan."
+  translations:
+    de: ["kritisch", "entscheidend"]
+  example_translations:
+    de: "Sie steht dem Plan sehr kritisch gegenüber."
+
+- id: "crowded"
+  lemma: "crowded"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkraʊ.dɪd/"
+  example: "The train was very crowded."
+  translations:
+    de: ["überfüllt", "voll"]
+  example_translations:
+    de: "Der Zug war sehr voll."
+
+- id: "crucial"
+  lemma: "crucial"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkruː.ʃəl/"
+  example: "This is a crucial moment."
+  translations:
+    de: ["entscheidend"]
+  example_translations:
+    de: "Das ist ein entscheidender Moment."
+
+- id: "cruel"
+  lemma: "cruel"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkruː.əl/"
+  example: "Don't be cruel to animals."
+  translations:
+    de: ["grausam"]
+  example_translations:
+    de: "Sei nicht grausam zu Tieren."
+
+- id: "curved"
+  lemma: "curved"
+  pos: adjective
+  level: B2
+  ipa: "/kɜːvd/"
+  example: "The sofa has a curved back."
+  translations:
+    de: ["gebogen", "gekrümmt"]
+  example_translations:
+    de: "Das Sofa hat eine geschwungene Lehne."
+
+- id: "dangerous"
+  lemma: "dangerous"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdeɪn.dʒər.əs/"
+  example: "This road is dangerous."
+  translations:
+    de: ["gefährlich"]
+  example_translations:
+    de: "Diese Straße ist gefährlich."
+
+- id: "dark-adjective"
+  lemma: "dark"
+  pos: adjective
+  level: A1
+  ipa: "/dɑːk/"
+  example: "It gets dark early in winter."
+  translations:
+    de: ["dunkel"]
+  example_translations:
+    de: "Im Winter wird es früh dunkel."
+
+- id: "dead"
+  lemma: "dead"
+  pos: adjective
+  level: A2
+  ipa: "/ded/"
+  example: "The plant is dead."
+  translations:
+    de: ["tot"]
+  example_translations:
+    de: "Die Pflanze ist tot."
+
+- id: "decent"
+  lemma: "decent"
+  pos: adjective
+  level: B2
+  ipa: "/ˈdiː.sənt/"
+  example: "He earns a decent salary."
+  translations:
+    de: ["anständig", "ordentlich"]
+  example_translations:
+    de: "Er verdient ein ordentliches Gehalt."
+
+- id: "deep-adjective"
+  lemma: "deep"
+  pos: adjective
+  level: A2
+  ipa: "/diːp/"
+  example: "The lake is very deep."
+  translations:
+    de: ["tief"]
+  example_translations:
+    de: "Der See ist sehr tief."
+
+- id: "deep-adverb"
+  lemma: "deep"
+  pos: adverb
+  level: B1
+  ipa: "/diːp/"
+  example: "They dug deep into the ground."
+  translations:
+    de: ["tief"]
+  example_translations:
+    de: "Sie gruben tief in die Erde."
+
+- id: "definite"
+  lemma: "definite"
+  pos: adjective
+  level: B1
+  ipa: "/ˈdef.ɪ.nət/"
+  example: "We need a definite answer."
+  translations:
+    de: ["eindeutig", "definitiv", "bestimmt"]
+  example_translations:
+    de: "Wir brauchen eine eindeutige Antwort."
+
+- id: "deliberate"
+  lemma: "deliberate"
+  pos: adjective
+  level: B2
+  ipa: "/dɪˈlɪb.ər.ət/"
+  example: "It was a deliberate mistake."
+  translations:
+    de: ["absichtlich", "bewusst"]
+  example_translations:
+    de: "Es war ein absichtlicher Fehler."
+
+- id: "deliberately"
+  lemma: "deliberately"
+  pos: adverb
+  level: B2
+  ipa: "/dɪˈlɪb.ər.ət.li/"
+  example: "He broke it deliberately."
+  translations:
+    de: ["absichtlich"]
+  example_translations:
+    de: "Er hat es absichtlich kaputt gemacht."
+
+- id: "detailed"
+  lemma: "detailed"
+  pos: adjective
+  level: B2
+  ipa: "/ˈdiː.teɪld/"
+  example: "He gave a detailed description."
+  translations:
+    de: ["ausführlich", "detailliert"]
+  example_translations:
+    de: "Er gab eine ausführliche Beschreibung."
+
+- id: "determined"
+  lemma: "determined"
+  pos: adjective
+  level: B1
+  ipa: "/dɪˈtɜː.mɪnd/"
+  example: "She was determined to win."
+  translations:
+    de: ["entschlossen"]
+  example_translations:
+    de: "Sie war entschlossen zu gewinnen."
+
+- id: "different"
+  lemma: "different"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdɪf.ər.ənt/"
+  example: "We have different opinions."
+  translations:
+    de: ["anders", "verschieden", "unterschiedlich"]
+  example_translations:
+    de: "Wir haben unterschiedliche Meinungen."
+
+- id: "differently"
+  lemma: "differently"
+  pos: adverb
+  level: A2
+  ipa: "/ˈdɪf.ər.ənt.li/"
+  example: "We see things differently."
+  translations:
+    de: ["anders", "unterschiedlich"]
+  example_translations:
+    de: "Wir sehen die Dinge anders."
+
+- id: "difficult"
+  lemma: "difficult"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdɪf.ɪ.kəlt/"
+  example: "The exam was difficult."
+  translations:
+    de: ["schwierig", "schwer"]
+  example_translations:
+    de: "Die Prüfung war schwierig."
+
+- id: "direct-adjective"
+  lemma: "direct"
+  pos: adjective
+  level: A2
+  ipa: "/daɪˈrekt/"
+  example: "Is there a direct flight to Rome?"
+  translations:
+    de: ["direkt"]
+  example_translations:
+    de: "Gibt es einen Direktflug nach Rom?"
+
+- id: "dirty"
+  lemma: "dirty"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdɜː.ti/"
+  example: "Your shoes are dirty."
+  translations:
+    de: ["schmutzig", "dreckig"]
+  example_translations:
+    de: "Deine Schuhe sind schmutzig."
+
+- id: "dishonest"
+  lemma: "dishonest"
+  pos: adjective
+  level: B2
+  ipa: "/dɪˈsɒn.ɪst/"
+  example: "He was dishonest with me."
+  translations:
+    de: ["unehrlich"]
+  example_translations:
+    de: "Er war unehrlich zu mir."
+
+- id: "dramatic"
+  lemma: "dramatic"
+  pos: adjective
+  level: B2
+  ipa: "/drəˈmæt.ɪk/"
+  example: "There was a dramatic change in the weather."
+  translations:
+    de: ["dramatisch", "drastisch"]
+  example_translations:
+    de: "Das Wetter änderte sich dramatisch."
+
+- id: "dry-adjective"
+  lemma: "dry"
+  pos: adjective
+  level: A2
+  ipa: "/draɪ/"
+  example: "My hair is dry now."
+  translations:
+    de: ["trocken"]
+  example_translations:
+    de: "Meine Haare sind jetzt trocken."
+
+- id: "easily"
+  lemma: "easily"
+  pos: adverb
+  level: A2
+  ipa: "/ˈiː.zəl.i/"
+  example: "She won easily."
+  translations:
+    de: ["leicht", "mühelos"]
+  example_translations:
+    de: "Sie gewann mühelos."
+
+- id: "easy"
+  lemma: "easy"
+  pos: adjective
+  level: A1
+  ipa: "/ˈiː.zi/"
+  example: "The test was easy."
+  translations:
+    de: ["einfach", "leicht"]
+  example_translations:
+    de: "Der Test war einfach."
+
+- id: "effective"
+  lemma: "effective"
+  pos: adjective
+  level: B1
+  ipa: "/ɪˈfek.tɪv/"
+  example: "This method is very effective."
+  translations:
+    de: ["wirksam", "effektiv"]
+  example_translations:
+    de: "Diese Methode ist sehr wirksam."
+
+- id: "effectively"
+  lemma: "effectively"
+  pos: adverb
+  level: B1
+  ipa: "/ɪˈfek.tɪv.li/"
+  example: "She works very effectively."
+  translations:
+    de: ["wirksam", "effektiv"]
+  example_translations:
+    de: "Sie arbeitet sehr effektiv."
+
+- id: "efficient"
+  lemma: "efficient"
+  pos: adjective
+  level: B2
+  ipa: "/ɪˈfɪʃ.ənt/"
+  example: "The new system is more efficient."
+  translations:
+    de: ["effizient", "leistungsfähig"]
+  example_translations:
+    de: "Das neue System ist effizienter."
+
+- id: "empty"
+  lemma: "empty"
+  pos: adjective
+  level: A2
+  ipa: "/ˈemp.ti/"
+  example: "The bottle is empty."
+  translations:
+    de: ["leer"]
+  example_translations:
+    de: "Die Flasche ist leer."
+
+- id: "enormous"
+  lemma: "enormous"
+  pos: adjective
+  level: A2
+  ipa: "/ɪˈnɔː.məs/"
+  example: "They live in an enormous house."
+  translations:
+    de: ["riesig", "enorm"]
+  example_translations:
+    de: "Sie wohnen in einem riesigen Haus."
+
+- id: "entire"
+  lemma: "entire"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˈtaɪər/"
+  example: "I spent the entire day in bed."
+  translations:
+    de: ["ganz", "gesamt"]
+  example_translations:
+    de: "Ich habe den ganzen Tag im Bett verbracht."
+
+- id: "entirely"
+  lemma: "entirely"
+  pos: adverb
+  level: B2
+  ipa: "/ɪnˈtaɪə.li/"
+  example: "I entirely agree."
+  translations:
+    de: ["völlig", "ganz"]
+  example_translations:
+    de: "Ich stimme völlig zu."
+
+- id: "equal-adjective"
+  lemma: "equal"
+  pos: adjective
+  level: B1
+  ipa: "/ˈiː.kwəl/"
+  example: "Men and women should get equal pay."
+  translations:
+    de: ["gleich", "gleichberechtigt"]
+  example_translations:
+    de: "Männer und Frauen sollten gleichen Lohn bekommen."
+
+- id: "equally"
+  lemma: "equally"
+  pos: adverb
+  level: B1
+  ipa: "/ˈiː.kwə.li/"
+  example: "Share the money equally."
+  translations:
+    de: ["gleich", "gleichmäßig"]
+  example_translations:
+    de: "Teilt das Geld gleichmäßig auf."
+
+- id: "essential"
+  lemma: "essential"
+  pos: adjective
+  level: B1
+  ipa: "/ɪˈsen.ʃəl/"
+  example: "Water is essential for life."
+  translations:
+    de: ["wesentlich", "unbedingt notwendig"]
+  example_translations:
+    de: "Wasser ist lebensnotwendig."
+
+- id: "even-adjective"
+  lemma: "even"
+  pos: adjective
+  level: B2
+  ipa: "/ˈiː.vən/"
+  example: "Two, four and six are even numbers."
+  translations:
+    de: ["eben", "gerade (Zahl)", "gleichmäßig"]
+  example_translations:
+    de: "Zwei, vier und sechs sind gerade Zahlen."
+
+- id: "everyday"
+  lemma: "everyday"
+  pos: adjective
+  level: A2
+  ipa: "/ˈev.ri.deɪ/"
+  example: "These are everyday problems."
+  translations:
+    de: ["alltäglich", "Alltags-"]
+  example_translations:
+    de: "Das sind alltägliche Probleme."
+
+- id: "evil-adjective"
+  lemma: "evil"
+  pos: adjective
+  level: B2
+  ipa: "/ˈiː.vəl/"
+  example: "The witch was evil."
+  translations:
+    de: ["böse"]
+  example_translations:
+    de: "Die Hexe war böse."
+
+- id: "exact"
+  lemma: "exact"
+  pos: adjective
+  level: A2
+  ipa: "/ɪɡˈzækt/"
+  example: "What is the exact time?"
+  translations:
+    de: ["genau", "exakt"]
+  example_translations:
+    de: "Wie spät ist es genau?"
+
+- id: "exactly"
+  lemma: "exactly"
+  pos: adverb
+  level: A2
+  ipa: "/ɪɡˈzækt.li/"
+  example: "That's exactly what I wanted."
+  translations:
+    de: ["genau"]
+  example_translations:
+    de: "Das ist genau das, was ich wollte."
+
+- id: "excellent"
+  lemma: "excellent"
+  pos: adjective
+  level: A2
+  ipa: "/ˈek.səl.ənt/"
+  example: "The food was excellent."
+  translations:
+    de: ["ausgezeichnet", "hervorragend"]
+  example_translations:
+    de: "Das Essen war ausgezeichnet."
+
+- id: "exciting"
+  lemma: "exciting"
+  pos: adjective
+  level: A1
+  ipa: "/ɪkˈsaɪ.tɪŋ/"
+  example: "It was an exciting game."
+  translations:
+    de: ["spannend", "aufregend"]
+  example_translations:
+    de: "Es war ein spannendes Spiel."
+
+- id: "expected"
+  lemma: "expected"
+  pos: adjective
+  level: B1
+  ipa: "/ɪkˈspek.tɪd/"
+  example: "The expected arrival time is 6 p.m."
+  translations:
+    de: ["erwartet", "voraussichtlich"]
+  example_translations:
+    de: "Die voraussichtliche Ankunftszeit ist 18 Uhr."
+
+- id: "expert-adjective"
+  lemma: "expert"
+  pos: adjective
+  level: A2
+  ipa: "/ˈek.spɜːt/"
+  example: "We need expert advice."
+  translations:
+    de: ["fachkundig", "sachverständig"]
+  example_translations:
+    de: "Wir brauchen fachkundigen Rat."
+
+- id: "external"
+  lemma: "external"
+  pos: adjective
+  level: B2
+  ipa: "/ɪkˈstɜː.nəl/"
+  example: "The external walls are made of stone."
+  translations:
+    de: ["äußere", "extern"]
+  example_translations:
+    de: "Die Außenwände sind aus Stein."
+
+- id: "extra-adjective"
+  lemma: "extra"
+  pos: adjective
+  level: A1
+  ipa: "/ˈek.strə/"
+  example: "Bring an extra pair of socks."
+  translations:
+    de: ["zusätzlich", "extra"]
+  example_translations:
+    de: "Bring ein zusätzliches Paar Socken mit."
+
+- id: "extraordinary"
+  lemma: "extraordinary"
+  pos: adjective
+  level: B2
+  ipa: "/ɪkˈstrɔː.dɪn.ər.i/"
+  example: "She has an extraordinary voice."
+  translations:
+    de: ["außergewöhnlich", "erstaunlich"]
+  example_translations:
+    de: "Sie hat eine außergewöhnliche Stimme."
+
+- id: "extreme-adjective"
+  lemma: "extreme"
+  pos: adjective
+  level: A2
+  ipa: "/ɪkˈstriːm/"
+  example: "The heat was extreme."
+  translations:
+    de: ["extrem"]
+  example_translations:
+    de: "Die Hitze war extrem."
+
+- id: "extremely"
+  lemma: "extremely"
+  pos: adverb
+  level: A2
+  ipa: "/ɪkˈstriːm.li/"
+  example: "It's extremely cold today."
+  translations:
+    de: ["äußerst", "extrem"]
+  example_translations:
+    de: "Heute ist es extrem kalt."
+
+- id: "fair"
+  lemma: "fair"
+  pos: adjective
+  level: A2
+  ipa: "/feər/"
+  example: "That's not fair!"
+  translations:
+    de: ["fair", "gerecht", "hell (Haar)"]
+  example_translations:
+    de: "Das ist nicht fair!"
+
+- id: "fairly"
+  lemma: "fairly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈfeə.li/"
+  example: "The test was fairly easy."
+  translations:
+    de: ["ziemlich", "fair"]
+  example_translations:
+    de: "Der Test war ziemlich leicht."
+
+- id: "false"
+  lemma: "false"
+  pos: adjective
+  level: A1
+  ipa: "/fɔːls/"
+  example: "Is this sentence true or false?"
+  translations:
+    de: ["falsch"]
+  example_translations:
+    de: "Ist dieser Satz richtig oder falsch?"
+
+- id: "familiar"
+  lemma: "familiar"
+  pos: adjective
+  level: B1
+  ipa: "/fəˈmɪl.i.ər/"
+  example: "Her face looks familiar."
+  translations:
+    de: ["vertraut", "bekannt"]
+  example_translations:
+    de: "Ihr Gesicht kommt mir bekannt vor."
+
+- id: "famous"
+  lemma: "famous"
+  pos: adjective
+  level: A1
+  ipa: "/ˈfeɪ.məs/"
+  example: "He is a famous singer."
+  translations:
+    de: ["berühmt"]
+  example_translations:
+    de: "Er ist ein berühmter Sänger."
+
+- id: "fancy-adjective"
+  lemma: "fancy"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfæn.si/"
+  example: "We went to a fancy restaurant."
+  translations:
+    de: ["schick", "ausgefallen", "edel"]
+  example_translations:
+    de: "Wir waren in einem schicken Restaurant."
+
+- id: "fantastic"
+  lemma: "fantastic"
+  pos: adjective
+  level: A1
+  ipa: "/fænˈtæs.tɪk/"
+  example: "The view is fantastic."
+  translations:
+    de: ["fantastisch", "toll"]
+  example_translations:
+    de: "Die Aussicht ist fantastisch."
+
+- id: "far-adjective"
+  lemma: "far"
+  pos: adjective
+  level: B1
+  ipa: "/fɑːr/"
+  example: "He lives in the far north."
+  translations:
+    de: ["fern", "weit entfernt"]
+  example_translations:
+    de: "Er wohnt im hohen Norden."
+
+- id: "fascinating"
+  lemma: "fascinating"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfæs.ɪ.neɪ.tɪŋ/"
+  example: "It's a fascinating book."
+  translations:
+    de: ["faszinierend"]
+  example_translations:
+    de: "Das ist ein faszinierendes Buch."
+
+- id: "fast"
+  lemma: "fast"
+  pos: adjective
+  level: A2
+  ipa: "/fɑːst/"
+  example: "This car is very fast."
+  translations:
+    de: ["schnell"]
+  example_translations:
+    de: "Dieses Auto ist sehr schnell."
+
+- id: "fat-adjective"
+  lemma: "fat"
+  pos: adjective
+  level: A1
+  ipa: "/fæt/"
+  example: "The cat is very fat."
+  translations:
+    de: ["dick", "fett"]
+  example_translations:
+    de: "Die Katze ist sehr dick."
+
+- id: "final-adjective"
+  lemma: "final"
+  pos: adjective
+  level: A1
+  ipa: "/ˈfaɪ.nəl/"
+  example: "This is the final question."
+  translations:
+    de: ["letzte", "endgültig"]
+  example_translations:
+    de: "Das ist die letzte Frage."
+
+- id: "fine"
+  lemma: "fine"
+  pos: adjective
+  level: A1
+  ipa: "/faɪn/"
+  example: "I'm fine, thanks."
+  translations:
+    de: ["gut", "in Ordnung", "fein"]
+  example_translations:
+    de: "Mir geht es gut, danke."
+
+- id: "fixed"
+  lemma: "fixed"
+  pos: adjective
+  level: B1
+  ipa: "/fɪkst/"
+  example: "The price is fixed."
+  translations:
+    de: ["fest", "festgelegt"]
+  example_translations:
+    de: "Der Preis ist fest."
+
+- id: "flexible"
+  lemma: "flexible"
+  pos: adjective
+  level: B2
+  ipa: "/ˈflek.sə.bəl/"
+  example: "I have flexible working hours."
+  translations:
+    de: ["flexibel", "biegsam"]
+  example_translations:
+    de: "Ich habe flexible Arbeitszeiten."
+
+- id: "formal"
+  lemma: "formal"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfɔː.məl/"
+  example: "You need formal clothes for the dinner."
+  translations:
+    de: ["formell", "förmlich"]
+  example_translations:
+    de: "Für das Abendessen brauchst du formelle Kleidung."
+
+- id: "forward-adjective"
+  lemma: "forward"
+  pos: adjective
+  level: B2
+  ipa: "/ˈfɔː.wəd/"
+  example: "The car made a forward movement."
+  translations:
+    de: ["Vorwärts-", "vordere"]
+  example_translations:
+    de: "Das Auto machte eine Vorwärtsbewegung."
+
+- id: "free-adjective"
+  lemma: "free"
+  pos: adjective
+  level: A1
+  ipa: "/friː/"
+  example: "Entry is free."
+  translations:
+    de: ["frei", "kostenlos"]
+  example_translations:
+    de: "Der Eintritt ist kostenlos."
+
+- id: "friendly"
+  lemma: "friendly"
+  pos: adjective
+  level: A1
+  ipa: "/ˈfrend.li/"
+  example: "The people here are very friendly."
+  translations:
+    de: ["freundlich"]
+  example_translations:
+    de: "Die Leute hier sind sehr freundlich."
+
+- id: "front-adjective"
+  lemma: "front"
+  pos: adjective
+  level: A1
+  ipa: "/frʌnt/"
+  example: "Someone is at the front door."
+  translations:
+    de: ["vordere", "Vorder-"]
+  example_translations:
+    de: "Jemand ist an der Haustür."
+
+- id: "full"
+  lemma: "full"
+  pos: adjective
+  level: A2
+  ipa: "/fʊl/"
+  example: "The bus is full."
+  translations:
+    de: ["voll"]
+  example_translations:
+    de: "Der Bus ist voll."
+
+- id: "fully"
+  lemma: "fully"
+  pos: adverb
+  level: B2
+  ipa: "/ˈfʊl.i/"
+  example: "The hotel is fully booked."
+  translations:
+    de: ["völlig", "vollständig"]
+  example_translations:
+    de: "Das Hotel ist ausgebucht."
+
+- id: "fun-adjective"
+  lemma: "fun"
+  pos: adjective
+  level: A2
+  ipa: "/fʌn/"
+  example: "It was a fun day."
+  translations:
+    de: ["lustig", "unterhaltsam"]
+  example_translations:
+    de: "Es war ein lustiger Tag."
+
+- id: "fundamental"
+  lemma: "fundamental"
+  pos: adjective
+  level: B2
+  ipa: "/ˌfʌn.dəˈmen.təl/"
+  example: "There is a fundamental difference."
+  translations:
+    de: ["grundlegend", "fundamental"]
+  example_translations:
+    de: "Es gibt einen grundlegenden Unterschied."
+
+- id: "funny"
+  lemma: "funny"
+  pos: adjective
+  level: A1
+  ipa: "/ˈfʌn.i/"
+  example: "He told a funny story."
+  translations:
+    de: ["lustig", "komisch"]
+  example_translations:
+    de: "Er erzählte eine lustige Geschichte."
+
+- id: "further-adjective"
+  lemma: "further"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfɜː.ðər/"
+  example: "For further information, call us."
+  translations:
+    de: ["weitere"]
+  example_translations:
+    de: "Für weitere Informationen rufen Sie uns an."
+
+- id: "general"
+  lemma: "general"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdʒen.ər.əl/"
+  example: "In general, I like it."
+  translations:
+    de: ["allgemein", "generell"]
+  example_translations:
+    de: "Im Allgemeinen gefällt es mir."
+
+- id: "generally"
+  lemma: "generally"
+  pos: adverb
+  level: B1
+  ipa: "/ˈdʒen.ər.əl.i/"
+  example: "I generally get up at seven."
+  translations:
+    de: ["im Allgemeinen", "normalerweise"]
+  example_translations:
+    de: "Normalerweise stehe ich um sieben auf."
+
+- id: "generous"
+  lemma: "generous"
+  pos: adjective
+  level: B1
+  ipa: "/ˈdʒen.ər.əs/"
+  example: "My aunt is very generous."
+  translations:
+    de: ["großzügig"]
+  example_translations:
+    de: "Meine Tante ist sehr großzügig."
+
+- id: "gentle"
+  lemma: "gentle"
+  pos: adjective
+  level: B1
+  ipa: "/ˈdʒen.təl/"
+  example: "Be gentle with the baby."
+  translations:
+    de: ["sanft", "behutsam"]
+  example_translations:
+    de: "Sei vorsichtig mit dem Baby."
+
+- id: "giant-adjective"
+  lemma: "giant"
+  pos: adjective
+  level: B1
+  ipa: "/ˈdʒaɪ.ənt/"
+  example: "There is a giant spider in the bath!"
+  translations:
+    de: ["riesig"]
+  example_translations:
+    de: "In der Badewanne ist eine riesige Spinne!"
+
+- id: "good"
+  lemma: "good"
+  pos: adjective
+  level: A1
+  ipa: "/ɡʊd/"
+  example: "That's a good idea."
+  translations:
+    de: ["gut"]
+  example_translations:
+    de: "Das ist eine gute Idee."
+
+- id: "grand"
+  lemma: "grand"
+  pos: adjective
+  level: B2
+  ipa: "/ɡrænd/"
+  example: "They live in a grand house."
+  translations:
+    de: ["großartig", "prachtvoll"]
+  example_translations:
+    de: "Sie wohnen in einem prachtvollen Haus."
+
+- id: "great"
+  lemma: "great"
+  pos: adjective
+  level: A1
+  ipa: "/ɡreɪt/"
+  example: "That's a great idea!"
+  translations:
+    de: ["großartig", "toll", "groß"]
+  example_translations:
+    de: "Das ist eine tolle Idee!"
+
+- id: "hard-adjective"
+  lemma: "hard"
+  pos: adjective
+  level: A1
+  ipa: "/hɑːd/"
+  example: "The exam was very hard."
+  translations:
+    de: ["schwer", "schwierig", "hart"]
+  example_translations:
+    de: "Die Prüfung war sehr schwer."
+
+- id: "hard-adverb"
+  lemma: "hard"
+  pos: adverb
+  level: A1
+  ipa: "/hɑːd/"
+  example: "She works very hard."
+  translations:
+    de: ["hart", "fleißig", "stark"]
+  example_translations:
+    de: "Sie arbeitet sehr hart."
+
+- id: "harmful"
+  lemma: "harmful"
+  pos: adjective
+  level: B2
+  ipa: "/ˈhɑːm.fəl/"
+  example: "Smoking is harmful to your health."
+  translations:
+    de: ["schädlich"]
+  example_translations:
+    de: "Rauchen ist schädlich für die Gesundheit."
+
+- id: "heavily"
+  lemma: "heavily"
+  pos: adverb
+  level: B1
+  ipa: "/ˈhev.əl.i/"
+  example: "It rained heavily all night."
+  translations:
+    de: ["stark", "schwer"]
+  example_translations:
+    de: "Es hat die ganze Nacht stark geregnet."
+
+- id: "heavy"
+  lemma: "heavy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈhev.i/"
+  example: "This bag is very heavy."
+  translations:
+    de: ["schwer"]
+  example_translations:
+    de: "Diese Tasche ist sehr schwer."
+
+- id: "helpful"
+  lemma: "helpful"
+  pos: adjective
+  level: A2
+  ipa: "/ˈhelp.fəl/"
+  example: "The staff were very helpful."
+  translations:
+    de: ["hilfreich", "hilfsbereit"]
+  example_translations:
+    de: "Das Personal war sehr hilfsbereit."
+
+- id: "high-adjective"
+  lemma: "high"
+  pos: adjective
+  level: A1
+  ipa: "/haɪ/"
+  example: "The mountain is very high."
+  translations:
+    de: ["hoch"]
+  example_translations:
+    de: "Der Berg ist sehr hoch."
+
+- id: "high-adverb"
+  lemma: "high"
+  pos: adverb
+  level: A2
+  ipa: "/haɪ/"
+  example: "The bird flew high into the sky."
+  translations:
+    de: ["hoch"]
+  example_translations:
+    de: "Der Vogel flog hoch in den Himmel."
+
+- id: "highly"
+  lemma: "highly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈhaɪ.li/"
+  example: "I can highly recommend this book."
+  translations:
+    de: ["sehr", "höchst"]
+  example_translations:
+    de: "Ich kann dieses Buch sehr empfehlen."
+
+- id: "hollow"
+  lemma: "hollow"
+  pos: adjective
+  level: B2
+  ipa: "/ˈhɒl.əʊ/"
+  example: "The tree is hollow inside."
+  translations:
+    de: ["hohl"]
+  example_translations:
+    de: "Der Baum ist innen hohl."
+
+- id: "honest"
+  lemma: "honest"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɒn.ɪst/"
+  example: "Please be honest with me."
+  translations:
+    de: ["ehrlich"]
+  example_translations:
+    de: "Bitte sei ehrlich zu mir."
+
+- id: "horrible"
+  lemma: "horrible"
+  pos: adjective
+  level: B1
+  ipa: "/ˈhɒr.ə.bəl/"
+  example: "What horrible weather!"
+  translations:
+    de: ["schrecklich", "furchtbar"]
+  example_translations:
+    de: "Was für ein schreckliches Wetter!"
+
+- id: "huge"
+  lemma: "huge"
+  pos: adjective
+  level: A2
+  ipa: "/hjuːdʒ/"
+  example: "They have a huge garden."
+  translations:
+    de: ["riesig"]
+  example_translations:
+    de: "Sie haben einen riesigen Garten."
+
+- id: "humorous"
+  lemma: "humorous"
+  pos: adjective
+  level: B2
+  ipa: "/ˈhjuː.mər.əs/"
+  example: "He wrote a humorous story."
+  translations:
+    de: ["humorvoll", "witzig"]
+  example_translations:
+    de: "Er schrieb eine humorvolle Geschichte."
+
+- id: "ideal-adjective"
+  lemma: "ideal"
+  pos: adjective
+  level: A2
+  ipa: "/aɪˈdɪəl/"
+  example: "It's the ideal place for a holiday."
+  translations:
+    de: ["ideal"]
+  example_translations:
+    de: "Es ist der ideale Ort für einen Urlaub."
+
+- id: "impatient"
+  lemma: "impatient"
+  pos: adjective
+  level: B2
+  ipa: "/ɪmˈpeɪ.ʃənt/"
+  example: "Don't be so impatient!"
+  translations:
+    de: ["ungeduldig"]
+  example_translations:
+    de: "Sei nicht so ungeduldig!"
+
+- id: "important"
+  lemma: "important"
+  pos: adjective
+  level: A2
+  ipa: "/ɪmˈpɔː.tənt/"
+  example: "This is very important."
+  translations:
+    de: ["wichtig"]
+  example_translations:
+    de: "Das ist sehr wichtig."
+
+- id: "impossible"
+  lemma: "impossible"
+  pos: adjective
+  level: A2
+  ipa: "/ɪmˈpɒs.ə.bəl/"
+  example: "That's impossible!"
+  translations:
+    de: ["unmöglich"]
+  example_translations:
+    de: "Das ist unmöglich!"
+
+- id: "impressive"
+  lemma: "impressive"
+  pos: adjective
+  level: B1
+  ipa: "/ɪmˈpres.ɪv/"
+  example: "The building is very impressive."
+  translations:
+    de: ["beeindruckend"]
+  example_translations:
+    de: "Das Gebäude ist sehr beeindruckend."
+
+- id: "increasingly"
+  lemma: "increasingly"
+  pos: adverb
+  level: B2
+  ipa: "/ɪnˈkriː.sɪŋ.li/"
+  example: "It's becoming increasingly difficult."
+  translations:
+    de: ["zunehmend", "immer mehr"]
+  example_translations:
+    de: "Es wird immer schwieriger."
+
+- id: "incredible"
+  lemma: "incredible"
+  pos: adjective
+  level: A2
+  ipa: "/ɪnˈkred.ə.bəl/"
+  example: "The view was incredible."
+  translations:
+    de: ["unglaublich"]
+  example_translations:
+    de: "Die Aussicht war unglaublich."
+
+- id: "incredibly"
+  lemma: "incredibly"
+  pos: adverb
+  level: B1
+  ipa: "/ɪnˈkred.ə.bli/"
+  example: "It's incredibly hot today."
+  translations:
+    de: ["unglaublich"]
+  example_translations:
+    de: "Es ist heute unglaublich heiß."
+
+- id: "independent"
+  lemma: "independent"
+  pos: adjective
+  level: A2
+  ipa: "/ˌɪn.dɪˈpen.dənt/"
+  example: "She is very independent."
+  translations:
+    de: ["unabhängig", "selbstständig"]
+  example_translations:
+    de: "Sie ist sehr selbstständig."
+
+- id: "indirect"
+  lemma: "indirect"
+  pos: adjective
+  level: B1
+  ipa: "/ˌɪn.daɪˈrekt/"
+  example: "It was an indirect answer."
+  translations:
+    de: ["indirekt"]
+  example_translations:
+    de: "Es war eine indirekte Antwort."
+
+- id: "individual-adjective"
+  lemma: "individual"
+  pos: adjective
+  level: A2
+  ipa: "/ˌɪn.dɪˈvɪdʒ.u.əl/"
+  example: "Each student gets individual help."
+  translations:
+    de: ["einzeln", "individuell"]
+  example_translations:
+    de: "Jeder Schüler bekommt individuelle Hilfe."
+
+- id: "informal"
+  lemma: "informal"
+  pos: adjective
+  level: A2
+  ipa: "/ɪnˈfɔː.məl/"
+  example: "It's an informal party."
+  translations:
+    de: ["informell", "zwanglos"]
+  example_translations:
+    de: "Es ist eine zwanglose Feier."
+
+- id: "inner"
+  lemma: "inner"
+  pos: adjective
+  level: B2
+  ipa: "/ˈɪn.ər/"
+  example: "They live in the inner city."
+  translations:
+    de: ["innere", "Innen-"]
+  example_translations:
+    de: "Sie wohnen in der Innenstadt."
+
+- id: "intelligent"
+  lemma: "intelligent"
+  pos: adjective
+  level: A2
+  ipa: "/ɪnˈtel.ɪ.dʒənt/"
+  example: "Dolphins are intelligent animals."
+  translations:
+    de: ["intelligent", "klug"]
+  example_translations:
+    de: "Delfine sind intelligente Tiere."
+
+- id: "intended"
+  lemma: "intended"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˈten.dɪd/"
+  example: "The book is intended for children."
+  translations:
+    de: ["beabsichtigt", "gedacht für"]
+  example_translations:
+    de: "Das Buch ist für Kinder gedacht."
+
+- id: "intense"
+  lemma: "intense"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˈtens/"
+  example: "The heat was intense."
+  translations:
+    de: ["intensiv", "stark"]
+  example_translations:
+    de: "Die Hitze war sehr stark."
+
+- id: "interesting"
+  lemma: "interesting"
+  pos: adjective
+  level: A1
+  ipa: "/ˈɪn.trə.stɪŋ/"
+  example: "That's an interesting question."
+  translations:
+    de: ["interessant"]
+  example_translations:
+    de: "Das ist eine interessante Frage."
+
+- id: "internal"
+  lemma: "internal"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˈtɜː.nəl/"
+  example: "It's an internal problem."
+  translations:
+    de: ["innere", "intern"]
+  example_translations:
+    de: "Es ist ein internes Problem."
+
+- id: "key-adjective"
+  lemma: "key"
+  pos: adjective
+  level: A1
+  ipa: "/kiː/"
+  example: "She played a key role in the project."
+  translations:
+    de: ["wichtig", "Schlüssel-"]
+  example_translations:
+    de: "Sie spielte eine Schlüsselrolle im Projekt."
+
+- id: "kind-adjective"
+  lemma: "kind"
+  pos: adjective
+  level: B1
+  ipa: "/kaɪnd/"
+  example: "It's very kind of you."
+  translations:
+    de: ["freundlich", "nett"]
+  example_translations:
+    de: "Das ist sehr nett von dir."
+
+- id: "large"
+  lemma: "large"
+  pos: adjective
+  level: A1
+  ipa: "/lɑːdʒ/"
+  example: "They live in a large house."
+  translations:
+    de: ["groß"]
+  example_translations:
+    de: "Sie wohnen in einem großen Haus."
+
+- id: "largely"
+  lemma: "largely"
+  pos: adverb
+  level: B2
+  ipa: "/ˈlɑːdʒ.li/"
+  example: "The problem is largely solved."
+  translations:
+    de: ["größtenteils", "weitgehend"]
+  example_translations:
+    de: "Das Problem ist weitgehend gelöst."
+
+- id: "lazy"
+  lemma: "lazy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈleɪ.zi/"
+  example: "Don't be so lazy!"
+  translations:
+    de: ["faul"]
+  example_translations:
+    de: "Sei nicht so faul!"
+
+- id: "leading"
+  lemma: "leading"
+  pos: adjective
+  level: B1
+  ipa: "/ˈliː.dɪŋ/"
+  example: "She is a leading scientist."
+  translations:
+    de: ["führend", "Haupt-"]
+  example_translations:
+    de: "Sie ist eine führende Wissenschaftlerin."
+
+- id: "level-adjective"
+  lemma: "level"
+  pos: adjective
+  level: B1
+  ipa: "/ˈlev.əl/"
+  example: "The floor isn't level."
+  translations:
+    de: ["eben", "gleich hoch"]
+  example_translations:
+    de: "Der Boden ist nicht eben."
+
+- id: "light-adjective"
+  lemma: "light"
+  pos: adjective
+  level: A1
+  ipa: "/laɪt/"
+  example: "The room is light and big."
+  translations:
+    de: ["hell", "leicht"]
+  example_translations:
+    de: "Das Zimmer ist hell und groß."
+
+- id: "likely"
+  lemma: "likely"
+  pos: adjective
+  level: A2
+  ipa: "/ˈlaɪ.kli/"
+  example: "It's likely to rain."
+  translations:
+    de: ["wahrscheinlich"]
+  example_translations:
+    de: "Es wird wahrscheinlich regnen."
+
+- id: "limited"
+  lemma: "limited"
+  pos: adjective
+  level: B2
+  ipa: "/ˈlɪm.ɪ.tɪd/"
+  example: "We have limited time."
+  translations:
+    de: ["begrenzt", "beschränkt"]
+  example_translations:
+    de: "Wir haben nur begrenzt Zeit."
+
+- id: "little-adjective"
+  lemma: "little"
+  pos: adjective
+  level: A1
+  ipa: "/ˈlɪt.əl/"
+  example: "They have a little house."
+  translations:
+    de: ["klein"]
+  example_translations:
+    de: "Sie haben ein kleines Haus."
+
+- id: "lively"
+  lemma: "lively"
+  pos: adjective
+  level: B2
+  ipa: "/ˈlaɪv.li/"
+  example: "It's a lively city."
+  translations:
+    de: ["lebhaft", "lebendig"]
+  example_translations:
+    de: "Es ist eine lebendige Stadt."
+
+- id: "living-adjective"
+  lemma: "living"
+  pos: adjective
+  level: B1
+  ipa: "/ˈlɪv.ɪŋ/"
+  example: "He is the greatest living writer."
+  translations:
+    de: ["lebend", "lebendig"]
+  example_translations:
+    de: "Er ist der größte lebende Schriftsteller."
+
+- id: "long"
+  lemma: "long"
+  pos: adjective
+  level: A1
+  ipa: "/lɒŋ/"
+  example: "It's a long way."
+  translations:
+    de: ["lang"]
+  example_translations:
+    de: "Es ist ein langer Weg."
+
+- id: "loose"
+  lemma: "loose"
+  pos: adjective
+  level: B2
+  ipa: "/luːs/"
+  example: "These trousers are too loose."
+  translations:
+    de: ["locker", "lose", "weit"]
+  example_translations:
+    de: "Diese Hose ist zu weit."
+
+- id: "loud"
+  lemma: "loud"
+  pos: adjective
+  level: A2
+  ipa: "/laʊd/"
+  example: "The music is too loud."
+  translations:
+    de: ["laut"]
+  example_translations:
+    de: "Die Musik ist zu laut."
+
+- id: "loudly"
+  lemma: "loudly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈlaʊd.li/"
+  example: "Don't talk so loudly."
+  translations:
+    de: ["laut"]
+  example_translations:
+    de: "Sprich nicht so laut."
+
+- id: "lovely"
+  lemma: "lovely"
+  pos: adjective
+  level: A2
+  ipa: "/ˈlʌv.li/"
+  example: "What a lovely day!"
+  translations:
+    de: ["schön", "reizend", "herrlich"]
+  example_translations:
+    de: "Was für ein herrlicher Tag!"
+
+- id: "low-adjective"
+  lemma: "low"
+  pos: adjective
+  level: A2
+  ipa: "/ləʊ/"
+  example: "The prices are very low."
+  translations:
+    de: ["niedrig", "tief", "leise"]
+  example_translations:
+    de: "Die Preise sind sehr niedrig."
+
+- id: "low-adverb"
+  lemma: "low"
+  pos: adverb
+  level: A2
+  ipa: "/ləʊ/"
+  example: "The plane is flying very low."
+  translations:
+    de: ["tief", "niedrig"]
+  example_translations:
+    de: "Das Flugzeug fliegt sehr tief."
+
+- id: "main"
+  lemma: "main"
+  pos: adjective
+  level: A1
+  ipa: "/meɪn/"
+  example: "This is the main street."
+  translations:
+    de: ["Haupt-", "wichtigste"]
+  example_translations:
+    de: "Das ist die Hauptstraße."
+
+- id: "major"
+  lemma: "major"
+  pos: adjective
+  level: A2
+  ipa: "/ˈmeɪ.dʒər/"
+  example: "It was a major problem."
+  translations:
+    de: ["wichtig", "bedeutend", "Haupt-"]
+  example_translations:
+    de: "Es war ein großes Problem."
+
+- id: "massive"
+  lemma: "massive"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmæs.ɪv/"
+  example: "They have a massive house."
+  translations:
+    de: ["riesig", "massiv"]
+  example_translations:
+    de: "Sie haben ein riesiges Haus."
+
+- id: "material-adjective"
+  lemma: "material"
+  pos: adjective
+  level: B2
+  ipa: "/məˈtɪə.ri.əl/"
+  example: "Material things don't make you happy."
+  translations:
+    de: ["materiell"]
+  example_translations:
+    de: "Materielle Dinge machen nicht glücklich."
+
+- id: "medium-adjective"
+  lemma: "medium"
+  pos: adjective
+  level: B1
+  ipa: "/ˈmiː.di.əm/"
+  example: "Do you have this in medium size?"
+  translations:
+    de: ["mittel", "mittlere"]
+  example_translations:
+    de: "Haben Sie das in mittlerer Größe?"
+
+- id: "middle-adjective"
+  lemma: "middle"
+  pos: adjective
+  level: A2
+  ipa: "/ˈmɪd.əl/"
+  example: "He is the middle child."
+  translations:
+    de: ["mittlere"]
+  example_translations:
+    de: "Er ist das mittlere Kind."
+
+- id: "minor"
+  lemma: "minor"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmaɪ.nər/"
+  example: "It's only a minor problem."
+  translations:
+    de: ["gering", "unbedeutend", "klein"]
+  example_translations:
+    de: "Das ist nur ein kleines Problem."
+
+- id: "missing"
+  lemma: "missing"
+  pos: adjective
+  level: A2
+  ipa: "/ˈmɪs.ɪŋ/"
+  example: "My wallet is missing."
+  translations:
+    de: ["fehlend", "vermisst"]
+  example_translations:
+    de: "Mein Portemonnaie ist weg."
+
+- id: "mixed"
+  lemma: "mixed"
+  pos: adjective
+  level: B2
+  ipa: "/mɪkst/"
+  example: "I have mixed feelings about it."
+  translations:
+    de: ["gemischt"]
+  example_translations:
+    de: "Ich habe gemischte Gefühle dabei."
+
+- id: "modern"
+  lemma: "modern"
+  pos: adjective
+  level: A1
+  ipa: "/ˈmɒd.ən/"
+  example: "We live in a modern flat."
+  translations:
+    de: ["modern"]
+  example_translations:
+    de: "Wir wohnen in einer modernen Wohnung."
+
+- id: "mysterious"
+  lemma: "mysterious"
+  pos: adjective
+  level: B2
+  ipa: "/mɪˈstɪə.ri.əs/"
+  example: "A mysterious man called me."
+  translations:
+    de: ["geheimnisvoll", "mysteriös"]
+  example_translations:
+    de: "Ein geheimnisvoller Mann hat mich angerufen."
+
+- id: "narrow-adjective"
+  lemma: "narrow"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnær.əʊ/"
+  example: "The streets are very narrow."
+  translations:
+    de: ["eng", "schmal"]
+  example_translations:
+    de: "Die Straßen sind sehr eng."
+
+- id: "natural"
+  lemma: "natural"
+  pos: adjective
+  level: A1
+  ipa: "/ˈnætʃ.ər.əl/"
+  example: "It's natural to feel nervous."
+  translations:
+    de: ["natürlich", "Natur-"]
+  example_translations:
+    de: "Es ist natürlich, nervös zu sein."
+
+- id: "naturally"
+  lemma: "naturally"
+  pos: adverb
+  level: B1
+  ipa: "/ˈnætʃ.ər.əl.i/"
+  example: "Naturally, I said yes."
+  translations:
+    de: ["natürlich", "von Natur aus"]
+  example_translations:
+    de: "Natürlich habe ich Ja gesagt."
+
+- id: "near-adjective"
+  lemma: "near"
+  pos: adjective
+  level: A1
+  ipa: "/nɪər/"
+  example: "Where is the nearest bank?"
+  translations:
+    de: ["nah"]
+  example_translations:
+    de: "Wo ist die nächste Bank?"
+
+- id: "neat"
+  lemma: "neat"
+  pos: adjective
+  level: B2
+  ipa: "/niːt/"
+  example: "Her room is always neat."
+  translations:
+    de: ["ordentlich", "sauber"]
+  example_translations:
+    de: "Ihr Zimmer ist immer ordentlich."
+
+- id: "necessary"
+  lemma: "necessary"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnes.ə.ser.i/"
+  example: "Is it necessary to book?"
+  translations:
+    de: ["notwendig", "nötig"]
+  example_translations:
+    de: "Muss man reservieren?"
+
+- id: "negative-adjective"
+  lemma: "negative"
+  pos: adjective
+  level: A1
+  ipa: "/ˈneɡ.ə.tɪv/"
+  example: "Don't be so negative."
+  translations:
+    de: ["negativ"]
+  example_translations:
+    de: "Sei nicht so negativ."
+
+- id: "new"
+  lemma: "new"
+  pos: adjective
+  level: A1
+  ipa: "/njuː/"
+  example: "I have a new bike."
+  translations:
+    de: ["neu"]
+  example_translations:
+    de: "Ich habe ein neues Fahrrad."
+
+- id: "nice"
+  lemma: "nice"
+  pos: adjective
+  level: A1
+  ipa: "/naɪs/"
+  example: "Nice to meet you."
+  translations:
+    de: ["nett", "schön"]
+  example_translations:
+    de: "Schön, dich kennenzulernen."
+
+- id: "noisy"
+  lemma: "noisy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnɔɪ.zi/"
+  example: "The street is very noisy."
+  translations:
+    de: ["laut"]
+  example_translations:
+    de: "Die Straße ist sehr laut."
+
+- id: "normal"
+  lemma: "normal"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnɔː.məl/"
+  example: "It's normal to feel tired."
+  translations:
+    de: ["normal"]
+  example_translations:
+    de: "Es ist normal, müde zu sein."
+
+- id: "obvious"
+  lemma: "obvious"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɒb.vi.əs/"
+  example: "The answer is obvious."
+  translations:
+    de: ["offensichtlich", "klar"]
+  example_translations:
+    de: "Die Antwort ist offensichtlich."
+
+- id: "odd"
+  lemma: "odd"
+  pos: adjective
+  level: B1
+  ipa: "/ɒd/"
+  example: "That's odd."
+  translations:
+    de: ["seltsam", "merkwürdig", "ungerade"]
+  example_translations:
+    de: "Das ist seltsam."
+
+- id: "offensive"
+  lemma: "offensive"
+  pos: adjective
+  level: B2
+  ipa: "/əˈfen.sɪv/"
+  example: "His joke was offensive."
+  translations:
+    de: ["beleidigend", "anstößig"]
+  example_translations:
+    de: "Sein Witz war beleidigend."
+
+- id: "old"
+  lemma: "old"
+  pos: adjective
+  level: A1
+  ipa: "/əʊld/"
+  example: "This is an old church."
+  translations:
+    de: ["alt"]
+  example_translations:
+    de: "Das ist eine alte Kirche."
+
+- id: "old-fashioned"
+  lemma: "old-fashioned"
+  pos: adjective
+  level: B1
+  ipa: "/ˌəʊldˈfæʃ.ənd/"
+  example: "My parents are a bit old-fashioned."
+  translations:
+    de: ["altmodisch"]
+  example_translations:
+    de: "Meine Eltern sind etwas altmodisch."
+
+- id: "only-adjective"
+  lemma: "only"
+  pos: adjective
+  level: A1
+  ipa: "/ˈəʊn.li/"
+  example: "She is an only child."
+  translations:
+    de: ["einzige"]
+  example_translations:
+    de: "Sie ist ein Einzelkind."
+
+- id: "open-adjective"
+  lemma: "open"
+  pos: adjective
+  level: A1
+  ipa: "/ˈəʊ.pən/"
+  example: "Is the shop open?"
+  translations:
+    de: ["offen", "geöffnet"]
+  example_translations:
+    de: "Hat der Laden geöffnet?"
+
+- id: "opposite-adjective"
+  lemma: "opposite"
+  pos: adjective
+  level: A1
+  ipa: "/ˈɒp.ə.zɪt/"
+  example: "They live on the opposite side of the street."
+  translations:
+    de: ["gegenüberliegend", "entgegengesetzt"]
+  example_translations:
+    de: "Sie wohnen auf der gegenüberliegenden Straßenseite."
+
+- id: "ordinary"
+  lemma: "ordinary"
+  pos: adjective
+  level: A2
+  ipa: "/ˈɔː.dən.ər.i/"
+  example: "It was an ordinary day."
+  translations:
+    de: ["gewöhnlich", "normal"]
+  example_translations:
+    de: "Es war ein ganz normaler Tag."
+
+- id: "organized"
+  lemma: "organized"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɔː.ɡən.aɪzd/"
+  example: "She is very organized."
+  translations:
+    de: ["organisiert", "ordentlich"]
+  example_translations:
+    de: "Sie ist sehr gut organisiert."
+
+- id: "original-adjective"
+  lemma: "original"
+  pos: adjective
+  level: A2
+  ipa: "/əˈrɪdʒ.ən.əl/"
+  example: "That's a very original idea."
+  translations:
+    de: ["ursprünglich", "originell", "Original-"]
+  example_translations:
+    de: "Das ist eine sehr originelle Idee."
+
+- id: "outer"
+  lemma: "outer"
+  pos: adjective
+  level: B2
+  ipa: "/ˈaʊ.tər/"
+  example: "They live on the outer edge of the city."
+  translations:
+    de: ["äußere", "Außen-"]
+  example_translations:
+    de: "Sie wohnen am äußeren Stadtrand."
+
+- id: "overall-adjective"
+  lemma: "overall"
+  pos: adjective
+  level: B2
+  ipa: "/ˌəʊ.vəˈrɔːl/"
+  example: "The overall cost is 500 euros."
+  translations:
+    de: ["gesamt", "Gesamt-"]
+  example_translations:
+    de: "Die Gesamtkosten betragen 500 Euro."
+
+- id: "overall-adverb"
+  lemma: "overall"
+  pos: adverb
+  level: B2
+  ipa: "/ˌəʊ.vəˈrɔːl/"
+  example: "Overall, it was a good year."
+  translations:
+    de: ["insgesamt", "im Großen und Ganzen"]
+  example_translations:
+    de: "Insgesamt war es ein gutes Jahr."
+
+- id: "pale"
+  lemma: "pale"
+  pos: adjective
+  level: B1
+  ipa: "/peɪl/"
+  example: "You look pale."
+  translations:
+    de: ["blass", "hell"]
+  example_translations:
+    de: "Du siehst blass aus."
+
+- id: "particular"
+  lemma: "particular"
+  pos: adjective
+  level: A2
+  ipa: "/pəˈtɪk.jə.lər/"
+  example: "Is there a particular reason?"
+  translations:
+    de: ["bestimmt", "besonders"]
+  example_translations:
+    de: "Gibt es einen bestimmten Grund?"
+
+- id: "patient-adjective"
+  lemma: "patient"
+  pos: adjective
+  level: B2
+  ipa: "/ˈpeɪ.ʃənt/"
+  example: "Please be patient."
+  translations:
+    de: ["geduldig"]
+  example_translations:
+    de: "Bitte hab Geduld."
+
+- id: "peaceful"
+  lemma: "peaceful"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpiːs.fəl/"
+  example: "It's very peaceful here."
+  translations:
+    de: ["friedlich", "ruhig"]
+  example_translations:
+    de: "Hier ist es sehr ruhig."
+
+- id: "perfect"
+  lemma: "perfect"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɜː.fekt/"
+  example: "The weather is perfect today."
+  translations:
+    de: ["perfekt", "vollkommen"]
+  example_translations:
+    de: "Das Wetter ist heute perfekt."
+
+- id: "perfectly"
+  lemma: "perfectly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈpɜː.fekt.li/"
+  example: "She speaks English perfectly."
+  translations:
+    de: ["perfekt", "völlig"]
+  example_translations:
+    de: "Sie spricht perfekt Englisch."
+
+- id: "personal"
+  lemma: "personal"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɜː.sən.əl/"
+  example: "Can I ask you a personal question?"
+  translations:
+    de: ["persönlich"]
+  example_translations:
+    de: "Darf ich dir eine persönliche Frage stellen?"
+
+- id: "plain"
+  lemma: "plain"
+  pos: adjective
+  level: B2
+  ipa: "/pleɪn/"
+  example: "She wore a plain white shirt."
+  translations:
+    de: ["einfach", "schlicht", "klar"]
+  example_translations:
+    de: "Sie trug ein schlichtes weißes Hemd."
+
+- id: "plastic-adjective"
+  lemma: "plastic"
+  pos: adjective
+  level: A2
+  ipa: "/ˈplæs.tɪk/"
+  example: "Do you need a plastic bag?"
+  translations:
+    de: ["Plastik-", "aus Kunststoff"]
+  example_translations:
+    de: "Brauchen Sie eine Plastiktüte?"
+
+- id: "pleasant"
+  lemma: "pleasant"
+  pos: adjective
+  level: B1
+  ipa: "/ˈplez.ənt/"
+  example: "We had a pleasant evening."
+  translations:
+    de: ["angenehm", "freundlich"]
+  example_translations:
+    de: "Wir hatten einen angenehmen Abend."
+
+- id: "pointed"
+  lemma: "pointed"
+  pos: adjective
+  level: B2
+  ipa: "/ˈpɔɪn.tɪd/"
+  example: "The witch wore a pointed hat."
+  translations:
+    de: ["spitz"]
+  example_translations:
+    de: "Die Hexe trug einen spitzen Hut."
+
+- id: "poisonous"
+  lemma: "poisonous"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpɔɪ.zən.əs/"
+  example: "Some mushrooms are poisonous."
+  translations:
+    de: ["giftig"]
+  example_translations:
+    de: "Manche Pilze sind giftig."
+
+- id: "polite"
+  lemma: "polite"
+  pos: adjective
+  level: A2
+  ipa: "/pəˈlaɪt/"
+  example: "Be polite to your teacher."
+  translations:
+    de: ["höflich"]
+  example_translations:
+    de: "Sei höflich zu deinem Lehrer."
+
+- id: "poor"
+  lemma: "poor"
+  pos: adjective
+  level: A1
+  ipa: "/pɔːr/"
+  example: "They are very poor."
+  translations:
+    de: ["arm", "schlecht"]
+  example_translations:
+    de: "Sie sind sehr arm."
+
+- id: "popular"
+  lemma: "popular"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɒp.jə.lər/"
+  example: "This song is very popular."
+  translations:
+    de: ["beliebt", "populär"]
+  example_translations:
+    de: "Dieses Lied ist sehr beliebt."
+
+- id: "positive"
+  lemma: "positive"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɒz.ə.tɪv/"
+  example: "Stay positive!"
+  translations:
+    de: ["positiv"]
+  example_translations:
+    de: "Bleib positiv!"
+
+- id: "possible"
+  lemma: "possible"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɒs.ə.bəl/"
+  example: "Is it possible to pay by card?"
+  translations:
+    de: ["möglich"]
+  example_translations:
+    de: "Kann man mit Karte zahlen?"
+
+- id: "potential-adjective"
+  lemma: "potential"
+  pos: adjective
+  level: B2
+  ipa: "/pəˈten.ʃəl/"
+  example: "He is a potential customer."
+  translations:
+    de: ["potenziell", "möglich"]
+  example_translations:
+    de: "Er ist ein potenzieller Kunde."
+
+- id: "powerful"
+  lemma: "powerful"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpaʊə.fəl/"
+  example: "He is a powerful man."
+  translations:
+    de: ["mächtig", "stark", "leistungsstark"]
+  example_translations:
+    de: "Er ist ein mächtiger Mann."
+
+- id: "practical"
+  lemma: "practical"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpræk.tɪ.kəl/"
+  example: "It's a practical solution."
+  translations:
+    de: ["praktisch"]
+  example_translations:
+    de: "Das ist eine praktische Lösung."
+
+- id: "prepared"
+  lemma: "prepared"
+  pos: adjective
+  level: B1
+  ipa: "/prɪˈpeəd/"
+  example: "Are you prepared for the test?"
+  translations:
+    de: ["vorbereitet", "bereit"]
+  example_translations:
+    de: "Bist du auf den Test vorbereitet?"
+
+- id: "present-adjective"
+  lemma: "present"
+  pos: adjective
+  level: A1
+  ipa: "/ˈprez.ənt/"
+  example: "How many students are present?"
+  translations:
+    de: ["anwesend", "gegenwärtig"]
+  example_translations:
+    de: "Wie viele Schüler sind anwesend?"
+
+- id: "pretty-adjective"
+  lemma: "pretty"
+  pos: adjective
+  level: A1
+  ipa: "/ˈprɪt.i/"
+  example: "What a pretty dress!"
+  translations:
+    de: ["hübsch"]
+  example_translations:
+    de: "Was für ein hübsches Kleid!"
+
+- id: "prime"
+  lemma: "prime"
+  pos: adjective
+  level: B2
+  ipa: "/praɪm/"
+  example: "The prime minister visited the town."
+  translations:
+    de: ["Haupt-", "erstklassig"]
+  example_translations:
+    de: "Der Premierminister besuchte die Stadt."
+
+- id: "private"
+  lemma: "private"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpraɪ.vət/"
+  example: "This is a private party."
+  translations:
+    de: ["privat", "persönlich"]
+  example_translations:
+    de: "Das ist eine private Feier."
+
+- id: "proper"
+  lemma: "proper"
+  pos: adjective
+  level: B1
+  ipa: "/ˈprɒp.ər/"
+  example: "You need proper shoes for hiking."
+  translations:
+    de: ["richtig", "ordentlich", "passend"]
+  example_translations:
+    de: "Zum Wandern brauchst du richtige Schuhe."
+
+- id: "properly"
+  lemma: "properly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈprɒp.əl.i/"
+  example: "Close the door properly."
+  translations:
+    de: ["richtig", "ordentlich"]
+  example_translations:
+    de: "Mach die Tür richtig zu."
+
+- id: "pure"
+  lemma: "pure"
+  pos: adjective
+  level: B2
+  ipa: "/pjʊər/"
+  example: "The shirt is pure cotton."
+  translations:
+    de: ["rein", "pur"]
+  example_translations:
+    de: "Das Hemd ist aus reiner Baumwolle."
+
+- id: "quick"
+  lemma: "quick"
+  pos: adjective
+  level: A1
+  ipa: "/kwɪk/"
+  example: "Can I ask a quick question?"
+  translations:
+    de: ["schnell", "kurz"]
+  example_translations:
+    de: "Darf ich kurz etwas fragen?"
+
+- id: "quickly"
+  lemma: "quickly"
+  pos: adverb
+  level: A1
+  ipa: "/ˈkwɪk.li/"
+  example: "Come quickly!"
+  translations:
+    de: ["schnell"]
+  example_translations:
+    de: "Komm schnell!"
+
+- id: "quiet"
+  lemma: "quiet"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkwaɪ.ət/"
+  example: "The street is very quiet."
+  translations:
+    de: ["ruhig", "leise"]
+  example_translations:
+    de: "Die Straße ist sehr ruhig."
+
+- id: "quietly"
+  lemma: "quietly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈkwaɪət.li/"
+  example: "Please speak quietly."
+  translations:
+    de: ["leise", "ruhig"]
+  example_translations:
+    de: "Bitte sprich leise."
+
+- id: "rapid"
+  lemma: "rapid"
+  pos: adjective
+  level: B2
+  ipa: "/ˈræp.ɪd/"
+  example: "There was a rapid increase in prices."
+  translations:
+    de: ["schnell", "rasch"]
+  example_translations:
+    de: "Die Preise stiegen rasch."
+
+- id: "rapidly"
+  lemma: "rapidly"
+  pos: adverb
+  level: B2
+  ipa: "/ˈræp.ɪd.li/"
+  example: "The city is growing rapidly."
+  translations:
+    de: ["schnell", "rasch"]
+  example_translations:
+    de: "Die Stadt wächst schnell."
+
+- id: "rare"
+  lemma: "rare"
+  pos: adjective
+  level: B1
+  ipa: "/reər/"
+  example: "This bird is very rare."
+  translations:
+    de: ["selten", "blutig (Fleisch)"]
+  example_translations:
+    de: "Dieser Vogel ist sehr selten."
+
+- id: "ready"
+  lemma: "ready"
+  pos: adjective
+  level: A1
+  ipa: "/ˈred.i/"
+  example: "Dinner is ready!"
+  translations:
+    de: ["fertig", "bereit"]
+  example_translations:
+    de: "Das Essen ist fertig!"
+
+- id: "real"
+  lemma: "real"
+  pos: adjective
+  level: A1
+  ipa: "/rɪəl/"
+  example: "Is this real gold?"
+  translations:
+    de: ["echt", "wirklich", "real"]
+  example_translations:
+    de: "Ist das echtes Gold?"
+
+- id: "realistic"
+  lemma: "realistic"
+  pos: adjective
+  level: B2
+  ipa: "/ˌrɪəˈlɪs.tɪk/"
+  example: "We need a realistic plan."
+  translations:
+    de: ["realistisch"]
+  example_translations:
+    de: "Wir brauchen einen realistischen Plan."
+
+- id: "reasonable"
+  lemma: "reasonable"
+  pos: adjective
+  level: B2
+  ipa: "/ˈriː.zən.ə.bəl/"
+  example: "The prices are reasonable."
+  translations:
+    de: ["vernünftig", "angemessen", "günstig"]
+  example_translations:
+    de: "Die Preise sind angemessen."
+
+- id: "regular"
+  lemma: "regular"
+  pos: adjective
+  level: A2
+  ipa: "/ˈreɡ.jə.lər/"
+  example: "Take regular breaks."
+  translations:
+    de: ["regelmäßig", "normal"]
+  example_translations:
+    de: "Mach regelmäßig Pausen."
+
+- id: "relative-adjective"
+  lemma: "relative"
+  pos: adjective
+  level: B1
+  ipa: "/ˈrel.ə.tɪv/"
+  example: "They live in relative comfort."
+  translations:
+    de: ["relativ", "verhältnismäßig"]
+  example_translations:
+    de: "Sie leben relativ komfortabel."
+
+- id: "relatively"
+  lemma: "relatively"
+  pos: adverb
+  level: B2
+  ipa: "/ˈrel.ə.tɪv.li/"
+  example: "The test was relatively easy."
+  translations:
+    de: ["relativ", "verhältnismäßig"]
+  example_translations:
+    de: "Der Test war relativ leicht."
+
+- id: "relaxing"
+  lemma: "relaxing"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈlæk.sɪŋ/"
+  example: "It was a relaxing holiday."
+  translations:
+    de: ["entspannend", "erholsam"]
+  example_translations:
+    de: "Es war ein erholsamer Urlaub."
+
+- id: "relevant"
+  lemma: "relevant"
+  pos: adjective
+  level: B2
+  ipa: "/ˈrel.ə.vənt/"
+  example: "That's not relevant."
+  translations:
+    de: ["relevant", "wichtig"]
+  example_translations:
+    de: "Das ist nicht relevant."
+
+- id: "reliable"
+  lemma: "reliable"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈlaɪə.bəl/"
+  example: "My car is very reliable."
+  translations:
+    de: ["zuverlässig"]
+  example_translations:
+    de: "Mein Auto ist sehr zuverlässig."
+
+- id: "remote"
+  lemma: "remote"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈməʊt/"
+  example: "They live in a remote village."
+  translations:
+    de: ["abgelegen", "entfernt", "Fern-"]
+  example_translations:
+    de: "Sie wohnen in einem abgelegenen Dorf."
+
+- id: "repeated"
+  lemma: "repeated"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈpiː.tɪd/"
+  example: "After repeated attempts, he succeeded."
+  translations:
+    de: ["wiederholt"]
+  example_translations:
+    de: "Nach wiederholten Versuchen hat er es geschafft."
+
+- id: "representative-adjective"
+  lemma: "representative"
+  pos: adjective
+  level: B2
+  ipa: "/ˌrep.rɪˈzen.tə.tɪv/"
+  example: "The group is representative of the population."
+  translations:
+    de: ["repräsentativ", "typisch"]
+  example_translations:
+    de: "Die Gruppe ist repräsentativ für die Bevölkerung."
+
+- id: "rich"
+  lemma: "rich"
+  pos: adjective
+  level: A1
+  ipa: "/rɪtʃ/"
+  example: "He is very rich."
+  translations:
+    de: ["reich"]
+  example_translations:
+    de: "Er ist sehr reich."
+
+- id: "right-adjective"
+  lemma: "right"
+  pos: adjective
+  level: A1
+  ipa: "/raɪt/"
+  example: "That's the right answer."
+  translations:
+    de: ["richtig", "rechte"]
+  example_translations:
+    de: "Das ist die richtige Antwort."
+
+- id: "rough"
+  lemma: "rough"
+  pos: adjective
+  level: B1
+  ipa: "/rʌf/"
+  example: "The sea is rough today."
+  translations:
+    de: ["rau", "grob", "ungefähr"]
+  example_translations:
+    de: "Das Meer ist heute rau."
+
+- id: "round-adjective"
+  lemma: "round"
+  pos: adjective
+  level: A2
+  ipa: "/raʊnd/"
+  example: "We have a round table."
+  translations:
+    de: ["rund"]
+  example_translations:
+    de: "Wir haben einen runden Tisch."
+
+- id: "rude"
+  lemma: "rude"
+  pos: adjective
+  level: A2
+  ipa: "/ruːd/"
+  example: "Don't be rude!"
+  translations:
+    de: ["unhöflich", "frech"]
+  example_translations:
+    de: "Sei nicht unhöflich!"
+
+- id: "safe"
+  lemma: "safe"
+  pos: adjective
+  level: A2
+  ipa: "/seɪf/"
+  example: "Is it safe to swim here?"
+  translations:
+    de: ["sicher"]
+  example_translations:
+    de: "Ist es sicher, hier zu schwimmen?"
+
+- id: "same"
+  lemma: "same"
+  pos: adjective
+  level: A1
+  ipa: "/seɪm/"
+  example: "We have the same car."
+  translations:
+    de: ["gleich", "derselbe", "dieselbe", "dasselbe"]
+  example_translations:
+    de: "Wir haben das gleiche Auto."
+
+- id: "secret-adjective"
+  lemma: "secret"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsiː.krət/"
+  example: "They have a secret plan."
+  translations:
+    de: ["geheim"]
+  example_translations:
+    de: "Sie haben einen geheimen Plan."
+
+- id: "secure-adjective"
+  lemma: "secure"
+  pos: adjective
+  level: B2
+  ipa: "/sɪˈkjʊər/"
+  example: "Is the door secure?"
+  translations:
+    de: ["sicher", "fest"]
+  example_translations:
+    de: "Ist die Tür sicher verschlossen?"
+
+- id: "sensible"
+  lemma: "sensible"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsen.sə.bəl/"
+  example: "That's a sensible idea."
+  translations:
+    de: ["vernünftig"]
+  example_translations:
+    de: "Das ist eine vernünftige Idee."
+
+- id: "sensitive"
+  lemma: "sensitive"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsen.sɪ.tɪv/"
+  example: "She has sensitive skin."
+  translations:
+    de: ["empfindlich", "sensibel"]
+  example_translations:
+    de: "Sie hat empfindliche Haut."
+
+- id: "separate-adjective"
+  lemma: "separate"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsep.ər.ət/"
+  example: "We have separate rooms."
+  translations:
+    de: ["getrennt", "separat", "einzeln"]
+  example_translations:
+    de: "Wir haben getrennte Zimmer."
+
+- id: "serious"
+  lemma: "serious"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsɪə.ri.əs/"
+  example: "Are you serious?"
+  translations:
+    de: ["ernst", "ernsthaft", "schwer"]
+  example_translations:
+    de: "Meinst du das ernst?"
+
+- id: "seriously"
+  lemma: "seriously"
+  pos: adverb
+  level: B1
+  ipa: "/ˈsɪə.ri.əs.li/"
+  example: "He was seriously injured."
+  translations:
+    de: ["ernsthaft", "schwer"]
+  example_translations:
+    de: "Er wurde schwer verletzt."
+
+- id: "severe"
+  lemma: "severe"
+  pos: adjective
+  level: B2
+  ipa: "/sɪˈvɪər/"
+  example: "There was a severe storm last night."
+  translations:
+    de: ["schwer", "streng", "heftig"]
+  example_translations:
+    de: "Letzte Nacht gab es einen schweren Sturm."
+
+- id: "shallow"
+  lemma: "shallow"
+  pos: adjective
+  level: B2
+  ipa: "/ˈʃæl.əʊ/"
+  example: "The water is shallow here."
+  translations:
+    de: ["flach", "seicht", "oberflächlich"]
+  example_translations:
+    de: "Das Wasser ist hier flach."
+
+- id: "sharp"
+  lemma: "sharp"
+  pos: adjective
+  level: B1
+  ipa: "/ʃɑːp/"
+  example: "Be careful, the knife is sharp."
+  translations:
+    de: ["scharf", "spitz", "stechend"]
+  example_translations:
+    de: "Vorsicht, das Messer ist scharf."
+
+- id: "shiny"
+  lemma: "shiny"
+  pos: adjective
+  level: B1
+  ipa: "/ˈʃaɪ.ni/"
+  example: "He has a shiny new car."
+  translations:
+    de: ["glänzend"]
+  example_translations:
+    de: "Er hat ein glänzendes neues Auto."
+
+- id: "short"
+  lemma: "short"
+  pos: adjective
+  level: A1
+  ipa: "/ʃɔːt/"
+  example: "She has short hair."
+  translations:
+    de: ["kurz", "klein"]
+  example_translations:
+    de: "Sie hat kurze Haare."
+
+- id: "shy"
+  lemma: "shy"
+  pos: adjective
+  level: B1
+  ipa: "/ʃaɪ/"
+  example: "She is very shy."
+  translations:
+    de: ["schüchtern"]
+  example_translations:
+    de: "Sie ist sehr schüchtern."
+
+- id: "significant"
+  lemma: "significant"
+  pos: adjective
+  level: B2
+  ipa: "/sɪɡˈnɪf.ɪ.kənt/"
+  example: "There is a significant difference."
+  translations:
+    de: ["bedeutend", "erheblich"]
+  example_translations:
+    de: "Es gibt einen erheblichen Unterschied."
+
+- id: "significantly"
+  lemma: "significantly"
+  pos: adverb
+  level: B2
+  ipa: "/sɪɡˈnɪf.ɪ.kənt.li/"
+  example: "Prices have risen significantly."
+  translations:
+    de: ["erheblich", "deutlich"]
+  example_translations:
+    de: "Die Preise sind deutlich gestiegen."
+
+- id: "silent"
+  lemma: "silent"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsaɪ.lənt/"
+  example: "The room was silent."
+  translations:
+    de: ["still", "schweigend", "stumm"]
+  example_translations:
+    de: "Im Raum war es still."
+
+- id: "silly"
+  lemma: "silly"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsɪl.i/"
+  example: "Don't be silly!"
+  translations:
+    de: ["albern", "dumm"]
+  example_translations:
+    de: "Sei nicht albern!"
+
+- id: "similar"
+  lemma: "similar"
+  pos: adjective
+  level: A1
+  ipa: "/ˈsɪm.ɪ.lər/"
+  example: "Our jobs are similar."
+  translations:
+    de: ["ähnlich"]
+  example_translations:
+    de: "Unsere Jobs sind ähnlich."
+
+- id: "simple"
+  lemma: "simple"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsɪm.pəl/"
+  example: "It's a simple question."
+  translations:
+    de: ["einfach"]
+  example_translations:
+    de: "Das ist eine einfache Frage."
+
+- id: "sincere"
+  lemma: "sincere"
+  pos: adjective
+  level: B2
+  ipa: "/sɪnˈsɪər/"
+  example: "Please accept my sincere apologies."
+  translations:
+    de: ["aufrichtig", "ehrlich"]
+  example_translations:
+    de: "Bitte nehmen Sie meine aufrichtige Entschuldigung an."
+
+- id: "single-adjective"
+  lemma: "single"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsɪŋ.ɡəl/"
+  example: "I'd like a single room."
+  translations:
+    de: ["einzig", "ledig", "Einzel-"]
+  example_translations:
+    de: "Ich hätte gern ein Einzelzimmer."
+
+- id: "slight"
+  lemma: "slight"
+  pos: adjective
+  level: B2
+  ipa: "/slaɪt/"
+  example: "I have a slight headache."
+  translations:
+    de: ["leicht", "gering"]
+  example_translations:
+    de: "Ich habe leichte Kopfschmerzen."
+
+- id: "slightly"
+  lemma: "slightly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈslaɪt.li/"
+  example: "It's slightly bigger."
+  translations:
+    de: ["etwas", "ein wenig", "leicht"]
+  example_translations:
+    de: "Es ist etwas größer."
+
+- id: "slope-verb"
+  lemma: "slope"
+  pos: verb
+  level: B2
+  ipa: "/sləʊp/"
+  example: "The garden slopes down to the river."
+  translations:
+    de: ["abfallen", "ansteigen"]
+  example_translations:
+    de: "Der Garten fällt zum Fluss hin ab."
+
+- id: "slow"
+  lemma: "slow"
+  pos: adjective
+  level: A2
+  ipa: "/sləʊ/"
+  example: "The internet is slow today."
+  translations:
+    de: ["langsam"]
+  example_translations:
+    de: "Das Internet ist heute langsam."
+
+- id: "slowly"
+  lemma: "slowly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsləʊ.li/"
+  example: "Please speak slowly."
+  translations:
+    de: ["langsam"]
+  example_translations:
+    de: "Bitte sprich langsam."
+
+- id: "small"
+  lemma: "small"
+  pos: adjective
+  level: A1
+  ipa: "/smɔːl/"
+  example: "My flat is small."
+  translations:
+    de: ["klein"]
+  example_translations:
+    de: "Meine Wohnung ist klein."
+
+- id: "smart"
+  lemma: "smart"
+  pos: adjective
+  level: B1
+  ipa: "/smɑːt/"
+  example: "You look very smart today."
+  translations:
+    de: ["klug", "schick", "intelligent"]
+  example_translations:
+    de: "Du siehst heute sehr schick aus."
+
+- id: "smooth"
+  lemma: "smooth"
+  pos: adjective
+  level: B1
+  ipa: "/smuːð/"
+  example: "The baby has smooth skin."
+  translations:
+    de: ["glatt", "ruhig", "reibungslos"]
+  example_translations:
+    de: "Das Baby hat glatte Haut."
+
+- id: "soft"
+  lemma: "soft"
+  pos: adjective
+  level: A2
+  ipa: "/sɒft/"
+  example: "The bed is very soft."
+  translations:
+    de: ["weich", "leise", "sanft"]
+  example_translations:
+    de: "Das Bett ist sehr weich."
+
+- id: "solid-adjective"
+  lemma: "solid"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsɒl.ɪd/"
+  example: "The table is made of solid wood."
+  translations:
+    de: ["fest", "massiv", "solide"]
+  example_translations:
+    de: "Der Tisch ist aus Massivholz."
+
+- id: "special"
+  lemma: "special"
+  pos: adjective
+  level: A1
+  ipa: "/ˈspeʃ.əl/"
+  example: "Today is a special day."
+  translations:
+    de: ["besonders", "speziell"]
+  example_translations:
+    de: "Heute ist ein besonderer Tag."
+
+- id: "specific"
+  lemma: "specific"
+  pos: adjective
+  level: A2
+  ipa: "/spəˈsɪf.ɪk/"
+  example: "Can you be more specific?"
+  translations:
+    de: ["bestimmt", "spezifisch", "konkret"]
+  example_translations:
+    de: "Kannst du genauer sein?"
+
+- id: "specifically"
+  lemma: "specifically"
+  pos: adverb
+  level: B1
+  ipa: "/spəˈsɪf.ɪ.kəl.i/"
+  example: "This book is specifically for beginners."
+  translations:
+    de: ["speziell", "ausdrücklich"]
+  example_translations:
+    de: "Dieses Buch ist speziell für Anfänger."
+
+- id: "square-adjective"
+  lemma: "square"
+  pos: adjective
+  level: A2
+  ipa: "/skweər/"
+  example: "The room is ten square metres."
+  translations:
+    de: ["quadratisch", "Quadrat-"]
+  example_translations:
+    de: "Das Zimmer hat zehn Quadratmeter."
+
+- id: "stable"
+  lemma: "stable"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsteɪ.bəl/"
+  example: "The patient is stable."
+  translations:
+    de: ["stabil", "fest"]
+  example_translations:
+    de: "Der Zustand des Patienten ist stabil."
+
+- id: "standard-adjective"
+  lemma: "standard"
+  pos: adjective
+  level: B1
+  ipa: "/ˈstæn.dəd/"
+  example: "This is the standard size."
+  translations:
+    de: ["üblich", "Standard-"]
+  example_translations:
+    de: "Das ist die Standardgröße."
+
+- id: "steady"
+  lemma: "steady"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsted.i/"
+  example: "Hold the ladder steady."
+  translations:
+    de: ["stetig", "ruhig", "fest"]
+  example_translations:
+    de: "Halte die Leiter ruhig."
+
+- id: "steep"
+  lemma: "steep"
+  pos: adjective
+  level: B2
+  ipa: "/stiːp/"
+  example: "The hill is very steep."
+  translations:
+    de: ["steil"]
+  example_translations:
+    de: "Der Hügel ist sehr steil."
+
+- id: "sticky"
+  lemma: "sticky"
+  pos: adjective
+  level: B2
+  ipa: "/ˈstɪk.i/"
+  example: "My hands are sticky."
+  translations:
+    de: ["klebrig"]
+  example_translations:
+    de: "Meine Hände sind klebrig."
+
+- id: "still-adjective"
+  lemma: "still"
+  pos: adjective
+  level: B1
+  ipa: "/stɪl/"
+  example: "Still or sparkling water?"
+  translations:
+    de: ["still", "ruhig", "ohne Kohlensäure"]
+  example_translations:
+    de: "Stilles Wasser oder mit Kohlensäure?"
+
+- id: "straight-adjective"
+  lemma: "straight"
+  pos: adjective
+  level: A2
+  ipa: "/streɪt/"
+  example: "She has long straight hair."
+  translations:
+    de: ["gerade", "glatt"]
+  example_translations:
+    de: "Sie hat lange glatte Haare."
+
+- id: "strange"
+  lemma: "strange"
+  pos: adjective
+  level: A2
+  ipa: "/streɪndʒ/"
+  example: "That's strange."
+  translations:
+    de: ["seltsam", "merkwürdig", "fremd"]
+  example_translations:
+    de: "Das ist seltsam."
+
+- id: "strict"
+  lemma: "strict"
+  pos: adjective
+  level: B2
+  ipa: "/strɪkt/"
+  example: "My parents are very strict."
+  translations:
+    de: ["streng"]
+  example_translations:
+    de: "Meine Eltern sind sehr streng."
+
+- id: "strong"
+  lemma: "strong"
+  pos: adjective
+  level: A2
+  ipa: "/strɒŋ/"
+  example: "He is very strong."
+  translations:
+    de: ["stark"]
+  example_translations:
+    de: "Er ist sehr stark."
+
+- id: "strongly"
+  lemma: "strongly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈstrɒŋ.li/"
+  example: "I strongly disagree."
+  translations:
+    de: ["stark", "nachdrücklich"]
+  example_translations:
+    de: "Ich bin ganz und gar nicht einverstanden."
+
+- id: "stupid"
+  lemma: "stupid"
+  pos: adjective
+  level: A2
+  ipa: "/ˈstjuː.pɪd/"
+  example: "That was a stupid mistake."
+  translations:
+    de: ["dumm", "blöd"]
+  example_translations:
+    de: "Das war ein dummer Fehler."
+
+- id: "suitable"
+  lemma: "suitable"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsuː.tə.bəl/"
+  example: "This film is not suitable for children."
+  translations:
+    de: ["geeignet", "passend"]
+  example_translations:
+    de: "Dieser Film ist nicht für Kinder geeignet."
+
+- id: "surprising"
+  lemma: "surprising"
+  pos: adjective
+  level: A2
+  ipa: "/səˈpraɪ.zɪŋ/"
+  example: "The result was surprising."
+  translations:
+    de: ["überraschend"]
+  example_translations:
+    de: "Das Ergebnis war überraschend."
+
+- id: "surrounding"
+  lemma: "surrounding"
+  pos: adjective
+  level: B2
+  ipa: "/səˈraʊn.dɪŋ/"
+  example: "We explored the surrounding area."
+  translations:
+    de: ["umliegend"]
+  example_translations:
+    de: "Wir erkundeten die Umgebung."
+
+- id: "talented"
+  lemma: "talented"
+  pos: adjective
+  level: B1
+  ipa: "/ˈtæl.ən.tɪd/"
+  example: "He is a talented artist."
+  translations:
+    de: ["talentiert", "begabt"]
+  example_translations:
+    de: "Er ist ein talentierter Künstler."
+
+- id: "tall"
+  lemma: "tall"
+  pos: adjective
+  level: A1
+  ipa: "/tɔːl/"
+  example: "My brother is very tall."
+  translations:
+    de: ["groß", "hoch"]
+  example_translations:
+    de: "Mein Bruder ist sehr groß."
+
+- id: "terrible"
+  lemma: "terrible"
+  pos: adjective
+  level: A1
+  ipa: "/ˈter.ə.bəl/"
+  example: "The food was terrible."
+  translations:
+    de: ["schrecklich", "furchtbar"]
+  example_translations:
+    de: "Das Essen war furchtbar."
+
+- id: "thick"
+  lemma: "thick"
+  pos: adjective
+  level: A2
+  ipa: "/θɪk/"
+  example: "The walls are very thick."
+  translations:
+    de: ["dick", "dicht"]
+  example_translations:
+    de: "Die Wände sind sehr dick."
+
+- id: "thin"
+  lemma: "thin"
+  pos: adjective
+  level: A2
+  ipa: "/θɪn/"
+  example: "She is tall and thin."
+  translations:
+    de: ["dünn", "schlank"]
+  example_translations:
+    de: "Sie ist groß und schlank."
+
+- id: "tiny"
+  lemma: "tiny"
+  pos: adjective
+  level: B1
+  ipa: "/ˈtaɪ.ni/"
+  example: "The flat is tiny."
+  translations:
+    de: ["winzig"]
+  example_translations:
+    de: "Die Wohnung ist winzig."
+
+- id: "top-adjective"
+  lemma: "top"
+  pos: adjective
+  level: A2
+  ipa: "/tɒp/"
+  example: "The book is on the top shelf."
+  translations:
+    de: ["oberste", "beste", "Spitzen-"]
+  example_translations:
+    de: "Das Buch steht im obersten Regal."
+
+- id: "totally"
+  lemma: "totally"
+  pos: adverb
+  level: B1
+  ipa: "/ˈtəʊ.təl.i/"
+  example: "I totally agree."
+  translations:
+    de: ["völlig", "total"]
+  example_translations:
+    de: "Ich stimme völlig zu."
+
+- id: "tough"
+  lemma: "tough"
+  pos: adjective
+  level: B2
+  ipa: "/tʌf/"
+  example: "It was a tough decision."
+  translations:
+    de: ["hart", "schwierig", "zäh"]
+  example_translations:
+    de: "Es war eine schwere Entscheidung."
+
+- id: "true"
+  lemma: "true"
+  pos: adjective
+  level: A1
+  ipa: "/truː/"
+  example: "Is that true?"
+  translations:
+    de: ["wahr", "richtig"]
+  example_translations:
+    de: "Ist das wahr?"
+
+- id: "truly"
+  lemma: "truly"
+  pos: adverb
+  level: B2
+  ipa: "/ˈtruː.li/"
+  example: "I'm truly sorry."
+  translations:
+    de: ["wirklich", "wahrhaft"]
+  example_translations:
+    de: "Es tut mir wirklich leid."
+
+- id: "typical"
+  lemma: "typical"
+  pos: adjective
+  level: A2
+  ipa: "/ˈtɪp.ɪ.kəl/"
+  example: "This is a typical English breakfast."
+  translations:
+    de: ["typisch"]
+  example_translations:
+    de: "Das ist ein typisches englisches Frühstück."
+
+- id: "typically"
+  lemma: "typically"
+  pos: adverb
+  level: B1
+  ipa: "/ˈtɪp.ɪ.kəl.i/"
+  example: "We typically eat at seven."
+  translations:
+    de: ["typischerweise", "normalerweise"]
+  example_translations:
+    de: "Normalerweise essen wir um sieben."
+
+- id: "ugly"
+  lemma: "ugly"
+  pos: adjective
+  level: B1
+  ipa: "/ˈʌɡ.li/"
+  example: "What an ugly building!"
+  translations:
+    de: ["hässlich"]
+  example_translations:
+    de: "Was für ein hässliches Gebäude!"
+
+- id: "unable"
+  lemma: "unable"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈeɪ.bəl/"
+  example: "I'm unable to come tomorrow."
+  translations:
+    de: ["unfähig", "nicht in der Lage"]
+  example_translations:
+    de: "Ich kann morgen nicht kommen."
+
+- id: "uncomfortable"
+  lemma: "uncomfortable"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈkʌmf.tə.bəl/"
+  example: "This chair is uncomfortable."
+  translations:
+    de: ["unbequem", "unangenehm"]
+  example_translations:
+    de: "Dieser Stuhl ist unbequem."
+
+- id: "unexpected"
+  lemma: "unexpected"
+  pos: adjective
+  level: B2
+  ipa: "/ˌʌn.ɪkˈspek.tɪd/"
+  example: "We had an unexpected visitor."
+  translations:
+    de: ["unerwartet"]
+  example_translations:
+    de: "Wir hatten unerwarteten Besuch."
+
+- id: "unfair"
+  lemma: "unfair"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈfeər/"
+  example: "That's so unfair!"
+  translations:
+    de: ["unfair", "ungerecht"]
+  example_translations:
+    de: "Das ist so unfair!"
+
+- id: "unique"
+  lemma: "unique"
+  pos: adjective
+  level: B2
+  ipa: "/juːˈniːk/"
+  example: "Every person is unique."
+  translations:
+    de: ["einzigartig"]
+  example_translations:
+    de: "Jeder Mensch ist einzigartig."
+
+- id: "unknown"
+  lemma: "unknown"
+  pos: adjective
+  level: B2
+  ipa: "/ʌnˈnəʊn/"
+  example: "The cause is still unknown."
+  translations:
+    de: ["unbekannt"]
+  example_translations:
+    de: "Die Ursache ist noch unbekannt."
+
+- id: "unlikely"
+  lemma: "unlikely"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈlaɪ.kli/"
+  example: "It's unlikely to rain."
+  translations:
+    de: ["unwahrscheinlich"]
+  example_translations:
+    de: "Es wird wahrscheinlich nicht regnen."
+
+- id: "unnecessary"
+  lemma: "unnecessary"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈnes.ə.ser.i/"
+  example: "Don't take unnecessary risks."
+  translations:
+    de: ["unnötig"]
+  example_translations:
+    de: "Geh keine unnötigen Risiken ein."
+
+- id: "unpleasant"
+  lemma: "unpleasant"
+  pos: adjective
+  level: B1
+  ipa: "/ʌnˈplez.ənt/"
+  example: "There was an unpleasant smell."
+  translations:
+    de: ["unangenehm"]
+  example_translations:
+    de: "Es roch unangenehm."
+
+- id: "unusual"
+  lemma: "unusual"
+  pos: adjective
+  level: A2
+  ipa: "/ʌnˈjuː.ʒu.əl/"
+  example: "That's an unusual name."
+  translations:
+    de: ["ungewöhnlich"]
+  example_translations:
+    de: "Das ist ein ungewöhnlicher Name."
+
+- id: "upper"
+  lemma: "upper"
+  pos: adjective
+  level: B2
+  ipa: "/ˈʌp.ər/"
+  example: "The bedrooms are on the upper floor."
+  translations:
+    de: ["obere", "Ober-"]
+  example_translations:
+    de: "Die Schlafzimmer sind im oberen Stockwerk."
+
+- id: "used"
+  lemma: "used"
+  pos: adjective
+  level: B1
+  ipa: "/juːzd/"
+  example: "We bought a used car."
+  translations:
+    de: ["gebraucht"]
+  example_translations:
+    de: "Wir haben ein gebrauchtes Auto gekauft."
+
+- id: "useful"
+  lemma: "useful"
+  pos: adjective
+  level: A1
+  ipa: "/ˈjuːs.fəl/"
+  example: "This is a useful book."
+  translations:
+    de: ["nützlich"]
+  example_translations:
+    de: "Das ist ein nützliches Buch."
+
+- id: "usual"
+  lemma: "usual"
+  pos: adjective
+  level: A2
+  ipa: "/ˈjuː.ʒu.əl/"
+  example: "Let's meet at the usual place."
+  translations:
+    de: ["üblich", "gewöhnlich"]
+  example_translations:
+    de: "Treffen wir uns am üblichen Ort."
+
+- id: "valuable"
+  lemma: "valuable"
+  pos: adjective
+  level: B1
+  ipa: "/ˈvæl.jə.bəl/"
+  example: "This ring is very valuable."
+  translations:
+    de: ["wertvoll"]
+  example_translations:
+    de: "Dieser Ring ist sehr wertvoll."
+
+- id: "various"
+  lemma: "various"
+  pos: adjective
+  level: B1
+  ipa: "/ˈveə.ri.əs/"
+  example: "There are various ways to do it."
+  translations:
+    de: ["verschiedene", "unterschiedlich"]
+  example_translations:
+    de: "Es gibt verschiedene Möglichkeiten, das zu machen."
+
+- id: "vast"
+  lemma: "vast"
+  pos: adjective
+  level: B2
+  ipa: "/vɑːst/"
+  example: "The vast majority agreed."
+  translations:
+    de: ["riesig", "gewaltig"]
+  example_translations:
+    de: "Die große Mehrheit stimmte zu."
+
+- id: "violent"
+  lemma: "violent"
+  pos: adjective
+  level: B1
+  ipa: "/ˈvaɪə.lənt/"
+  example: "It was a violent storm."
+  translations:
+    de: ["gewalttätig", "heftig"]
+  example_translations:
+    de: "Es war ein heftiger Sturm."
+
+- id: "visual"
+  lemma: "visual"
+  pos: adjective
+  level: B2
+  ipa: "/ˈvɪʒ.u.əl/"
+  example: "The film has great visual effects."
+  translations:
+    de: ["visuell", "optisch"]
+  example_translations:
+    de: "Der Film hat tolle visuelle Effekte."
+
+- id: "vital"
+  lemma: "vital"
+  pos: adjective
+  level: B2
+  ipa: "/ˈvaɪ.təl/"
+  example: "Water is vital for life."
+  translations:
+    de: ["lebenswichtig", "entscheidend"]
+  example_translations:
+    de: "Wasser ist lebenswichtig."
+
+- id: "weak"
+  lemma: "weak"
+  pos: adjective
+  level: A2
+  ipa: "/wiːk/"
+  example: "I feel weak."
+  translations:
+    de: ["schwach"]
+  example_translations:
+    de: "Ich fühle mich schwach."
+
+- id: "wealthy"
+  lemma: "wealthy"
+  pos: adjective
+  level: B2
+  ipa: "/ˈwel.θi/"
+  example: "They are a wealthy family."
+  translations:
+    de: ["reich", "wohlhabend"]
+  example_translations:
+    de: "Sie sind eine wohlhabende Familie."
+
+- id: "well-adverb"
+  lemma: "well"
+  pos: adverb
+  level: A1
+  ipa: "/wel/"
+  example: "She speaks English very well."
+  translations:
+    de: ["gut"]
+  example_translations:
+    de: "Sie spricht sehr gut Englisch."
+
+- id: "whole-adjective"
+  lemma: "whole"
+  pos: adjective
+  level: A2
+  ipa: "/həʊl/"
+  example: "I ate the whole pizza."
+  translations:
+    de: ["ganz", "gesamt"]
+  example_translations:
+    de: "Ich habe die ganze Pizza gegessen."
+
+- id: "wide"
+  lemma: "wide"
+  pos: adjective
+  level: A2
+  ipa: "/waɪd/"
+  example: "The river is very wide."
+  translations:
+    de: ["breit", "weit"]
+  example_translations:
+    de: "Der Fluss ist sehr breit."
+
+- id: "widely"
+  lemma: "widely"
+  pos: adverb
+  level: B2
+  ipa: "/ˈwaɪd.li/"
+  example: "English is widely spoken."
+  translations:
+    de: ["weit", "weitgehend"]
+  example_translations:
+    de: "Englisch wird weithin gesprochen."
+
+- id: "willing"
+  lemma: "willing"
+  pos: adjective
+  level: B2
+  ipa: "/ˈwɪl.ɪŋ/"
+  example: "Are you willing to help?"
+  translations:
+    de: ["bereit", "gewillt"]
+  example_translations:
+    de: "Bist du bereit zu helfen?"
+
+- id: "wise"
+  lemma: "wise"
+  pos: adjective
+  level: B2
+  ipa: "/waɪz/"
+  example: "That was a wise decision."
+  translations:
+    de: ["weise", "klug"]
+  example_translations:
+    de: "Das war eine kluge Entscheidung."
+
+- id: "wonderful"
+  lemma: "wonderful"
+  pos: adjective
+  level: A1
+  ipa: "/ˈwʌn.də.fəl/"
+  example: "We had a wonderful time."
+  translations:
+    de: ["wunderbar", "herrlich"]
+  example_translations:
+    de: "Wir hatten eine wunderbare Zeit."
+
+- id: "wooden"
+  lemma: "wooden"
+  pos: adjective
+  level: A2
+  ipa: "/ˈwʊd.ən/"
+  example: "They have a wooden house."
+  translations:
+    de: ["hölzern", "Holz-"]
+  example_translations:
+    de: "Sie haben ein Holzhaus."
+
+- id: "worse"
+  lemma: "worse"
+  pos: adjective
+  level: A2
+  ipa: "/wɜːs/"
+  example: "The weather is worse today."
+  translations:
+    de: ["schlechter", "schlimmer"]
+  example_translations:
+    de: "Das Wetter ist heute schlechter."
+
+- id: "worst"
+  lemma: "worst"
+  pos: adjective
+  level: A2
+  ipa: "/wɜːst/"
+  example: "It was the worst day of my life."
+  translations:
+    de: ["schlechteste", "schlimmste"]
+  example_translations:
+    de: "Es war der schlimmste Tag meines Lebens."
+
+- id: "wrong-adjective"
+  lemma: "wrong"
+  pos: adjective
+  level: A1
+  ipa: "/rɒŋ/"
+  example: "That's the wrong answer."
+  translations:
+    de: ["falsch", "nicht in Ordnung"]
+  example_translations:
+    de: "Das ist die falsche Antwort."
+
+- id: "wrong-adverb"
+  lemma: "wrong"
+  pos: adverb
+  level: B1
+  ipa: "/rɒŋ/"
+  example: "You spelled my name wrong."
+  translations:
+    de: ["falsch"]
+  example_translations:
+    de: "Du hast meinen Namen falsch geschrieben."
+
+- id: "young"
+  lemma: "young"
+  pos: adjective
+  level: A1
+  ipa: "/jʌŋ/"
+  example: "My parents are still young."
+  translations:
+    de: ["jung"]
+  example_translations:
+    de: "Meine Eltern sind noch jung."

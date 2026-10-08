@@ -1,0 +1,1278 @@
+# 🎭 Kunst & Kultur – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "actor"
+  lemma: "actor"
+  pos: noun
+  level: A1
+  ipa: "/ˈæk.tər/"
+  example: "He is a famous actor."
+  translations:
+    de: ["der Schauspieler"]
+  example_translations:
+    de: "Er ist ein berühmter Schauspieler."
+
+- id: "actress"
+  lemma: "actress"
+  pos: noun
+  level: A1
+  ipa: "/ˈæk.trəs/"
+  example: "She wants to be an actress."
+  translations:
+    de: ["die Schauspielerin"]
+  example_translations:
+    de: "Sie möchte Schauspielerin werden."
+
+- id: "album"
+  lemma: "album"
+  pos: noun
+  level: B1
+  ipa: "/ˈæl.bəm/"
+  example: "Their new album is great."
+  translations:
+    de: ["das Album"]
+  example_translations:
+    de: "Ihr neues Album ist großartig."
+
+- id: "architecture"
+  lemma: "architecture"
+  pos: noun
+  level: A2
+  ipa: "/ˈɑː.kɪ.tek.tʃər/"
+  example: "I love the architecture of this city."
+  translations:
+    de: ["die Architektur"]
+  example_translations:
+    de: "Ich liebe die Architektur dieser Stadt."
+
+- id: "art"
+  lemma: "art"
+  pos: noun
+  level: A1
+  ipa: "/ɑːt/"
+  example: "I love modern art."
+  translations:
+    de: ["die Kunst"]
+  example_translations:
+    de: "Ich liebe moderne Kunst."
+
+- id: "artist"
+  lemma: "artist"
+  pos: noun
+  level: A1
+  ipa: "/ˈɑː.tɪst/"
+  example: "Picasso was a famous artist."
+  translations:
+    de: ["der Künstler", "die Künstlerin"]
+  example_translations:
+    de: "Picasso war ein berühmter Künstler."
+
+- id: "artistic"
+  lemma: "artistic"
+  pos: adjective
+  level: B2
+  ipa: "/ɑːˈtɪs.tɪk/"
+  example: "She is very artistic."
+  translations:
+    de: ["künstlerisch"]
+  example_translations:
+    de: "Sie ist sehr künstlerisch begabt."
+
+- id: "audience"
+  lemma: "audience"
+  pos: noun
+  level: A2
+  ipa: "/ˈɔː.di.əns/"
+  example: "The audience loved the show."
+  translations:
+    de: ["das Publikum", "die Zuschauer"]
+  example_translations:
+    de: "Das Publikum liebte die Show."
+
+- id: "author"
+  lemma: "author"
+  pos: noun
+  level: A2
+  ipa: "/ˈɔː.θər/"
+  example: "Who is the author of this book?"
+  translations:
+    de: ["der Autor", "die Autorin"]
+  example_translations:
+    de: "Wer ist der Autor dieses Buches?"
+
+- id: "award-noun"
+  lemma: "award"
+  pos: noun
+  level: A2
+  ipa: "/əˈwɔːd/"
+  example: "The film won an award."
+  translations:
+    de: ["die Auszeichnung", "der Preis"]
+  example_translations:
+    de: "Der Film hat einen Preis gewonnen."
+
+- id: "award-verb"
+  lemma: "award"
+  pos: verb
+  level: B1
+  ipa: "/əˈwɔːd/"
+  example: "She was awarded a prize."
+  translations:
+    de: ["verleihen", "zuerkennen"]
+  example_translations:
+    de: "Ihr wurde ein Preis verliehen."
+
+- id: "band"
+  lemma: "band"
+  pos: noun
+  level: A1
+  ipa: "/bænd/"
+  example: "My brother plays in a band."
+  translations:
+    de: ["die Band", "die Gruppe"]
+  example_translations:
+    de: "Mein Bruder spielt in einer Band."
+
+- id: "beat-noun"
+  lemma: "beat"
+  pos: noun
+  level: B2
+  ipa: "/biːt/"
+  example: "I love the beat of this song."
+  translations:
+    de: ["der Schlag", "der Takt", "der Beat"]
+  example_translations:
+    de: "Ich liebe den Beat dieses Liedes."
+
+- id: "cartoon"
+  lemma: "cartoon"
+  pos: noun
+  level: A2
+  ipa: "/kɑːˈtuːn/"
+  example: "The children are watching cartoons."
+  translations:
+    de: ["der Zeichentrickfilm", "der Cartoon"]
+  example_translations:
+    de: "Die Kinder schauen Zeichentrickfilme."
+
+- id: "cast-noun"
+  lemma: "cast"
+  pos: noun
+  level: B2
+  ipa: "/kɑːst/"
+  example: "The film has a great cast."
+  translations:
+    de: ["die Besetzung"]
+  example_translations:
+    de: "Der Film hat eine tolle Besetzung."
+
+- id: "celebrity"
+  lemma: "celebrity"
+  pos: noun
+  level: A2
+  ipa: "/səˈleb.rə.ti/"
+  example: "Many celebrities came to the party."
+  translations:
+    de: ["der Promi", "die Berühmtheit"]
+  example_translations:
+    de: "Viele Promis kamen zur Party."
+
+- id: "ceremony"
+  lemma: "ceremony"
+  pos: noun
+  level: B1
+  ipa: "/ˈser.ɪ.mə.ni/"
+  example: "The wedding ceremony was beautiful."
+  translations:
+    de: ["die Zeremonie", "die Feier"]
+  example_translations:
+    de: "Die Trauung war wunderschön."
+
+- id: "chapter"
+  lemma: "chapter"
+  pos: noun
+  level: B1
+  ipa: "/ˈtʃæp.tər/"
+  example: "Read chapter three for homework."
+  translations:
+    de: ["das Kapitel"]
+  example_translations:
+    de: "Lest als Hausaufgabe Kapitel drei."
+
+- id: "character"
+  lemma: "character"
+  pos: noun
+  level: A2
+  ipa: "/ˈkær.ək.tər/"
+  example: "Who is your favourite character in the book?"
+  translations:
+    de: ["die Figur", "der Charakter"]
+  example_translations:
+    de: "Wer ist deine Lieblingsfigur im Buch?"
+
+- id: "classic-noun"
+  lemma: "classic"
+  pos: noun
+  level: B2
+  ipa: "/ˈklæs.ɪk/"
+  example: "This film is a classic."
+  translations:
+    de: ["der Klassiker"]
+  example_translations:
+    de: "Dieser Film ist ein Klassiker."
+
+- id: "classical"
+  lemma: "classical"
+  pos: adjective
+  level: A2
+  ipa: "/ˈklæs.ɪ.kəl/"
+  example: "I like classical music."
+  translations:
+    de: ["klassisch"]
+  example_translations:
+    de: "Ich mag klassische Musik."
+
+- id: "comedy"
+  lemma: "comedy"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒm.ə.di/"
+  example: "Let's watch a comedy tonight."
+  translations:
+    de: ["die Komödie"]
+  example_translations:
+    de: "Lass uns heute Abend eine Komödie schauen."
+
+- id: "contemporary"
+  lemma: "contemporary"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈtem.pər.ər.i/"
+  example: "I like contemporary art."
+  translations:
+    de: ["zeitgenössisch", "modern"]
+  example_translations:
+    de: "Ich mag zeitgenössische Kunst."
+
+- id: "critic"
+  lemma: "critic"
+  pos: noun
+  level: B2
+  ipa: "/ˈkrɪt.ɪk/"
+  example: "The critics loved the film."
+  translations:
+    de: ["der Kritiker", "die Kritikerin"]
+  example_translations:
+    de: "Die Kritiker liebten den Film."
+
+- id: "cultural"
+  lemma: "cultural"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkʌl.tʃər.əl/"
+  example: "The city has a rich cultural life."
+  translations:
+    de: ["kulturell"]
+  example_translations:
+    de: "Die Stadt hat ein reiches kulturelles Leben."
+
+- id: "culture"
+  lemma: "culture"
+  pos: noun
+  level: A1
+  ipa: "/ˈkʌl.tʃər/"
+  example: "I'm interested in Japanese culture."
+  translations:
+    de: ["die Kultur"]
+  example_translations:
+    de: "Ich interessiere mich für die japanische Kultur."
+
+- id: "custom"
+  lemma: "custom"
+  pos: noun
+  level: B1
+  ipa: "/ˈkʌs.təm/"
+  example: "It's an old custom in our village."
+  translations:
+    de: ["der Brauch", "die Sitte"]
+  example_translations:
+    de: "Das ist ein alter Brauch in unserem Dorf."
+
+- id: "dancer"
+  lemma: "dancer"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɑːn.sər/"
+  example: "She is a ballet dancer."
+  translations:
+    de: ["der Tänzer", "die Tänzerin"]
+  example_translations:
+    de: "Sie ist Balletttänzerin."
+
+- id: "design-noun"
+  lemma: "design"
+  pos: noun
+  level: A1
+  ipa: "/dɪˈzaɪn/"
+  example: "I like the design of this chair."
+  translations:
+    de: ["das Design", "der Entwurf"]
+  example_translations:
+    de: "Mir gefällt das Design dieses Stuhls."
+
+- id: "design-verb"
+  lemma: "design"
+  pos: verb
+  level: A1
+  ipa: "/dɪˈzaɪn/"
+  example: "She designs clothes."
+  translations:
+    de: ["entwerfen", "gestalten"]
+  example_translations:
+    de: "Sie entwirft Kleidung."
+
+- id: "direct-verb"
+  lemma: "direct"
+  pos: verb
+  level: B1
+  ipa: "/daɪˈrekt/"
+  example: "Who directed this film?"
+  translations:
+    de: ["Regie führen", "leiten", "den Weg zeigen"]
+  example_translations:
+    de: "Wer hat bei diesem Film Regie geführt?"
+
+- id: "drama"
+  lemma: "drama"
+  pos: noun
+  level: A2
+  ipa: "/ˈdrɑː.mə/"
+  example: "She studies drama at university."
+  translations:
+    de: ["das Drama", "das Theater"]
+  example_translations:
+    de: "Sie studiert Theaterwissenschaft an der Universität."
+
+- id: "drawing"
+  lemma: "drawing"
+  pos: noun
+  level: A2
+  ipa: "/ˈdrɔː.ɪŋ/"
+  example: "What a beautiful drawing!"
+  translations:
+    de: ["die Zeichnung"]
+  example_translations:
+    de: "Was für eine schöne Zeichnung!"
+
+- id: "drum"
+  lemma: "drum"
+  pos: noun
+  level: B1
+  ipa: "/drʌm/"
+  example: "He plays the drums."
+  translations:
+    de: ["die Trommel", "das Schlagzeug"]
+  example_translations:
+    de: "Er spielt Schlagzeug."
+
+- id: "edition"
+  lemma: "edition"
+  pos: noun
+  level: B2
+  ipa: "/ɪˈdɪʃ.ən/"
+  example: "This is the first edition of the book."
+  translations:
+    de: ["die Ausgabe", "die Auflage"]
+  example_translations:
+    de: "Das ist die Erstausgabe des Buches."
+
+- id: "ending"
+  lemma: "ending"
+  pos: noun
+  level: A2
+  ipa: "/ˈen.dɪŋ/"
+  example: "The film has a happy ending."
+  translations:
+    de: ["das Ende", "der Schluss"]
+  example_translations:
+    de: "Der Film hat ein Happy End."
+
+- id: "exhibition"
+  lemma: "exhibition"
+  pos: noun
+  level: B1
+  ipa: "/ˌek.sɪˈbɪʃ.ən/"
+  example: "We went to an art exhibition."
+  translations:
+    de: ["die Ausstellung"]
+  example_translations:
+    de: "Wir waren in einer Kunstausstellung."
+
+- id: "feature-verb"
+  lemma: "feature"
+  pos: verb
+  level: B1
+  ipa: "/ˈfiː.tʃər/"
+  example: "The film features many famous actors."
+  translations:
+    de: ["zeigen", "bieten", "mitwirken"]
+  example_translations:
+    de: "In dem Film spielen viele berühmte Schauspieler mit."
+
+- id: "festival"
+  lemma: "festival"
+  pos: noun
+  level: A1
+  ipa: "/ˈfes.tɪ.vəl/"
+  example: "We went to a music festival."
+  translations:
+    de: ["das Festival", "das Fest"]
+  example_translations:
+    de: "Wir waren auf einem Musikfestival."
+
+- id: "fiction"
+  lemma: "fiction"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪk.ʃən/"
+  example: "I prefer fiction to non-fiction."
+  translations:
+    de: ["die Belletristik", "die Fiktion"]
+  example_translations:
+    de: "Ich lese lieber Romane als Sachbücher."
+
+- id: "folk"
+  lemma: "folk"
+  pos: noun
+  level: B1
+  ipa: "/fəʊk/"
+  example: "I like listening to folk."
+  translations:
+    de: ["die Leute", "die Volksmusik"]
+  example_translations:
+    de: "Ich höre gern Volksmusik."
+
+- id: "gallery"
+  lemma: "gallery"
+  pos: noun
+  level: A2
+  ipa: "/ˈɡæl.ər.i/"
+  example: "We visited the national gallery."
+  translations:
+    de: ["die Galerie"]
+  example_translations:
+    de: "Wir haben die Nationalgalerie besucht."
+
+- id: "genre"
+  lemma: "genre"
+  pos: noun
+  level: B2
+  ipa: "/ˈʒɒn.rə/"
+  example: "What is your favourite film genre?"
+  translations:
+    de: ["das Genre", "die Gattung"]
+  example_translations:
+    de: "Was ist dein Lieblingsfilmgenre?"
+
+- id: "ghost"
+  lemma: "ghost"
+  pos: noun
+  level: B1
+  ipa: "/ɡəʊst/"
+  example: "Do you believe in ghosts?"
+  translations:
+    de: ["der Geist", "das Gespenst"]
+  example_translations:
+    de: "Glaubst du an Gespenster?"
+
+- id: "giant-noun"
+  lemma: "giant"
+  pos: noun
+  level: B1
+  ipa: "/ˈdʒaɪ.ənt/"
+  example: "The story is about a friendly giant."
+  translations:
+    de: ["der Riese"]
+  example_translations:
+    de: "Die Geschichte handelt von einem freundlichen Riesen."
+
+- id: "god"
+  lemma: "god"
+  pos: noun
+  level: A2
+  ipa: "/ɡɒd/"
+  example: "Do you believe in God?"
+  translations:
+    de: ["der Gott"]
+  example_translations:
+    de: "Glaubst du an Gott?"
+
+- id: "heaven"
+  lemma: "heaven"
+  pos: noun
+  level: B2
+  ipa: "/ˈhev.ən/"
+  example: "This beach is heaven!"
+  translations:
+    de: ["der Himmel (religiös)", "das Paradies"]
+  example_translations:
+    de: "Dieser Strand ist das Paradies!"
+
+- id: "hell"
+  lemma: "hell"
+  pos: noun
+  level: B2
+  ipa: "/hel/"
+  example: "The journey was hell."
+  translations:
+    de: ["die Hölle"]
+  example_translations:
+    de: "Die Reise war die Hölle."
+
+- id: "historic"
+  lemma: "historic"
+  pos: adjective
+  level: B1
+  ipa: "/hɪˈstɒr.ɪk/"
+  example: "It was a historic day."
+  translations:
+    de: ["historisch", "geschichtsträchtig"]
+  example_translations:
+    de: "Es war ein historischer Tag."
+
+- id: "historical"
+  lemma: "historical"
+  pos: adjective
+  level: B1
+  ipa: "/hɪˈstɒr.ɪ.kəl/"
+  example: "I like historical novels."
+  translations:
+    de: ["historisch", "geschichtlich"]
+  example_translations:
+    de: "Ich mag historische Romane."
+
+- id: "hit-noun"
+  lemma: "hit"
+  pos: noun
+  level: A2
+  ipa: "/hɪt/"
+  example: "The song was a big hit."
+  translations:
+    de: ["der Hit", "der Erfolg", "der Schlag"]
+  example_translations:
+    de: "Das Lied war ein großer Hit."
+
+- id: "holy"
+  lemma: "holy"
+  pos: adjective
+  level: B2
+  ipa: "/ˈhəʊ.li/"
+  example: "Jerusalem is a holy city."
+  translations:
+    de: ["heilig"]
+  example_translations:
+    de: "Jerusalem ist eine heilige Stadt."
+
+- id: "horror"
+  lemma: "horror"
+  pos: noun
+  level: B1
+  ipa: "/ˈhɒr.ər/"
+  example: "I don't like horror films."
+  translations:
+    de: ["der Horror", "das Entsetzen"]
+  example_translations:
+    de: "Ich mag keine Horrorfilme."
+
+- id: "illustrate"
+  lemma: "illustrate"
+  pos: verb
+  level: B2
+  ipa: "/ˈɪl.ə.streɪt/"
+  example: "She illustrates children's books."
+  translations:
+    de: ["illustrieren", "veranschaulichen"]
+  example_translations:
+    de: "Sie illustriert Kinderbücher."
+
+- id: "illustration"
+  lemma: "illustration"
+  pos: noun
+  level: B2
+  ipa: "/ˌɪl.əˈstreɪ.ʃən/"
+  example: "The book has beautiful illustrations."
+  translations:
+    de: ["die Illustration", "die Abbildung"]
+  example_translations:
+    de: "Das Buch hat wunderschöne Illustrationen."
+
+- id: "instrument"
+  lemma: "instrument"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.strə.mənt/"
+  example: "Do you play an instrument?"
+  translations:
+    de: ["das Instrument"]
+  example_translations:
+    de: "Spielst du ein Instrument?"
+
+- id: "jazz"
+  lemma: "jazz"
+  pos: noun
+  level: A2
+  ipa: "/dʒæz/"
+  example: "My father loves jazz."
+  translations:
+    de: ["der Jazz"]
+  example_translations:
+    de: "Mein Vater liebt Jazz."
+
+- id: "literature"
+  lemma: "literature"
+  pos: noun
+  level: B1
+  ipa: "/ˈlɪt.rə.tʃər/"
+  example: "She studies English literature."
+  translations:
+    de: ["die Literatur"]
+  example_translations:
+    de: "Sie studiert englische Literatur."
+
+- id: "live-adjective"
+  lemma: "live"
+  pos: adjective
+  level: B1
+  ipa: "/laɪv/"
+  example: "We went to a live concert."
+  translations:
+    de: ["live", "lebend"]
+  example_translations:
+    de: "Wir waren auf einem Livekonzert."
+
+- id: "magic-adjective"
+  lemma: "magic"
+  pos: adjective
+  level: B1
+  ipa: "/ˈmædʒ.ɪk/"
+  example: "It was a magic moment."
+  translations:
+    de: ["magisch", "Zauber-"]
+  example_translations:
+    de: "Es war ein magischer Moment."
+
+- id: "magic-noun"
+  lemma: "magic"
+  pos: noun
+  level: B1
+  ipa: "/ˈmædʒ.ɪk/"
+  example: "He can do magic tricks."
+  translations:
+    de: ["die Magie", "die Zauberei"]
+  example_translations:
+    de: "Er kann Zaubertricks."
+
+- id: "movie"
+  lemma: "movie"
+  pos: noun
+  level: A1
+  ipa: "/ˈmuː.vi/"
+  example: "Let's watch a movie."
+  translations:
+    de: ["der Film"]
+  example_translations:
+    de: "Lass uns einen Film schauen."
+
+- id: "musical-adjective"
+  lemma: "musical"
+  pos: adjective
+  level: A2
+  ipa: "/ˈmjuː.zɪ.kəl/"
+  example: "Do you play a musical instrument?"
+  translations:
+    de: ["musikalisch", "Musik-"]
+  example_translations:
+    de: "Spielst du ein Musikinstrument?"
+
+- id: "musical-noun"
+  lemma: "musical"
+  pos: noun
+  level: B1
+  ipa: "/ˈmjuː.zɪ.kəl/"
+  example: "We saw a musical in London."
+  translations:
+    de: ["das Musical"]
+  example_translations:
+    de: "Wir haben in London ein Musical gesehen."
+
+- id: "musician"
+  lemma: "musician"
+  pos: noun
+  level: A2
+  ipa: "/mjuːˈzɪʃ.ən/"
+  example: "He is a famous musician."
+  translations:
+    de: ["der Musiker", "die Musikerin"]
+  example_translations:
+    de: "Er ist ein berühmter Musiker."
+
+- id: "narrative"
+  lemma: "narrative"
+  pos: noun
+  level: B1
+  ipa: "/ˈnær.ə.tɪv/"
+  example: "The book is a narrative of his life."
+  translations:
+    de: ["die Erzählung"]
+  example_translations:
+    de: "Das Buch ist eine Erzählung seines Lebens."
+
+- id: "novel"
+  lemma: "novel"
+  pos: noun
+  level: A2
+  ipa: "/ˈnɒv.əl/"
+  example: "I'm reading a novel."
+  translations:
+    de: ["der Roman"]
+  example_translations:
+    de: "Ich lese einen Roman."
+
+- id: "original-noun"
+  lemma: "original"
+  pos: noun
+  level: B1
+  ipa: "/əˈrɪdʒ.ən.əl/"
+  example: "This painting is an original."
+  translations:
+    de: ["das Original"]
+  example_translations:
+    de: "Dieses Gemälde ist ein Original."
+
+- id: "painter"
+  lemma: "painter"
+  pos: noun
+  level: A2
+  ipa: "/ˈpeɪn.tər/"
+  example: "Van Gogh was a famous painter."
+  translations:
+    de: ["der Maler", "die Malerin"]
+  example_translations:
+    de: "Van Gogh war ein berühmter Maler."
+
+- id: "painting"
+  lemma: "painting"
+  pos: noun
+  level: A1
+  ipa: "/ˈpeɪn.tɪŋ/"
+  example: "This painting is very old."
+  translations:
+    de: ["das Gemälde", "die Malerei"]
+  example_translations:
+    de: "Dieses Gemälde ist sehr alt."
+
+- id: "perform"
+  lemma: "perform"
+  pos: verb
+  level: A2
+  ipa: "/pəˈfɔːm/"
+  example: "The band will perform tonight."
+  translations:
+    de: ["auftreten", "aufführen", "leisten"]
+  example_translations:
+    de: "Die Band tritt heute Abend auf."
+
+- id: "performance"
+  lemma: "performance"
+  pos: noun
+  level: B1
+  ipa: "/pəˈfɔː.məns/"
+  example: "It was a great performance."
+  translations:
+    de: ["die Aufführung", "die Leistung"]
+  example_translations:
+    de: "Es war eine großartige Vorstellung."
+
+- id: "piano"
+  lemma: "piano"
+  pos: noun
+  level: A1
+  ipa: "/piˈæn.əʊ/"
+  example: "She plays the piano."
+  translations:
+    de: ["das Klavier"]
+  example_translations:
+    de: "Sie spielt Klavier."
+
+- id: "picture-noun"
+  lemma: "picture"
+  pos: noun
+  level: A1
+  ipa: "/ˈpɪk.tʃər/"
+  example: "Look at the picture."
+  translations:
+    de: ["das Bild"]
+  example_translations:
+    de: "Schau dir das Bild an."
+
+- id: "play-noun"
+  lemma: "play"
+  pos: noun
+  level: A1
+  ipa: "/pleɪ/"
+  example: "We saw a play at the theatre."
+  translations:
+    de: ["das Theaterstück", "das Spiel"]
+  example_translations:
+    de: "Wir haben ein Theaterstück gesehen."
+
+- id: "plot-noun"
+  lemma: "plot"
+  pos: noun
+  level: B1
+  ipa: "/plɒt/"
+  example: "The plot of the film is exciting."
+  translations:
+    de: ["die Handlung", "das Komplott", "das Grundstück"]
+  example_translations:
+    de: "Die Handlung des Films ist spannend."
+
+- id: "poem"
+  lemma: "poem"
+  pos: noun
+  level: B1
+  ipa: "/ˈpəʊ.ɪm/"
+  example: "She wrote a poem for him."
+  translations:
+    de: ["das Gedicht"]
+  example_translations:
+    de: "Sie schrieb ein Gedicht für ihn."
+
+- id: "poet"
+  lemma: "poet"
+  pos: noun
+  level: B1
+  ipa: "/ˈpəʊ.ɪt/"
+  example: "Goethe was a famous poet."
+  translations:
+    de: ["der Dichter", "die Dichterin"]
+  example_translations:
+    de: "Goethe war ein berühmter Dichter."
+
+- id: "poetry"
+  lemma: "poetry"
+  pos: noun
+  level: B1
+  ipa: "/ˈpəʊ.ɪ.tri/"
+  example: "I enjoy reading poetry."
+  translations:
+    de: ["die Dichtung", "die Lyrik"]
+  example_translations:
+    de: "Ich lese gern Gedichte."
+
+- id: "pop"
+  lemma: "pop"
+  pos: noun
+  level: A2
+  ipa: "/pɒp/"
+  example: "I listen to pop music."
+  translations:
+    de: ["der Pop", "die Popmusik"]
+  example_translations:
+    de: "Ich höre Popmusik."
+
+- id: "portrait"
+  lemma: "portrait"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɔː.trət/"
+  example: "She painted a portrait of her mother."
+  translations:
+    de: ["das Porträt", "das Bildnis"]
+  example_translations:
+    de: "Sie malte ein Porträt ihrer Mutter."
+
+- id: "poster"
+  lemma: "poster"
+  pos: noun
+  level: A2
+  ipa: "/ˈpəʊ.stər/"
+  example: "There's a poster on my wall."
+  translations:
+    de: ["das Poster", "das Plakat"]
+  example_translations:
+    de: "An meiner Wand hängt ein Poster."
+
+- id: "pray"
+  lemma: "pray"
+  pos: verb
+  level: B1
+  ipa: "/preɪ/"
+  example: "They pray every day."
+  translations:
+    de: ["beten"]
+  example_translations:
+    de: "Sie beten jeden Tag."
+
+- id: "prayer"
+  lemma: "prayer"
+  pos: noun
+  level: B1
+  ipa: "/preər/"
+  example: "She said a prayer."
+  translations:
+    de: ["das Gebet"]
+  example_translations:
+    de: "Sie sprach ein Gebet."
+
+- id: "priest"
+  lemma: "priest"
+  pos: noun
+  level: B1
+  ipa: "/priːst/"
+  example: "The priest married them."
+  translations:
+    de: ["der Priester", "der Pfarrer"]
+  example_translations:
+    de: "Der Priester traute sie."
+
+- id: "publication"
+  lemma: "publication"
+  pos: noun
+  level: B2
+  ipa: "/ˌpʌb.lɪˈkeɪ.ʃən/"
+  example: "The publication of the book was delayed."
+  translations:
+    de: ["die Veröffentlichung", "die Publikation"]
+  example_translations:
+    de: "Die Veröffentlichung des Buches verzögerte sich."
+
+- id: "publish"
+  lemma: "publish"
+  pos: verb
+  level: A2
+  ipa: "/ˈpʌb.lɪʃ/"
+  example: "Her first book was published in 2020."
+  translations:
+    de: ["veröffentlichen", "herausgeben"]
+  example_translations:
+    de: "Ihr erstes Buch wurde 2020 veröffentlicht."
+
+- id: "reader"
+  lemma: "reader"
+  pos: noun
+  level: A1
+  ipa: "/ˈriː.dər/"
+  example: "She is a fast reader."
+  translations:
+    de: ["der Leser", "die Leserin"]
+  example_translations:
+    de: "Sie liest schnell."
+
+- id: "release-noun"
+  lemma: "release"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈliːs/"
+  example: "The film's release is next month."
+  translations:
+    de: ["die Freilassung", "die Veröffentlichung"]
+  example_translations:
+    de: "Der Film kommt nächsten Monat heraus."
+
+- id: "religion"
+  lemma: "religion"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈlɪdʒ.ən/"
+  example: "What religion are you?"
+  translations:
+    de: ["die Religion"]
+  example_translations:
+    de: "Welcher Religion gehörst du an?"
+
+- id: "religious"
+  lemma: "religious"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈlɪdʒ.əs/"
+  example: "My grandmother is very religious."
+  translations:
+    de: ["religiös"]
+  example_translations:
+    de: "Meine Großmutter ist sehr religiös."
+
+- id: "review-noun"
+  lemma: "review"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈvjuː/"
+  example: "The film got good reviews."
+  translations:
+    de: ["die Kritik", "die Rezension", "die Überprüfung"]
+  example_translations:
+    de: "Der Film bekam gute Kritiken."
+
+- id: "rhythm"
+  lemma: "rhythm"
+  pos: noun
+  level: B2
+  ipa: "/ˈrɪð.əm/"
+  example: "I love the rhythm of this song."
+  translations:
+    de: ["der Rhythmus"]
+  example_translations:
+    de: "Ich liebe den Rhythmus dieses Liedes."
+
+- id: "scene"
+  lemma: "scene"
+  pos: noun
+  level: A2
+  ipa: "/siːn/"
+  example: "The police arrived at the scene."
+  translations:
+    de: ["die Szene", "der Schauplatz"]
+  example_translations:
+    de: "Die Polizei traf am Tatort ein."
+
+- id: "script"
+  lemma: "script"
+  pos: noun
+  level: B1
+  ipa: "/skrɪpt/"
+  example: "She wrote the script for the film."
+  translations:
+    de: ["das Drehbuch", "das Skript", "die Schrift"]
+  example_translations:
+    de: "Sie hat das Drehbuch für den Film geschrieben."
+
+- id: "show-noun"
+  lemma: "show"
+  pos: noun
+  level: A1
+  ipa: "/ʃəʊ/"
+  example: "Did you like the show?"
+  translations:
+    de: ["die Show", "die Sendung", "die Vorstellung"]
+  example_translations:
+    de: "Hat dir die Show gefallen?"
+
+- id: "singer"
+  lemma: "singer"
+  pos: noun
+  level: A1
+  ipa: "/ˈsɪŋ.ər/"
+  example: "She is a famous singer."
+  translations:
+    de: ["der Sänger", "die Sängerin"]
+  example_translations:
+    de: "Sie ist eine berühmte Sängerin."
+
+- id: "song"
+  lemma: "song"
+  pos: noun
+  level: A1
+  ipa: "/sɒŋ/"
+  example: "This is my favourite song."
+  translations:
+    de: ["das Lied", "der Song"]
+  example_translations:
+    de: "Das ist mein Lieblingslied."
+
+- id: "soul"
+  lemma: "soul"
+  pos: noun
+  level: B2
+  ipa: "/səʊl/"
+  example: "She put her heart and soul into it."
+  translations:
+    de: ["die Seele"]
+  example_translations:
+    de: "Sie hat ihr ganzes Herzblut hineingesteckt."
+
+- id: "spiritual"
+  lemma: "spiritual"
+  pos: adjective
+  level: B2
+  ipa: "/ˈspɪr.ɪ.tʃu.əl/"
+  example: "She is a very spiritual person."
+  translations:
+    de: ["spirituell", "geistig"]
+  example_translations:
+    de: "Sie ist ein sehr spiritueller Mensch."
+
+- id: "stage-noun"
+  lemma: "stage"
+  pos: noun
+  level: A2
+  ipa: "/steɪdʒ/"
+  example: "The band came on stage."
+  translations:
+    de: ["die Bühne", "die Phase", "das Stadium"]
+  example_translations:
+    de: "Die Band kam auf die Bühne."
+
+- id: "stage-verb"
+  lemma: "stage"
+  pos: verb
+  level: B2
+  ipa: "/steɪdʒ/"
+  example: "They staged a protest."
+  translations:
+    de: ["inszenieren", "veranstalten"]
+  example_translations:
+    de: "Sie veranstalteten einen Protest."
+
+- id: "star-verb"
+  lemma: "star"
+  pos: verb
+  level: A2
+  ipa: "/stɑːr/"
+  example: "She stars in a new film."
+  translations:
+    de: ["die Hauptrolle spielen"]
+  example_translations:
+    de: "Sie spielt die Hauptrolle in einem neuen Film."
+
+- id: "statue"
+  lemma: "statue"
+  pos: noun
+  level: B1
+  ipa: "/ˈstætʃ.uː/"
+  example: "There's a statue in the square."
+  translations:
+    de: ["die Statue"]
+  example_translations:
+    de: "Auf dem Platz steht eine Statue."
+
+- id: "story"
+  lemma: "story"
+  pos: noun
+  level: A1
+  ipa: "/ˈstɔː.ri/"
+  example: "Tell me a story."
+  translations:
+    de: ["die Geschichte"]
+  example_translations:
+    de: "Erzähl mir eine Geschichte."
+
+- id: "studio"
+  lemma: "studio"
+  pos: noun
+  level: B1
+  ipa: "/ˈstjuː.di.əʊ/"
+  example: "They recorded the song in a studio."
+  translations:
+    de: ["das Studio", "das Atelier"]
+  example_translations:
+    de: "Sie haben das Lied in einem Studio aufgenommen."
+
+- id: "tale"
+  lemma: "tale"
+  pos: noun
+  level: B2
+  ipa: "/teɪl/"
+  example: "She read us a fairy tale."
+  translations:
+    de: ["die Geschichte", "das Märchen"]
+  example_translations:
+    de: "Sie las uns ein Märchen vor."
+
+- id: "theatre"
+  lemma: "theatre"
+  pos: noun
+  level: A1
+  ipa: "/ˈθɪə.tər/"
+  example: "We went to the theatre last night."
+  translations:
+    de: ["das Theater"]
+  example_translations:
+    de: "Wir waren gestern Abend im Theater."
+
+- id: "theme"
+  lemma: "theme"
+  pos: noun
+  level: B1
+  ipa: "/θiːm/"
+  example: "The theme of the party is the 80s."
+  translations:
+    de: ["das Thema", "das Motto"]
+  example_translations:
+    de: "Das Motto der Party sind die 80er."
+
+- id: "title-noun"
+  lemma: "title"
+  pos: noun
+  level: A1
+  ipa: "/ˈtaɪ.təl/"
+  example: "What's the title of the book?"
+  translations:
+    de: ["der Titel", "die Überschrift"]
+  example_translations:
+    de: "Wie heißt das Buch?"
+
+- id: "title-verb"
+  lemma: "title"
+  pos: verb
+  level: B2
+  ipa: "/ˈtaɪ.təl/"
+  example: "The song is titled \"Home\"."
+  translations:
+    de: ["betiteln"]
+  example_translations:
+    de: "Das Lied heißt „Home“."
+
+- id: "tradition"
+  lemma: "tradition"
+  pos: noun
+  level: A2
+  ipa: "/trəˈdɪʃ.ən/"
+  example: "It's a family tradition."
+  translations:
+    de: ["die Tradition", "der Brauch"]
+  example_translations:
+    de: "Das ist eine Familientradition."
+
+- id: "traditional"
+  lemma: "traditional"
+  pos: adjective
+  level: A2
+  ipa: "/trəˈdɪʃ.ən.əl/"
+  example: "We ate traditional food."
+  translations:
+    de: ["traditionell"]
+  example_translations:
+    de: "Wir haben traditionelles Essen gegessen."
+
+- id: "tune"
+  lemma: "tune"
+  pos: noun
+  level: B2
+  ipa: "/tʃuːn/"
+  example: "I can't get this tune out of my head."
+  translations:
+    de: ["die Melodie"]
+  example_translations:
+    de: "Diese Melodie geht mir nicht aus dem Kopf."
+
+- id: "venue"
+  lemma: "venue"
+  pos: noun
+  level: B2
+  ipa: "/ˈven.juː/"
+  example: "The venue for the concert has changed."
+  translations:
+    de: ["der Veranstaltungsort"]
+  example_translations:
+    de: "Der Veranstaltungsort des Konzerts hat sich geändert."
+
+- id: "writer"
+  lemma: "writer"
+  pos: noun
+  level: A1
+  ipa: "/ˈraɪ.tər/"
+  example: "She is a famous writer."
+  translations:
+    de: ["der Schriftsteller", "die Schriftstellerin", "der Autor"]
+  example_translations:
+    de: "Sie ist eine berühmte Schriftstellerin."

@@ -1,0 +1,1773 @@
+# 🏛️ Gesellschaft & Politik – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "accuse"
+  lemma: "accuse"
+  pos: verb
+  level: B2
+  ipa: "/əˈkjuːz/"
+  example: "He was accused of stealing."
+  translations:
+    de: ["beschuldigen", "anklagen"]
+  example_translations:
+    de: "Er wurde des Diebstahls beschuldigt."
+
+- id: "affair"
+  lemma: "affair"
+  pos: noun
+  level: B2
+  ipa: "/əˈfeər/"
+  example: "This is a private affair."
+  translations:
+    de: ["die Angelegenheit", "die Affäre"]
+  example_translations:
+    de: "Das ist eine private Angelegenheit."
+
+- id: "aid-noun"
+  lemma: "aid"
+  pos: noun
+  level: B2
+  ipa: "/eɪd/"
+  example: "The country needs international aid."
+  translations:
+    de: ["die Hilfe"]
+  example_translations:
+    de: "Das Land braucht internationale Hilfe."
+
+- id: "appeal-noun"
+  lemma: "appeal"
+  pos: noun
+  level: B2
+  ipa: "/əˈpiːl/"
+  example: "The police made an appeal for witnesses."
+  translations:
+    de: ["der Appell", "der Reiz", "die Berufung"]
+  example_translations:
+    de: "Die Polizei rief nach Zeugen auf."
+
+- id: "approval"
+  lemma: "approval"
+  pos: noun
+  level: B2
+  ipa: "/əˈpruː.vəl/"
+  example: "The plan needs official approval."
+  translations:
+    de: ["die Zustimmung", "die Genehmigung"]
+  example_translations:
+    de: "Der Plan braucht eine offizielle Genehmigung."
+
+- id: "approve"
+  lemma: "approve"
+  pos: verb
+  level: B2
+  ipa: "/əˈpruːv/"
+  example: "My parents don't approve of my boyfriend."
+  translations:
+    de: ["genehmigen", "billigen"]
+  example_translations:
+    de: "Meine Eltern sind mit meinem Freund nicht einverstanden."
+
+- id: "armed"
+  lemma: "armed"
+  pos: adjective
+  level: B2
+  ipa: "/ɑːmd/"
+  example: "The man was armed with a knife."
+  translations:
+    de: ["bewaffnet"]
+  example_translations:
+    de: "Der Mann war mit einem Messer bewaffnet."
+
+- id: "arms"
+  lemma: "arms"
+  pos: noun
+  level: B2
+  ipa: "/ɑːmz/"
+  example: "The country sells arms abroad."
+  translations:
+    de: ["die Waffen"]
+  example_translations:
+    de: "Das Land verkauft Waffen ins Ausland."
+
+- id: "army"
+  lemma: "army"
+  pos: noun
+  level: A2
+  ipa: "/ˈɑː.mi/"
+  example: "He joined the army at eighteen."
+  translations:
+    de: ["die Armee", "das Heer"]
+  example_translations:
+    de: "Er ging mit achtzehn zur Armee."
+
+- id: "arrest-noun"
+  lemma: "arrest"
+  pos: noun
+  level: B1
+  ipa: "/əˈrest/"
+  example: "The police made an arrest."
+  translations:
+    de: ["die Verhaftung", "die Festnahme"]
+  example_translations:
+    de: "Die Polizei nahm eine Festnahme vor."
+
+- id: "arrest-verb"
+  lemma: "arrest"
+  pos: verb
+  level: B1
+  ipa: "/əˈrest/"
+  example: "The police arrested two men."
+  translations:
+    de: ["verhaften", "festnehmen"]
+  example_translations:
+    de: "Die Polizei hat zwei Männer festgenommen."
+
+- id: "association"
+  lemma: "association"
+  pos: noun
+  level: B2
+  ipa: "/əˌsəʊ.siˈeɪ.ʃən/"
+  example: "He is a member of the football association."
+  translations:
+    de: ["der Verband", "der Verein", "die Verbindung"]
+  example_translations:
+    de: "Er ist Mitglied im Fußballverband."
+
+- id: "attack-noun"
+  lemma: "attack"
+  pos: noun
+  level: A2
+  ipa: "/əˈtæk/"
+  example: "The city was under attack."
+  translations:
+    de: ["der Angriff"]
+  example_translations:
+    de: "Die Stadt wurde angegriffen."
+
+- id: "authority"
+  lemma: "authority"
+  pos: noun
+  level: B1
+  ipa: "/ɔːˈθɒr.ə.ti/"
+  example: "The local authorities closed the road."
+  translations:
+    de: ["die Behörde", "die Autorität"]
+  example_translations:
+    de: "Die örtlichen Behörden sperrten die Straße."
+
+- id: "ban-noun"
+  lemma: "ban"
+  pos: noun
+  level: B1
+  ipa: "/bæn/"
+  example: "There is a ban on smoking here."
+  translations:
+    de: ["das Verbot"]
+  example_translations:
+    de: "Hier gilt ein Rauchverbot."
+
+- id: "ban-verb"
+  lemma: "ban"
+  pos: verb
+  level: B1
+  ipa: "/bæn/"
+  example: "Smoking is banned in restaurants."
+  translations:
+    de: ["verbieten"]
+  example_translations:
+    de: "Rauchen ist in Restaurants verboten."
+
+- id: "battle-noun"
+  lemma: "battle"
+  pos: noun
+  level: B1
+  ipa: "/ˈbæt.əl/"
+  example: "Many soldiers died in the battle."
+  translations:
+    de: ["die Schlacht", "der Kampf"]
+  example_translations:
+    de: "Viele Soldaten starben in der Schlacht."
+
+- id: "bomb-noun"
+  lemma: "bomb"
+  pos: noun
+  level: B1
+  ipa: "/bɒm/"
+  example: "A bomb exploded in the city."
+  translations:
+    de: ["die Bombe"]
+  example_translations:
+    de: "In der Stadt explodierte eine Bombe."
+
+- id: "bomb-verb"
+  lemma: "bomb"
+  pos: verb
+  level: B1
+  ipa: "/bɒm/"
+  example: "The city was bombed in the war."
+  translations:
+    de: ["bombardieren"]
+  example_translations:
+    de: "Die Stadt wurde im Krieg bombardiert."
+
+- id: "bullet"
+  lemma: "bullet"
+  pos: noun
+  level: B2
+  ipa: "/ˈbʊl.ɪt/"
+  example: "The bullet hit the wall."
+  translations:
+    de: ["die Kugel", "die Patrone"]
+  example_translations:
+    de: "Die Kugel traf die Wand."
+
+- id: "campaign-noun"
+  lemma: "campaign"
+  pos: noun
+  level: B1
+  ipa: "/kæmˈpeɪn/"
+  example: "They started a campaign against smoking."
+  translations:
+    de: ["die Kampagne", "der Wahlkampf"]
+  example_translations:
+    de: "Sie starteten eine Kampagne gegen das Rauchen."
+
+- id: "campaign-verb"
+  lemma: "campaign"
+  pos: verb
+  level: B1
+  ipa: "/kæmˈpeɪn/"
+  example: "They campaigned for equal rights."
+  translations:
+    de: ["sich einsetzen", "kämpfen"]
+  example_translations:
+    de: "Sie setzten sich für gleiche Rechte ein."
+
+- id: "candidate"
+  lemma: "candidate"
+  pos: noun
+  level: B1
+  ipa: "/ˈkæn.dɪ.dət/"
+  example: "There are five candidates for the job."
+  translations:
+    de: ["der Kandidat", "die Kandidatin", "der Bewerber"]
+  example_translations:
+    de: "Es gibt fünf Bewerber für die Stelle."
+
+- id: "capture-noun"
+  lemma: "capture"
+  pos: noun
+  level: B2
+  ipa: "/ˈkæp.tʃər/"
+  example: "He avoided capture for three weeks."
+  translations:
+    de: ["die Gefangennahme", "die Erfassung"]
+  example_translations:
+    de: "Er entging drei Wochen lang der Festnahme."
+
+- id: "charity"
+  lemma: "charity"
+  pos: noun
+  level: A2
+  ipa: "/ˈtʃær.ə.ti/"
+  example: "She gives money to charity."
+  translations:
+    de: ["die Wohltätigkeitsorganisation", "die Wohltätigkeit"]
+  example_translations:
+    de: "Sie spendet Geld für wohltätige Zwecke."
+
+- id: "citizen"
+  lemma: "citizen"
+  pos: noun
+  level: B2
+  ipa: "/ˈsɪt.ɪ.zən/"
+  example: "She is a British citizen."
+  translations:
+    de: ["der Bürger", "die Bürgerin", "der Staatsbürger"]
+  example_translations:
+    de: "Sie ist britische Staatsbürgerin."
+
+- id: "civil"
+  lemma: "civil"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsɪv.əl/"
+  example: "They had a civil wedding."
+  translations:
+    de: ["zivil", "bürgerlich"]
+  example_translations:
+    de: "Sie hatten eine standesamtliche Hochzeit."
+
+- id: "commit"
+  lemma: "commit"
+  pos: verb
+  level: B1
+  ipa: "/kəˈmɪt/"
+  example: "He committed a crime."
+  translations:
+    de: ["begehen", "sich verpflichten"]
+  example_translations:
+    de: "Er hat ein Verbrechen begangen."
+
+- id: "committee"
+  lemma: "committee"
+  pos: noun
+  level: B2
+  ipa: "/kəˈmɪt.i/"
+  example: "She is on the school committee."
+  translations:
+    de: ["der Ausschuss", "das Komitee"]
+  example_translations:
+    de: "Sie sitzt im Schulausschuss."
+
+- id: "community"
+  lemma: "community"
+  pos: noun
+  level: A2
+  ipa: "/kəˈmjuː.nə.ti/"
+  example: "We live in a small community."
+  translations:
+    de: ["die Gemeinschaft", "die Gemeinde"]
+  example_translations:
+    de: "Wir leben in einer kleinen Gemeinde."
+
+- id: "conflict-noun"
+  lemma: "conflict"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.flɪkt/"
+  example: "The conflict lasted ten years."
+  translations:
+    de: ["der Konflikt"]
+  example_translations:
+    de: "Der Konflikt dauerte zehn Jahre."
+
+- id: "conservative-adjective"
+  lemma: "conservative"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈsɜː.və.tɪv/"
+  example: "My parents are quite conservative."
+  translations:
+    de: ["konservativ"]
+  example_translations:
+    de: "Meine Eltern sind ziemlich konservativ."
+
+- id: "conservative-noun"
+  lemma: "conservative"
+  pos: noun
+  level: B2
+  ipa: "/kənˈsɜː.və.tɪv/"
+  example: "The Conservatives won the election."
+  translations:
+    de: ["der/die Konservative"]
+  example_translations:
+    de: "Die Konservativen haben die Wahl gewonnen."
+
+- id: "contest-verb"
+  lemma: "contest"
+  pos: verb
+  level: B2
+  ipa: "/kənˈtest/"
+  example: "He contested the decision."
+  translations:
+    de: ["anfechten", "kämpfen um"]
+  example_translations:
+    de: "Er hat die Entscheidung angefochten."
+
+- id: "council"
+  lemma: "council"
+  pos: noun
+  level: B2
+  ipa: "/ˈkaʊn.səl/"
+  example: "The city council meets every month."
+  translations:
+    de: ["der Rat", "die Stadtverwaltung"]
+  example_translations:
+    de: "Der Stadtrat tagt jeden Monat."
+
+- id: "county"
+  lemma: "county"
+  pos: noun
+  level: B2
+  ipa: "/ˈkaʊn.ti/"
+  example: "Kent is a county in England."
+  translations:
+    de: ["die Grafschaft", "der Bezirk"]
+  example_translations:
+    de: "Kent ist eine Grafschaft in England."
+
+- id: "court"
+  lemma: "court"
+  pos: noun
+  level: B1
+  ipa: "/kɔːt/"
+  example: "He had to go to court."
+  translations:
+    de: ["das Gericht", "der Platz (Sport)"]
+  example_translations:
+    de: "Er musste vor Gericht."
+
+- id: "crime"
+  lemma: "crime"
+  pos: noun
+  level: A2
+  ipa: "/kraɪm/"
+  example: "Crime is a problem in big cities."
+  translations:
+    de: ["das Verbrechen", "die Kriminalität"]
+  example_translations:
+    de: "Kriminalität ist ein Problem in großen Städten."
+
+- id: "criminal-adjective"
+  lemma: "criminal"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkrɪm.ɪ.nəl/"
+  example: "Stealing is a criminal offence."
+  translations:
+    de: ["kriminell", "strafbar"]
+  example_translations:
+    de: "Diebstahl ist eine Straftat."
+
+- id: "criminal-noun"
+  lemma: "criminal"
+  pos: noun
+  level: A2
+  ipa: "/ˈkrɪm.ɪ.nəl/"
+  example: "The criminal was caught."
+  translations:
+    de: ["der Verbrecher", "die Verbrecherin"]
+  example_translations:
+    de: "Der Verbrecher wurde gefasst."
+
+- id: "crisis"
+  lemma: "crisis"
+  pos: noun
+  level: B2
+  ipa: "/ˈkraɪ.sɪs/"
+  example: "The country is in an economic crisis."
+  translations:
+    de: ["die Krise"]
+  example_translations:
+    de: "Das Land steckt in einer Wirtschaftskrise."
+
+- id: "defence"
+  lemma: "defence"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈfens/"
+  example: "The team needs a better defence."
+  translations:
+    de: ["die Verteidigung", "die Abwehr"]
+  example_translations:
+    de: "Die Mannschaft braucht eine bessere Abwehr."
+
+- id: "detective"
+  lemma: "detective"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈtek.tɪv/"
+  example: "I love detective stories."
+  translations:
+    de: ["der Detektiv", "der Kommissar"]
+  example_translations:
+    de: "Ich liebe Detektivgeschichten."
+
+- id: "divide-noun"
+  lemma: "divide"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈvaɪd/"
+  example: "There is a big divide between rich and poor."
+  translations:
+    de: ["die Kluft", "die Spaltung"]
+  example_translations:
+    de: "Es gibt eine große Kluft zwischen Arm und Reich."
+
+- id: "dominate"
+  lemma: "dominate"
+  pos: verb
+  level: B2
+  ipa: "/ˈdɒm.ɪ.neɪt/"
+  example: "One company dominates the market."
+  translations:
+    de: ["beherrschen", "dominieren"]
+  example_translations:
+    de: "Eine Firma beherrscht den Markt."
+
+- id: "donate"
+  lemma: "donate"
+  pos: verb
+  level: B1
+  ipa: "/dəʊˈneɪt/"
+  example: "She donated money to the hospital."
+  translations:
+    de: ["spenden"]
+  example_translations:
+    de: "Sie spendete Geld an das Krankenhaus."
+
+- id: "economic"
+  lemma: "economic"
+  pos: adjective
+  level: B1
+  ipa: "/ˌiː.kəˈnɒm.ɪk/"
+  example: "The economic situation is difficult."
+  translations:
+    de: ["wirtschaftlich", "Wirtschafts-"]
+  example_translations:
+    de: "Die wirtschaftliche Lage ist schwierig."
+
+- id: "economy"
+  lemma: "economy"
+  pos: noun
+  level: B1
+  ipa: "/iˈkɒn.ə.mi/"
+  example: "The economy is growing."
+  translations:
+    de: ["die Wirtschaft"]
+  example_translations:
+    de: "Die Wirtschaft wächst."
+
+- id: "elect"
+  lemma: "elect"
+  pos: verb
+  level: B2
+  ipa: "/iˈlekt/"
+  example: "She was elected president."
+  translations:
+    de: ["wählen"]
+  example_translations:
+    de: "Sie wurde zur Präsidentin gewählt."
+
+- id: "election"
+  lemma: "election"
+  pos: noun
+  level: B1
+  ipa: "/iˈlek.ʃən/"
+  example: "Who will win the election?"
+  translations:
+    de: ["die Wahl"]
+  example_translations:
+    de: "Wer wird die Wahl gewinnen?"
+
+- id: "evidence"
+  lemma: "evidence"
+  pos: noun
+  level: A2
+  ipa: "/ˈev.ɪ.dəns/"
+  example: "There is no evidence against him."
+  translations:
+    de: ["der Beweis", "die Beweise"]
+  example_translations:
+    de: "Es gibt keine Beweise gegen ihn."
+
+- id: "fighting"
+  lemma: "fighting"
+  pos: noun
+  level: B1
+  ipa: "/ˈfaɪ.tɪŋ/"
+  example: "There was heavy fighting in the city."
+  translations:
+    de: ["die Kämpfe"]
+  example_translations:
+    de: "In der Stadt gab es heftige Kämpfe."
+
+- id: "flag"
+  lemma: "flag"
+  pos: noun
+  level: B1
+  ipa: "/flæɡ/"
+  example: "The German flag is black, red and gold."
+  translations:
+    de: ["die Flagge", "die Fahne"]
+  example_translations:
+    de: "Die deutsche Flagge ist schwarz-rot-gold."
+
+- id: "freedom"
+  lemma: "freedom"
+  pos: noun
+  level: B2
+  ipa: "/ˈfriː.dəm/"
+  example: "Freedom of speech is important."
+  translations:
+    de: ["die Freiheit"]
+  example_translations:
+    de: "Meinungsfreiheit ist wichtig."
+
+- id: "gang"
+  lemma: "gang"
+  pos: noun
+  level: B2
+  ipa: "/ɡæŋ/"
+  example: "A gang of thieves robbed the bank."
+  translations:
+    de: ["die Bande", "die Gang"]
+  example_translations:
+    de: "Eine Diebesbande raubte die Bank aus."
+
+- id: "gender"
+  lemma: "gender"
+  pos: noun
+  level: B2
+  ipa: "/ˈdʒen.dər/"
+  example: "What is the gender of this noun?"
+  translations:
+    de: ["das Geschlecht", "das Genus"]
+  example_translations:
+    de: "Welches Geschlecht hat dieses Nomen?"
+
+- id: "global"
+  lemma: "global"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɡləʊ.bəl/"
+  example: "Climate change is a global problem."
+  translations:
+    de: ["global", "weltweit"]
+  example_translations:
+    de: "Der Klimawandel ist ein globales Problem."
+
+- id: "govern"
+  lemma: "govern"
+  pos: verb
+  level: B2
+  ipa: "/ˈɡʌv.ən/"
+  example: "The country is governed by a president."
+  translations:
+    de: ["regieren", "bestimmen"]
+  example_translations:
+    de: "Das Land wird von einem Präsidenten regiert."
+
+- id: "government"
+  lemma: "government"
+  pos: noun
+  level: A2
+  ipa: "/ˈɡʌv.ən.mənt/"
+  example: "The government has made new laws."
+  translations:
+    de: ["die Regierung"]
+  example_translations:
+    de: "Die Regierung hat neue Gesetze erlassen."
+
+- id: "grant-verb"
+  lemma: "grant"
+  pos: verb
+  level: B2
+  ipa: "/ɡrɑːnt/"
+  example: "They granted him a visa."
+  translations:
+    de: ["gewähren", "bewilligen"]
+  example_translations:
+    de: "Sie erteilten ihm ein Visum."
+
+- id: "gun"
+  lemma: "gun"
+  pos: noun
+  level: A2
+  ipa: "/ɡʌn/"
+  example: "The police officer had a gun."
+  translations:
+    de: ["die Waffe", "die Pistole", "das Gewehr"]
+  example_translations:
+    de: "Der Polizist hatte eine Waffe."
+
+- id: "honour-noun"
+  lemma: "honour"
+  pos: noun
+  level: B2
+  ipa: "/ˈɒn.ər/"
+  example: "It's an honour to meet you."
+  translations:
+    de: ["die Ehre"]
+  example_translations:
+    de: "Es ist mir eine Ehre, Sie kennenzulernen."
+
+- id: "honour-verb"
+  lemma: "honour"
+  pos: verb
+  level: B2
+  ipa: "/ˈɒn.ər/"
+  example: "He was honoured for his work."
+  translations:
+    de: ["ehren", "einhalten"]
+  example_translations:
+    de: "Er wurde für seine Arbeit geehrt."
+
+- id: "identity"
+  lemma: "identity"
+  pos: noun
+  level: B1
+  ipa: "/aɪˈden.tə.ti/"
+  example: "Please show your identity card."
+  translations:
+    de: ["die Identität"]
+  example_translations:
+    de: "Bitte zeigen Sie Ihren Personalausweis."
+
+- id: "illegal"
+  lemma: "illegal"
+  pos: adjective
+  level: B1
+  ipa: "/ɪˈliː.ɡəl/"
+  example: "It's illegal to park here."
+  translations:
+    de: ["illegal", "ungesetzlich"]
+  example_translations:
+    de: "Hier zu parken ist verboten."
+
+- id: "immigrant"
+  lemma: "immigrant"
+  pos: noun
+  level: B1
+  ipa: "/ˈɪm.ɪ.ɡrənt/"
+  example: "Many immigrants live in this city."
+  translations:
+    de: ["der Einwanderer", "die Einwanderin"]
+  example_translations:
+    de: "In dieser Stadt leben viele Einwanderer."
+
+- id: "impose"
+  lemma: "impose"
+  pos: verb
+  level: B2
+  ipa: "/ɪmˈpəʊz/"
+  example: "The government imposed a new tax."
+  translations:
+    de: ["auferlegen", "verhängen"]
+  example_translations:
+    de: "Die Regierung führte eine neue Steuer ein."
+
+- id: "innocent"
+  lemma: "innocent"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɪn.ə.sənt/"
+  example: "He says he is innocent."
+  translations:
+    de: ["unschuldig"]
+  example_translations:
+    de: "Er sagt, er sei unschuldig."
+
+- id: "inquiry"
+  lemma: "inquiry"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈkwaɪə.ri/"
+  example: "There will be an official inquiry."
+  translations:
+    de: ["die Untersuchung", "die Anfrage"]
+  example_translations:
+    de: "Es wird eine offizielle Untersuchung geben."
+
+- id: "institution"
+  lemma: "institution"
+  pos: noun
+  level: B2
+  ipa: "/ˌɪn.stɪˈtʃuː.ʃən/"
+  example: "Banks are financial institutions."
+  translations:
+    de: ["die Institution", "die Einrichtung"]
+  example_translations:
+    de: "Banken sind Finanzinstitute."
+
+- id: "investigate"
+  lemma: "investigate"
+  pos: verb
+  level: B1
+  ipa: "/ɪnˈves.tɪ.ɡeɪt/"
+  example: "The police are investigating the crime."
+  translations:
+    de: ["untersuchen", "ermitteln"]
+  example_translations:
+    de: "Die Polizei ermittelt in dem Verbrechen."
+
+- id: "investigation"
+  lemma: "investigation"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˌves.tɪˈɡeɪ.ʃən/"
+  example: "The investigation is still going on."
+  translations:
+    de: ["die Untersuchung", "die Ermittlung"]
+  example_translations:
+    de: "Die Ermittlungen laufen noch."
+
+- id: "issue-verb"
+  lemma: "issue"
+  pos: verb
+  level: B2
+  ipa: "/ˈɪʃ.uː/"
+  example: "The passport was issued in 2020."
+  translations:
+    de: ["ausstellen", "herausgeben"]
+  example_translations:
+    de: "Der Pass wurde 2020 ausgestellt."
+
+- id: "judge-noun"
+  lemma: "judge"
+  pos: noun
+  level: B1
+  ipa: "/dʒʌdʒ/"
+  example: "The judge sent him to prison."
+  translations:
+    de: ["der Richter", "die Richterin", "der Schiedsrichter"]
+  example_translations:
+    de: "Der Richter schickte ihn ins Gefängnis."
+
+- id: "justice"
+  lemma: "justice"
+  pos: noun
+  level: B2
+  ipa: "/ˈdʒʌs.tɪs/"
+  example: "The people want justice."
+  translations:
+    de: ["die Gerechtigkeit", "die Justiz"]
+  example_translations:
+    de: "Die Menschen wollen Gerechtigkeit."
+
+- id: "killing"
+  lemma: "killing"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɪl.ɪŋ/"
+  example: "The police are investigating the killing."
+  translations:
+    de: ["die Tötung", "der Mord"]
+  example_translations:
+    de: "Die Polizei ermittelt in dem Mordfall."
+
+- id: "king"
+  lemma: "king"
+  pos: noun
+  level: A2
+  ipa: "/kɪŋ/"
+  example: "The king lives in a castle."
+  translations:
+    de: ["der König"]
+  example_translations:
+    de: "Der König wohnt in einem Schloss."
+
+- id: "law"
+  lemma: "law"
+  pos: noun
+  level: A2
+  ipa: "/lɔː/"
+  example: "It's against the law."
+  translations:
+    de: ["das Gesetz", "das Recht"]
+  example_translations:
+    de: "Das ist gesetzwidrig."
+
+- id: "leader"
+  lemma: "leader"
+  pos: noun
+  level: A2
+  ipa: "/ˈliː.dər/"
+  example: "She is the leader of the group."
+  translations:
+    de: ["der Anführer", "der Leiter", "die Führungskraft"]
+  example_translations:
+    de: "Sie ist die Leiterin der Gruppe."
+
+- id: "legal"
+  lemma: "legal"
+  pos: adjective
+  level: B1
+  ipa: "/ˈliː.ɡəl/"
+  example: "Is it legal to park here?"
+  translations:
+    de: ["legal", "rechtlich"]
+  example_translations:
+    de: "Ist es erlaubt, hier zu parken?"
+
+- id: "lord"
+  lemma: "lord"
+  pos: noun
+  level: B2
+  ipa: "/lɔːd/"
+  example: "The lord lived in a big castle."
+  translations:
+    de: ["der Lord", "der Herr"]
+  example_translations:
+    de: "Der Lord lebte in einer großen Burg."
+
+- id: "majority"
+  lemma: "majority"
+  pos: noun
+  level: B2
+  ipa: "/məˈdʒɒr.ə.ti/"
+  example: "The majority of people agree."
+  translations:
+    de: ["die Mehrheit"]
+  example_translations:
+    de: "Die Mehrheit der Leute stimmt zu."
+
+- id: "mass-adjective"
+  lemma: "mass"
+  pos: adjective
+  level: B2
+  ipa: "/mæs/"
+  example: "It's a mass tourism destination."
+  translations:
+    de: ["Massen-"]
+  example_translations:
+    de: "Es ist ein Ziel für Massentourismus."
+
+- id: "measure-noun"
+  lemma: "measure"
+  pos: noun
+  level: B1
+  ipa: "/ˈmeʒ.ər/"
+  example: "The government took measures against crime."
+  translations:
+    de: ["die Maßnahme", "das Maß"]
+  example_translations:
+    de: "Die Regierung ergriff Maßnahmen gegen die Kriminalität."
+
+- id: "military-adjective"
+  lemma: "military"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmɪl.ɪ.tər.i/"
+  example: "He did his military service."
+  translations:
+    de: ["militärisch", "Militär-"]
+  example_translations:
+    de: "Er hat seinen Wehrdienst geleistet."
+
+- id: "military-noun"
+  lemma: "military"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɪl.ɪ.tər.i/"
+  example: "He was in the military for ten years."
+  translations:
+    de: ["das Militär"]
+  example_translations:
+    de: "Er war zehn Jahre beim Militär."
+
+- id: "minister"
+  lemma: "minister"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɪn.ɪ.stər/"
+  example: "She is the minister of education."
+  translations:
+    de: ["der Minister", "die Ministerin", "der Pfarrer"]
+  example_translations:
+    de: "Sie ist die Bildungsministerin."
+
+- id: "minority"
+  lemma: "minority"
+  pos: noun
+  level: B2
+  ipa: "/maɪˈnɒr.ə.ti/"
+  example: "Only a minority voted against it."
+  translations:
+    de: ["die Minderheit"]
+  example_translations:
+    de: "Nur eine Minderheit stimmte dagegen."
+
+- id: "murder-noun"
+  lemma: "murder"
+  pos: noun
+  level: B1
+  ipa: "/ˈmɜː.dər/"
+  example: "He was arrested for murder."
+  translations:
+    de: ["der Mord"]
+  example_translations:
+    de: "Er wurde wegen Mordes verhaftet."
+
+- id: "murder-verb"
+  lemma: "murder"
+  pos: verb
+  level: B1
+  ipa: "/ˈmɜː.dər/"
+  example: "She was murdered in her home."
+  translations:
+    de: ["ermorden"]
+  example_translations:
+    de: "Sie wurde in ihrer Wohnung ermordet."
+
+- id: "nation"
+  lemma: "nation"
+  pos: noun
+  level: B1
+  ipa: "/ˈneɪ.ʃən/"
+  example: "The whole nation watched the match."
+  translations:
+    de: ["die Nation", "das Volk"]
+  example_translations:
+    de: "Die ganze Nation sah das Spiel."
+
+- id: "national-adjective"
+  lemma: "national"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnæʃ.ən.əl/"
+  example: "It's a national holiday."
+  translations:
+    de: ["national", "Landes-"]
+  example_translations:
+    de: "Es ist ein nationaler Feiertag."
+
+- id: "national-noun"
+  lemma: "national"
+  pos: noun
+  level: B2
+  ipa: "/ˈnæʃ.ən.əl/"
+  example: "He is a French national."
+  translations:
+    de: ["der Staatsangehörige", "die Staatsangehörige"]
+  example_translations:
+    de: "Er ist französischer Staatsbürger."
+
+- id: "obligation"
+  lemma: "obligation"
+  pos: noun
+  level: B2
+  ipa: "/ˌɒb.lɪˈɡeɪ.ʃən/"
+  example: "You are under no obligation to buy."
+  translations:
+    de: ["die Verpflichtung", "die Pflicht"]
+  example_translations:
+    de: "Sie sind nicht zum Kauf verpflichtet."
+
+- id: "offence"
+  lemma: "offence"
+  pos: noun
+  level: B2
+  ipa: "/əˈfens/"
+  example: "Drink-driving is a serious offence."
+  translations:
+    de: ["die Straftat", "die Beleidigung"]
+  example_translations:
+    de: "Trunkenheit am Steuer ist eine schwere Straftat."
+
+- id: "official-adjective"
+  lemma: "official"
+  pos: adjective
+  level: B1
+  ipa: "/əˈfɪʃ.əl/"
+  example: "English is the official language."
+  translations:
+    de: ["offiziell", "amtlich"]
+  example_translations:
+    de: "Englisch ist die Amtssprache."
+
+- id: "official-noun"
+  lemma: "official"
+  pos: noun
+  level: B2
+  ipa: "/əˈfɪʃ.əl/"
+  example: "A government official spoke to the press."
+  translations:
+    de: ["der Beamte", "die Beamtin", "der Funktionär"]
+  example_translations:
+    de: "Ein Regierungsbeamter sprach mit der Presse."
+
+- id: "oppose"
+  lemma: "oppose"
+  pos: verb
+  level: B2
+  ipa: "/əˈpəʊz/"
+  example: "Many people oppose the new law."
+  translations:
+    de: ["ablehnen", "sich widersetzen"]
+  example_translations:
+    de: "Viele Menschen lehnen das neue Gesetz ab."
+
+- id: "opposition"
+  lemma: "opposition"
+  pos: noun
+  level: B2
+  ipa: "/ˌɒp.əˈzɪʃ.ən/"
+  example: "There was strong opposition to the plan."
+  translations:
+    de: ["die Opposition", "der Widerstand"]
+  example_translations:
+    de: "Es gab starken Widerstand gegen den Plan."
+
+- id: "parliament"
+  lemma: "parliament"
+  pos: noun
+  level: B2
+  ipa: "/ˈpɑː.lə.mənt/"
+  example: "Parliament passed a new law."
+  translations:
+    de: ["das Parlament"]
+  example_translations:
+    de: "Das Parlament verabschiedete ein neues Gesetz."
+
+- id: "peace"
+  lemma: "peace"
+  pos: noun
+  level: A2
+  ipa: "/piːs/"
+  example: "Everyone wants peace."
+  translations:
+    de: ["der Frieden", "die Ruhe"]
+  example_translations:
+    de: "Alle wollen Frieden."
+
+- id: "permit-noun"
+  lemma: "permit"
+  pos: noun
+  level: B2
+  ipa: "/ˈpɜː.mɪt/"
+  example: "You need a work permit."
+  translations:
+    de: ["die Genehmigung", "die Erlaubnis"]
+  example_translations:
+    de: "Du brauchst eine Arbeitserlaubnis."
+
+- id: "permit-verb"
+  lemma: "permit"
+  pos: verb
+  level: B2
+  ipa: "/pəˈmɪt/"
+  example: "Smoking is not permitted."
+  translations:
+    de: ["erlauben", "gestatten"]
+  example_translations:
+    de: "Rauchen ist nicht gestattet."
+
+- id: "plot-verb"
+  lemma: "plot"
+  pos: verb
+  level: B2
+  ipa: "/plɒt/"
+  example: "They plotted to kill the king."
+  translations:
+    de: ["planen", "aushecken"]
+  example_translations:
+    de: "Sie planten, den König zu ermorden."
+
+- id: "police"
+  lemma: "police"
+  pos: noun
+  level: A1
+  ipa: "/pəˈliːs/"
+  example: "Call the police!"
+  translations:
+    de: ["die Polizei"]
+  example_translations:
+    de: "Ruf die Polizei!"
+
+- id: "policy"
+  lemma: "policy"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɒl.ə.si/"
+  example: "The company has a no-smoking policy."
+  translations:
+    de: ["die Politik", "die Richtlinie", "die Police"]
+  example_translations:
+    de: "Die Firma hat ein Rauchverbot."
+
+- id: "political"
+  lemma: "political"
+  pos: adjective
+  level: B1
+  ipa: "/pəˈlɪt.ɪ.kəl/"
+  example: "They talked about the political situation."
+  translations:
+    de: ["politisch"]
+  example_translations:
+    de: "Sie sprachen über die politische Lage."
+
+- id: "politician"
+  lemma: "politician"
+  pos: noun
+  level: B1
+  ipa: "/ˌpɒl.ɪˈtɪʃ.ən/"
+  example: "Many people don't trust politicians."
+  translations:
+    de: ["der Politiker", "die Politikerin"]
+  example_translations:
+    de: "Viele Menschen vertrauen Politikern nicht."
+
+- id: "politics"
+  lemma: "politics"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɒl.ə.tɪks/"
+  example: "I'm not interested in politics."
+  translations:
+    de: ["die Politik"]
+  example_translations:
+    de: "Ich interessiere mich nicht für Politik."
+
+- id: "population"
+  lemma: "population"
+  pos: noun
+  level: A2
+  ipa: "/ˌpɒp.jəˈleɪ.ʃən/"
+  example: "What is the population of London?"
+  translations:
+    de: ["die Bevölkerung", "die Einwohnerzahl"]
+  example_translations:
+    de: "Wie viele Einwohner hat London?"
+
+- id: "poverty"
+  lemma: "poverty"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɒv.ə.ti/"
+  example: "Many people live in poverty."
+  translations:
+    de: ["die Armut"]
+  example_translations:
+    de: "Viele Menschen leben in Armut."
+
+- id: "power-noun"
+  lemma: "power"
+  pos: noun
+  level: A2
+  ipa: "/paʊər/"
+  example: "The president has a lot of power."
+  translations:
+    de: ["die Macht", "die Kraft", "der Strom"]
+  example_translations:
+    de: "Der Präsident hat viel Macht."
+
+- id: "president"
+  lemma: "president"
+  pos: noun
+  level: A2
+  ipa: "/ˈprez.ɪ.dənt/"
+  example: "The president gave a speech."
+  translations:
+    de: ["der Präsident", "die Präsidentin"]
+  example_translations:
+    de: "Der Präsident hielt eine Rede."
+
+- id: "prince"
+  lemma: "prince"
+  pos: noun
+  level: B1
+  ipa: "/prɪns/"
+  example: "The prince married a princess."
+  translations:
+    de: ["der Prinz"]
+  example_translations:
+    de: "Der Prinz heiratete eine Prinzessin."
+
+- id: "princess"
+  lemma: "princess"
+  pos: noun
+  level: B1
+  ipa: "/prɪnˈses/"
+  example: "The little girl wants to be a princess."
+  translations:
+    de: ["die Prinzessin"]
+  example_translations:
+    de: "Das kleine Mädchen möchte eine Prinzessin sein."
+
+- id: "prison"
+  lemma: "prison"
+  pos: noun
+  level: A2
+  ipa: "/ˈprɪz.ən/"
+  example: "He spent five years in prison."
+  translations:
+    de: ["das Gefängnis"]
+  example_translations:
+    de: "Er war fünf Jahre im Gefängnis."
+
+- id: "prisoner"
+  lemma: "prisoner"
+  pos: noun
+  level: B1
+  ipa: "/ˈprɪz.ən.ər/"
+  example: "The prisoner escaped."
+  translations:
+    de: ["der Gefangene", "die Gefangene"]
+  example_translations:
+    de: "Der Gefangene ist geflohen."
+
+- id: "privacy"
+  lemma: "privacy"
+  pos: noun
+  level: B2
+  ipa: "/ˈprɪv.ə.si/"
+  example: "Please respect my privacy."
+  translations:
+    de: ["die Privatsphäre"]
+  example_translations:
+    de: "Bitte respektiere meine Privatsphäre."
+
+- id: "proof"
+  lemma: "proof"
+  pos: noun
+  level: B2
+  ipa: "/pruːf/"
+  example: "Do you have proof?"
+  translations:
+    de: ["der Beweis", "der Nachweis"]
+  example_translations:
+    de: "Hast du einen Beweis?"
+
+- id: "protest-noun"
+  lemma: "protest"
+  pos: noun
+  level: B1
+  ipa: "/ˈprəʊ.test/"
+  example: "There was a protest in the city centre."
+  translations:
+    de: ["der Protest", "die Demonstration"]
+  example_translations:
+    de: "In der Innenstadt gab es eine Demonstration."
+
+- id: "protest-verb"
+  lemma: "protest"
+  pos: verb
+  level: B1
+  ipa: "/prəˈtest/"
+  example: "Students protested against the fees."
+  translations:
+    de: ["protestieren", "demonstrieren"]
+  example_translations:
+    de: "Studenten protestierten gegen die Gebühren."
+
+- id: "public-adjective"
+  lemma: "public"
+  pos: adjective
+  level: A2
+  ipa: "/ˈpʌb.lɪk/"
+  example: "Is there a public toilet here?"
+  translations:
+    de: ["öffentlich"]
+  example_translations:
+    de: "Gibt es hier eine öffentliche Toilette?"
+
+- id: "public-noun"
+  lemma: "public"
+  pos: noun
+  level: A2
+  ipa: "/ˈpʌb.lɪk/"
+  example: "The museum is open to the public."
+  translations:
+    de: ["die Öffentlichkeit"]
+  example_translations:
+    de: "Das Museum ist für die Öffentlichkeit zugänglich."
+
+- id: "punish"
+  lemma: "punish"
+  pos: verb
+  level: B1
+  ipa: "/ˈpʌn.ɪʃ/"
+  example: "He was punished for lying."
+  translations:
+    de: ["bestrafen"]
+  example_translations:
+    de: "Er wurde fürs Lügen bestraft."
+
+- id: "punishment"
+  lemma: "punishment"
+  pos: noun
+  level: B1
+  ipa: "/ˈpʌn.ɪʃ.mənt/"
+  example: "The punishment was too hard."
+  translations:
+    de: ["die Strafe", "die Bestrafung"]
+  example_translations:
+    de: "Die Strafe war zu hart."
+
+- id: "queen"
+  lemma: "queen"
+  pos: noun
+  level: A2
+  ipa: "/kwiːn/"
+  example: "The queen visited the city."
+  translations:
+    de: ["die Königin"]
+  example_translations:
+    de: "Die Königin besuchte die Stadt."
+
+- id: "register-verb"
+  lemma: "register"
+  pos: verb
+  level: B2
+  ipa: "/ˈredʒ.ɪ.stər/"
+  example: "You must register online."
+  translations:
+    de: ["sich anmelden", "registrieren"]
+  example_translations:
+    de: "Du musst dich online anmelden."
+
+- id: "regulation"
+  lemma: "regulation"
+  pos: noun
+  level: B2
+  ipa: "/ˌreɡ.jəˈleɪ.ʃən/"
+  example: "There are strict safety regulations."
+  translations:
+    de: ["die Vorschrift", "die Regelung"]
+  example_translations:
+    de: "Es gibt strenge Sicherheitsvorschriften."
+
+- id: "represent"
+  lemma: "represent"
+  pos: verb
+  level: B1
+  ipa: "/ˌrep.rɪˈzent/"
+  example: "She represents her country at the Olympics."
+  translations:
+    de: ["vertreten", "darstellen", "repräsentieren"]
+  example_translations:
+    de: "Sie vertritt ihr Land bei den Olympischen Spielen."
+
+- id: "revolution"
+  lemma: "revolution"
+  pos: noun
+  level: B2
+  ipa: "/ˌrev.əˈluː.ʃən/"
+  example: "The French Revolution began in 1789."
+  translations:
+    de: ["die Revolution"]
+  example_translations:
+    de: "Die Französische Revolution begann 1789."
+
+- id: "right-noun"
+  lemma: "right"
+  pos: noun
+  level: A1
+  ipa: "/raɪt/"
+  example: "Everyone has the right to vote."
+  translations:
+    de: ["das Recht", "die rechte Seite"]
+  example_translations:
+    de: "Jeder hat das Recht zu wählen."
+
+- id: "royal"
+  lemma: "royal"
+  pos: adjective
+  level: B1
+  ipa: "/ˈrɔɪ.əl/"
+  example: "The royal family lives here."
+  translations:
+    de: ["königlich"]
+  example_translations:
+    de: "Die königliche Familie wohnt hier."
+
+- id: "rule-verb"
+  lemma: "rule"
+  pos: verb
+  level: B1
+  ipa: "/ruːl/"
+  example: "The king ruled for 40 years."
+  translations:
+    de: ["regieren", "herrschen"]
+  example_translations:
+    de: "Der König regierte 40 Jahre lang."
+
+- id: "scheme"
+  lemma: "scheme"
+  pos: noun
+  level: B2
+  ipa: "/skiːm/"
+  example: "There is a new scheme to help young people."
+  translations:
+    de: ["das Programm", "der Plan"]
+  example_translations:
+    de: "Es gibt ein neues Programm zur Unterstützung junger Menschen."
+
+- id: "security"
+  lemma: "security"
+  pos: noun
+  level: B1
+  ipa: "/sɪˈkjʊə.rə.ti/"
+  example: "Security at the airport is strict."
+  translations:
+    de: ["die Sicherheit"]
+  example_translations:
+    de: "Die Sicherheitsvorkehrungen am Flughafen sind streng."
+
+- id: "sentence-verb"
+  lemma: "sentence"
+  pos: verb
+  level: B2
+  ipa: "/ˈsen.təns/"
+  example: "He was sentenced to five years in prison."
+  translations:
+    de: ["verurteilen"]
+  example_translations:
+    de: "Er wurde zu fünf Jahren Gefängnis verurteilt."
+
+- id: "shooting"
+  lemma: "shooting"
+  pos: noun
+  level: B2
+  ipa: "/ˈʃuː.tɪŋ/"
+  example: "There was a shooting in the city."
+  translations:
+    de: ["die Schießerei", "das Schießen"]
+  example_translations:
+    de: "In der Stadt gab es eine Schießerei."
+
+- id: "social"
+  lemma: "social"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsəʊ.ʃəl/"
+  example: "I use social media every day."
+  translations:
+    de: ["sozial", "gesellschaftlich"]
+  example_translations:
+    de: "Ich nutze jeden Tag soziale Medien."
+
+- id: "society"
+  lemma: "society"
+  pos: noun
+  level: A2
+  ipa: "/səˈsaɪ.ə.ti/"
+  example: "We live in a modern society."
+  translations:
+    de: ["die Gesellschaft"]
+  example_translations:
+    de: "Wir leben in einer modernen Gesellschaft."
+
+- id: "soldier"
+  lemma: "soldier"
+  pos: noun
+  level: A2
+  ipa: "/ˈsəʊl.dʒər/"
+  example: "My grandfather was a soldier."
+  translations:
+    de: ["der Soldat", "die Soldatin"]
+  example_translations:
+    de: "Mein Großvater war Soldat."
+
+- id: "state-adjective"
+  lemma: "state"
+  pos: adjective
+  level: B1
+  ipa: "/steɪt/"
+  example: "She goes to a state school."
+  translations:
+    de: ["staatlich", "Staats-"]
+  example_translations:
+    de: "Sie geht auf eine staatliche Schule."
+
+- id: "state-noun"
+  lemma: "state"
+  pos: noun
+  level: A2
+  ipa: "/steɪt/"
+  example: "Bavaria is a state in Germany."
+  translations:
+    de: ["der Staat", "der Zustand", "das Bundesland"]
+  example_translations:
+    de: "Bayern ist ein Bundesland in Deutschland."
+
+- id: "status"
+  lemma: "status"
+  pos: noun
+  level: B2
+  ipa: "/ˈsteɪ.təs/"
+  example: "What is your marital status?"
+  translations:
+    de: ["der Status", "die Stellung"]
+  example_translations:
+    de: "Wie ist Ihr Familienstand?"
+
+- id: "steal"
+  lemma: "steal"
+  pos: verb
+  level: A2
+  ipa: "/stiːl/"
+  example: "Someone stole my bike."
+  translations:
+    de: ["stehlen"]
+  example_translations:
+    de: "Jemand hat mein Fahrrad gestohlen."
+
+- id: "suspect-noun"
+  lemma: "suspect"
+  pos: noun
+  level: B2
+  ipa: "/ˈsʌs.pekt/"
+  example: "The police arrested a suspect."
+  translations:
+    de: ["der/die Verdächtige"]
+  example_translations:
+    de: "Die Polizei nahm einen Verdächtigen fest."
+
+- id: "tax-noun"
+  lemma: "tax"
+  pos: noun
+  level: B1
+  ipa: "/tæks/"
+  example: "We pay a lot of tax."
+  translations:
+    de: ["die Steuer"]
+  example_translations:
+    de: "Wir zahlen viele Steuern."
+
+- id: "tax-verb"
+  lemma: "tax"
+  pos: verb
+  level: B1
+  ipa: "/tæks/"
+  example: "Cigarettes are heavily taxed."
+  translations:
+    de: ["besteuern"]
+  example_translations:
+    de: "Zigaretten werden hoch besteuert."
+
+- id: "thief"
+  lemma: "thief"
+  pos: noun
+  level: A2
+  ipa: "/θiːf/"
+  example: "The thief stole my bag."
+  translations:
+    de: ["der Dieb", "die Diebin"]
+  example_translations:
+    de: "Der Dieb hat meine Tasche gestohlen."
+
+- id: "trial"
+  lemma: "trial"
+  pos: noun
+  level: B2
+  ipa: "/traɪəl/"
+  example: "The trial lasted three weeks."
+  translations:
+    de: ["der Prozess", "der Test", "die Probe"]
+  example_translations:
+    de: "Der Prozess dauerte drei Wochen."
+
+- id: "union"
+  lemma: "union"
+  pos: noun
+  level: B1
+  ipa: "/ˈjuː.njən/"
+  example: "He is a member of a trade union."
+  translations:
+    de: ["die Gewerkschaft", "die Union"]
+  example_translations:
+    de: "Er ist Mitglied einer Gewerkschaft."
+
+- id: "united"
+  lemma: "united"
+  pos: adjective
+  level: A2
+  ipa: "/juːˈnaɪ.tɪd/"
+  example: "The people are united."
+  translations:
+    de: ["vereinigt", "vereint"]
+  example_translations:
+    de: "Das Volk ist vereint."
+
+- id: "victim"
+  lemma: "victim"
+  pos: noun
+  level: B1
+  ipa: "/ˈvɪk.tɪm/"
+  example: "He was the victim of a crime."
+  translations:
+    de: ["das Opfer"]
+  example_translations:
+    de: "Er wurde Opfer eines Verbrechens."
+
+- id: "violence"
+  lemma: "violence"
+  pos: noun
+  level: B2
+  ipa: "/ˈvaɪə.ləns/"
+  example: "There is too much violence on TV."
+  translations:
+    de: ["die Gewalt"]
+  example_translations:
+    de: "Im Fernsehen gibt es zu viel Gewalt."
+
+- id: "volunteer-noun"
+  lemma: "volunteer"
+  pos: noun
+  level: B1
+  ipa: "/ˌvɒl.ənˈtɪər/"
+  example: "We need volunteers for the festival."
+  translations:
+    de: ["der/die Freiwillige", "der Ehrenamtliche"]
+  example_translations:
+    de: "Wir brauchen Freiwillige für das Fest."
+
+- id: "volunteer-verb"
+  lemma: "volunteer"
+  pos: verb
+  level: B1
+  ipa: "/ˌvɒl.ənˈtɪər/"
+  example: "She volunteers at the hospital."
+  translations:
+    de: ["sich freiwillig melden", "ehrenamtlich arbeiten"]
+  example_translations:
+    de: "Sie arbeitet ehrenamtlich im Krankenhaus."
+
+- id: "vote-noun"
+  lemma: "vote"
+  pos: noun
+  level: B1
+  ipa: "/vəʊt/"
+  example: "Every vote counts."
+  translations:
+    de: ["die Stimme", "die Abstimmung"]
+  example_translations:
+    de: "Jede Stimme zählt."
+
+- id: "vote-verb"
+  lemma: "vote"
+  pos: verb
+  level: B1
+  ipa: "/vəʊt/"
+  example: "Who did you vote for?"
+  translations:
+    de: ["wählen", "abstimmen"]
+  example_translations:
+    de: "Wen hast du gewählt?"
+
+- id: "war"
+  lemma: "war"
+  pos: noun
+  level: A2
+  ipa: "/wɔːr/"
+  example: "The war lasted five years."
+  translations:
+    de: ["der Krieg"]
+  example_translations:
+    de: "Der Krieg dauerte fünf Jahre."
+
+- id: "weapon"
+  lemma: "weapon"
+  pos: noun
+  level: B1
+  ipa: "/ˈwep.ən/"
+  example: "The police found a weapon."
+  translations:
+    de: ["die Waffe"]
+  example_translations:
+    de: "Die Polizei fand eine Waffe."
+
+- id: "witness-noun"
+  lemma: "witness"
+  pos: noun
+  level: B2
+  ipa: "/ˈwɪt.nəs/"
+  example: "Were there any witnesses?"
+  translations:
+    de: ["der Zeuge", "die Zeugin"]
+  example_translations:
+    de: "Gab es Zeugen?"
+
+- id: "witness-verb"
+  lemma: "witness"
+  pos: verb
+  level: B2
+  ipa: "/ˈwɪt.nəs/"
+  example: "She witnessed the accident."
+  translations:
+    de: ["beobachten", "Zeuge sein"]
+  example_translations:
+    de: "Sie hat den Unfall beobachtet."

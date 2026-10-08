@@ -1,0 +1,1256 @@
+# 👪 Menschen & Familie – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "adopt"
+  lemma: "adopt"
+  pos: verb
+  level: B2
+  ipa: "/əˈdɒpt/"
+  example: "They adopted a little girl."
+  translations:
+    de: ["adoptieren", "übernehmen"]
+  example_translations:
+    de: "Sie haben ein kleines Mädchen adoptiert."
+
+- id: "adult"
+  lemma: "adult"
+  pos: noun
+  level: A2
+  ipa: "/ˈæd.ʌlt/"
+  example: "Tickets for adults cost ten pounds."
+  translations:
+    de: ["der Erwachsene", "die Erwachsene"]
+  example_translations:
+    de: "Karten für Erwachsene kosten zehn Pfund."
+
+- id: "adult-adjective"
+  lemma: "adult"
+  pos: adjective
+  level: A2
+  ipa: "/ˈæd.ʌlt/"
+  example: "She has two adult children."
+  translations:
+    de: ["erwachsen"]
+  example_translations:
+    de: "Sie hat zwei erwachsene Kinder."
+
+- id: "age-noun"
+  lemma: "age"
+  pos: noun
+  level: A1
+  ipa: "/eɪdʒ/"
+  example: "What is your age?"
+  translations:
+    de: ["das Alter"]
+  example_translations:
+    de: "Wie alt bist du?"
+
+- id: "age-verb"
+  lemma: "age"
+  pos: verb
+  level: B1
+  ipa: "/eɪdʒ/"
+  example: "He has aged a lot in the last year."
+  translations:
+    de: ["altern"]
+  example_translations:
+    de: "Er ist im letzten Jahr sehr gealtert."
+
+- id: "aged"
+  lemma: "aged"
+  pos: adjective
+  level: B1
+  ipa: "/eɪdʒd/"
+  example: "The class is for children aged 5 to 7."
+  translations:
+    de: ["im Alter von", "alt"]
+  example_translations:
+    de: "Der Kurs ist für Kinder im Alter von 5 bis 7 Jahren."
+
+- id: "appearance"
+  lemma: "appearance"
+  pos: noun
+  level: A2
+  ipa: "/əˈpɪə.rəns/"
+  example: "She changed her appearance."
+  translations:
+    de: ["das Aussehen", "das Erscheinen"]
+  example_translations:
+    de: "Sie hat ihr Aussehen verändert."
+
+- id: "aunt"
+  lemma: "aunt"
+  pos: noun
+  level: A2
+  ipa: "/ɑːnt/"
+  example: "We visit my aunt at Christmas."
+  translations:
+    de: ["die Tante"]
+  example_translations:
+    de: "Wir besuchen meine Tante an Weihnachten."
+
+- id: "baby"
+  lemma: "baby"
+  pos: noun
+  level: A1
+  ipa: "/ˈbeɪ.bi/"
+  example: "The baby is sleeping."
+  translations:
+    de: ["das Baby"]
+  example_translations:
+    de: "Das Baby schläft."
+
+- id: "behave"
+  lemma: "behave"
+  pos: verb
+  level: A2
+  ipa: "/bɪˈheɪv/"
+  example: "The children behaved very well."
+  translations:
+    de: ["sich benehmen", "sich verhalten"]
+  example_translations:
+    de: "Die Kinder haben sich sehr gut benommen."
+
+- id: "behaviour"
+  lemma: "behaviour"
+  pos: noun
+  level: A2
+  ipa: "/bɪˈheɪ.vjər/"
+  example: "His behaviour was terrible."
+  translations:
+    de: ["das Verhalten", "das Benehmen"]
+  example_translations:
+    de: "Sein Benehmen war schrecklich."
+
+- id: "birth"
+  lemma: "birth"
+  pos: noun
+  level: A2
+  ipa: "/bɜːθ/"
+  example: "What is your date of birth?"
+  translations:
+    de: ["die Geburt"]
+  example_translations:
+    de: "Was ist Ihr Geburtsdatum?"
+
+- id: "blonde"
+  lemma: "blonde"
+  pos: adjective
+  level: A1
+  ipa: "/blɒnd/"
+  example: "She has long blonde hair."
+  translations:
+    de: ["blond"]
+  example_translations:
+    de: "Sie hat lange blonde Haare."
+
+- id: "bond"
+  lemma: "bond"
+  pos: noun
+  level: B2
+  ipa: "/bɒnd/"
+  example: "There is a strong bond between the sisters."
+  translations:
+    de: ["die Bindung", "die Verbindung"]
+  example_translations:
+    de: "Zwischen den Schwestern besteht eine starke Bindung."
+
+- id: "born"
+  lemma: "born"
+  pos: verb
+  level: A1
+  ipa: "/bɔːn/"
+  example: "I was born in 1990."
+  translations:
+    de: ["geboren"]
+  example_translations:
+    de: "Ich bin 1990 geboren."
+
+- id: "boy"
+  lemma: "boy"
+  pos: noun
+  level: A1
+  ipa: "/bɔɪ/"
+  example: "The boy has a dog."
+  translations:
+    de: ["der Junge"]
+  example_translations:
+    de: "Der Junge hat einen Hund."
+
+- id: "boyfriend"
+  lemma: "boyfriend"
+  pos: noun
+  level: A1
+  ipa: "/ˈbɔɪ.frend/"
+  example: "Her boyfriend is from Spain."
+  translations:
+    de: ["der Freund"]
+  example_translations:
+    de: "Ihr Freund kommt aus Spanien."
+
+- id: "bride"
+  lemma: "bride"
+  pos: noun
+  level: B1
+  ipa: "/braɪd/"
+  example: "The bride wore a white dress."
+  translations:
+    de: ["die Braut"]
+  example_translations:
+    de: "Die Braut trug ein weißes Kleid."
+
+- id: "brother"
+  lemma: "brother"
+  pos: noun
+  level: A1
+  ipa: "/ˈbrʌð.ər/"
+  example: "I have one brother."
+  translations:
+    de: ["der Bruder"]
+  example_translations:
+    de: "Ich habe einen Bruder."
+
+- id: "care-noun"
+  lemma: "care"
+  pos: noun
+  level: A2
+  ipa: "/keər/"
+  example: "Handle the box with care."
+  translations:
+    de: ["die Pflege", "die Sorgfalt", "die Fürsorge"]
+  example_translations:
+    de: "Behandle die Kiste mit Sorgfalt."
+
+- id: "cheat-noun"
+  lemma: "cheat"
+  pos: noun
+  level: B1
+  ipa: "/tʃiːt/"
+  example: "You're a cheat!"
+  translations:
+    de: ["der Betrüger", "der Schummler"]
+  example_translations:
+    de: "Du bist ein Betrüger!"
+
+- id: "child"
+  lemma: "child"
+  pos: noun
+  level: A1
+  ipa: "/tʃaɪld/"
+  example: "The child is playing."
+  translations:
+    de: ["das Kind"]
+  example_translations:
+    de: "Das Kind spielt."
+
+- id: "childhood"
+  lemma: "childhood"
+  pos: noun
+  level: B1
+  ipa: "/ˈtʃaɪld.hʊd/"
+  example: "I had a happy childhood."
+  translations:
+    de: ["die Kindheit"]
+  example_translations:
+    de: "Ich hatte eine glückliche Kindheit."
+
+- id: "conduct-noun"
+  lemma: "conduct"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.dʌkt/"
+  example: "His conduct was unacceptable."
+  translations:
+    de: ["das Verhalten", "die Durchführung"]
+  example_translations:
+    de: "Sein Verhalten war inakzeptabel."
+
+- id: "couple"
+  lemma: "couple"
+  pos: noun
+  level: A2
+  ipa: "/ˈkʌp.əl/"
+  example: "A young couple live next door."
+  translations:
+    de: ["das Paar", "ein paar"]
+  example_translations:
+    de: "Nebenan wohnt ein junges Paar."
+
+- id: "cousin"
+  lemma: "cousin"
+  pos: noun
+  level: A1
+  ipa: "/ˈkʌz.ən/"
+  example: "My cousin lives in Canada."
+  translations:
+    de: ["der Cousin", "die Cousine"]
+  example_translations:
+    de: "Mein Cousin wohnt in Kanada."
+
+- id: "crowd"
+  lemma: "crowd"
+  pos: noun
+  level: A2
+  ipa: "/kraʊd/"
+  example: "There was a big crowd at the concert."
+  translations:
+    de: ["die Menge", "die Menschenmenge"]
+  example_translations:
+    de: "Beim Konzert war eine große Menschenmenge."
+
+- id: "curly"
+  lemma: "curly"
+  pos: adjective
+  level: A2
+  ipa: "/ˈkɜː.li/"
+  example: "She has curly hair."
+  translations:
+    de: ["lockig"]
+  example_translations:
+    de: "Sie hat lockiges Haar."
+
+- id: "dad"
+  lemma: "dad"
+  pos: noun
+  level: A1
+  ipa: "/dæd/"
+  example: "My dad works in a bank."
+  translations:
+    de: ["der Papa", "der Vater"]
+  example_translations:
+    de: "Mein Papa arbeitet in einer Bank."
+
+- id: "daughter"
+  lemma: "daughter"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɔː.tər/"
+  example: "Our daughter goes to school."
+  translations:
+    de: ["die Tochter"]
+  example_translations:
+    de: "Unsere Tochter geht zur Schule."
+
+- id: "death"
+  lemma: "death"
+  pos: noun
+  level: A2
+  ipa: "/deθ/"
+  example: "His death was a shock to everyone."
+  translations:
+    de: ["der Tod"]
+  example_translations:
+    de: "Sein Tod war ein Schock für alle."
+
+- id: "die"
+  lemma: "die"
+  pos: verb
+  level: A1
+  ipa: "/daɪ/"
+  example: "Her grandfather died last year."
+  translations:
+    de: ["sterben"]
+  example_translations:
+    de: "Ihr Großvater ist letztes Jahr gestorben."
+
+- id: "divorced"
+  lemma: "divorced"
+  pos: adjective
+  level: A2
+  ipa: "/dɪˈvɔːst/"
+  example: "My parents are divorced."
+  translations:
+    de: ["geschieden"]
+  example_translations:
+    de: "Meine Eltern sind geschieden."
+
+- id: "elderly"
+  lemma: "elderly"
+  pos: adjective
+  level: B2
+  ipa: "/ˈel.dəl.i/"
+  example: "She looks after an elderly lady."
+  translations:
+    de: ["älter", "betagt"]
+  example_translations:
+    de: "Sie kümmert sich um eine ältere Dame."
+
+- id: "encounter-noun"
+  lemma: "encounter"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈkaʊn.tər/"
+  example: "It was a strange encounter."
+  translations:
+    de: ["die Begegnung"]
+  example_translations:
+    de: "Es war eine seltsame Begegnung."
+
+- id: "enemy"
+  lemma: "enemy"
+  pos: noun
+  level: B1
+  ipa: "/ˈen.ə.mi/"
+  example: "He has no enemies."
+  translations:
+    de: ["der Feind", "die Feindin"]
+  example_translations:
+    de: "Er hat keine Feinde."
+
+- id: "engaged"
+  lemma: "engaged"
+  pos: adjective
+  level: B1
+  ipa: "/ɪnˈɡeɪdʒd/"
+  example: "They got engaged last year."
+  translations:
+    de: ["verlobt", "besetzt"]
+  example_translations:
+    de: "Sie haben sich letztes Jahr verlobt."
+
+- id: "equal-noun"
+  lemma: "equal"
+  pos: noun
+  level: B2
+  ipa: "/ˈiː.kwəl/"
+  example: "She treats everyone as her equal."
+  translations:
+    de: ["der/die Gleichgestellte", "der/die Ebenbürtige"]
+  example_translations:
+    de: "Sie behandelt alle als gleichwertig."
+
+- id: "family"
+  lemma: "family"
+  pos: noun
+  level: A1
+  ipa: "/ˈfæm.əl.i/"
+  example: "My family lives in Berlin."
+  translations:
+    de: ["die Familie"]
+  example_translations:
+    de: "Meine Familie wohnt in Berlin."
+
+- id: "father"
+  lemma: "father"
+  pos: noun
+  level: A1
+  ipa: "/ˈfɑː.ðər/"
+  example: "My father cooks dinner."
+  translations:
+    de: ["der Vater"]
+  example_translations:
+    de: "Mein Vater kocht das Abendessen."
+
+- id: "fellow"
+  lemma: "fellow"
+  pos: adjective
+  level: B2
+  ipa: "/ˈfel.əʊ/"
+  example: "She gets on well with her fellow students."
+  translations:
+    de: ["Mit-"]
+  example_translations:
+    de: "Sie versteht sich gut mit ihren Mitstudenten."
+
+- id: "female-adjective"
+  lemma: "female"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfiː.meɪl/"
+  example: "Most of the teachers are female."
+  translations:
+    de: ["weiblich"]
+  example_translations:
+    de: "Die meisten Lehrkräfte sind weiblich."
+
+- id: "friend"
+  lemma: "friend"
+  pos: noun
+  level: A1
+  ipa: "/frend/"
+  example: "She is my best friend."
+  translations:
+    de: ["der Freund", "die Freundin"]
+  example_translations:
+    de: "Sie ist meine beste Freundin."
+
+- id: "friendship"
+  lemma: "friendship"
+  pos: noun
+  level: B1
+  ipa: "/ˈfrend.ʃɪp/"
+  example: "Our friendship is very important to me."
+  translations:
+    de: ["die Freundschaft"]
+  example_translations:
+    de: "Unsere Freundschaft ist mir sehr wichtig."
+
+- id: "generation"
+  lemma: "generation"
+  pos: noun
+  level: B1
+  ipa: "/ˌdʒen.əˈreɪ.ʃən/"
+  example: "Three generations live in this house."
+  translations:
+    de: ["die Generation"]
+  example_translations:
+    de: "In diesem Haus leben drei Generationen."
+
+- id: "girl"
+  lemma: "girl"
+  pos: noun
+  level: A1
+  ipa: "/ɡɜːl/"
+  example: "The girl is singing."
+  translations:
+    de: ["das Mädchen"]
+  example_translations:
+    de: "Das Mädchen singt."
+
+- id: "girlfriend"
+  lemma: "girlfriend"
+  pos: noun
+  level: A1
+  ipa: "/ˈɡɜːl.frend/"
+  example: "His girlfriend is a doctor."
+  translations:
+    de: ["die Freundin"]
+  example_translations:
+    de: "Seine Freundin ist Ärztin."
+
+- id: "grandfather"
+  lemma: "grandfather"
+  pos: noun
+  level: A1
+  ipa: "/ˈɡræn.fɑː.ðər/"
+  example: "My grandfather is 80 years old."
+  translations:
+    de: ["der Großvater", "der Opa"]
+  example_translations:
+    de: "Mein Großvater ist 80 Jahre alt."
+
+- id: "grandmother"
+  lemma: "grandmother"
+  pos: noun
+  level: A2
+  ipa: "/ˈɡræn.mʌð.ər/"
+  example: "My grandmother makes great cakes."
+  translations:
+    de: ["die Großmutter", "die Oma"]
+  example_translations:
+    de: "Meine Großmutter backt tolle Kuchen."
+
+- id: "grandparent"
+  lemma: "grandparent"
+  pos: noun
+  level: A1
+  ipa: "/ˈɡræn.peə.rənt/"
+  example: "My grandparents live in the country."
+  translations:
+    de: ["der Großelternteil", "die Großeltern"]
+  example_translations:
+    de: "Meine Großeltern wohnen auf dem Land."
+
+- id: "group"
+  lemma: "group"
+  pos: noun
+  level: A1
+  ipa: "/ɡruːp/"
+  example: "Work in groups of three."
+  translations:
+    de: ["die Gruppe"]
+  example_translations:
+    de: "Arbeitet in Dreiergruppen."
+
+- id: "guest"
+  lemma: "guest"
+  pos: noun
+  level: A2
+  ipa: "/ɡest/"
+  example: "We have guests tonight."
+  translations:
+    de: ["der Gast"]
+  example_translations:
+    de: "Wir haben heute Abend Gäste."
+
+- id: "guy"
+  lemma: "guy"
+  pos: noun
+  level: A2
+  ipa: "/ɡaɪ/"
+  example: "He's a nice guy."
+  translations:
+    de: ["der Typ", "der Kerl"]
+  example_translations:
+    de: "Er ist ein netter Kerl."
+
+- id: "habit"
+  lemma: "habit"
+  pos: noun
+  level: A2
+  ipa: "/ˈhæb.ɪt/"
+  example: "Smoking is a bad habit."
+  translations:
+    de: ["die Gewohnheit"]
+  example_translations:
+    de: "Rauchen ist eine schlechte Angewohnheit."
+
+- id: "hero"
+  lemma: "hero"
+  pos: noun
+  level: A2
+  ipa: "/ˈhɪə.rəʊ/"
+  example: "My father is my hero."
+  translations:
+    de: ["der Held", "die Heldin"]
+  example_translations:
+    de: "Mein Vater ist mein Held."
+
+- id: "host-noun"
+  lemma: "host"
+  pos: noun
+  level: B1
+  ipa: "/həʊst/"
+  example: "Thank our host for the dinner."
+  translations:
+    de: ["der Gastgeber", "die Gastgeberin", "der Moderator"]
+  example_translations:
+    de: "Dankt unserem Gastgeber für das Abendessen."
+
+- id: "human-adjective"
+  lemma: "human"
+  pos: adjective
+  level: A2
+  ipa: "/ˈhjuː.mən/"
+  example: "It's only human to make mistakes."
+  translations:
+    de: ["menschlich", "Menschen-"]
+  example_translations:
+    de: "Fehler zu machen ist menschlich."
+
+- id: "human-noun"
+  lemma: "human"
+  pos: noun
+  level: A2
+  ipa: "/ˈhjuː.mən/"
+  example: "Humans and animals need water."
+  translations:
+    de: ["der Mensch"]
+  example_translations:
+    de: "Menschen und Tiere brauchen Wasser."
+
+- id: "humour"
+  lemma: "humour"
+  pos: noun
+  level: B2
+  ipa: "/ˈhjuː.mər/"
+  example: "She has a good sense of humour."
+  translations:
+    de: ["der Humor"]
+  example_translations:
+    de: "Sie hat einen guten Sinn für Humor."
+
+- id: "husband"
+  lemma: "husband"
+  pos: noun
+  level: A2
+  ipa: "/ˈhʌz.bənd/"
+  example: "Her husband is a cook."
+  translations:
+    de: ["der Ehemann", "der Mann"]
+  example_translations:
+    de: "Ihr Mann ist Koch."
+
+- id: "individual-noun"
+  lemma: "individual"
+  pos: noun
+  level: A2
+  ipa: "/ˌɪn.dɪˈvɪdʒ.u.əl/"
+  example: "Every individual has rights."
+  translations:
+    de: ["der Einzelne", "das Individuum"]
+  example_translations:
+    de: "Jeder Einzelne hat Rechte."
+
+- id: "kid"
+  lemma: "kid"
+  pos: noun
+  level: A2
+  ipa: "/kɪd/"
+  example: "How many kids do you have?"
+  translations:
+    de: ["das Kind"]
+  example_translations:
+    de: "Wie viele Kinder hast du?"
+
+- id: "kiss-noun"
+  lemma: "kiss"
+  pos: noun
+  level: B1
+  ipa: "/kɪs/"
+  example: "Give me a kiss."
+  translations:
+    de: ["der Kuss"]
+  example_translations:
+    de: "Gib mir einen Kuss."
+
+- id: "kiss-verb"
+  lemma: "kiss"
+  pos: verb
+  level: B1
+  ipa: "/kɪs/"
+  example: "He kissed her goodbye."
+  translations:
+    de: ["küssen"]
+  example_translations:
+    de: "Er gab ihr einen Abschiedskuss."
+
+- id: "lady"
+  lemma: "lady"
+  pos: noun
+  level: A2
+  ipa: "/ˈleɪ.di/"
+  example: "Ask the lady at the desk."
+  translations:
+    de: ["die Dame"]
+  example_translations:
+    de: "Frag die Dame am Schalter."
+
+- id: "life"
+  lemma: "life"
+  pos: noun
+  level: A1
+  ipa: "/laɪf/"
+  example: "Life is beautiful."
+  translations:
+    de: ["das Leben"]
+  example_translations:
+    de: "Das Leben ist schön."
+
+- id: "lifestyle"
+  lemma: "lifestyle"
+  pos: noun
+  level: A2
+  ipa: "/ˈlaɪf.staɪl/"
+  example: "He has a healthy lifestyle."
+  translations:
+    de: ["der Lebensstil"]
+  example_translations:
+    de: "Er hat einen gesunden Lebensstil."
+
+- id: "local-noun"
+  lemma: "local"
+  pos: noun
+  level: B1
+  ipa: "/ˈləʊ.kəl/"
+  example: "Ask the locals for directions."
+  translations:
+    de: ["der/die Einheimische"]
+  example_translations:
+    de: "Frag die Einheimischen nach dem Weg."
+
+- id: "male-adjective"
+  lemma: "male"
+  pos: adjective
+  level: A2
+  ipa: "/meɪl/"
+  example: "Most of the nurses are male."
+  translations:
+    de: ["männlich"]
+  example_translations:
+    de: "Die meisten Pfleger sind männlich."
+
+- id: "man"
+  lemma: "man"
+  pos: noun
+  level: A1
+  ipa: "/mæn/"
+  example: "The man is tall."
+  translations:
+    de: ["der Mann"]
+  example_translations:
+    de: "Der Mann ist groß."
+
+- id: "manner"
+  lemma: "manner"
+  pos: noun
+  level: A2
+  ipa: "/ˈmæn.ər/"
+  example: "He has good manners."
+  translations:
+    de: ["die Art", "die Weise", "die Manieren"]
+  example_translations:
+    de: "Er hat gute Manieren."
+
+- id: "marriage"
+  lemma: "marriage"
+  pos: noun
+  level: B1
+  ipa: "/ˈmær.ɪdʒ/"
+  example: "They have a happy marriage."
+  translations:
+    de: ["die Ehe", "die Heirat"]
+  example_translations:
+    de: "Sie führen eine glückliche Ehe."
+
+- id: "married"
+  lemma: "married"
+  pos: adjective
+  level: A1
+  ipa: "/ˈmær.id/"
+  example: "Are you married?"
+  translations:
+    de: ["verheiratet"]
+  example_translations:
+    de: "Bist du verheiratet?"
+
+- id: "marry"
+  lemma: "marry"
+  pos: verb
+  level: A2
+  ipa: "/ˈmær.i/"
+  example: "Will you marry me?"
+  translations:
+    de: ["heiraten"]
+  example_translations:
+    de: "Willst du mich heiraten?"
+
+- id: "member"
+  lemma: "member"
+  pos: noun
+  level: A1
+  ipa: "/ˈmem.bər/"
+  example: "She is a member of the club."
+  translations:
+    de: ["das Mitglied"]
+  example_translations:
+    de: "Sie ist Mitglied im Verein."
+
+- id: "mother"
+  lemma: "mother"
+  pos: noun
+  level: A1
+  ipa: "/ˈmʌð.ər/"
+  example: "My mother is a teacher."
+  translations:
+    de: ["die Mutter"]
+  example_translations:
+    de: "Meine Mutter ist Lehrerin."
+
+- id: "mum"
+  lemma: "mum"
+  pos: noun
+  level: A1
+  ipa: "/mʌm/"
+  example: "My mum is a teacher."
+  translations:
+    de: ["die Mama", "die Mutter"]
+  example_translations:
+    de: "Meine Mama ist Lehrerin."
+
+- id: "native-adjective"
+  lemma: "native"
+  pos: adjective
+  level: B1
+  ipa: "/ˈneɪ.tɪv/"
+  example: "English is my native language."
+  translations:
+    de: ["Mutter-", "einheimisch"]
+  example_translations:
+    de: "Englisch ist meine Muttersprache."
+
+- id: "native-noun"
+  lemma: "native"
+  pos: noun
+  level: B1
+  ipa: "/ˈneɪ.tɪv/"
+  example: "She is a native of Berlin."
+  translations:
+    de: ["der/die Einheimische"]
+  example_translations:
+    de: "Sie ist gebürtige Berlinerin."
+
+- id: "neighbour"
+  lemma: "neighbour"
+  pos: noun
+  level: A2
+  ipa: "/ˈneɪ.bər/"
+  example: "Our neighbour has a big dog."
+  translations:
+    de: ["der Nachbar", "die Nachbarin"]
+  example_translations:
+    de: "Unser Nachbar hat einen großen Hund."
+
+- id: "owner"
+  lemma: "owner"
+  pos: noun
+  level: A2
+  ipa: "/ˈəʊ.nər/"
+  example: "Who is the owner of this dog?"
+  translations:
+    de: ["der Besitzer", "die Besitzerin", "der Eigentümer"]
+  example_translations:
+    de: "Wem gehört dieser Hund?"
+
+- id: "parent"
+  lemma: "parent"
+  pos: noun
+  level: A1
+  ipa: "/ˈpeə.rənt/"
+  example: "Every parent wants the best for their child."
+  translations:
+    de: ["das Elternteil", "die Eltern"]
+  example_translations:
+    de: "Alle Eltern wollen das Beste für ihr Kind."
+
+- id: "parents"
+  lemma: "parents"
+  pos: noun
+  level: A2
+  ipa: "/ˈpeə.rənts/"
+  example: "My parents live in the country."
+  translations:
+    de: ["die Eltern"]
+  example_translations:
+    de: "Meine Eltern leben auf dem Land."
+
+- id: "participant"
+  lemma: "participant"
+  pos: noun
+  level: B2
+  ipa: "/pɑːˈtɪs.ɪ.pənt/"
+  example: "There were 20 participants in the course."
+  translations:
+    de: ["der Teilnehmer", "die Teilnehmerin"]
+  example_translations:
+    de: "Der Kurs hatte 20 Teilnehmer."
+
+- id: "partner"
+  lemma: "partner"
+  pos: noun
+  level: A1
+  ipa: "/ˈpɑːt.nər/"
+  example: "Work with a partner."
+  translations:
+    de: ["der Partner", "die Partnerin"]
+  example_translations:
+    de: "Arbeite mit einem Partner."
+
+- id: "people"
+  lemma: "people"
+  pos: noun
+  level: A1
+  ipa: "/ˈpiː.pəl/"
+  example: "Many people came to the party."
+  translations:
+    de: ["die Leute", "die Menschen"]
+  example_translations:
+    de: "Viele Leute kamen zur Party."
+
+- id: "person"
+  lemma: "person"
+  pos: noun
+  level: A1
+  ipa: "/ˈpɜː.sən/"
+  example: "She is a very nice person."
+  translations:
+    de: ["die Person", "der Mensch"]
+  example_translations:
+    de: "Sie ist ein sehr netter Mensch."
+
+- id: "personality"
+  lemma: "personality"
+  pos: noun
+  level: A2
+  ipa: "/ˌpɜː.sənˈæl.ə.ti/"
+  example: "She has a strong personality."
+  translations:
+    de: ["die Persönlichkeit"]
+  example_translations:
+    de: "Sie hat eine starke Persönlichkeit."
+
+- id: "related"
+  lemma: "related"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈleɪ.tɪd/"
+  example: "Are you related to him?"
+  translations:
+    de: ["verwandt", "zusammenhängend"]
+  example_translations:
+    de: "Bist du mit ihm verwandt?"
+
+- id: "relation"
+  lemma: "relation"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈleɪ.ʃən/"
+  example: "Relations between the two countries are good."
+  translations:
+    de: ["die Beziehung", "der Verwandte"]
+  example_translations:
+    de: "Die Beziehungen zwischen den beiden Ländern sind gut."
+
+- id: "relationship"
+  lemma: "relationship"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈleɪ.ʃən.ʃɪp/"
+  example: "They have a good relationship."
+  translations:
+    de: ["die Beziehung", "das Verhältnis"]
+  example_translations:
+    de: "Sie haben ein gutes Verhältnis."
+
+- id: "relative-noun"
+  lemma: "relative"
+  pos: noun
+  level: B1
+  ipa: "/ˈrel.ə.tɪv/"
+  example: "We visited our relatives."
+  translations:
+    de: ["der/die Verwandte"]
+  example_translations:
+    de: "Wir haben unsere Verwandten besucht."
+
+- id: "rely"
+  lemma: "rely"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈlaɪ/"
+  example: "You can rely on me."
+  translations:
+    de: ["sich verlassen", "angewiesen sein"]
+  example_translations:
+    de: "Du kannst dich auf mich verlassen."
+
+- id: "resident-adjective"
+  lemma: "resident"
+  pos: adjective
+  level: B2
+  ipa: "/ˈrez.ɪ.dənt/"
+  example: "She is resident in Germany."
+  translations:
+    de: ["wohnhaft", "ansässig"]
+  example_translations:
+    de: "Sie ist in Deutschland wohnhaft."
+
+- id: "resident-noun"
+  lemma: "resident"
+  pos: noun
+  level: B2
+  ipa: "/ˈrez.ɪ.dənt/"
+  example: "Parking for residents only."
+  translations:
+    de: ["der Bewohner", "der Einwohner"]
+  example_translations:
+    de: "Parken nur für Anwohner."
+
+- id: "respect-noun"
+  lemma: "respect"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈspekt/"
+  example: "Show some respect!"
+  translations:
+    de: ["der Respekt", "die Achtung"]
+  example_translations:
+    de: "Zeig etwas Respekt!"
+
+- id: "respect-verb"
+  lemma: "respect"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈspekt/"
+  example: "I respect your decision."
+  translations:
+    de: ["respektieren", "achten"]
+  example_translations:
+    de: "Ich respektiere deine Entscheidung."
+
+- id: "self"
+  lemma: "self"
+  pos: noun
+  level: B2
+  ipa: "/self/"
+  example: "She is back to her old self."
+  translations:
+    de: ["das Selbst", "das Ich"]
+  example_translations:
+    de: "Sie ist wieder ganz die Alte."
+
+- id: "sex"
+  lemma: "sex"
+  pos: noun
+  level: B1
+  ipa: "/seks/"
+  example: "What sex is the baby?"
+  translations:
+    de: ["das Geschlecht", "der Sex"]
+  example_translations:
+    de: "Welches Geschlecht hat das Baby?"
+
+- id: "sexual"
+  lemma: "sexual"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsek.ʃu.əl/"
+  example: "The company has rules against sexual harassment."
+  translations:
+    de: ["sexuell"]
+  example_translations:
+    de: "Die Firma hat Regeln gegen sexuelle Belästigung."
+
+- id: "sir"
+  lemma: "sir"
+  pos: noun
+  level: A2
+  ipa: "/sɜːr/"
+  example: "Can I help you, sir?"
+  translations:
+    de: ["der Herr (Anrede)"]
+  example_translations:
+    de: "Kann ich Ihnen helfen, mein Herr?"
+
+- id: "sister"
+  lemma: "sister"
+  pos: noun
+  level: A1
+  ipa: "/ˈsɪs.tər/"
+  example: "My sister is ten."
+  translations:
+    de: ["die Schwester"]
+  example_translations:
+    de: "Meine Schwester ist zehn."
+
+- id: "son"
+  lemma: "son"
+  pos: noun
+  level: A1
+  ipa: "/sʌn/"
+  example: "Their son is five years old."
+  translations:
+    de: ["der Sohn"]
+  example_translations:
+    de: "Ihr Sohn ist fünf Jahre alt."
+
+- id: "stranger"
+  lemma: "stranger"
+  pos: noun
+  level: B1
+  ipa: "/ˈstreɪn.dʒər/"
+  example: "Don't talk to strangers."
+  translations:
+    de: ["der/die Fremde"]
+  example_translations:
+    de: "Sprich nicht mit Fremden."
+
+- id: "talent"
+  lemma: "talent"
+  pos: noun
+  level: B1
+  ipa: "/ˈtæl.ənt/"
+  example: "She has a talent for music."
+  translations:
+    de: ["das Talent", "die Begabung"]
+  example_translations:
+    de: "Sie hat Talent für Musik."
+
+- id: "teenage"
+  lemma: "teenage"
+  pos: adjective
+  level: A2
+  ipa: "/ˈtiːn.eɪdʒ/"
+  example: "They have two teenage children."
+  translations:
+    de: ["Teenager-", "jugendlich"]
+  example_translations:
+    de: "Sie haben zwei Kinder im Teenageralter."
+
+- id: "teenager"
+  lemma: "teenager"
+  pos: noun
+  level: A1
+  ipa: "/ˈtiːnˌeɪ.dʒər/"
+  example: "Teenagers love their phones."
+  translations:
+    de: ["der Teenager", "der/die Jugendliche"]
+  example_translations:
+    de: "Teenager lieben ihre Handys."
+
+- id: "twin"
+  lemma: "twin"
+  pos: noun
+  level: A2
+  ipa: "/twɪn/"
+  example: "She has a twin sister."
+  translations:
+    de: ["der Zwilling"]
+  example_translations:
+    de: "Sie hat eine Zwillingsschwester."
+
+- id: "uncle"
+  lemma: "uncle"
+  pos: noun
+  level: A2
+  ipa: "/ˈʌŋ.kəl/"
+  example: "My uncle lives in Canada."
+  translations:
+    de: ["der Onkel"]
+  example_translations:
+    de: "Mein Onkel lebt in Kanada."
+
+- id: "weakness"
+  lemma: "weakness"
+  pos: noun
+  level: B2
+  ipa: "/ˈwiːk.nəs/"
+  example: "Chocolate is my weakness."
+  translations:
+    de: ["die Schwäche"]
+  example_translations:
+    de: "Schokolade ist meine Schwäche."
+
+- id: "wedding"
+  lemma: "wedding"
+  pos: noun
+  level: A2
+  ipa: "/ˈwed.ɪŋ/"
+  example: "We were invited to their wedding."
+  translations:
+    de: ["die Hochzeit"]
+  example_translations:
+    de: "Wir waren zu ihrer Hochzeit eingeladen."
+
+- id: "wife"
+  lemma: "wife"
+  pos: noun
+  level: A2
+  ipa: "/waɪf/"
+  example: "His wife works in a bank."
+  translations:
+    de: ["die Ehefrau", "die Frau"]
+  example_translations:
+    de: "Seine Frau arbeitet in einer Bank."
+
+- id: "woman"
+  lemma: "woman"
+  pos: noun
+  level: A1
+  ipa: "/ˈwʊm.ən/"
+  example: "The woman reads a book."
+  translations:
+    de: ["die Frau"]
+  example_translations:
+    de: "Die Frau liest ein Buch."
+
+- id: "youth"
+  lemma: "youth"
+  pos: noun
+  level: B1
+  ipa: "/juːθ/"
+  example: "In my youth, I played football."
+  translations:
+    de: ["die Jugend"]
+  example_translations:
+    de: "In meiner Jugend habe ich Fußball gespielt."

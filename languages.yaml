@@ -1,0 +1,16 @@
+# Sprachen des Katalogs.
+#   base:      Basissprache – Übersetzungen und Oberfläche in dieser Sprache (braucht Oberflächentexte in der App)
+#   learnable: Zielsprache – erscheint im Onboarding, sobald es genug Vokabeln gibt
+#   tts_locale: Locale für die Sprachausgabe, z. B. "en-GB"
+
+- code: "de"
+  flag: "🇩🇪"
+  tts_locale: "de-DE"
+  base: true
+  learnable: false
+
+- code: "en"
+  flag: "🇬🇧"
+  tts_locale: "en-GB"
+  base: false
+  learnable: true

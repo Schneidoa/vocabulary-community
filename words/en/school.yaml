@@ -1,0 +1,1124 @@
+# 📚 Schule & Lernen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "academic-adjective"
+  lemma: "academic"
+  pos: adjective
+  level: B1
+  ipa: "/ˌæk.əˈdem.ɪk/"
+  example: "The academic year starts in September."
+  translations:
+    de: ["akademisch", "wissenschaftlich"]
+  example_translations:
+    de: "Das akademische Jahr beginnt im September."
+
+- id: "academic-noun"
+  lemma: "academic"
+  pos: noun
+  level: B2
+  ipa: "/ˌæk.əˈdem.ɪk/"
+  example: "She is a well-known academic."
+  translations:
+    de: ["der Akademiker", "die Akademikerin", "der Wissenschaftler"]
+  example_translations:
+    de: "Sie ist eine bekannte Wissenschaftlerin."
+
+- id: "answer"
+  lemma: "answer"
+  pos: noun
+  level: A2
+  ipa: "/ˈɑːn.sər/"
+  example: "I don't know the answer."
+  translations:
+    de: ["die Antwort"]
+  example_translations:
+    de: "Ich weiß die Antwort nicht."
+
+- id: "assess"
+  lemma: "assess"
+  pos: verb
+  level: B2
+  ipa: "/əˈses/"
+  example: "Teachers assess the students every term."
+  translations:
+    de: ["beurteilen", "bewerten"]
+  example_translations:
+    de: "Die Lehrer bewerten die Schüler jedes Halbjahr."
+
+- id: "assessment"
+  lemma: "assessment"
+  pos: noun
+  level: B2
+  ipa: "/əˈses.mənt/"
+  example: "The final assessment is next week."
+  translations:
+    de: ["die Bewertung", "die Beurteilung"]
+  example_translations:
+    de: "Die Abschlussbewertung ist nächste Woche."
+
+- id: "assignment"
+  lemma: "assignment"
+  pos: noun
+  level: B1
+  ipa: "/əˈsaɪn.mənt/"
+  example: "I have to finish my assignment tonight."
+  translations:
+    de: ["die Aufgabe", "der Auftrag"]
+  example_translations:
+    de: "Ich muss heute Abend meine Aufgabe fertig machen."
+
+- id: "attend"
+  lemma: "attend"
+  pos: verb
+  level: A2
+  ipa: "/əˈtend/"
+  example: "He attends a school in London."
+  translations:
+    de: ["besuchen", "teilnehmen an"]
+  example_translations:
+    de: "Er besucht eine Schule in London."
+
+- id: "biology"
+  lemma: "biology"
+  pos: noun
+  level: A2
+  ipa: "/baɪˈɒl.ə.dʒi/"
+  example: "Biology is my favourite subject."
+  translations:
+    de: ["die Biologie"]
+  example_translations:
+    de: "Biologie ist mein Lieblingsfach."
+
+- id: "board-noun"
+  lemma: "board"
+  pos: noun
+  level: A2
+  ipa: "/bɔːd/"
+  example: "The teacher wrote on the board."
+  translations:
+    de: ["die Tafel", "das Brett", "der Vorstand"]
+  example_translations:
+    de: "Die Lehrerin schrieb an die Tafel."
+
+- id: "book"
+  lemma: "book"
+  pos: noun
+  level: A1
+  ipa: "/bʊk/"
+  example: "This book is interesting."
+  translations:
+    de: ["das Buch"]
+  example_translations:
+    de: "Dieses Buch ist interessant."
+
+- id: "break-noun"
+  lemma: "break"
+  pos: noun
+  level: A1
+  ipa: "/breɪk/"
+  example: "Let's take a short break."
+  translations:
+    de: ["die Pause"]
+  example_translations:
+    de: "Lass uns eine kurze Pause machen."
+
+- id: "campus"
+  lemma: "campus"
+  pos: noun
+  level: B1
+  ipa: "/ˈkæm.pəs/"
+  example: "She lives on campus."
+  translations:
+    de: ["der Campus", "das Universitätsgelände"]
+  example_translations:
+    de: "Sie wohnt auf dem Campus."
+
+- id: "capital-adjective"
+  lemma: "capital"
+  pos: adjective
+  level: A1
+  ipa: "/ˈkæp.ɪ.təl/"
+  example: "Write your name in capital letters."
+  translations:
+    de: ["groß (Buchstabe)"]
+  example_translations:
+    de: "Schreib deinen Namen in Großbuchstaben."
+
+- id: "cheat-verb"
+  lemma: "cheat"
+  pos: verb
+  level: B1
+  ipa: "/tʃiːt/"
+  example: "He cheated in the exam."
+  translations:
+    de: ["schummeln", "betrügen"]
+  example_translations:
+    de: "Er hat bei der Prüfung geschummelt."
+
+- id: "chemistry"
+  lemma: "chemistry"
+  pos: noun
+  level: A2
+  ipa: "/ˈkem.ɪ.stri/"
+  example: "We have chemistry on Mondays."
+  translations:
+    de: ["die Chemie"]
+  example_translations:
+    de: "Montags haben wir Chemie."
+
+- id: "cite"
+  lemma: "cite"
+  pos: verb
+  level: B2
+  ipa: "/saɪt/"
+  example: "He cited several examples."
+  translations:
+    de: ["zitieren", "anführen"]
+  example_translations:
+    de: "Er führte mehrere Beispiele an."
+
+- id: "class"
+  lemma: "class"
+  pos: noun
+  level: A1
+  ipa: "/klɑːs/"
+  example: "There are 25 students in my class."
+  translations:
+    de: ["die Klasse", "der Unterricht"]
+  example_translations:
+    de: "In meiner Klasse sind 25 Schüler."
+
+- id: "classroom"
+  lemma: "classroom"
+  pos: noun
+  level: A1
+  ipa: "/ˈklɑːs.ruːm/"
+  example: "The classroom is on the first floor."
+  translations:
+    de: ["das Klassenzimmer"]
+  example_translations:
+    de: "Das Klassenzimmer ist im ersten Stock."
+
+- id: "clause"
+  lemma: "clause"
+  pos: noun
+  level: B1
+  ipa: "/klɔːz/"
+  example: "This sentence has two clauses."
+  translations:
+    de: ["der Satz", "der Nebensatz", "die Klausel"]
+  example_translations:
+    de: "Dieser Satz hat zwei Teilsätze."
+
+- id: "college"
+  lemma: "college"
+  pos: noun
+  level: A1
+  ipa: "/ˈkɒl.ɪdʒ/"
+  example: "My brother goes to college."
+  translations:
+    de: ["das College", "die Hochschule"]
+  example_translations:
+    de: "Mein Bruder geht aufs College."
+
+- id: "correct-adjective"
+  lemma: "correct"
+  pos: adjective
+  level: A1
+  ipa: "/kəˈrekt/"
+  example: "That's the correct answer."
+  translations:
+    de: ["richtig", "korrekt"]
+  example_translations:
+    de: "Das ist die richtige Antwort."
+
+- id: "correct-verb"
+  lemma: "correct"
+  pos: verb
+  level: A1
+  ipa: "/kəˈrekt/"
+  example: "The teacher corrected my mistakes."
+  translations:
+    de: ["korrigieren", "verbessern"]
+  example_translations:
+    de: "Die Lehrerin hat meine Fehler korrigiert."
+
+- id: "correctly"
+  lemma: "correctly"
+  pos: adverb
+  level: A2
+  ipa: "/kəˈrekt.li/"
+  example: "Did I spell your name correctly?"
+  translations:
+    de: ["richtig", "korrekt"]
+  example_translations:
+    de: "Habe ich deinen Namen richtig geschrieben?"
+
+- id: "course"
+  lemma: "course"
+  pos: noun
+  level: A1
+  ipa: "/kɔːs/"
+  example: "I'm doing a French course."
+  translations:
+    de: ["der Kurs", "der Gang (Essen)", "der Verlauf"]
+  example_translations:
+    de: "Ich mache einen Französischkurs."
+
+- id: "degree"
+  lemma: "degree"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈɡriː/"
+  example: "It's 20 degrees today."
+  translations:
+    de: ["der Grad", "der Abschluss"]
+  example_translations:
+    de: "Heute sind es 20 Grad."
+
+- id: "desk"
+  lemma: "desk"
+  pos: noun
+  level: A1
+  ipa: "/desk/"
+  example: "My computer is on my desk."
+  translations:
+    de: ["der Schreibtisch", "das Pult"]
+  example_translations:
+    de: "Mein Computer steht auf meinem Schreibtisch."
+
+- id: "diagram"
+  lemma: "diagram"
+  pos: noun
+  level: B1
+  ipa: "/ˈdaɪ.ə.ɡræm/"
+  example: "Look at the diagram."
+  translations:
+    de: ["das Diagramm", "die Skizze"]
+  example_translations:
+    de: "Schau dir das Diagramm an."
+
+- id: "dictionary"
+  lemma: "dictionary"
+  pos: noun
+  level: A2
+  ipa: "/ˈdɪk.ʃən.ər.i/"
+  example: "Look it up in the dictionary."
+  translations:
+    de: ["das Wörterbuch"]
+  example_translations:
+    de: "Schlag es im Wörterbuch nach."
+
+- id: "discipline"
+  lemma: "discipline"
+  pos: noun
+  level: B2
+  ipa: "/ˈdɪs.ə.plɪn/"
+  example: "The school has strict discipline."
+  translations:
+    de: ["die Disziplin"]
+  example_translations:
+    de: "An der Schule herrscht strenge Disziplin."
+
+- id: "educate"
+  lemma: "educate"
+  pos: verb
+  level: B1
+  ipa: "/ˈedʒ.u.keɪt/"
+  example: "She was educated in Paris."
+  translations:
+    de: ["erziehen", "ausbilden", "aufklären"]
+  example_translations:
+    de: "Sie wurde in Paris ausgebildet."
+
+- id: "educated"
+  lemma: "educated"
+  pos: adjective
+  level: B1
+  ipa: "/ˈedʒ.u.keɪ.tɪd/"
+  example: "He is a well-educated man."
+  translations:
+    de: ["gebildet"]
+  example_translations:
+    de: "Er ist ein gebildeter Mann."
+
+- id: "education"
+  lemma: "education"
+  pos: noun
+  level: A2
+  ipa: "/ˌedʒ.uˈkeɪ.ʃən/"
+  example: "Education is very important."
+  translations:
+    de: ["die Bildung", "die Ausbildung"]
+  example_translations:
+    de: "Bildung ist sehr wichtig."
+
+- id: "educational"
+  lemma: "educational"
+  pos: adjective
+  level: B1
+  ipa: "/ˌedʒ.uˈkeɪ.ʃən.əl/"
+  example: "It's an educational game for children."
+  translations:
+    de: ["lehrreich", "pädagogisch"]
+  example_translations:
+    de: "Das ist ein Lernspiel für Kinder."
+
+- id: "essay"
+  lemma: "essay"
+  pos: noun
+  level: A2
+  ipa: "/ˈes.eɪ/"
+  example: "Write an essay about your holiday."
+  translations:
+    de: ["der Aufsatz", "der Essay"]
+  example_translations:
+    de: "Schreib einen Aufsatz über deine Ferien."
+
+- id: "exam"
+  lemma: "exam"
+  pos: noun
+  level: A2
+  ipa: "/ɪɡˈzæm/"
+  example: "I passed the exam."
+  translations:
+    de: ["die Prüfung"]
+  example_translations:
+    de: "Ich habe die Prüfung bestanden."
+
+- id: "examination"
+  lemma: "examination"
+  pos: noun
+  level: B2
+  ipa: "/ɪɡˌzæm.ɪˈneɪ.ʃən/"
+  example: "The doctor did a careful examination."
+  translations:
+    de: ["die Prüfung", "die Untersuchung"]
+  example_translations:
+    de: "Der Arzt nahm eine gründliche Untersuchung vor."
+
+- id: "example"
+  lemma: "example"
+  pos: noun
+  level: A1
+  ipa: "/ɪɡˈzɑːm.pəl/"
+  example: "Can you give me an example?"
+  translations:
+    de: ["das Beispiel"]
+  example_translations:
+    de: "Kannst du mir ein Beispiel geben?"
+
+- id: "exchange-noun"
+  lemma: "exchange"
+  pos: noun
+  level: B1
+  ipa: "/ɪksˈtʃeɪndʒ/"
+  example: "She went to France on a school exchange."
+  translations:
+    de: ["der Austausch", "der Umtausch"]
+  example_translations:
+    de: "Sie war mit einem Schüleraustausch in Frankreich."
+
+- id: "fail"
+  lemma: "fail"
+  pos: verb
+  level: A2
+  ipa: "/feɪl/"
+  example: "He failed his driving test."
+  translations:
+    de: ["scheitern", "durchfallen", "versagen"]
+  example_translations:
+    de: "Er ist durch die Fahrprüfung gefallen."
+
+- id: "forget"
+  lemma: "forget"
+  pos: verb
+  level: A2
+  ipa: "/fəˈɡet/"
+  example: "Don't forget to call me."
+  translations:
+    de: ["vergessen"]
+  example_translations:
+    de: "Vergiss nicht, mich anzurufen."
+
+- id: "geography"
+  lemma: "geography"
+  pos: noun
+  level: A1
+  ipa: "/dʒiˈɒɡ.rə.fi/"
+  example: "We have geography on Tuesday."
+  translations:
+    de: ["die Erdkunde", "die Geografie"]
+  example_translations:
+    de: "Am Dienstag haben wir Erdkunde."
+
+- id: "grade-noun"
+  lemma: "grade"
+  pos: noun
+  level: B1
+  ipa: "/ɡreɪd/"
+  example: "She got good grades."
+  translations:
+    de: ["die Note", "die Klasse", "die Stufe"]
+  example_translations:
+    de: "Sie hat gute Noten bekommen."
+
+- id: "grade-verb"
+  lemma: "grade"
+  pos: verb
+  level: B2
+  ipa: "/ɡreɪd/"
+  example: "The teacher grades our tests."
+  translations:
+    de: ["benoten", "einstufen"]
+  example_translations:
+    de: "Die Lehrerin benotet unsere Tests."
+
+- id: "graduate-noun"
+  lemma: "graduate"
+  pos: noun
+  level: B1
+  ipa: "/ˈɡrædʒ.u.ət/"
+  example: "She is a graduate of Oxford."
+  translations:
+    de: ["der Absolvent", "die Absolventin"]
+  example_translations:
+    de: "Sie ist Absolventin von Oxford."
+
+- id: "graduate-verb"
+  lemma: "graduate"
+  pos: verb
+  level: B1
+  ipa: "/ˈɡrædʒ.u.eɪt/"
+  example: "He graduated last year."
+  translations:
+    de: ["einen Abschluss machen"]
+  example_translations:
+    de: "Er hat letztes Jahr seinen Abschluss gemacht."
+
+- id: "grant-noun"
+  lemma: "grant"
+  pos: noun
+  level: B2
+  ipa: "/ɡrɑːnt/"
+  example: "She got a grant to study abroad."
+  translations:
+    de: ["das Stipendium", "der Zuschuss"]
+  example_translations:
+    de: "Sie bekam ein Stipendium für ein Auslandsstudium."
+
+- id: "highlight-verb"
+  lemma: "highlight"
+  pos: verb
+  level: B1
+  ipa: "/ˈhaɪ.laɪt/"
+  example: "Highlight the important words."
+  translations:
+    de: ["hervorheben", "markieren"]
+  example_translations:
+    de: "Markiere die wichtigen Wörter."
+
+- id: "history"
+  lemma: "history"
+  pos: noun
+  level: A1
+  ipa: "/ˈhɪs.tər.i/"
+  example: "I'm interested in history."
+  translations:
+    de: ["die Geschichte"]
+  example_translations:
+    de: "Ich interessiere mich für Geschichte."
+
+- id: "homework"
+  lemma: "homework"
+  pos: noun
+  level: A2
+  ipa: "/ˈhəʊm.wɜːk/"
+  example: "Did you do your homework?"
+  translations:
+    de: ["die Hausaufgaben", "die Hausaufgabe"]
+  example_translations:
+    de: "Hast du deine Hausaufgaben gemacht?"
+
+- id: "learn"
+  lemma: "learn"
+  pos: verb
+  level: A1
+  ipa: "/lɜːn/"
+  example: "I learn English."
+  translations:
+    de: ["lernen"]
+  example_translations:
+    de: "Ich lerne Englisch."
+
+- id: "learning"
+  lemma: "learning"
+  pos: noun
+  level: A2
+  ipa: "/ˈlɜː.nɪŋ/"
+  example: "Learning a language takes time."
+  translations:
+    de: ["das Lernen"]
+  example_translations:
+    de: "Eine Sprache zu lernen braucht Zeit."
+
+- id: "lecture-noun"
+  lemma: "lecture"
+  pos: noun
+  level: A2
+  ipa: "/ˈlek.tʃər/"
+  example: "The lecture starts at nine."
+  translations:
+    de: ["die Vorlesung", "der Vortrag"]
+  example_translations:
+    de: "Die Vorlesung beginnt um neun."
+
+- id: "lecture-verb"
+  lemma: "lecture"
+  pos: verb
+  level: A2
+  ipa: "/ˈlek.tʃər/"
+  example: "She lectures in history."
+  translations:
+    de: ["eine Vorlesung halten", "belehren"]
+  example_translations:
+    de: "Sie hält Vorlesungen in Geschichte."
+
+- id: "lesson"
+  lemma: "lesson"
+  pos: noun
+  level: A2
+  ipa: "/ˈles.ən/"
+  example: "The lesson starts at nine."
+  translations:
+    de: ["die Unterrichtsstunde", "der Unterricht", "die Lektion"]
+  example_translations:
+    de: "Der Unterricht beginnt um neun."
+
+- id: "mark-noun"
+  lemma: "mark"
+  pos: noun
+  level: A2
+  ipa: "/mɑːk/"
+  example: "I got a good mark in the test."
+  translations:
+    de: ["die Note", "der Fleck", "die Markierung"]
+  example_translations:
+    de: "Ich habe im Test eine gute Note bekommen."
+
+- id: "mark-verb"
+  lemma: "mark"
+  pos: verb
+  level: A2
+  ipa: "/mɑːk/"
+  example: "The teacher is marking our tests."
+  translations:
+    de: ["korrigieren", "markieren", "kennzeichnen"]
+  example_translations:
+    de: "Die Lehrerin korrigiert unsere Tests."
+
+- id: "master-verb"
+  lemma: "master"
+  pos: verb
+  level: B2
+  ipa: "/ˈmɑː.stər/"
+  example: "It takes years to master a language."
+  translations:
+    de: ["beherrschen", "meistern"]
+  example_translations:
+    de: "Es dauert Jahre, eine Sprache zu beherrschen."
+
+- id: "match-verb"
+  lemma: "match"
+  pos: verb
+  level: A1
+  ipa: "/mætʃ/"
+  example: "Match the words with the pictures."
+  translations:
+    de: ["zuordnen", "passen zu"]
+  example_translations:
+    de: "Ordne die Wörter den Bildern zu."
+
+- id: "mathematics"
+  lemma: "mathematics"
+  pos: noun
+  level: A2
+  ipa: "/ˌmæθˈmæt.ɪks/"
+  example: "She teaches mathematics."
+  translations:
+    de: ["die Mathematik"]
+  example_translations:
+    de: "Sie unterrichtet Mathematik."
+
+- id: "maths"
+  lemma: "maths"
+  pos: noun
+  level: A2
+  ipa: "/mæθs/"
+  example: "I'm not good at maths."
+  translations:
+    de: ["die Mathe"]
+  example_translations:
+    de: "Ich bin nicht gut in Mathe."
+
+- id: "mistake"
+  lemma: "mistake"
+  pos: noun
+  level: A2
+  ipa: "/mɪˈsteɪk/"
+  example: "Everybody makes mistakes."
+  translations:
+    de: ["der Fehler"]
+  example_translations:
+    de: "Jeder macht Fehler."
+
+- id: "note-noun"
+  lemma: "note"
+  pos: noun
+  level: A1
+  ipa: "/nəʊt/"
+  example: "I left you a note."
+  translations:
+    de: ["die Notiz", "der Zettel", "die Note (Musik)", "der Geldschein"]
+  example_translations:
+    de: "Ich habe dir einen Zettel hingelegt."
+
+- id: "page"
+  lemma: "page"
+  pos: noun
+  level: A1
+  ipa: "/peɪdʒ/"
+  example: "Open your books at page 20."
+  translations:
+    de: ["die Seite"]
+  example_translations:
+    de: "Schlagt eure Bücher auf Seite 20 auf."
+
+- id: "paper"
+  lemma: "paper"
+  pos: noun
+  level: A1
+  ipa: "/ˈpeɪ.pər/"
+  example: "Write it on a piece of paper."
+  translations:
+    de: ["das Papier", "die Zeitung"]
+  example_translations:
+    de: "Schreib es auf ein Blatt Papier."
+
+- id: "paragraph"
+  lemma: "paragraph"
+  pos: noun
+  level: A1
+  ipa: "/ˈpær.ə.ɡrɑːf/"
+  example: "Read the first paragraph."
+  translations:
+    de: ["der Absatz", "der Abschnitt"]
+  example_translations:
+    de: "Lies den ersten Absatz."
+
+- id: "pass-verb"
+  lemma: "pass"
+  pos: verb
+  level: A2
+  ipa: "/pɑːs/"
+  example: "I passed my exam!"
+  translations:
+    de: ["bestehen", "vorbeigehen", "reichen"]
+  example_translations:
+    de: "Ich habe meine Prüfung bestanden!"
+
+- id: "passage"
+  lemma: "passage"
+  pos: noun
+  level: B2
+  ipa: "/ˈpæs.ɪdʒ/"
+  example: "Read the passage and answer the questions."
+  translations:
+    de: ["der Abschnitt", "der Durchgang"]
+  example_translations:
+    de: "Lies den Abschnitt und beantworte die Fragen."
+
+- id: "pen"
+  lemma: "pen"
+  pos: noun
+  level: A1
+  ipa: "/pen/"
+  example: "Can I borrow your pen?"
+  translations:
+    de: ["der Stift", "der Kugelschreiber"]
+  example_translations:
+    de: "Kann ich deinen Stift leihen?"
+
+- id: "pencil"
+  lemma: "pencil"
+  pos: noun
+  level: A1
+  ipa: "/ˈpen.səl/"
+  example: "Can I borrow a pencil?"
+  translations:
+    de: ["der Bleistift"]
+  example_translations:
+    de: "Kann ich mir einen Bleistift leihen?"
+
+- id: "physics"
+  lemma: "physics"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪz.ɪks/"
+  example: "Physics is a difficult subject."
+  translations:
+    de: ["die Physik"]
+  example_translations:
+    de: "Physik ist ein schwieriges Fach."
+
+- id: "practice"
+  lemma: "practice"
+  pos: noun
+  level: A1
+  ipa: "/ˈpræk.tɪs/"
+  example: "Practice makes perfect."
+  translations:
+    de: ["die Übung", "die Praxis"]
+  example_translations:
+    de: "Übung macht den Meister."
+
+- id: "practise"
+  lemma: "practise"
+  pos: verb
+  level: A1
+  ipa: "/ˈpræk.tɪs/"
+  example: "I practise the piano every day."
+  translations:
+    de: ["üben", "trainieren"]
+  example_translations:
+    de: "Ich übe jeden Tag Klavier."
+
+- id: "primary"
+  lemma: "primary"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpraɪ.mər.i/"
+  example: "My son goes to primary school."
+  translations:
+    de: ["Haupt-", "Grund-", "primär"]
+  example_translations:
+    de: "Mein Sohn geht in die Grundschule."
+
+- id: "professor"
+  lemma: "professor"
+  pos: noun
+  level: A2
+  ipa: "/prəˈfes.ər/"
+  example: "She is a professor of history."
+  translations:
+    de: ["der Professor", "die Professorin"]
+  example_translations:
+    de: "Sie ist Professorin für Geschichte."
+
+- id: "pupil"
+  lemma: "pupil"
+  pos: noun
+  level: B2
+  ipa: "/ˈpjuː.pəl/"
+  example: "The school has 500 pupils."
+  translations:
+    de: ["der Schüler", "die Schülerin", "die Pupille"]
+  example_translations:
+    de: "Die Schule hat 500 Schüler."
+
+- id: "question"
+  lemma: "question"
+  pos: noun
+  level: A2
+  ipa: "/ˈkwes.tʃən/"
+  example: "Can I ask a question?"
+  translations:
+    de: ["die Frage"]
+  example_translations:
+    de: "Darf ich eine Frage stellen?"
+
+- id: "reading"
+  lemma: "reading"
+  pos: noun
+  level: A1
+  ipa: "/ˈriː.dɪŋ/"
+  example: "I love reading."
+  translations:
+    de: ["das Lesen", "die Lektüre"]
+  example_translations:
+    de: "Ich lese sehr gern."
+
+- id: "register-noun"
+  lemma: "register"
+  pos: noun
+  level: B2
+  ipa: "/ˈredʒ.ɪ.stər/"
+  example: "The teacher took the register."
+  translations:
+    de: ["das Register", "die Anwesenheitsliste"]
+  example_translations:
+    de: "Die Lehrerin prüfte die Anwesenheit."
+
+- id: "remember"
+  lemma: "remember"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈmem.bər/"
+  example: "I can't remember his name."
+  translations:
+    de: ["sich erinnern", "erinnern"]
+  example_translations:
+    de: "Ich kann mich nicht an seinen Namen erinnern."
+
+- id: "review-verb"
+  lemma: "review"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈvjuː/"
+  example: "Review your notes before the test."
+  translations:
+    de: ["überprüfen", "wiederholen", "rezensieren"]
+  example_translations:
+    de: "Wiederhole deine Notizen vor dem Test."
+
+- id: "revise"
+  lemma: "revise"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈvaɪz/"
+  example: "I have to revise for my exams."
+  translations:
+    de: ["überarbeiten", "wiederholen (Lernstoff)"]
+  example_translations:
+    de: "Ich muss für meine Prüfungen lernen."
+
+- id: "rubber"
+  lemma: "rubber"
+  pos: noun
+  level: B2
+  ipa: "/ˈrʌb.ər/"
+  example: "Can I borrow your rubber?"
+  translations:
+    de: ["der Radiergummi", "das Gummi"]
+  example_translations:
+    de: "Kann ich deinen Radiergummi leihen?"
+
+- id: "school"
+  lemma: "school"
+  pos: noun
+  level: A1
+  ipa: "/skuːl/"
+  example: "The school is near my house."
+  translations:
+    de: ["die Schule"]
+  example_translations:
+    de: "Die Schule ist in der Nähe meines Hauses."
+
+- id: "secondary"
+  lemma: "secondary"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsek.ən.dri/"
+  example: "She teaches at a secondary school."
+  translations:
+    de: ["weiterführend", "zweitrangig", "sekundär"]
+  example_translations:
+    de: "Sie unterrichtet an einer weiterführenden Schule."
+
+- id: "sentence-noun"
+  lemma: "sentence"
+  pos: noun
+  level: A1
+  ipa: "/ˈsen.təns/"
+  example: "Write a sentence with this word."
+  translations:
+    de: ["der Satz", "das Urteil"]
+  example_translations:
+    de: "Schreib einen Satz mit diesem Wort."
+
+- id: "spelling"
+  lemma: "spelling"
+  pos: noun
+  level: A1
+  ipa: "/ˈspel.ɪŋ/"
+  example: "Check your spelling."
+  translations:
+    de: ["die Rechtschreibung"]
+  example_translations:
+    de: "Prüfe deine Rechtschreibung."
+
+- id: "student"
+  lemma: "student"
+  pos: noun
+  level: A1
+  ipa: "/ˈstjuː.dənt/"
+  example: "He is a student in Leeds."
+  translations:
+    de: ["der Student", "die Studentin", "der Schüler"]
+  example_translations:
+    de: "Er ist Student in Leeds."
+
+- id: "study-verb"
+  lemma: "study"
+  pos: verb
+  level: A1
+  ipa: "/ˈstʌd.i/"
+  example: "She studies medicine."
+  translations:
+    de: ["lernen", "studieren"]
+  example_translations:
+    de: "Sie studiert Medizin."
+
+- id: "subject"
+  lemma: "subject"
+  pos: noun
+  level: A1
+  ipa: "/ˈsʌb.dʒekt/"
+  example: "What's your favourite subject?"
+  translations:
+    de: ["das Fach", "das Thema", "das Subjekt"]
+  example_translations:
+    de: "Was ist dein Lieblingsfach?"
+
+- id: "submit"
+  lemma: "submit"
+  pos: verb
+  level: B2
+  ipa: "/səbˈmɪt/"
+  example: "Submit your homework by Friday."
+  translations:
+    de: ["einreichen", "abgeben"]
+  example_translations:
+    de: "Gebt eure Hausaufgaben bis Freitag ab."
+
+- id: "teach"
+  lemma: "teach"
+  pos: verb
+  level: A1
+  ipa: "/tiːtʃ/"
+  example: "She teaches English."
+  translations:
+    de: ["unterrichten", "beibringen"]
+  example_translations:
+    de: "Sie unterrichtet Englisch."
+
+- id: "teacher"
+  lemma: "teacher"
+  pos: noun
+  level: A1
+  ipa: "/ˈtiː.tʃər/"
+  example: "Our teacher is very nice."
+  translations:
+    de: ["der Lehrer", "die Lehrerin"]
+  example_translations:
+    de: "Unsere Lehrerin ist sehr nett."
+
+- id: "teaching"
+  lemma: "teaching"
+  pos: noun
+  level: A2
+  ipa: "/ˈtiː.tʃɪŋ/"
+  example: "He wants to go into teaching."
+  translations:
+    de: ["das Unterrichten", "die Lehre"]
+  example_translations:
+    de: "Er möchte Lehrer werden."
+
+- id: "term-noun"
+  lemma: "term"
+  pos: noun
+  level: A2
+  ipa: "/tɜːm/"
+  example: "The new term starts in September."
+  translations:
+    de: ["das Halbjahr", "der Begriff", "die Bedingung"]
+  example_translations:
+    de: "Das neue Halbjahr beginnt im September."
+
+- id: "test-noun"
+  lemma: "test"
+  pos: noun
+  level: A1
+  ipa: "/test/"
+  example: "We have a test tomorrow."
+  translations:
+    de: ["der Test", "die Prüfung"]
+  example_translations:
+    de: "Wir schreiben morgen einen Test."
+
+- id: "test-verb"
+  lemma: "test"
+  pos: verb
+  level: A1
+  ipa: "/test/"
+  example: "The teacher tested our English."
+  translations:
+    de: ["testen", "prüfen"]
+  example_translations:
+    de: "Die Lehrerin prüfte unser Englisch."
+
+- id: "text-noun"
+  lemma: "text"
+  pos: noun
+  level: A1
+  ipa: "/tekst/"
+  example: "Read the text on page 10."
+  translations:
+    de: ["der Text", "die SMS"]
+  example_translations:
+    de: "Lies den Text auf Seite 10."
+
+- id: "topic"
+  lemma: "topic"
+  pos: noun
+  level: A1
+  ipa: "/ˈtɒp.ɪk/"
+  example: "What's the topic of your essay?"
+  translations:
+    de: ["das Thema"]
+  example_translations:
+    de: "Was ist das Thema deines Aufsatzes?"
+
+- id: "understand"
+  lemma: "understand"
+  pos: verb
+  level: A2
+  ipa: "/ˌʌn.dəˈstænd/"
+  example: "I don't understand the question."
+  translations:
+    de: ["verstehen"]
+  example_translations:
+    de: "Ich verstehe die Frage nicht."
+
+- id: "university"
+  lemma: "university"
+  pos: noun
+  level: A1
+  ipa: "/ˌjuː.nɪˈvɜː.sə.ti/"
+  example: "She studies at university."
+  translations:
+    de: ["die Universität", "die Hochschule"]
+  example_translations:
+    de: "Sie studiert an der Universität."
+
+- id: "word"
+  lemma: "word"
+  pos: noun
+  level: A1
+  ipa: "/wɜːd/"
+  example: "What does this word mean?"
+  translations:
+    de: ["das Wort"]
+  example_translations:
+    de: "Was bedeutet dieses Wort?"
+
+- id: "writing"
+  lemma: "writing"
+  pos: noun
+  level: A1
+  ipa: "/ˈraɪ.tɪŋ/"
+  example: "I can't read your writing."
+  translations:
+    de: ["das Schreiben", "die Schrift"]
+  example_translations:
+    de: "Ich kann deine Schrift nicht lesen."

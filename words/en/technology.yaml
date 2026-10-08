@@ -1,0 +1,1355 @@
+# 💻 Technik & Medien – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "access-noun"
+  lemma: "access"
+  pos: noun
+  level: B1
+  ipa: "/ˈæk.ses/"
+  example: "Do you have access to the internet?"
+  translations:
+    de: ["der Zugang", "der Zugriff"]
+  example_translations:
+    de: "Hast du Zugang zum Internet?"
+
+- id: "access-verb"
+  lemma: "access"
+  pos: verb
+  level: B1
+  ipa: "/ˈæk.ses/"
+  example: "You can access your account online."
+  translations:
+    de: ["zugreifen auf", "aufrufen"]
+  example_translations:
+    de: "Du kannst online auf dein Konto zugreifen."
+
+- id: "ad"
+  lemma: "ad"
+  pos: noun
+  level: B1
+  ipa: "/æd/"
+  example: "I saw an ad for a new phone."
+  translations:
+    de: ["die Anzeige", "die Werbung"]
+  example_translations:
+    de: "Ich habe eine Werbung für ein neues Handy gesehen."
+
+- id: "advertise"
+  lemma: "advertise"
+  pos: verb
+  level: A2
+  ipa: "/ˈæd.və.taɪz/"
+  example: "They advertise on TV."
+  translations:
+    de: ["werben", "anzeigen"]
+  example_translations:
+    de: "Sie machen Werbung im Fernsehen."
+
+- id: "advertisement"
+  lemma: "advertisement"
+  pos: noun
+  level: A2
+  ipa: "/ədˈvɜː.tɪs.mənt/"
+  example: "I read an advertisement for a flat."
+  translations:
+    de: ["die Anzeige", "die Werbung"]
+  example_translations:
+    de: "Ich habe eine Anzeige für eine Wohnung gelesen."
+
+- id: "advertising"
+  lemma: "advertising"
+  pos: noun
+  level: A2
+  ipa: "/ˈæd.və.taɪ.zɪŋ/"
+  example: "She works in advertising."
+  translations:
+    de: ["die Werbung"]
+  example_translations:
+    de: "Sie arbeitet in der Werbung."
+
+- id: "ai"
+  lemma: "AI"
+  pos: noun
+  level: B1
+  ipa: "/ˌeɪˈaɪ/"
+  example: "AI is changing the way we work."
+  translations:
+    de: ["die KI", "die künstliche Intelligenz"]
+  example_translations:
+    de: "KI verändert die Art, wie wir arbeiten."
+
+- id: "app"
+  lemma: "app"
+  pos: noun
+  level: A2
+  ipa: "/æp/"
+  example: "Download the app on your phone."
+  translations:
+    de: ["die App"]
+  example_translations:
+    de: "Lade die App auf dein Handy herunter."
+
+- id: "article"
+  lemma: "article"
+  pos: noun
+  level: A1
+  ipa: "/ˈɑː.tɪ.kəl/"
+  example: "I read an interesting article in the newspaper."
+  translations:
+    de: ["der Artikel"]
+  example_translations:
+    de: "Ich habe einen interessanten Artikel in der Zeitung gelesen."
+
+- id: "attach"
+  lemma: "attach"
+  pos: verb
+  level: B1
+  ipa: "/əˈtætʃ/"
+  example: "I attached the file to the email."
+  translations:
+    de: ["anhängen", "befestigen"]
+  example_translations:
+    de: "Ich habe die Datei an die E-Mail angehängt."
+
+- id: "audio"
+  lemma: "audio"
+  pos: noun
+  level: A2
+  ipa: "/ˈɔː.di.əʊ/"
+  example: "The audio quality is very good."
+  translations:
+    de: ["das Audio", "der Ton"]
+  example_translations:
+    de: "Die Tonqualität ist sehr gut."
+
+- id: "battery"
+  lemma: "battery"
+  pos: noun
+  level: A2
+  ipa: "/ˈbæt.ər.i/"
+  example: "My phone battery is empty."
+  translations:
+    de: ["der Akku", "die Batterie"]
+  example_translations:
+    de: "Mein Handyakku ist leer."
+
+- id: "blog"
+  lemma: "blog"
+  pos: noun
+  level: A1
+  ipa: "/blɒɡ/"
+  example: "She writes a blog about travel."
+  translations:
+    de: ["der Blog"]
+  example_translations:
+    de: "Sie schreibt einen Reiseblog."
+
+- id: "broadcast-noun"
+  lemma: "broadcast"
+  pos: noun
+  level: B2
+  ipa: "/ˈbrɔːd.kɑːst/"
+  example: "We watched the live broadcast."
+  translations:
+    de: ["die Sendung", "die Übertragung"]
+  example_translations:
+    de: "Wir haben die Live-Übertragung gesehen."
+
+- id: "broadcast-verb"
+  lemma: "broadcast"
+  pos: verb
+  level: B2
+  ipa: "/ˈbrɔːd.kɑːst/"
+  example: "The match will be broadcast live."
+  translations:
+    de: ["senden", "übertragen"]
+  example_translations:
+    de: "Das Spiel wird live übertragen."
+
+- id: "button"
+  lemma: "button"
+  pos: noun
+  level: A2
+  ipa: "/ˈbʌt.ən/"
+  example: "Press the red button."
+  translations:
+    de: ["der Knopf", "die Taste"]
+  example_translations:
+    de: "Drück den roten Knopf."
+
+- id: "cable"
+  lemma: "cable"
+  pos: noun
+  level: B2
+  ipa: "/ˈkeɪ.bəl/"
+  example: "I need a cable for my laptop."
+  translations:
+    de: ["das Kabel"]
+  example_translations:
+    de: "Ich brauche ein Kabel für meinen Laptop."
+
+- id: "camera"
+  lemma: "camera"
+  pos: noun
+  level: A1
+  ipa: "/ˈkæm.rə/"
+  example: "I forgot my camera."
+  translations:
+    de: ["die Kamera", "der Fotoapparat"]
+  example_translations:
+    de: "Ich habe meine Kamera vergessen."
+
+- id: "channel"
+  lemma: "channel"
+  pos: noun
+  level: B1
+  ipa: "/ˈtʃæn.əl/"
+  example: "What channel is the film on?"
+  translations:
+    de: ["der Kanal", "der Sender"]
+  example_translations:
+    de: "Auf welchem Sender läuft der Film?"
+
+- id: "click-noun"
+  lemma: "click"
+  pos: noun
+  level: B1
+  ipa: "/klɪk/"
+  example: "With one click you can buy it."
+  translations:
+    de: ["der Klick", "das Klicken"]
+  example_translations:
+    de: "Mit einem Klick kannst du es kaufen."
+
+- id: "click-verb"
+  lemma: "click"
+  pos: verb
+  level: B1
+  ipa: "/klɪk/"
+  example: "Click on the link."
+  translations:
+    de: ["klicken"]
+  example_translations:
+    de: "Klick auf den Link."
+
+- id: "code"
+  lemma: "code"
+  pos: noun
+  level: A2
+  ipa: "/kəʊd/"
+  example: "Enter the code to open the door."
+  translations:
+    de: ["der Code", "die Vorwahl", "der Kodex"]
+  example_translations:
+    de: "Gib den Code ein, um die Tür zu öffnen."
+
+- id: "column"
+  lemma: "column"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒl.əm/"
+  example: "Write the numbers in the first column."
+  translations:
+    de: ["die Spalte", "die Säule", "die Kolumne"]
+  example_translations:
+    de: "Schreib die Zahlen in die erste Spalte."
+
+- id: "commercial-noun"
+  lemma: "commercial"
+  pos: noun
+  level: B1
+  ipa: "/kəˈmɜː.ʃəl/"
+  example: "I hate the commercials on TV."
+  translations:
+    de: ["der Werbespot"]
+  example_translations:
+    de: "Ich hasse die Werbespots im Fernsehen."
+
+- id: "computer"
+  lemma: "computer"
+  pos: noun
+  level: A1
+  ipa: "/kəmˈpjuː.tər/"
+  example: "I work on the computer."
+  translations:
+    de: ["der Computer"]
+  example_translations:
+    de: "Ich arbeite am Computer."
+
+- id: "connect"
+  lemma: "connect"
+  pos: verb
+  level: A2
+  ipa: "/kəˈnekt/"
+  example: "Connect the printer to the computer."
+  translations:
+    de: ["verbinden", "anschließen"]
+  example_translations:
+    de: "Schließ den Drucker an den Computer an."
+
+- id: "connection"
+  lemma: "connection"
+  pos: noun
+  level: B1
+  ipa: "/kəˈnek.ʃən/"
+  example: "The internet connection is slow."
+  translations:
+    de: ["die Verbindung", "der Zusammenhang", "der Anschluss"]
+  example_translations:
+    de: "Die Internetverbindung ist langsam."
+
+- id: "data"
+  lemma: "data"
+  pos: noun
+  level: A2
+  ipa: "/ˈdeɪ.tə/"
+  example: "We collected a lot of data."
+  translations:
+    de: ["die Daten"]
+  example_translations:
+    de: "Wir haben viele Daten gesammelt."
+
+- id: "device"
+  lemma: "device"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈvaɪs/"
+  example: "Turn off all electronic devices."
+  translations:
+    de: ["das Gerät"]
+  example_translations:
+    de: "Schalten Sie alle elektronischen Geräte aus."
+
+- id: "digital"
+  lemma: "digital"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdɪdʒ.ɪ.təl/"
+  example: "I bought a digital camera."
+  translations:
+    de: ["digital"]
+  example_translations:
+    de: "Ich habe eine Digitalkamera gekauft."
+
+- id: "documentary"
+  lemma: "documentary"
+  pos: noun
+  level: B1
+  ipa: "/ˌdɒk.jəˈmen.tər.i/"
+  example: "I watched a documentary about whales."
+  translations:
+    de: ["der Dokumentarfilm"]
+  example_translations:
+    de: "Ich habe einen Dokumentarfilm über Wale gesehen."
+
+- id: "download-noun"
+  lemma: "download"
+  pos: noun
+  level: A2
+  ipa: "/ˈdaʊn.ləʊd/"
+  example: "The download takes two minutes."
+  translations:
+    de: ["der Download"]
+  example_translations:
+    de: "Der Download dauert zwei Minuten."
+
+- id: "download-verb"
+  lemma: "download"
+  pos: verb
+  level: A2
+  ipa: "/ˌdaʊnˈləʊd/"
+  example: "You can download the app for free."
+  translations:
+    de: ["herunterladen"]
+  example_translations:
+    de: "Du kannst die App kostenlos herunterladen."
+
+- id: "edit"
+  lemma: "edit"
+  pos: verb
+  level: B2
+  ipa: "/ˈed.ɪt/"
+  example: "I need to edit the video."
+  translations:
+    de: ["bearbeiten", "redigieren"]
+  example_translations:
+    de: "Ich muss das Video bearbeiten."
+
+- id: "electric"
+  lemma: "electric"
+  pos: adjective
+  level: A2
+  ipa: "/iˈlek.trɪk/"
+  example: "He drives an electric car."
+  translations:
+    de: ["elektrisch", "Elektro-"]
+  example_translations:
+    de: "Er fährt ein Elektroauto."
+
+- id: "electrical"
+  lemma: "electrical"
+  pos: adjective
+  level: A2
+  ipa: "/iˈlek.trɪ.kəl/"
+  example: "The shop sells electrical goods."
+  translations:
+    de: ["elektrisch", "Elektro-"]
+  example_translations:
+    de: "Der Laden verkauft Elektrogeräte."
+
+- id: "electricity"
+  lemma: "electricity"
+  pos: noun
+  level: A2
+  ipa: "/ˌel.ɪkˈtrɪs.ə.ti/"
+  example: "We had no electricity for two hours."
+  translations:
+    de: ["der Strom", "die Elektrizität"]
+  example_translations:
+    de: "Wir hatten zwei Stunden lang keinen Strom."
+
+- id: "electronic"
+  lemma: "electronic"
+  pos: adjective
+  level: A2
+  ipa: "/ˌel.ekˈtrɒn.ɪk/"
+  example: "You can pay with electronic money."
+  translations:
+    de: ["elektronisch"]
+  example_translations:
+    de: "Du kannst mit elektronischem Geld zahlen."
+
+- id: "email"
+  lemma: "email"
+  pos: noun
+  level: A2
+  ipa: "/ˈiː.meɪl/"
+  example: "I'll send you an email."
+  translations:
+    de: ["die E-Mail"]
+  example_translations:
+    de: "Ich schicke dir eine E-Mail."
+
+- id: "email-verb"
+  lemma: "email"
+  pos: verb
+  level: A1
+  ipa: "/ˈiː.meɪl/"
+  example: "I'll email you the photos."
+  translations:
+    de: ["mailen", "eine E-Mail schicken"]
+  example_translations:
+    de: "Ich schicke dir die Fotos per E-Mail."
+
+- id: "episode"
+  lemma: "episode"
+  pos: noun
+  level: B1
+  ipa: "/ˈep.ɪ.səʊd/"
+  example: "Did you watch the last episode?"
+  translations:
+    de: ["die Folge", "die Episode"]
+  example_translations:
+    de: "Hast du die letzte Folge gesehen?"
+
+- id: "error"
+  lemma: "error"
+  pos: noun
+  level: A2
+  ipa: "/ˈer.ər/"
+  example: "There is an error in the program."
+  translations:
+    de: ["der Fehler"]
+  example_translations:
+    de: "Im Programm ist ein Fehler."
+
+- id: "feed-noun"
+  lemma: "feed"
+  pos: noun
+  level: B2
+  ipa: "/fiːd/"
+  example: "I saw it in my news feed."
+  translations:
+    de: ["der Feed", "das Futter"]
+  example_translations:
+    de: "Ich habe es in meinem Newsfeed gesehen."
+
+- id: "file-noun"
+  lemma: "file"
+  pos: noun
+  level: B1
+  ipa: "/faɪl/"
+  example: "Save the file on your desktop."
+  translations:
+    de: ["die Datei", "die Akte", "der Ordner"]
+  example_translations:
+    de: "Speichere die Datei auf deinem Desktop."
+
+- id: "film-verb"
+  lemma: "film"
+  pos: verb
+  level: A2
+  ipa: "/fɪlm/"
+  example: "They filmed the wedding."
+  translations:
+    de: ["filmen", "drehen"]
+  example_translations:
+    de: "Sie haben die Hochzeit gefilmt."
+
+- id: "following-noun"
+  lemma: "following"
+  pos: noun
+  level: B1
+  ipa: "/ˈfɒl.əʊ.ɪŋ/"
+  example: "She has a large following online."
+  translations:
+    de: ["die Anhängerschaft", "die Follower"]
+  example_translations:
+    de: "Sie hat online viele Follower."
+
+- id: "function-verb"
+  lemma: "function"
+  pos: verb
+  level: B2
+  ipa: "/ˈfʌŋk.ʃən/"
+  example: "The machine isn't functioning."
+  translations:
+    de: ["funktionieren"]
+  example_translations:
+    de: "Die Maschine funktioniert nicht."
+
+- id: "headline"
+  lemma: "headline"
+  pos: noun
+  level: B1
+  ipa: "/ˈhed.laɪn/"
+  example: "Did you see the headlines today?"
+  translations:
+    de: ["die Schlagzeile"]
+  example_translations:
+    de: "Hast du heute die Schlagzeilen gesehen?"
+
+- id: "image"
+  lemma: "image"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪm.ɪdʒ/"
+  example: "The image on the screen is not clear."
+  translations:
+    de: ["das Bild", "das Image"]
+  example_translations:
+    de: "Das Bild auf dem Bildschirm ist nicht scharf."
+
+- id: "install"
+  lemma: "install"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈstɔːl/"
+  example: "I installed a new program."
+  translations:
+    de: ["installieren", "einbauen"]
+  example_translations:
+    de: "Ich habe ein neues Programm installiert."
+
+- id: "internet"
+  lemma: "internet"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.tə.net/"
+  example: "I found it on the internet."
+  translations:
+    de: ["das Internet"]
+  example_translations:
+    de: "Ich habe es im Internet gefunden."
+
+- id: "it-noun"
+  lemma: "IT"
+  pos: noun
+  level: B1
+  ipa: "/ˌaɪˈtiː/"
+  example: "He works in IT."
+  translations:
+    de: ["die IT", "die Informationstechnik"]
+  example_translations:
+    de: "Er arbeitet in der IT."
+
+- id: "key-verb"
+  lemma: "key"
+  pos: verb
+  level: B1
+  ipa: "/kiː/"
+  example: "Key in your password."
+  translations:
+    de: ["eingeben", "eintippen"]
+  example_translations:
+    de: "Gib dein Passwort ein."
+
+- id: "keyboard"
+  lemma: "keyboard"
+  pos: noun
+  level: B1
+  ipa: "/ˈkiː.bɔːd/"
+  example: "My keyboard is broken."
+  translations:
+    de: ["die Tastatur", "das Keyboard"]
+  example_translations:
+    de: "Meine Tastatur ist kaputt."
+
+- id: "laptop"
+  lemma: "laptop"
+  pos: noun
+  level: A2
+  ipa: "/ˈlæp.tɒp/"
+  example: "I work on my laptop."
+  translations:
+    de: ["der Laptop"]
+  example_translations:
+    de: "Ich arbeite an meinem Laptop."
+
+- id: "link-noun"
+  lemma: "link"
+  pos: noun
+  level: A2
+  ipa: "/lɪŋk/"
+  example: "Click on the link."
+  translations:
+    de: ["der Link", "die Verbindung"]
+  example_translations:
+    de: "Klick auf den Link."
+
+- id: "listener"
+  lemma: "listener"
+  pos: noun
+  level: A2
+  ipa: "/ˈlɪs.ən.ər/"
+  example: "The radio show has many listeners."
+  translations:
+    de: ["der Zuhörer", "die Zuhörerin"]
+  example_translations:
+    de: "Die Radiosendung hat viele Zuhörer."
+
+- id: "machine"
+  lemma: "machine"
+  pos: noun
+  level: A1
+  ipa: "/məˈʃiːn/"
+  example: "The washing machine is broken."
+  translations:
+    de: ["die Maschine", "der Automat"]
+  example_translations:
+    de: "Die Waschmaschine ist kaputt."
+
+- id: "magazine"
+  lemma: "magazine"
+  pos: noun
+  level: A1
+  ipa: "/ˌmæɡ.əˈziːn/"
+  example: "I read a fashion magazine."
+  translations:
+    de: ["die Zeitschrift", "das Magazin"]
+  example_translations:
+    de: "Ich lese eine Modezeitschrift."
+
+- id: "media"
+  lemma: "media"
+  pos: noun
+  level: A2
+  ipa: "/ˈmiː.di.ə/"
+  example: "The media reported on the accident."
+  translations:
+    de: ["die Medien"]
+  example_translations:
+    de: "Die Medien berichteten über den Unfall."
+
+- id: "medium-noun"
+  lemma: "medium"
+  pos: noun
+  level: B2
+  ipa: "/ˈmiː.di.əm/"
+  example: "English is the medium of instruction."
+  translations:
+    de: ["das Medium", "das Mittel"]
+  example_translations:
+    de: "Englisch ist die Unterrichtssprache."
+
+- id: "message"
+  lemma: "message"
+  pos: noun
+  level: A2
+  ipa: "/ˈmes.ɪdʒ/"
+  example: "Did you get my message?"
+  translations:
+    de: ["die Nachricht"]
+  example_translations:
+    de: "Hast du meine Nachricht bekommen?"
+
+- id: "mobile-adjective"
+  lemma: "mobile"
+  pos: adjective
+  level: A2
+  ipa: "/ˈməʊ.baɪl/"
+  example: "What's your mobile number?"
+  translations:
+    de: ["mobil", "beweglich"]
+  example_translations:
+    de: "Wie ist deine Handynummer?"
+
+- id: "mobile-noun"
+  lemma: "mobile"
+  pos: noun
+  level: A2
+  ipa: "/ˈməʊ.baɪl/"
+  example: "Call me on my mobile."
+  translations:
+    de: ["das Handy"]
+  example_translations:
+    de: "Ruf mich auf dem Handy an."
+
+- id: "monitor-noun"
+  lemma: "monitor"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɒn.ɪ.tər/"
+  example: "I bought a new monitor."
+  translations:
+    de: ["der Monitor", "der Bildschirm"]
+  example_translations:
+    de: "Ich habe einen neuen Bildschirm gekauft."
+
+- id: "motor"
+  lemma: "motor"
+  pos: noun
+  level: B2
+  ipa: "/ˈməʊ.tər/"
+  example: "The boat has an electric motor."
+  translations:
+    de: ["der Motor"]
+  example_translations:
+    de: "Das Boot hat einen Elektromotor."
+
+- id: "network"
+  lemma: "network"
+  pos: noun
+  level: A2
+  ipa: "/ˈnet.wɜːk/"
+  example: "The network is down."
+  translations:
+    de: ["das Netzwerk", "das Netz"]
+  example_translations:
+    de: "Das Netzwerk ist ausgefallen."
+
+- id: "news"
+  lemma: "news"
+  pos: noun
+  level: A1
+  ipa: "/njuːz/"
+  example: "I watch the news every evening."
+  translations:
+    de: ["die Nachrichten", "die Neuigkeit"]
+  example_translations:
+    de: "Ich schaue jeden Abend die Nachrichten."
+
+- id: "newspaper"
+  lemma: "newspaper"
+  pos: noun
+  level: A1
+  ipa: "/ˈnjuːzˌpeɪ.pər/"
+  example: "My father reads the newspaper."
+  translations:
+    de: ["die Zeitung"]
+  example_translations:
+    de: "Mein Vater liest die Zeitung."
+
+- id: "online-adjective"
+  lemma: "online"
+  pos: adjective
+  level: A1
+  ipa: "/ˌɒnˈlaɪn/"
+  example: "I bought it from an online shop."
+  translations:
+    de: ["online", "Online-"]
+  example_translations:
+    de: "Ich habe es in einem Onlineshop gekauft."
+
+- id: "online-adverb"
+  lemma: "online"
+  pos: adverb
+  level: A1
+  ipa: "/ˌɒnˈlaɪn/"
+  example: "You can book online."
+  translations:
+    de: ["online", "im Internet"]
+  example_translations:
+    de: "Man kann online buchen."
+
+- id: "operate"
+  lemma: "operate"
+  pos: verb
+  level: B2
+  ipa: "/ˈɒp.ər.eɪt/"
+  example: "Can you operate this machine?"
+  translations:
+    de: ["bedienen", "betreiben", "operieren"]
+  example_translations:
+    de: "Kannst du diese Maschine bedienen?"
+
+- id: "password"
+  lemma: "password"
+  pos: noun
+  level: A2
+  ipa: "/ˈpɑːs.wɜːd/"
+  example: "I forgot my password."
+  translations:
+    de: ["das Passwort"]
+  example_translations:
+    de: "Ich habe mein Passwort vergessen."
+
+- id: "phone"
+  lemma: "phone"
+  pos: noun
+  level: A1
+  ipa: "/fəʊn/"
+  example: "My phone is on the table."
+  translations:
+    de: ["das Telefon", "das Handy"]
+  example_translations:
+    de: "Mein Handy liegt auf dem Tisch."
+
+- id: "podcast"
+  lemma: "podcast"
+  pos: noun
+  level: B1
+  ipa: "/ˈpɒd.kɑːst/"
+  example: "I listen to podcasts on the train."
+  translations:
+    de: ["der Podcast"]
+  example_translations:
+    de: "Ich höre im Zug Podcasts."
+
+- id: "power-verb"
+  lemma: "power"
+  pos: verb
+  level: B2
+  ipa: "/paʊər/"
+  example: "The car is powered by electricity."
+  translations:
+    de: ["antreiben", "betreiben"]
+  example_translations:
+    de: "Das Auto wird elektrisch angetrieben."
+
+- id: "press-noun"
+  lemma: "press"
+  pos: noun
+  level: B1
+  ipa: "/pres/"
+  example: "The press wrote about the scandal."
+  translations:
+    de: ["die Presse"]
+  example_translations:
+    de: "Die Presse schrieb über den Skandal."
+
+- id: "print-noun"
+  lemma: "print"
+  pos: noun
+  level: B2
+  ipa: "/prɪnt/"
+  example: "The print is too small."
+  translations:
+    de: ["der Druck", "der Abdruck"]
+  example_translations:
+    de: "Die Schrift ist zu klein."
+
+- id: "print-verb"
+  lemma: "print"
+  pos: verb
+  level: A2
+  ipa: "/prɪnt/"
+  example: "Can you print this document?"
+  translations:
+    de: ["drucken", "ausdrucken"]
+  example_translations:
+    de: "Kannst du dieses Dokument ausdrucken?"
+
+- id: "printer"
+  lemma: "printer"
+  pos: noun
+  level: A2
+  ipa: "/ˈprɪn.tər/"
+  example: "The printer isn't working."
+  translations:
+    de: ["der Drucker"]
+  example_translations:
+    de: "Der Drucker funktioniert nicht."
+
+- id: "printing"
+  lemma: "printing"
+  pos: noun
+  level: B1
+  ipa: "/ˈprɪn.tɪŋ/"
+  example: "Printing photos is cheap."
+  translations:
+    de: ["das Drucken", "der Buchdruck"]
+  example_translations:
+    de: "Fotos zu drucken ist günstig."
+
+- id: "process-verb"
+  lemma: "process"
+  pos: verb
+  level: B2
+  ipa: "/ˈprəʊ.ses/"
+  example: "Your order is being processed."
+  translations:
+    de: ["verarbeiten", "bearbeiten"]
+  example_translations:
+    de: "Ihre Bestellung wird bearbeitet."
+
+- id: "profile"
+  lemma: "profile"
+  pos: noun
+  level: A2
+  ipa: "/ˈprəʊ.faɪl/"
+  example: "Update your profile picture."
+  translations:
+    de: ["das Profil"]
+  example_translations:
+    de: "Aktualisiere dein Profilbild."
+
+- id: "program-noun"
+  lemma: "program"
+  pos: noun
+  level: A2
+  ipa: "/ˈprəʊ.ɡræm/"
+  example: "Install the program on your computer."
+  translations:
+    de: ["das Programm"]
+  example_translations:
+    de: "Installiere das Programm auf deinem Computer."
+
+- id: "program-verb"
+  lemma: "program"
+  pos: verb
+  level: B1
+  ipa: "/ˈprəʊ.ɡræm/"
+  example: "He programs computers."
+  translations:
+    de: ["programmieren"]
+  example_translations:
+    de: "Er programmiert Computer."
+
+- id: "programme"
+  lemma: "programme"
+  pos: noun
+  level: A1
+  ipa: "/ˈprəʊ.ɡræm/"
+  example: "What's your favourite TV programme?"
+  translations:
+    de: ["die Sendung", "das Programm"]
+  example_translations:
+    de: "Was ist deine Lieblingssendung im Fernsehen?"
+
+- id: "radio"
+  lemma: "radio"
+  pos: noun
+  level: A1
+  ipa: "/ˈreɪ.di.əʊ/"
+  example: "I listen to the radio in the car."
+  translations:
+    de: ["das Radio"]
+  example_translations:
+    de: "Im Auto höre ich Radio."
+
+- id: "record-verb"
+  lemma: "record"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈkɔːd/"
+  example: "They recorded a new album."
+  translations:
+    de: ["aufnehmen", "aufzeichnen"]
+  example_translations:
+    de: "Sie haben ein neues Album aufgenommen."
+
+- id: "recording"
+  lemma: "recording"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈkɔː.dɪŋ/"
+  example: "Listen to the recording."
+  translations:
+    de: ["die Aufnahme"]
+  example_translations:
+    de: "Hör dir die Aufnahme an."
+
+- id: "repeat-noun"
+  lemma: "repeat"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈpiːt/"
+  example: "The show is a repeat."
+  translations:
+    de: ["die Wiederholung"]
+  example_translations:
+    de: "Die Sendung ist eine Wiederholung."
+
+- id: "robot"
+  lemma: "robot"
+  pos: noun
+  level: B1
+  ipa: "/ˈrəʊ.bɒt/"
+  example: "Robots build the cars."
+  translations:
+    de: ["der Roboter"]
+  example_translations:
+    de: "Roboter bauen die Autos."
+
+- id: "scan"
+  lemma: "scan"
+  pos: verb
+  level: B1
+  ipa: "/skæn/"
+  example: "Scan the document and send it to me."
+  translations:
+    de: ["scannen", "überfliegen"]
+  example_translations:
+    de: "Scann das Dokument und schick es mir."
+
+- id: "screen"
+  lemma: "screen"
+  pos: noun
+  level: A2
+  ipa: "/skriːn/"
+  example: "The screen is too small."
+  translations:
+    de: ["der Bildschirm"]
+  example_translations:
+    de: "Der Bildschirm ist zu klein."
+
+- id: "screen-verb"
+  lemma: "screen"
+  pos: verb
+  level: B2
+  ipa: "/skriːn/"
+  example: "The film will be screened tonight."
+  translations:
+    de: ["zeigen", "ausstrahlen", "überprüfen"]
+  example_translations:
+    de: "Der Film wird heute Abend gezeigt."
+
+- id: "search-noun"
+  lemma: "search"
+  pos: noun
+  level: A2
+  ipa: "/sɜːtʃ/"
+  example: "I did an internet search."
+  translations:
+    de: ["die Suche"]
+  example_translations:
+    de: "Ich habe im Internet gesucht."
+
+- id: "series"
+  lemma: "series"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪə.riːz/"
+  example: "I'm watching a new TV series."
+  translations:
+    de: ["die Serie", "die Reihe"]
+  example_translations:
+    de: "Ich schaue eine neue Fernsehserie."
+
+- id: "signal-noun"
+  lemma: "signal"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɪɡ.nəl/"
+  example: "There's no signal here."
+  translations:
+    de: ["das Signal", "der Empfang"]
+  example_translations:
+    de: "Hier gibt es keinen Empfang."
+
+- id: "site"
+  lemma: "site"
+  pos: noun
+  level: A2
+  ipa: "/saɪt/"
+  example: "Visit our web site."
+  translations:
+    de: ["die Website", "der Standort", "die Baustelle"]
+  example_translations:
+    de: "Besuchen Sie unsere Website."
+
+- id: "slide-noun"
+  lemma: "slide"
+  pos: noun
+  level: B2
+  ipa: "/slaɪd/"
+  example: "Look at the next slide."
+  translations:
+    de: ["die Folie", "die Rutsche"]
+  example_translations:
+    de: "Seht euch die nächste Folie an."
+
+- id: "smartphone"
+  lemma: "smartphone"
+  pos: noun
+  level: A2
+  ipa: "/ˈsmɑːt.fəʊn/"
+  example: "I lost my smartphone."
+  translations:
+    de: ["das Smartphone"]
+  example_translations:
+    de: "Ich habe mein Smartphone verloren."
+
+- id: "software"
+  lemma: "software"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɒft.weər/"
+  example: "You need to update the software."
+  translations:
+    de: ["die Software"]
+  example_translations:
+    de: "Du musst die Software aktualisieren."
+
+- id: "switch-noun"
+  lemma: "switch"
+  pos: noun
+  level: B2
+  ipa: "/swɪtʃ/"
+  example: "Where is the light switch?"
+  translations:
+    de: ["der Schalter", "der Wechsel"]
+  example_translations:
+    de: "Wo ist der Lichtschalter?"
+
+- id: "switch-verb"
+  lemma: "switch"
+  pos: verb
+  level: B1
+  ipa: "/swɪtʃ/"
+  example: "Switch off the light, please."
+  translations:
+    de: ["schalten", "wechseln"]
+  example_translations:
+    de: "Schalt bitte das Licht aus."
+
+- id: "tablet"
+  lemma: "tablet"
+  pos: noun
+  level: A2
+  ipa: "/ˈtæb.lət/"
+  example: "Take two tablets a day."
+  translations:
+    de: ["das Tablet", "die Tablette"]
+  example_translations:
+    de: "Nimm zwei Tabletten am Tag."
+
+- id: "technical"
+  lemma: "technical"
+  pos: adjective
+  level: B1
+  ipa: "/ˈtek.nɪ.kəl/"
+  example: "We have a technical problem."
+  translations:
+    de: ["technisch"]
+  example_translations:
+    de: "Wir haben ein technisches Problem."
+
+- id: "technology"
+  lemma: "technology"
+  pos: noun
+  level: A2
+  ipa: "/tekˈnɒl.ə.dʒi/"
+  example: "Technology changes our lives."
+  translations:
+    de: ["die Technologie", "die Technik"]
+  example_translations:
+    de: "Technik verändert unser Leben."
+
+- id: "telephone-noun"
+  lemma: "telephone"
+  pos: noun
+  level: A1
+  ipa: "/ˈtel.ɪ.fəʊn/"
+  example: "The telephone is ringing."
+  translations:
+    de: ["das Telefon"]
+  example_translations:
+    de: "Das Telefon klingelt."
+
+- id: "television"
+  lemma: "television"
+  pos: noun
+  level: A1
+  ipa: "/ˈtel.ɪ.vɪʒ.ən/"
+  example: "The television is too loud."
+  translations:
+    de: ["der Fernseher", "das Fernsehen"]
+  example_translations:
+    de: "Der Fernseher ist zu laut."
+
+- id: "text-verb"
+  lemma: "text"
+  pos: verb
+  level: A2
+  ipa: "/tekst/"
+  example: "Text me when you get home."
+  translations:
+    de: ["eine Nachricht schicken", "simsen"]
+  example_translations:
+    de: "Schreib mir, wenn du zu Hause bist."
+
+- id: "track-verb"
+  lemma: "track"
+  pos: verb
+  level: B2
+  ipa: "/træk/"
+  example: "You can track your parcel online."
+  translations:
+    de: ["verfolgen", "nachverfolgen"]
+  example_translations:
+    de: "Du kannst dein Paket online verfolgen."
+
+- id: "tv"
+  lemma: "TV"
+  pos: noun
+  level: A1
+  ipa: "/ˌtiːˈviː/"
+  example: "What's on TV tonight?"
+  translations:
+    de: ["der Fernseher", "das Fernsehen"]
+  example_translations:
+    de: "Was kommt heute Abend im Fernsehen?"
+
+- id: "type-verb"
+  lemma: "type"
+  pos: verb
+  level: B1
+  ipa: "/taɪp/"
+  example: "Type your name here."
+  translations:
+    de: ["tippen", "eingeben"]
+  example_translations:
+    de: "Tipp hier deinen Namen ein."
+
+- id: "update-noun"
+  lemma: "update"
+  pos: noun
+  level: B1
+  ipa: "/ˈʌp.deɪt/"
+  example: "There is a new update for the app."
+  translations:
+    de: ["das Update", "die Aktualisierung"]
+  example_translations:
+    de: "Es gibt ein neues Update für die App."
+
+- id: "update-verb"
+  lemma: "update"
+  pos: verb
+  level: B1
+  ipa: "/ʌpˈdeɪt/"
+  example: "Please update your address."
+  translations:
+    de: ["aktualisieren"]
+  example_translations:
+    de: "Bitte aktualisieren Sie Ihre Adresse."
+
+- id: "user"
+  lemma: "user"
+  pos: noun
+  level: A2
+  ipa: "/ˈjuː.zər/"
+  example: "The app has millions of users."
+  translations:
+    de: ["der Benutzer", "die Nutzerin"]
+  example_translations:
+    de: "Die App hat Millionen Nutzer."
+
+- id: "video"
+  lemma: "video"
+  pos: noun
+  level: A1
+  ipa: "/ˈvɪd.i.əʊ/"
+  example: "Let's watch a video."
+  translations:
+    de: ["das Video"]
+  example_translations:
+    de: "Lass uns ein Video schauen."
+
+- id: "viewer"
+  lemma: "viewer"
+  pos: noun
+  level: B1
+  ipa: "/ˈvjuː.ər/"
+  example: "Millions of viewers watched the final."
+  translations:
+    de: ["der Zuschauer", "die Zuschauerin"]
+  example_translations:
+    de: "Millionen Zuschauer sahen das Finale."
+
+- id: "virtual"
+  lemma: "virtual"
+  pos: adjective
+  level: B2
+  ipa: "/ˈvɜː.tʃu.əl/"
+  example: "We had a virtual meeting."
+  translations:
+    de: ["virtuell"]
+  example_translations:
+    de: "Wir hatten ein virtuelles Treffen."
+
+- id: "volume"
+  lemma: "volume"
+  pos: noun
+  level: B2
+  ipa: "/ˈvɒl.juːm/"
+  example: "Turn down the volume, please."
+  translations:
+    de: ["die Lautstärke", "das Volumen", "der Band"]
+  example_translations:
+    de: "Mach bitte leiser."
+
+- id: "web"
+  lemma: "web"
+  pos: noun
+  level: A2
+  ipa: "/web/"
+  example: "I found it on the web."
+  translations:
+    de: ["das Netz", "das Web", "das Spinnennetz"]
+  example_translations:
+    de: "Ich habe es im Netz gefunden."
+
+- id: "website"
+  lemma: "website"
+  pos: noun
+  level: A1
+  ipa: "/ˈweb.saɪt/"
+  example: "Visit our website."
+  translations:
+    de: ["die Website", "die Webseite"]
+  example_translations:
+    de: "Besuchen Sie unsere Website."
+
+- id: "wi-fi"
+  lemma: "Wi-Fi"
+  pos: noun
+  level: B1
+  ipa: "/ˈwaɪ.faɪ/"
+  example: "Is there free Wi-Fi?"
+  translations:
+    de: ["das WLAN"]
+  example_translations:
+    de: "Gibt es kostenloses WLAN?"
+
+- id: "wire"
+  lemma: "wire"
+  pos: noun
+  level: B2
+  ipa: "/waɪər/"
+  example: "The wire is broken."
+  translations:
+    de: ["der Draht", "das Kabel"]
+  example_translations:
+    de: "Das Kabel ist kaputt."

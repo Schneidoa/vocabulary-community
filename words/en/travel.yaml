@@ -1,0 +1,1773 @@
+# ✈️ Reisen & Verkehr – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "abroad"
+  lemma: "abroad"
+  pos: adverb
+  level: A2
+  ipa: "/əˈbrɔːd/"
+  example: "She wants to study abroad."
+  translations:
+    de: ["im Ausland", "ins Ausland"]
+  example_translations:
+    de: "Sie möchte im Ausland studieren."
+
+- id: "accident"
+  lemma: "accident"
+  pos: noun
+  level: A2
+  ipa: "/ˈæk.sɪ.dənt/"
+  example: "He had an accident on the way to work."
+  translations:
+    de: ["der Unfall"]
+  example_translations:
+    de: "Er hatte auf dem Weg zur Arbeit einen Unfall."
+
+- id: "accommodation"
+  lemma: "accommodation"
+  pos: noun
+  level: B1
+  ipa: "/əˌkɒm.əˈdeɪ.ʃən/"
+  example: "We need to find accommodation for the night."
+  translations:
+    de: ["die Unterkunft"]
+  example_translations:
+    de: "Wir müssen eine Unterkunft für die Nacht finden."
+
+- id: "aircraft"
+  lemma: "aircraft"
+  pos: noun
+  level: B2
+  ipa: "/ˈeə.krɑːft/"
+  example: "The aircraft landed safely."
+  translations:
+    de: ["das Flugzeug", "das Luftfahrzeug"]
+  example_translations:
+    de: "Das Flugzeug landete sicher."
+
+- id: "airline"
+  lemma: "airline"
+  pos: noun
+  level: A2
+  ipa: "/ˈeə.laɪn/"
+  example: "Which airline are you flying with?"
+  translations:
+    de: ["die Fluggesellschaft"]
+  example_translations:
+    de: "Mit welcher Fluggesellschaft fliegst du?"
+
+- id: "airport"
+  lemma: "airport"
+  pos: noun
+  level: A2
+  ipa: "/ˈeə.pɔːt/"
+  example: "We have to be at the airport at six."
+  translations:
+    de: ["der Flughafen"]
+  example_translations:
+    de: "Wir müssen um sechs am Flughafen sein."
+
+- id: "arrival"
+  lemma: "arrival"
+  pos: noun
+  level: B1
+  ipa: "/əˈraɪ.vəl/"
+  example: "The arrival of the train is delayed."
+  translations:
+    de: ["die Ankunft"]
+  example_translations:
+    de: "Die Ankunft des Zuges verzögert sich."
+
+- id: "arrive"
+  lemma: "arrive"
+  pos: verb
+  level: A2
+  ipa: "/əˈraɪv/"
+  example: "The train arrives at five."
+  translations:
+    de: ["ankommen"]
+  example_translations:
+    de: "Der Zug kommt um fünf an."
+
+- id: "attraction"
+  lemma: "attraction"
+  pos: noun
+  level: B1
+  ipa: "/əˈtræk.ʃən/"
+  example: "The castle is the main attraction."
+  translations:
+    de: ["die Attraktion", "die Sehenswürdigkeit"]
+  example_translations:
+    de: "Das Schloss ist die Hauptattraktion."
+
+- id: "beach"
+  lemma: "beach"
+  pos: noun
+  level: A1
+  ipa: "/biːtʃ/"
+  example: "We spent the day on the beach."
+  translations:
+    de: ["der Strand"]
+  example_translations:
+    de: "Wir haben den Tag am Strand verbracht."
+
+- id: "bend-noun"
+  lemma: "bend"
+  pos: noun
+  level: B1
+  ipa: "/bend/"
+  example: "Drive slowly – there's a bend in the road."
+  translations:
+    de: ["die Kurve", "die Biegung"]
+  example_translations:
+    de: "Fahr langsam – da ist eine Kurve."
+
+- id: "bicycle"
+  lemma: "bicycle"
+  pos: noun
+  level: A2
+  ipa: "/ˈbaɪ.sɪ.kəl/"
+  example: "I go to work by bicycle."
+  translations:
+    de: ["das Fahrrad"]
+  example_translations:
+    de: "Ich fahre mit dem Fahrrad zur Arbeit."
+
+- id: "bike"
+  lemma: "bike"
+  pos: noun
+  level: A1
+  ipa: "/baɪk/"
+  example: "I go to school by bike."
+  translations:
+    de: ["das Fahrrad"]
+  example_translations:
+    de: "Ich fahre mit dem Fahrrad zur Schule."
+
+- id: "board-verb"
+  lemma: "board"
+  pos: verb
+  level: B1
+  ipa: "/bɔːd/"
+  example: "Passengers can now board the plane."
+  translations:
+    de: ["einsteigen", "an Bord gehen"]
+  example_translations:
+    de: "Die Passagiere können jetzt an Bord gehen."
+
+- id: "boat"
+  lemma: "boat"
+  pos: noun
+  level: A1
+  ipa: "/bəʊt/"
+  example: "We took a boat to the island."
+  translations:
+    de: ["das Boot"]
+  example_translations:
+    de: "Wir fuhren mit einem Boot zur Insel."
+
+- id: "book-verb"
+  lemma: "book"
+  pos: verb
+  level: A2
+  ipa: "/bʊk/"
+  example: "I booked a table for two."
+  translations:
+    de: ["buchen", "reservieren"]
+  example_translations:
+    de: "Ich habe einen Tisch für zwei reserviert."
+
+- id: "border-noun"
+  lemma: "border"
+  pos: noun
+  level: B1
+  ipa: "/ˈbɔː.dər/"
+  example: "We crossed the border into France."
+  translations:
+    de: ["die Grenze", "der Rand"]
+  example_translations:
+    de: "Wir überquerten die Grenze nach Frankreich."
+
+- id: "border-verb"
+  lemma: "border"
+  pos: verb
+  level: B2
+  ipa: "/ˈbɔː.dər/"
+  example: "Germany borders nine countries."
+  translations:
+    de: ["grenzen an"]
+  example_translations:
+    de: "Deutschland grenzt an neun Länder."
+
+- id: "bus"
+  lemma: "bus"
+  pos: noun
+  level: A1
+  ipa: "/bʌs/"
+  example: "I take the bus to work."
+  translations:
+    de: ["der Bus"]
+  example_translations:
+    de: "Ich fahre mit dem Bus zur Arbeit."
+
+- id: "capital-noun"
+  lemma: "capital"
+  pos: noun
+  level: A1
+  ipa: "/ˈkæp.ɪ.təl/"
+  example: "Berlin is the capital of Germany."
+  translations:
+    de: ["die Hauptstadt", "das Kapital"]
+  example_translations:
+    de: "Berlin ist die Hauptstadt von Deutschland."
+
+- id: "car"
+  lemma: "car"
+  pos: noun
+  level: A1
+  ipa: "/kɑːr/"
+  example: "My car is old."
+  translations:
+    de: ["das Auto", "der Wagen"]
+  example_translations:
+    de: "Mein Auto ist alt."
+
+- id: "castle"
+  lemma: "castle"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɑː.səl/"
+  example: "We visited an old castle."
+  translations:
+    de: ["die Burg", "das Schloss"]
+  example_translations:
+    de: "Wir haben eine alte Burg besichtigt."
+
+- id: "coast"
+  lemma: "coast"
+  pos: noun
+  level: A2
+  ipa: "/kəʊst/"
+  example: "We drove along the coast."
+  translations:
+    de: ["die Küste"]
+  example_translations:
+    de: "Wir fuhren die Küste entlang."
+
+- id: "continent"
+  lemma: "continent"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒn.tɪ.nənt/"
+  example: "Africa is a huge continent."
+  translations:
+    de: ["der Kontinent"]
+  example_translations:
+    de: "Afrika ist ein riesiger Kontinent."
+
+- id: "country"
+  lemma: "country"
+  pos: noun
+  level: A1
+  ipa: "/ˈkʌn.tri/"
+  example: "Which country are you from?"
+  translations:
+    de: ["das Land"]
+  example_translations:
+    de: "Aus welchem Land kommst du?"
+
+- id: "crash-noun"
+  lemma: "crash"
+  pos: noun
+  level: B2
+  ipa: "/kræʃ/"
+  example: "There was a car crash on the motorway."
+  translations:
+    de: ["der Unfall", "der Zusammenstoß", "der Absturz"]
+  example_translations:
+    de: "Auf der Autobahn gab es einen Autounfall."
+
+- id: "crash-verb"
+  lemma: "crash"
+  pos: verb
+  level: B2
+  ipa: "/kræʃ/"
+  example: "The plane crashed into the sea."
+  translations:
+    de: ["zusammenstoßen", "abstürzen"]
+  example_translations:
+    de: "Das Flugzeug stürzte ins Meer."
+
+- id: "crew"
+  lemma: "crew"
+  pos: noun
+  level: B2
+  ipa: "/kruː/"
+  example: "The crew welcomed us on board."
+  translations:
+    de: ["die Besatzung", "die Mannschaft", "die Crew"]
+  example_translations:
+    de: "Die Besatzung begrüßte uns an Bord."
+
+- id: "cross-verb"
+  lemma: "cross"
+  pos: verb
+  level: A2
+  ipa: "/krɒs/"
+  example: "Be careful when you cross the road."
+  translations:
+    de: ["überqueren", "kreuzen"]
+  example_translations:
+    de: "Pass auf, wenn du über die Straße gehst."
+
+- id: "cycle-verb"
+  lemma: "cycle"
+  pos: verb
+  level: A2
+  ipa: "/ˈsaɪ.kəl/"
+  example: "I cycle to work every day."
+  translations:
+    de: ["Rad fahren"]
+  example_translations:
+    de: "Ich fahre jeden Tag mit dem Rad zur Arbeit."
+
+- id: "delay-noun"
+  lemma: "delay"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈleɪ/"
+  example: "There is a delay of two hours."
+  translations:
+    de: ["die Verspätung", "die Verzögerung"]
+  example_translations:
+    de: "Es gibt eine Verspätung von zwei Stunden."
+
+- id: "delay-verb"
+  lemma: "delay"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈleɪ/"
+  example: "The flight was delayed."
+  translations:
+    de: ["verzögern", "aufschieben"]
+  example_translations:
+    de: "Der Flug hatte Verspätung."
+
+- id: "departure"
+  lemma: "departure"
+  pos: noun
+  level: B1
+  ipa: "/dɪˈpɑː.tʃər/"
+  example: "Departure is at 10 a.m."
+  translations:
+    de: ["die Abfahrt", "der Abflug"]
+  example_translations:
+    de: "Abfahrt ist um 10 Uhr."
+
+- id: "destination"
+  lemma: "destination"
+  pos: noun
+  level: B1
+  ipa: "/ˌdes.tɪˈneɪ.ʃən/"
+  example: "Spain is a popular destination."
+  translations:
+    de: ["das Reiseziel", "der Bestimmungsort"]
+  example_translations:
+    de: "Spanien ist ein beliebtes Reiseziel."
+
+- id: "direct-adverb"
+  lemma: "direct"
+  pos: adverb
+  level: B1
+  ipa: "/daɪˈrekt/"
+  example: "This train goes direct to London."
+  translations:
+    de: ["direkt"]
+  example_translations:
+    de: "Dieser Zug fährt direkt nach London."
+
+- id: "direction"
+  lemma: "direction"
+  pos: noun
+  level: A2
+  ipa: "/daɪˈrek.ʃən/"
+  example: "Which direction is the station?"
+  translations:
+    de: ["die Richtung", "die Wegbeschreibung"]
+  example_translations:
+    de: "In welcher Richtung liegt der Bahnhof?"
+
+- id: "distance"
+  lemma: "distance"
+  pos: noun
+  level: A2
+  ipa: "/ˈdɪs.təns/"
+  example: "What's the distance from here to the beach?"
+  translations:
+    de: ["die Entfernung", "die Strecke"]
+  example_translations:
+    de: "Wie weit ist es von hier bis zum Strand?"
+
+- id: "drive-noun"
+  lemma: "drive"
+  pos: noun
+  level: A2
+  ipa: "/draɪv/"
+  example: "Let's go for a drive."
+  translations:
+    de: ["die Fahrt", "die Einfahrt"]
+  example_translations:
+    de: "Lass uns eine Spritztour machen."
+
+- id: "drive-verb"
+  lemma: "drive"
+  pos: verb
+  level: A1
+  ipa: "/draɪv/"
+  example: "Can you drive?"
+  translations:
+    de: ["fahren"]
+  example_translations:
+    de: "Kannst du Auto fahren?"
+
+- id: "driver"
+  lemma: "driver"
+  pos: noun
+  level: A1
+  ipa: "/ˈdraɪ.vər/"
+  example: "The bus driver was friendly."
+  translations:
+    de: ["der Fahrer", "die Fahrerin"]
+  example_translations:
+    de: "Der Busfahrer war freundlich."
+
+- id: "driving"
+  lemma: "driving"
+  pos: noun
+  level: A2
+  ipa: "/ˈdraɪ.vɪŋ/"
+  example: "I passed my driving test."
+  translations:
+    de: ["das Fahren", "das Autofahren"]
+  example_translations:
+    de: "Ich habe meine Fahrprüfung bestanden."
+
+- id: "east-adjective"
+  lemma: "east"
+  pos: adjective
+  level: A1
+  ipa: "/iːst/"
+  example: "We live on the east coast."
+  translations:
+    de: ["Ost-", "östlich"]
+  example_translations:
+    de: "Wir wohnen an der Ostküste."
+
+- id: "east-adverb"
+  lemma: "east"
+  pos: adverb
+  level: A1
+  ipa: "/iːst/"
+  example: "We drove east."
+  translations:
+    de: ["nach Osten", "ostwärts"]
+  example_translations:
+    de: "Wir fuhren nach Osten."
+
+- id: "east-noun"
+  lemma: "east"
+  pos: noun
+  level: A1
+  ipa: "/iːst/"
+  example: "The sun rises in the east."
+  translations:
+    de: ["der Osten"]
+  example_translations:
+    de: "Die Sonne geht im Osten auf."
+
+- id: "eastern"
+  lemma: "eastern"
+  pos: adjective
+  level: B1
+  ipa: "/ˈiː.stən/"
+  example: "They live in eastern Europe."
+  translations:
+    de: ["östlich", "Ost-"]
+  example_translations:
+    de: "Sie leben in Osteuropa."
+
+- id: "engine"
+  lemma: "engine"
+  pos: noun
+  level: A2
+  ipa: "/ˈen.dʒɪn/"
+  example: "The car has a powerful engine."
+  translations:
+    de: ["der Motor", "die Lokomotive"]
+  example_translations:
+    de: "Das Auto hat einen starken Motor."
+
+- id: "expedition"
+  lemma: "expedition"
+  pos: noun
+  level: B1
+  ipa: "/ˌek.spəˈdɪʃ.ən/"
+  example: "They went on an expedition to the North Pole."
+  translations:
+    de: ["die Expedition"]
+  example_translations:
+    de: "Sie unternahmen eine Expedition zum Nordpol."
+
+- id: "exploration"
+  lemma: "exploration"
+  pos: noun
+  level: B2
+  ipa: "/ˌek.spləˈreɪ.ʃən/"
+  example: "Space exploration is expensive."
+  translations:
+    de: ["die Erforschung", "die Erkundung"]
+  example_translations:
+    de: "Die Erforschung des Weltraums ist teuer."
+
+- id: "explore"
+  lemma: "explore"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈsplɔːr/"
+  example: "We explored the old town."
+  translations:
+    de: ["erkunden", "erforschen"]
+  example_translations:
+    de: "Wir haben die Altstadt erkundet."
+
+- id: "fasten"
+  lemma: "fasten"
+  pos: verb
+  level: B1
+  ipa: "/ˈfɑː.sən/"
+  example: "Please fasten your seat belts."
+  translations:
+    de: ["befestigen", "anschnallen", "schließen"]
+  example_translations:
+    de: "Bitte schnallen Sie sich an."
+
+- id: "flight"
+  lemma: "flight"
+  pos: noun
+  level: A1
+  ipa: "/flaɪt/"
+  example: "The flight to Rome takes two hours."
+  translations:
+    de: ["der Flug"]
+  example_translations:
+    de: "Der Flug nach Rom dauert zwei Stunden."
+
+- id: "fly-verb"
+  lemma: "fly"
+  pos: verb
+  level: A1
+  ipa: "/flaɪ/"
+  example: "We are flying to Spain tomorrow."
+  translations:
+    de: ["fliegen"]
+  example_translations:
+    de: "Wir fliegen morgen nach Spanien."
+
+- id: "flying"
+  lemma: "flying"
+  pos: noun
+  level: A2
+  ipa: "/ˈflaɪ.ɪŋ/"
+  example: "She is afraid of flying."
+  translations:
+    de: ["das Fliegen"]
+  example_translations:
+    de: "Sie hat Flugangst."
+
+- id: "foreign"
+  lemma: "foreign"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfɒr.ən/"
+  example: "Do you speak any foreign languages?"
+  translations:
+    de: ["ausländisch", "fremd", "Fremd-"]
+  example_translations:
+    de: "Sprichst du Fremdsprachen?"
+
+- id: "fuel-noun"
+  lemma: "fuel"
+  pos: noun
+  level: B1
+  ipa: "/ˈfjuː.əl/"
+  example: "We're running out of fuel."
+  translations:
+    de: ["der Kraftstoff", "der Brennstoff"]
+  example_translations:
+    de: "Uns geht der Kraftstoff aus."
+
+- id: "gate"
+  lemma: "gate"
+  pos: noun
+  level: A2
+  ipa: "/ɡeɪt/"
+  example: "Our flight leaves from gate 12."
+  translations:
+    de: ["das Tor", "das Gate", "die Pforte"]
+  example_translations:
+    de: "Unser Flug geht von Gate 12."
+
+- id: "guide-noun"
+  lemma: "guide"
+  pos: noun
+  level: A2
+  ipa: "/ɡaɪd/"
+  example: "Our guide showed us the old town."
+  translations:
+    de: ["der Reiseführer", "der Führer", "der Leitfaden"]
+  example_translations:
+    de: "Unser Reiseführer zeigte uns die Altstadt."
+
+- id: "guide-verb"
+  lemma: "guide"
+  pos: verb
+  level: A2
+  ipa: "/ɡaɪd/"
+  example: "She guided us through the museum."
+  translations:
+    de: ["führen", "leiten"]
+  example_translations:
+    de: "Sie führte uns durch das Museum."
+
+- id: "head-verb"
+  lemma: "head"
+  pos: verb
+  level: B1
+  ipa: "/hed/"
+  example: "We're heading home."
+  translations:
+    de: ["sich auf den Weg machen", "fahren", "köpfen"]
+  example_translations:
+    de: "Wir machen uns auf den Heimweg."
+
+- id: "helicopter"
+  lemma: "helicopter"
+  pos: noun
+  level: B1
+  ipa: "/ˈhel.ɪˌkɒp.tər/"
+  example: "The helicopter landed on the roof."
+  translations:
+    de: ["der Hubschrauber"]
+  example_translations:
+    de: "Der Hubschrauber landete auf dem Dach."
+
+- id: "holiday"
+  lemma: "holiday"
+  pos: noun
+  level: A2
+  ipa: "/ˈhɒl.ə.deɪ/"
+  example: "We are on holiday in Spain."
+  translations:
+    de: ["der Urlaub", "die Ferien"]
+  example_translations:
+    de: "Wir sind im Urlaub in Spanien."
+
+- id: "hotel"
+  lemma: "hotel"
+  pos: noun
+  level: A2
+  ipa: "/həʊˈtel/"
+  example: "Our hotel is near the beach."
+  translations:
+    de: ["das Hotel"]
+  example_translations:
+    de: "Unser Hotel ist in der Nähe des Strandes."
+
+- id: "international"
+  lemma: "international"
+  pos: adjective
+  level: A2
+  ipa: "/ˌɪn.təˈnæʃ.ən.əl/"
+  example: "It's an international school."
+  translations:
+    de: ["international"]
+  example_translations:
+    de: "Es ist eine internationale Schule."
+
+- id: "island"
+  lemma: "island"
+  pos: noun
+  level: A1
+  ipa: "/ˈaɪ.lənd/"
+  example: "We spent a week on a small island."
+  translations:
+    de: ["die Insel"]
+  example_translations:
+    de: "Wir verbrachten eine Woche auf einer kleinen Insel."
+
+- id: "journey"
+  lemma: "journey"
+  pos: noun
+  level: A2
+  ipa: "/ˈdʒɜː.ni/"
+  example: "The journey takes three hours."
+  translations:
+    de: ["die Reise", "die Fahrt"]
+  example_translations:
+    de: "Die Reise dauert drei Stunden."
+
+- id: "land-verb"
+  lemma: "land"
+  pos: verb
+  level: A2
+  ipa: "/lænd/"
+  example: "The plane landed at six."
+  translations:
+    de: ["landen"]
+  example_translations:
+    de: "Das Flugzeug landete um sechs."
+
+- id: "leave"
+  lemma: "leave"
+  pos: verb
+  level: A2
+  ipa: "/liːv/"
+  example: "We leave early in the morning."
+  translations:
+    de: ["verlassen", "abfahren", "losfahren"]
+  example_translations:
+    de: "Wir fahren früh am Morgen los."
+
+- id: "left-adjective"
+  lemma: "left"
+  pos: adjective
+  level: A1
+  ipa: "/left/"
+  example: "I write with my left hand."
+  translations:
+    de: ["linke"]
+  example_translations:
+    de: "Ich schreibe mit der linken Hand."
+
+- id: "left-adverb"
+  lemma: "left"
+  pos: adverb
+  level: A1
+  ipa: "/left/"
+  example: "Turn left at the church."
+  translations:
+    de: ["links"]
+  example_translations:
+    de: "Biegen Sie an der Kirche links ab."
+
+- id: "left-noun"
+  lemma: "left"
+  pos: noun
+  level: A1
+  ipa: "/left/"
+  example: "The bank is on the left."
+  translations:
+    de: ["die linke Seite", "links"]
+  example_translations:
+    de: "Die Bank ist auf der linken Seite."
+
+- id: "licence"
+  lemma: "licence"
+  pos: noun
+  level: B2
+  ipa: "/ˈlaɪ.səns/"
+  example: "Do you have a driving licence?"
+  translations:
+    de: ["der Führerschein", "die Lizenz", "die Genehmigung"]
+  example_translations:
+    de: "Hast du einen Führerschein?"
+
+- id: "locate"
+  lemma: "locate"
+  pos: verb
+  level: B1
+  ipa: "/ləʊˈkeɪt/"
+  example: "We couldn't locate the hotel."
+  translations:
+    de: ["finden", "ausfindig machen"]
+  example_translations:
+    de: "Wir konnten das Hotel nicht finden."
+
+- id: "located"
+  lemma: "located"
+  pos: adjective
+  level: B1
+  ipa: "/ləʊˈkeɪ.tɪd/"
+  example: "The hotel is located near the beach."
+  translations:
+    de: ["gelegen"]
+  example_translations:
+    de: "Das Hotel liegt in der Nähe des Strandes."
+
+- id: "location"
+  lemma: "location"
+  pos: noun
+  level: B1
+  ipa: "/ləʊˈkeɪ.ʃən/"
+  example: "The hotel is in a great location."
+  translations:
+    de: ["die Lage", "der Ort", "der Standort"]
+  example_translations:
+    de: "Das Hotel hat eine tolle Lage."
+
+- id: "lorry"
+  lemma: "lorry"
+  pos: noun
+  level: A2
+  ipa: "/ˈlɒr.i/"
+  example: "A lorry blocked the road."
+  translations:
+    de: ["der Lastwagen", "der Lkw"]
+  example_translations:
+    de: "Ein Lastwagen blockierte die Straße."
+
+- id: "lost"
+  lemma: "lost"
+  pos: adjective
+  level: A2
+  ipa: "/lɒst/"
+  example: "We got lost in the city."
+  translations:
+    de: ["verloren", "verlaufen"]
+  example_translations:
+    de: "Wir haben uns in der Stadt verlaufen."
+
+- id: "luggage"
+  lemma: "luggage"
+  pos: noun
+  level: A2
+  ipa: "/ˈlʌɡ.ɪdʒ/"
+  example: "Our luggage is too heavy."
+  translations:
+    de: ["das Gepäck"]
+  example_translations:
+    de: "Unser Gepäck ist zu schwer."
+
+- id: "map"
+  lemma: "map"
+  pos: noun
+  level: A2
+  ipa: "/mæp/"
+  example: "Let's look at the map."
+  translations:
+    de: ["die Karte", "die Landkarte", "der Stadtplan"]
+  example_translations:
+    de: "Lass uns auf die Karte schauen."
+
+- id: "map-verb"
+  lemma: "map"
+  pos: verb
+  level: B2
+  ipa: "/mæp/"
+  example: "They mapped the whole island."
+  translations:
+    de: ["kartieren", "erfassen"]
+  example_translations:
+    de: "Sie haben die ganze Insel kartiert."
+
+- id: "motorcycle"
+  lemma: "motorcycle"
+  pos: noun
+  level: A2
+  ipa: "/ˈməʊ.təˌsaɪ.kəl/"
+  example: "He rides a motorcycle."
+  translations:
+    de: ["das Motorrad"]
+  example_translations:
+    de: "Er fährt Motorrad."
+
+- id: "north-adjective"
+  lemma: "north"
+  pos: adjective
+  level: A1
+  ipa: "/nɔːθ/"
+  example: "The north side of the house is cold."
+  translations:
+    de: ["Nord-", "nördlich"]
+  example_translations:
+    de: "Die Nordseite des Hauses ist kalt."
+
+- id: "north-adverb"
+  lemma: "north"
+  pos: adverb
+  level: A1
+  ipa: "/nɔːθ/"
+  example: "The birds fly north in spring."
+  translations:
+    de: ["nach Norden", "nordwärts"]
+  example_translations:
+    de: "Im Frühling fliegen die Vögel nach Norden."
+
+- id: "north-noun"
+  lemma: "north"
+  pos: noun
+  level: A1
+  ipa: "/nɔːθ/"
+  example: "They live in the north."
+  translations:
+    de: ["der Norden"]
+  example_translations:
+    de: "Sie wohnen im Norden."
+
+- id: "northern"
+  lemma: "northern"
+  pos: adjective
+  level: B1
+  ipa: "/ˈnɔː.ðən/"
+  example: "She lives in northern Italy."
+  translations:
+    de: ["nördlich", "Nord-"]
+  example_translations:
+    de: "Sie wohnt in Norditalien."
+
+- id: "pack-verb"
+  lemma: "pack"
+  pos: verb
+  level: A2
+  ipa: "/pæk/"
+  example: "Have you packed your suitcase?"
+  translations:
+    de: ["packen", "einpacken"]
+  example_translations:
+    de: "Hast du deinen Koffer gepackt?"
+
+- id: "palace"
+  lemma: "palace"
+  pos: noun
+  level: A2
+  ipa: "/ˈpæl.ɪs/"
+  example: "The queen lives in a palace."
+  translations:
+    de: ["der Palast", "das Schloss"]
+  example_translations:
+    de: "Die Königin wohnt in einem Palast."
+
+- id: "park-verb"
+  lemma: "park"
+  pos: verb
+  level: A1
+  ipa: "/pɑːk/"
+  example: "You can't park here."
+  translations:
+    de: ["parken"]
+  example_translations:
+    de: "Hier dürfen Sie nicht parken."
+
+- id: "parking"
+  lemma: "parking"
+  pos: noun
+  level: A2
+  ipa: "/ˈpɑː.kɪŋ/"
+  example: "Parking is free on Sundays."
+  translations:
+    de: ["das Parken", "der Parkplatz"]
+  example_translations:
+    de: "Sonntags ist das Parken kostenlos."
+
+- id: "pass-noun"
+  lemma: "pass"
+  pos: noun
+  level: B1
+  ipa: "/pɑːs/"
+  example: "You need a pass to enter the building."
+  translations:
+    de: ["der Ausweis", "der Pass"]
+  example_translations:
+    de: "Du brauchst einen Ausweis, um das Gebäude zu betreten."
+
+- id: "passenger"
+  lemma: "passenger"
+  pos: noun
+  level: A2
+  ipa: "/ˈpæs.ən.dʒər/"
+  example: "The bus has 50 passengers."
+  translations:
+    de: ["der Passagier", "der Fahrgast"]
+  example_translations:
+    de: "Der Bus hat 50 Fahrgäste."
+
+- id: "passport"
+  lemma: "passport"
+  pos: noun
+  level: A2
+  ipa: "/ˈpɑːs.pɔːt/"
+  example: "Don't forget your passport."
+  translations:
+    de: ["der Reisepass", "der Pass"]
+  example_translations:
+    de: "Vergiss deinen Reisepass nicht."
+
+- id: "path"
+  lemma: "path"
+  pos: noun
+  level: B1
+  ipa: "/pɑːθ/"
+  example: "Follow the path to the lake."
+  translations:
+    de: ["der Weg", "der Pfad"]
+  example_translations:
+    de: "Folge dem Weg zum See."
+
+- id: "petrol"
+  lemma: "petrol"
+  pos: noun
+  level: A2
+  ipa: "/ˈpet.rəl/"
+  example: "We need to buy petrol."
+  translations:
+    de: ["das Benzin"]
+  example_translations:
+    de: "Wir müssen tanken."
+
+- id: "plane"
+  lemma: "plane"
+  pos: noun
+  level: A2
+  ipa: "/pleɪn/"
+  example: "The plane lands at noon."
+  translations:
+    de: ["das Flugzeug"]
+  example_translations:
+    de: "Das Flugzeug landet mittags."
+
+- id: "platform"
+  lemma: "platform"
+  pos: noun
+  level: A2
+  ipa: "/ˈplæt.fɔːm/"
+  example: "The train leaves from platform 3."
+  translations:
+    de: ["der Bahnsteig", "das Gleis", "die Plattform"]
+  example_translations:
+    de: "Der Zug fährt von Gleis 3 ab."
+
+- id: "port"
+  lemma: "port"
+  pos: noun
+  level: B1
+  ipa: "/pɔːt/"
+  example: "The ship arrived in port."
+  translations:
+    de: ["der Hafen"]
+  example_translations:
+    de: "Das Schiff lief in den Hafen ein."
+
+- id: "railway"
+  lemma: "railway"
+  pos: noun
+  level: A2
+  ipa: "/ˈreɪl.weɪ/"
+  example: "The railway station is near."
+  translations:
+    de: ["die Eisenbahn", "die Bahn"]
+  example_translations:
+    de: "Der Bahnhof ist in der Nähe."
+
+- id: "reception"
+  lemma: "reception"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈsep.ʃən/"
+  example: "Please leave your key at reception."
+  translations:
+    de: ["die Rezeption", "der Empfang"]
+  example_translations:
+    de: "Bitte geben Sie Ihren Schlüssel an der Rezeption ab."
+
+- id: "region"
+  lemma: "region"
+  pos: noun
+  level: A2
+  ipa: "/ˈriː.dʒən/"
+  example: "It's a wine region."
+  translations:
+    de: ["die Region", "die Gegend"]
+  example_translations:
+    de: "Es ist eine Weinregion."
+
+- id: "regional"
+  lemma: "regional"
+  pos: adjective
+  level: B2
+  ipa: "/ˈriː.dʒən.əl/"
+  example: "They speak with a regional accent."
+  translations:
+    de: ["regional"]
+  example_translations:
+    de: "Sie sprechen mit regionalem Akzent."
+
+- id: "reservation"
+  lemma: "reservation"
+  pos: noun
+  level: B1
+  ipa: "/ˌrez.əˈveɪ.ʃən/"
+  example: "I have a reservation for two."
+  translations:
+    de: ["die Reservierung", "der Vorbehalt"]
+  example_translations:
+    de: "Ich habe eine Reservierung für zwei Personen."
+
+- id: "reserve-verb"
+  lemma: "reserve"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈzɜːv/"
+  example: "I'd like to reserve a table."
+  translations:
+    de: ["reservieren"]
+  example_translations:
+    de: "Ich möchte einen Tisch reservieren."
+
+- id: "resort"
+  lemma: "resort"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈzɔːt/"
+  example: "It's a popular ski resort."
+  translations:
+    de: ["der Urlaubsort", "das Resort"]
+  example_translations:
+    de: "Es ist ein beliebter Skiort."
+
+- id: "return-noun"
+  lemma: "return"
+  pos: noun
+  level: A1
+  ipa: "/rɪˈtɜːn/"
+  example: "A return ticket to London, please."
+  translations:
+    de: ["die Rückkehr", "die Rückfahrkarte"]
+  example_translations:
+    de: "Eine Rückfahrkarte nach London, bitte."
+
+- id: "return-verb"
+  lemma: "return"
+  pos: verb
+  level: A1
+  ipa: "/rɪˈtɜːn/"
+  example: "When do you return from holiday?"
+  translations:
+    de: ["zurückkehren", "zurückgeben"]
+  example_translations:
+    de: "Wann kommst du aus dem Urlaub zurück?"
+
+- id: "ride-noun"
+  lemma: "ride"
+  pos: noun
+  level: A2
+  ipa: "/raɪd/"
+  example: "Can you give me a ride?"
+  translations:
+    de: ["die Fahrt", "der Ritt"]
+  example_translations:
+    de: "Kannst du mich mitnehmen?"
+
+- id: "ride-verb"
+  lemma: "ride"
+  pos: verb
+  level: A1
+  ipa: "/raɪd/"
+  example: "Can you ride a bike?"
+  translations:
+    de: ["fahren", "reiten"]
+  example_translations:
+    de: "Kannst du Fahrrad fahren?"
+
+- id: "right-adverb"
+  lemma: "right"
+  pos: adverb
+  level: A1
+  ipa: "/raɪt/"
+  example: "Turn right at the corner."
+  translations:
+    de: ["rechts", "genau", "direkt"]
+  example_translations:
+    de: "Biegen Sie an der Ecke rechts ab."
+
+- id: "road"
+  lemma: "road"
+  pos: noun
+  level: A1
+  ipa: "/rəʊd/"
+  example: "Be careful when you cross the road."
+  translations:
+    de: ["die Straße"]
+  example_translations:
+    de: "Pass auf, wenn du über die Straße gehst."
+
+- id: "route"
+  lemma: "route"
+  pos: noun
+  level: A2
+  ipa: "/ruːt/"
+  example: "What's the fastest route to the airport?"
+  translations:
+    de: ["die Route", "der Weg", "die Strecke"]
+  example_translations:
+    de: "Was ist der schnellste Weg zum Flughafen?"
+
+- id: "sand"
+  lemma: "sand"
+  pos: noun
+  level: B1
+  ipa: "/sænd/"
+  example: "The children played in the sand."
+  translations:
+    de: ["der Sand"]
+  example_translations:
+    de: "Die Kinder spielten im Sand."
+
+- id: "seat-noun"
+  lemma: "seat"
+  pos: noun
+  level: A2
+  ipa: "/siːt/"
+  example: "Is this seat free?"
+  translations:
+    de: ["der Sitz", "der Sitzplatz"]
+  example_translations:
+    de: "Ist dieser Platz frei?"
+
+- id: "ship-noun"
+  lemma: "ship"
+  pos: noun
+  level: A2
+  ipa: "/ʃɪp/"
+  example: "The ship leaves at noon."
+  translations:
+    de: ["das Schiff"]
+  example_translations:
+    de: "Das Schiff legt mittags ab."
+
+- id: "sight"
+  lemma: "sight"
+  pos: noun
+  level: B1
+  ipa: "/saɪt/"
+  example: "We saw all the sights of Paris."
+  translations:
+    de: ["die Sicht", "das Sehvermögen", "die Sehenswürdigkeit"]
+  example_translations:
+    de: "Wir haben alle Sehenswürdigkeiten von Paris gesehen."
+
+- id: "single-noun"
+  lemma: "single"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪŋ.ɡəl/"
+  example: "A single to Leeds, please."
+  translations:
+    de: ["die einfache Fahrkarte", "die Single"]
+  example_translations:
+    de: "Eine einfache Fahrt nach Leeds, bitte."
+
+- id: "south-adjective"
+  lemma: "south"
+  pos: adjective
+  level: A1
+  ipa: "/saʊθ/"
+  example: "We stayed on the south coast."
+  translations:
+    de: ["Süd-", "südlich"]
+  example_translations:
+    de: "Wir waren an der Südküste."
+
+- id: "south-adverb"
+  lemma: "south"
+  pos: adverb
+  level: A1
+  ipa: "/saʊθ/"
+  example: "Birds fly south in winter."
+  translations:
+    de: ["nach Süden", "südwärts"]
+  example_translations:
+    de: "Im Winter fliegen die Vögel nach Süden."
+
+- id: "south-noun"
+  lemma: "south"
+  pos: noun
+  level: A1
+  ipa: "/saʊθ/"
+  example: "They live in the south of Spain."
+  translations:
+    de: ["der Süden"]
+  example_translations:
+    de: "Sie wohnen im Süden Spaniens."
+
+- id: "southern"
+  lemma: "southern"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsʌð.ən/"
+  example: "They live in southern France."
+  translations:
+    de: ["südlich", "Süd-"]
+  example_translations:
+    de: "Sie wohnen in Südfrankreich."
+
+- id: "speed-noun"
+  lemma: "speed"
+  pos: noun
+  level: A2
+  ipa: "/spiːd/"
+  example: "What's the speed limit here?"
+  translations:
+    de: ["die Geschwindigkeit"]
+  example_translations:
+    de: "Wie hoch ist hier die Höchstgeschwindigkeit?"
+
+- id: "speed-verb"
+  lemma: "speed"
+  pos: verb
+  level: B2
+  ipa: "/spiːd/"
+  example: "He was caught speeding."
+  translations:
+    de: ["rasen", "zu schnell fahren"]
+  example_translations:
+    de: "Er wurde beim Rasen erwischt."
+
+- id: "station"
+  lemma: "station"
+  pos: noun
+  level: A2
+  ipa: "/ˈsteɪ.ʃən/"
+  example: "I'll meet you at the station."
+  translations:
+    de: ["der Bahnhof", "die Station"]
+  example_translations:
+    de: "Ich treffe dich am Bahnhof."
+
+- id: "stay-noun"
+  lemma: "stay"
+  pos: noun
+  level: A2
+  ipa: "/steɪ/"
+  example: "Enjoy your stay!"
+  translations:
+    de: ["der Aufenthalt"]
+  example_translations:
+    de: "Genießen Sie Ihren Aufenthalt!"
+
+- id: "stay-verb"
+  lemma: "stay"
+  pos: verb
+  level: A1
+  ipa: "/steɪ/"
+  example: "We stayed in a hotel."
+  translations:
+    de: ["bleiben", "übernachten", "wohnen"]
+  example_translations:
+    de: "Wir haben in einem Hotel übernachtet."
+
+- id: "stop-noun"
+  lemma: "stop"
+  pos: noun
+  level: A1
+  ipa: "/stɒp/"
+  example: "Get off at the next stop."
+  translations:
+    de: ["die Haltestelle", "der Halt"]
+  example_translations:
+    de: "Steig an der nächsten Haltestelle aus."
+
+- id: "straight-adverb"
+  lemma: "straight"
+  pos: adverb
+  level: A2
+  ipa: "/streɪt/"
+  example: "Go straight on."
+  translations:
+    de: ["geradeaus", "direkt", "sofort"]
+  example_translations:
+    de: "Gehen Sie geradeaus."
+
+- id: "street"
+  lemma: "street"
+  pos: noun
+  level: A1
+  ipa: "/striːt/"
+  example: "I live on this street."
+  translations:
+    de: ["die Straße"]
+  example_translations:
+    de: "Ich wohne in dieser Straße."
+
+- id: "taxi"
+  lemma: "taxi"
+  pos: noun
+  level: A1
+  ipa: "/ˈtæk.si/"
+  example: "Let's take a taxi."
+  translations:
+    de: ["das Taxi"]
+  example_translations:
+    de: "Lass uns ein Taxi nehmen."
+
+- id: "ticket"
+  lemma: "ticket"
+  pos: noun
+  level: A1
+  ipa: "/ˈtɪk.ɪt/"
+  example: "I need a ticket to London."
+  translations:
+    de: ["die Fahrkarte", "das Ticket"]
+  example_translations:
+    de: "Ich brauche eine Fahrkarte nach London."
+
+- id: "tour-noun"
+  lemma: "tour"
+  pos: noun
+  level: A2
+  ipa: "/tʊər/"
+  example: "We went on a tour of the city."
+  translations:
+    de: ["die Tour", "die Rundfahrt", "die Führung"]
+  example_translations:
+    de: "Wir haben eine Stadtrundfahrt gemacht."
+
+- id: "tour-verb"
+  lemma: "tour"
+  pos: verb
+  level: B1
+  ipa: "/tʊər/"
+  example: "The band is touring Europe."
+  translations:
+    de: ["bereisen", "auf Tournee sein"]
+  example_translations:
+    de: "Die Band ist auf Europatournee."
+
+- id: "tourism"
+  lemma: "tourism"
+  pos: noun
+  level: A2
+  ipa: "/ˈtʊə.rɪ.zəm/"
+  example: "Tourism is important for the island."
+  translations:
+    de: ["der Tourismus"]
+  example_translations:
+    de: "Der Tourismus ist wichtig für die Insel."
+
+- id: "tourist"
+  lemma: "tourist"
+  pos: noun
+  level: A1
+  ipa: "/ˈtʊə.rɪst/"
+  example: "The city is full of tourists."
+  translations:
+    de: ["der Tourist", "die Touristin"]
+  example_translations:
+    de: "Die Stadt ist voller Touristen."
+
+- id: "traffic"
+  lemma: "traffic"
+  pos: noun
+  level: A1
+  ipa: "/ˈtræf.ɪk/"
+  example: "There was a lot of traffic."
+  translations:
+    de: ["der Verkehr"]
+  example_translations:
+    de: "Es war viel Verkehr."
+
+- id: "train"
+  lemma: "train"
+  pos: noun
+  level: A1
+  ipa: "/treɪn/"
+  example: "The train is late."
+  translations:
+    de: ["der Zug"]
+  example_translations:
+    de: "Der Zug hat Verspätung."
+
+- id: "transfer-noun"
+  lemma: "transfer"
+  pos: noun
+  level: B2
+  ipa: "/ˈtræns.fɜːr/"
+  example: "The hotel offers a free airport transfer."
+  translations:
+    de: ["die Übertragung", "der Transfer", "die Überweisung"]
+  example_translations:
+    de: "Das Hotel bietet einen kostenlosen Flughafentransfer."
+
+- id: "transport-noun"
+  lemma: "transport"
+  pos: noun
+  level: A2
+  ipa: "/ˈtræn.spɔːt/"
+  example: "I use public transport."
+  translations:
+    de: ["der Verkehr", "der Transport", "das Verkehrsmittel"]
+  example_translations:
+    de: "Ich nutze öffentliche Verkehrsmittel."
+
+- id: "transport-verb"
+  lemma: "transport"
+  pos: verb
+  level: B1
+  ipa: "/trænˈspɔːt/"
+  example: "The goods are transported by ship."
+  translations:
+    de: ["transportieren", "befördern"]
+  example_translations:
+    de: "Die Waren werden per Schiff transportiert."
+
+- id: "travel"
+  lemma: "travel"
+  pos: verb
+  level: A2
+  ipa: "/ˈtræv.əl/"
+  example: "I love to travel."
+  translations:
+    de: ["reisen"]
+  example_translations:
+    de: "Ich reise sehr gern."
+
+- id: "travel-noun"
+  lemma: "travel"
+  pos: noun
+  level: A1
+  ipa: "/ˈtræv.əl/"
+  example: "Travel broadens the mind."
+  translations:
+    de: ["das Reisen", "die Reise"]
+  example_translations:
+    de: "Reisen bildet."
+
+- id: "traveller"
+  lemma: "traveller"
+  pos: noun
+  level: A2
+  ipa: "/ˈtræv.əl.ər/"
+  example: "The hotel is popular with travellers."
+  translations:
+    de: ["der Reisende", "die Reisende"]
+  example_translations:
+    de: "Das Hotel ist bei Reisenden beliebt."
+
+- id: "trip-noun"
+  lemma: "trip"
+  pos: noun
+  level: A1
+  ipa: "/trɪp/"
+  example: "We went on a trip to the mountains."
+  translations:
+    de: ["die Reise", "der Ausflug"]
+  example_translations:
+    de: "Wir haben einen Ausflug in die Berge gemacht."
+
+- id: "truck"
+  lemma: "truck"
+  pos: noun
+  level: A2
+  ipa: "/trʌk/"
+  example: "He drives a truck."
+  translations:
+    de: ["der Lastwagen", "der Lkw"]
+  example_translations:
+    de: "Er fährt Lastwagen."
+
+- id: "tube"
+  lemma: "tube"
+  pos: noun
+  level: B1
+  ipa: "/tʃuːb/"
+  example: "We took the tube to Oxford Street."
+  translations:
+    de: ["die Röhre", "die Tube", "die U-Bahn (London)"]
+  example_translations:
+    de: "Wir fuhren mit der U-Bahn zur Oxford Street."
+
+- id: "tunnel"
+  lemma: "tunnel"
+  pos: noun
+  level: B2
+  ipa: "/ˈtʌn.əl/"
+  example: "The train went through a tunnel."
+  translations:
+    de: ["der Tunnel"]
+  example_translations:
+    de: "Der Zug fuhr durch einen Tunnel."
+
+- id: "tyre"
+  lemma: "tyre"
+  pos: noun
+  level: B1
+  ipa: "/taɪər/"
+  example: "I have a flat tyre."
+  translations:
+    de: ["der Reifen"]
+  example_translations:
+    de: "Ich habe einen Platten."
+
+- id: "underground-adjective"
+  lemma: "underground"
+  pos: adjective
+  level: A2
+  ipa: "/ˌʌn.dəˈɡraʊnd/"
+  example: "There is an underground car park."
+  translations:
+    de: ["unterirdisch", "Untergrund-"]
+  example_translations:
+    de: "Es gibt eine Tiefgarage."
+
+- id: "vacation"
+  lemma: "vacation"
+  pos: noun
+  level: A1
+  ipa: "/veɪˈkeɪ.ʃən/"
+  example: "We're going on vacation next week."
+  translations:
+    de: ["der Urlaub", "die Ferien"]
+  example_translations:
+    de: "Wir fahren nächste Woche in den Urlaub."
+
+- id: "van"
+  lemma: "van"
+  pos: noun
+  level: A2
+  ipa: "/væn/"
+  example: "We moved our things in a van."
+  translations:
+    de: ["der Lieferwagen", "der Transporter"]
+  example_translations:
+    de: "Wir haben unsere Sachen mit einem Transporter umgezogen."
+
+- id: "vehicle"
+  lemma: "vehicle"
+  pos: noun
+  level: A2
+  ipa: "/ˈvɪə.kəl/"
+  example: "Vehicles are not allowed in the centre."
+  translations:
+    de: ["das Fahrzeug"]
+  example_translations:
+    de: "Fahrzeuge sind im Zentrum nicht erlaubt."
+
+- id: "view-noun"
+  lemma: "view"
+  pos: noun
+  level: A2
+  ipa: "/vjuː/"
+  example: "The view from the top is amazing."
+  translations:
+    de: ["die Aussicht", "der Blick", "die Ansicht"]
+  example_translations:
+    de: "Die Aussicht von oben ist umwerfend."
+
+- id: "visit-noun"
+  lemma: "visit"
+  pos: noun
+  level: A1
+  ipa: "/ˈvɪz.ɪt/"
+  example: "Thanks for your visit."
+  translations:
+    de: ["der Besuch"]
+  example_translations:
+    de: "Danke für deinen Besuch."
+
+- id: "visitor"
+  lemma: "visitor"
+  pos: noun
+  level: A1
+  ipa: "/ˈvɪz.ɪ.tər/"
+  example: "The museum has many visitors."
+  translations:
+    de: ["der Besucher", "die Besucherin", "der Gast"]
+  example_translations:
+    de: "Das Museum hat viele Besucher."
+
+- id: "west-adjective"
+  lemma: "west"
+  pos: adjective
+  level: A1
+  ipa: "/west/"
+  example: "We live on the west coast."
+  translations:
+    de: ["West-", "westlich"]
+  example_translations:
+    de: "Wir wohnen an der Westküste."
+
+- id: "west-adverb"
+  lemma: "west"
+  pos: adverb
+  level: A1
+  ipa: "/west/"
+  example: "We drove west."
+  translations:
+    de: ["nach Westen", "westwärts"]
+  example_translations:
+    de: "Wir fuhren nach Westen."
+
+- id: "west-noun"
+  lemma: "west"
+  pos: noun
+  level: A1
+  ipa: "/west/"
+  example: "The sun sets in the west."
+  translations:
+    de: ["der Westen"]
+  example_translations:
+    de: "Die Sonne geht im Westen unter."
+
+- id: "western"
+  lemma: "western"
+  pos: adjective
+  level: B1
+  ipa: "/ˈwes.tən/"
+  example: "They live in western Germany."
+  translations:
+    de: ["westlich", "West-"]
+  example_translations:
+    de: "Sie wohnen in Westdeutschland."
+
+- id: "wheel"
+  lemma: "wheel"
+  pos: noun
+  level: A2
+  ipa: "/wiːl/"
+  example: "A bike has two wheels."
+  translations:
+    de: ["das Rad", "das Lenkrad"]
+  example_translations:
+    de: "Ein Fahrrad hat zwei Räder."
+
+- id: "world"
+  lemma: "world"
+  pos: noun
+  level: A1
+  ipa: "/wɜːld/"
+  example: "I want to travel around the world."
+  translations:
+    de: ["die Welt"]
+  example_translations:
+    de: "Ich möchte um die Welt reisen."
+
+- id: "worldwide-adjective"
+  lemma: "worldwide"
+  pos: adjective
+  level: B1
+  ipa: "/ˈwɜːld.waɪd/"
+  example: "The company has worldwide offices."
+  translations:
+    de: ["weltweit"]
+  example_translations:
+    de: "Die Firma hat weltweit Büros."
+
+- id: "worldwide-adverb"
+  lemma: "worldwide"
+  pos: adverb
+  level: B1
+  ipa: "/ˌwɜːldˈwaɪd/"
+  example: "The song was a hit worldwide."
+  translations:
+    de: ["weltweit"]
+  example_translations:
+    de: "Das Lied war weltweit ein Hit."

@@ -1,0 +1,1025 @@
+# 🧠 Denken & Meinung – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "associate"
+  lemma: "associate"
+  pos: verb
+  level: B2
+  ipa: "/əˈsəʊ.si.eɪt/"
+  example: "I associate this song with summer."
+  translations:
+    de: ["verbinden", "in Verbindung bringen"]
+  example_translations:
+    de: "Ich verbinde dieses Lied mit dem Sommer."
+
+- id: "assume"
+  lemma: "assume"
+  pos: verb
+  level: B2
+  ipa: "/əˈsjuːm/"
+  example: "I assume you are hungry."
+  translations:
+    de: ["annehmen", "vermuten"]
+  example_translations:
+    de: "Ich nehme an, du hast Hunger."
+
+- id: "attention"
+  lemma: "attention"
+  pos: noun
+  level: A2
+  ipa: "/əˈten.ʃən/"
+  example: "Please pay attention."
+  translations:
+    de: ["die Aufmerksamkeit"]
+  example_translations:
+    de: "Bitte passt auf."
+
+- id: "attitude"
+  lemma: "attitude"
+  pos: noun
+  level: B1
+  ipa: "/ˈæt.ɪ.tʃuːd/"
+  example: "She has a positive attitude."
+  translations:
+    de: ["die Einstellung", "die Haltung"]
+  example_translations:
+    de: "Sie hat eine positive Einstellung."
+
+- id: "aware"
+  lemma: "aware"
+  pos: adjective
+  level: B1
+  ipa: "/əˈweər/"
+  example: "Are you aware of the risks?"
+  translations:
+    de: ["bewusst"]
+  example_translations:
+    de: "Bist du dir der Risiken bewusst?"
+
+- id: "belief"
+  lemma: "belief"
+  pos: noun
+  level: B1
+  ipa: "/bɪˈliːf/"
+  example: "It is my belief that he is honest."
+  translations:
+    de: ["der Glaube", "die Überzeugung"]
+  example_translations:
+    de: "Ich bin überzeugt, dass er ehrlich ist."
+
+- id: "believe"
+  lemma: "believe"
+  pos: verb
+  level: A1
+  ipa: "/bɪˈliːv/"
+  example: "I don't believe you."
+  translations:
+    de: ["glauben"]
+  example_translations:
+    de: "Ich glaube dir nicht."
+
+- id: "certain"
+  lemma: "certain"
+  pos: adjective
+  level: A2
+  ipa: "/ˈsɜː.tən/"
+  example: "Are you certain about that?"
+  translations:
+    de: ["sicher", "bestimmt"]
+  example_translations:
+    de: "Bist du dir da sicher?"
+
+- id: "compare"
+  lemma: "compare"
+  pos: verb
+  level: A1
+  ipa: "/kəmˈpeər/"
+  example: "Compare the two pictures."
+  translations:
+    de: ["vergleichen"]
+  example_translations:
+    de: "Vergleiche die beiden Bilder."
+
+- id: "comparison"
+  lemma: "comparison"
+  pos: noun
+  level: B1
+  ipa: "/kəmˈpær.ɪ.sən/"
+  example: "In comparison, our flat is small."
+  translations:
+    de: ["der Vergleich"]
+  example_translations:
+    de: "Im Vergleich dazu ist unsere Wohnung klein."
+
+- id: "concentrate"
+  lemma: "concentrate"
+  pos: verb
+  level: B1
+  ipa: "/ˈkɒn.sən.treɪt/"
+  example: "I can't concentrate with this noise."
+  translations:
+    de: ["sich konzentrieren"]
+  example_translations:
+    de: "Bei diesem Lärm kann ich mich nicht konzentrieren."
+
+- id: "concentration"
+  lemma: "concentration"
+  pos: noun
+  level: B2
+  ipa: "/ˌkɒn.sənˈtreɪ.ʃən/"
+  example: "This job needs a lot of concentration."
+  translations:
+    de: ["die Konzentration"]
+  example_translations:
+    de: "Diese Arbeit erfordert viel Konzentration."
+
+- id: "concept"
+  lemma: "concept"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.sept/"
+  example: "The concept is easy to understand."
+  translations:
+    de: ["das Konzept", "der Begriff"]
+  example_translations:
+    de: "Das Konzept ist leicht zu verstehen."
+
+- id: "conclude"
+  lemma: "conclude"
+  pos: verb
+  level: B1
+  ipa: "/kənˈkluːd/"
+  example: "We concluded that he was right."
+  translations:
+    de: ["schließen", "folgern", "abschließen"]
+  example_translations:
+    de: "Wir kamen zu dem Schluss, dass er recht hatte."
+
+- id: "conclusion"
+  lemma: "conclusion"
+  pos: noun
+  level: B1
+  ipa: "/kənˈkluː.ʒən/"
+  example: "What is your conclusion?"
+  translations:
+    de: ["die Schlussfolgerung", "der Schluss"]
+  example_translations:
+    de: "Was ist deine Schlussfolgerung?"
+
+- id: "confuse"
+  lemma: "confuse"
+  pos: verb
+  level: B1
+  ipa: "/kənˈfjuːz/"
+  example: "People often confuse the twins."
+  translations:
+    de: ["verwirren", "verwechseln"]
+  example_translations:
+    de: "Die Leute verwechseln die Zwillinge oft."
+
+- id: "conscious"
+  lemma: "conscious"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkɒn.ʃəs/"
+  example: "He was conscious after the accident."
+  translations:
+    de: ["bewusst", "bei Bewusstsein"]
+  example_translations:
+    de: "Er war nach dem Unfall bei Bewusstsein."
+
+- id: "consider"
+  lemma: "consider"
+  pos: verb
+  level: A2
+  ipa: "/kənˈsɪd.ər/"
+  example: "We are considering moving to Spain."
+  translations:
+    de: ["überlegen", "in Betracht ziehen", "halten für"]
+  example_translations:
+    de: "Wir überlegen, nach Spanien zu ziehen."
+
+- id: "consideration"
+  lemma: "consideration"
+  pos: noun
+  level: B2
+  ipa: "/kənˌsɪd.əˈreɪ.ʃən/"
+  example: "After careful consideration, we said no."
+  translations:
+    de: ["die Überlegung", "die Rücksicht"]
+  example_translations:
+    de: "Nach reiflicher Überlegung haben wir Nein gesagt."
+
+- id: "contrast-verb"
+  lemma: "contrast"
+  pos: verb
+  level: B1
+  ipa: "/kənˈtrɑːst/"
+  example: "Contrast the two poems."
+  translations:
+    de: ["gegenüberstellen", "kontrastieren"]
+  example_translations:
+    de: "Stelle die beiden Gedichte einander gegenüber."
+
+- id: "convinced"
+  lemma: "convinced"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈvɪnst/"
+  example: "I'm convinced that she's right."
+  translations:
+    de: ["überzeugt"]
+  example_translations:
+    de: "Ich bin überzeugt, dass sie recht hat."
+
+- id: "decision"
+  lemma: "decision"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈsɪʒ.ən/"
+  example: "It was a difficult decision."
+  translations:
+    de: ["die Entscheidung"]
+  example_translations:
+    de: "Es war eine schwierige Entscheidung."
+
+- id: "determine"
+  lemma: "determine"
+  pos: verb
+  level: B1
+  ipa: "/dɪˈtɜː.mɪn/"
+  example: "We need to determine the cause."
+  translations:
+    de: ["bestimmen", "feststellen"]
+  example_translations:
+    de: "Wir müssen die Ursache feststellen."
+
+- id: "doubt-noun"
+  lemma: "doubt"
+  pos: noun
+  level: B1
+  ipa: "/daʊt/"
+  example: "There is no doubt about it."
+  translations:
+    de: ["der Zweifel"]
+  example_translations:
+    de: "Daran besteht kein Zweifel."
+
+- id: "doubt-verb"
+  lemma: "doubt"
+  pos: verb
+  level: B1
+  ipa: "/daʊt/"
+  example: "I doubt that he will come."
+  translations:
+    de: ["bezweifeln"]
+  example_translations:
+    de: "Ich bezweifle, dass er kommt."
+
+- id: "ethical"
+  lemma: "ethical"
+  pos: adjective
+  level: B2
+  ipa: "/ˈeθ.ɪ.kəl/"
+  example: "Is it ethical to test on animals?"
+  translations:
+    de: ["ethisch", "moralisch"]
+  example_translations:
+    de: "Ist es ethisch vertretbar, an Tieren zu testen?"
+
+- id: "evaluate"
+  lemma: "evaluate"
+  pos: verb
+  level: B2
+  ipa: "/ɪˈvæl.ju.eɪt/"
+  example: "We need to evaluate the results."
+  translations:
+    de: ["bewerten", "beurteilen"]
+  example_translations:
+    de: "Wir müssen die Ergebnisse bewerten."
+
+- id: "evil-noun"
+  lemma: "evil"
+  pos: noun
+  level: B2
+  ipa: "/ˈiː.vəl/"
+  example: "It's a fight between good and evil."
+  translations:
+    de: ["das Böse", "das Übel"]
+  example_translations:
+    de: "Es ist ein Kampf zwischen Gut und Böse."
+
+- id: "expect"
+  lemma: "expect"
+  pos: verb
+  level: A2
+  ipa: "/ɪkˈspekt/"
+  example: "I expect him to call."
+  translations:
+    de: ["erwarten"]
+  example_translations:
+    de: "Ich erwarte, dass er anruft."
+
+- id: "expectation"
+  lemma: "expectation"
+  pos: noun
+  level: B2
+  ipa: "/ˌek.spekˈteɪ.ʃən/"
+  example: "The hotel was better than our expectations."
+  translations:
+    de: ["die Erwartung"]
+  example_translations:
+    de: "Das Hotel war besser als erwartet."
+
+- id: "faith"
+  lemma: "faith"
+  pos: noun
+  level: B2
+  ipa: "/feɪθ/"
+  example: "I have faith in you."
+  translations:
+    de: ["der Glaube", "das Vertrauen"]
+  example_translations:
+    de: "Ich vertraue dir."
+
+- id: "favour-verb"
+  lemma: "favour"
+  pos: verb
+  level: B2
+  ipa: "/ˈfeɪ.vər/"
+  example: "Most people favour the new plan."
+  translations:
+    de: ["bevorzugen", "begünstigen"]
+  example_translations:
+    de: "Die meisten Leute bevorzugen den neuen Plan."
+
+- id: "figure-verb"
+  lemma: "figure"
+  pos: verb
+  level: B2
+  ipa: "/ˈfɪɡ.ər/"
+  example: "I figured you would be hungry."
+  translations:
+    de: ["annehmen", "herausfinden"]
+  example_translations:
+    de: "Ich dachte mir, dass du Hunger hast."
+
+- id: "focus-verb"
+  lemma: "focus"
+  pos: verb
+  level: A2
+  ipa: "/ˈfəʊ.kəs/"
+  example: "Focus on your work."
+  translations:
+    de: ["sich konzentrieren", "fokussieren"]
+  example_translations:
+    de: "Konzentrier dich auf deine Arbeit."
+
+- id: "good-noun"
+  lemma: "good"
+  pos: noun
+  level: A2
+  ipa: "/ɡʊd/"
+  example: "It's for your own good."
+  translations:
+    de: ["das Gute", "der Nutzen"]
+  example_translations:
+    de: "Es ist zu deinem eigenen Besten."
+
+- id: "guess-noun"
+  lemma: "guess"
+  pos: noun
+  level: A1
+  ipa: "/ɡes/"
+  example: "Have a guess!"
+  translations:
+    de: ["die Vermutung", "die Schätzung"]
+  example_translations:
+    de: "Rate mal!"
+
+- id: "guess-verb"
+  lemma: "guess"
+  pos: verb
+  level: A1
+  ipa: "/ɡes/"
+  example: "Guess who I saw today!"
+  translations:
+    de: ["raten", "schätzen", "vermuten"]
+  example_translations:
+    de: "Rate mal, wen ich heute gesehen habe!"
+
+- id: "hesitate"
+  lemma: "hesitate"
+  pos: verb
+  level: B2
+  ipa: "/ˈhez.ɪ.teɪt/"
+  example: "Don't hesitate to call me."
+  translations:
+    de: ["zögern"]
+  example_translations:
+    de: "Zögere nicht, mich anzurufen."
+
+- id: "idea"
+  lemma: "idea"
+  pos: noun
+  level: A1
+  ipa: "/aɪˈdɪə/"
+  example: "That's a good idea."
+  translations:
+    de: ["die Idee", "die Ahnung"]
+  example_translations:
+    de: "Das ist eine gute Idee."
+
+- id: "ideal-noun"
+  lemma: "ideal"
+  pos: noun
+  level: B2
+  ipa: "/aɪˈdɪəl/"
+  example: "He has high ideals."
+  translations:
+    de: ["das Ideal"]
+  example_translations:
+    de: "Er hat hohe Ideale."
+
+- id: "identify"
+  lemma: "identify"
+  pos: verb
+  level: A2
+  ipa: "/aɪˈden.tɪ.faɪ/"
+  example: "Can you identify the man in the photo?"
+  translations:
+    de: ["identifizieren", "erkennen"]
+  example_translations:
+    de: "Kannst du den Mann auf dem Foto identifizieren?"
+
+- id: "imaginary"
+  lemma: "imaginary"
+  pos: adjective
+  level: B1
+  ipa: "/ɪˈmædʒ.ɪ.nər.i/"
+  example: "My son has an imaginary friend."
+  translations:
+    de: ["imaginär", "eingebildet"]
+  example_translations:
+    de: "Mein Sohn hat einen imaginären Freund."
+
+- id: "imagination"
+  lemma: "imagination"
+  pos: noun
+  level: B2
+  ipa: "/ɪˌmædʒ.ɪˈneɪ.ʃən/"
+  example: "Children have a lot of imagination."
+  translations:
+    de: ["die Fantasie", "die Vorstellungskraft"]
+  example_translations:
+    de: "Kinder haben viel Fantasie."
+
+- id: "imagine"
+  lemma: "imagine"
+  pos: verb
+  level: A1
+  ipa: "/ɪˈmædʒ.ɪn/"
+  example: "Imagine you are on a beach."
+  translations:
+    de: ["sich vorstellen"]
+  example_translations:
+    de: "Stell dir vor, du bist an einem Strand."
+
+- id: "impression"
+  lemma: "impression"
+  pos: noun
+  level: B1
+  ipa: "/ɪmˈpreʃ.ən/"
+  example: "She made a good impression."
+  translations:
+    de: ["der Eindruck"]
+  example_translations:
+    de: "Sie hat einen guten Eindruck gemacht."
+
+- id: "insight"
+  lemma: "insight"
+  pos: noun
+  level: B2
+  ipa: "/ˈɪn.saɪt/"
+  example: "The book gives an insight into her life."
+  translations:
+    de: ["der Einblick", "die Erkenntnis"]
+  example_translations:
+    de: "Das Buch gibt einen Einblick in ihr Leben."
+
+- id: "intelligence"
+  lemma: "intelligence"
+  pos: noun
+  level: B1
+  ipa: "/ɪnˈtel.ɪ.dʒəns/"
+  example: "She has great intelligence."
+  translations:
+    de: ["die Intelligenz"]
+  example_translations:
+    de: "Sie ist sehr intelligent."
+
+- id: "intend"
+  lemma: "intend"
+  pos: verb
+  level: B1
+  ipa: "/ɪnˈtend/"
+  example: "I intend to finish it today."
+  translations:
+    de: ["beabsichtigen", "vorhaben"]
+  example_translations:
+    de: "Ich habe vor, es heute fertigzumachen."
+
+- id: "intention"
+  lemma: "intention"
+  pos: noun
+  level: B1
+  ipa: "/ɪnˈten.ʃən/"
+  example: "I have no intention of leaving."
+  translations:
+    de: ["die Absicht"]
+  example_translations:
+    de: "Ich habe nicht die Absicht zu gehen."
+
+- id: "judge-verb"
+  lemma: "judge"
+  pos: verb
+  level: B1
+  ipa: "/dʒʌdʒ/"
+  example: "Don't judge people by their clothes."
+  translations:
+    de: ["beurteilen", "urteilen", "bewerten"]
+  example_translations:
+    de: "Beurteile Menschen nicht nach ihrer Kleidung."
+
+- id: "judgement"
+  lemma: "judgement"
+  pos: noun
+  level: B2
+  ipa: "/ˈdʒʌdʒ.mənt/"
+  example: "I trust your judgement."
+  translations:
+    de: ["das Urteil", "das Urteilsvermögen"]
+  example_translations:
+    de: "Ich vertraue deinem Urteil."
+
+- id: "know"
+  lemma: "know"
+  pos: verb
+  level: A1
+  ipa: "/nəʊ/"
+  example: "I don't know."
+  translations:
+    de: ["wissen", "kennen"]
+  example_translations:
+    de: "Ich weiß es nicht."
+
+- id: "knowledge"
+  lemma: "knowledge"
+  pos: noun
+  level: A2
+  ipa: "/ˈnɒl.ɪdʒ/"
+  example: "He has a good knowledge of history."
+  translations:
+    de: ["das Wissen", "die Kenntnisse"]
+  example_translations:
+    de: "Er hat gute Geschichtskenntnisse."
+
+- id: "logical"
+  lemma: "logical"
+  pos: adjective
+  level: B2
+  ipa: "/ˈlɒdʒ.ɪ.kəl/"
+  example: "That's not logical."
+  translations:
+    de: ["logisch"]
+  example_translations:
+    de: "Das ist nicht logisch."
+
+- id: "memory"
+  lemma: "memory"
+  pos: noun
+  level: A2
+  ipa: "/ˈmem.ər.i/"
+  example: "I have a bad memory for names."
+  translations:
+    de: ["die Erinnerung", "das Gedächtnis", "der Speicher"]
+  example_translations:
+    de: "Ich habe ein schlechtes Namensgedächtnis."
+
+- id: "mental"
+  lemma: "mental"
+  pos: adjective
+  level: B1
+  ipa: "/ˈmen.təl/"
+  example: "Mental health is important."
+  translations:
+    de: ["geistig", "psychisch"]
+  example_translations:
+    de: "Psychische Gesundheit ist wichtig."
+
+- id: "mind-noun"
+  lemma: "mind"
+  pos: noun
+  level: A2
+  ipa: "/maɪnd/"
+  example: "I changed my mind."
+  translations:
+    de: ["der Verstand", "der Geist", "die Meinung"]
+  example_translations:
+    de: "Ich habe es mir anders überlegt."
+
+- id: "mistake-verb"
+  lemma: "mistake"
+  pos: verb
+  level: B2
+  ipa: "/mɪˈsteɪk/"
+  example: "I mistook him for his brother."
+  translations:
+    de: ["verwechseln", "missverstehen"]
+  example_translations:
+    de: "Ich habe ihn mit seinem Bruder verwechselt."
+
+- id: "moral-adjective"
+  lemma: "moral"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmɒr.əl/"
+  example: "It's a moral question."
+  translations:
+    de: ["moralisch"]
+  example_translations:
+    de: "Das ist eine moralische Frage."
+
+- id: "moral-noun"
+  lemma: "moral"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɒr.əl/"
+  example: "What is the moral of the story?"
+  translations:
+    de: ["die Moral", "die Lehre"]
+  example_translations:
+    de: "Was ist die Moral der Geschichte?"
+
+- id: "notice-verb"
+  lemma: "notice"
+  pos: verb
+  level: A2
+  ipa: "/ˈnəʊ.tɪs/"
+  example: "Did you notice anything strange?"
+  translations:
+    de: ["bemerken"]
+  example_translations:
+    de: "Hast du etwas Seltsames bemerkt?"
+
+- id: "notion"
+  lemma: "notion"
+  pos: noun
+  level: B2
+  ipa: "/ˈnəʊ.ʃən/"
+  example: "I have no notion of what he means."
+  translations:
+    de: ["die Vorstellung", "der Begriff"]
+  example_translations:
+    de: "Ich habe keine Ahnung, was er meint."
+
+- id: "objective-adjective"
+  lemma: "objective"
+  pos: adjective
+  level: B2
+  ipa: "/əbˈdʒek.tɪv/"
+  example: "Try to be objective."
+  translations:
+    de: ["objektiv", "sachlich"]
+  example_translations:
+    de: "Versuche, objektiv zu sein."
+
+- id: "opinion"
+  lemma: "opinion"
+  pos: noun
+  level: A1
+  ipa: "/əˈpɪn.jən/"
+  example: "In my opinion, he is wrong."
+  translations:
+    de: ["die Meinung"]
+  example_translations:
+    de: "Meiner Meinung nach hat er unrecht."
+
+- id: "opposed"
+  lemma: "opposed"
+  pos: adjective
+  level: B2
+  ipa: "/əˈpəʊzd/"
+  example: "I'm opposed to the plan."
+  translations:
+    de: ["dagegen", "ablehnend"]
+  example_translations:
+    de: "Ich bin gegen den Plan."
+
+- id: "perspective"
+  lemma: "perspective"
+  pos: noun
+  level: B2
+  ipa: "/pəˈspek.tɪv/"
+  example: "Try to see it from my perspective."
+  translations:
+    de: ["die Perspektive", "die Sichtweise"]
+  example_translations:
+    de: "Versuche, es aus meiner Sicht zu sehen."
+
+- id: "philosophy"
+  lemma: "philosophy"
+  pos: noun
+  level: B2
+  ipa: "/fɪˈlɒs.ə.fi/"
+  example: "She studied philosophy."
+  translations:
+    de: ["die Philosophie"]
+  example_translations:
+    de: "Sie hat Philosophie studiert."
+
+- id: "picture-verb"
+  lemma: "picture"
+  pos: verb
+  level: B2
+  ipa: "/ˈpɪk.tʃər/"
+  example: "I can't picture him as a teacher."
+  translations:
+    de: ["sich vorstellen", "darstellen"]
+  example_translations:
+    de: "Ich kann ihn mir nicht als Lehrer vorstellen."
+
+- id: "predict"
+  lemma: "predict"
+  pos: verb
+  level: A2
+  ipa: "/prɪˈdɪkt/"
+  example: "They predict rain for tomorrow."
+  translations:
+    de: ["vorhersagen"]
+  example_translations:
+    de: "Für morgen ist Regen vorhergesagt."
+
+- id: "prediction"
+  lemma: "prediction"
+  pos: noun
+  level: B1
+  ipa: "/prɪˈdɪk.ʃən/"
+  example: "His prediction was correct."
+  translations:
+    de: ["die Vorhersage", "die Prognose"]
+  example_translations:
+    de: "Seine Vorhersage war richtig."
+
+- id: "principle"
+  lemma: "principle"
+  pos: noun
+  level: B2
+  ipa: "/ˈprɪn.sə.pəl/"
+  example: "It's against my principles."
+  translations:
+    de: ["das Prinzip", "der Grundsatz"]
+  example_translations:
+    de: "Das verstößt gegen meine Prinzipien."
+
+- id: "prove"
+  lemma: "prove"
+  pos: verb
+  level: B1
+  ipa: "/pruːv/"
+  example: "Can you prove it?"
+  translations:
+    de: ["beweisen", "sich erweisen"]
+  example_translations:
+    de: "Kannst du es beweisen?"
+
+- id: "rate-verb"
+  lemma: "rate"
+  pos: verb
+  level: B2
+  ipa: "/reɪt/"
+  example: "How would you rate the hotel?"
+  translations:
+    de: ["bewerten", "einschätzen"]
+  example_translations:
+    de: "Wie würdest du das Hotel bewerten?"
+
+- id: "realize"
+  lemma: "realize"
+  pos: verb
+  level: A2
+  ipa: "/ˈrɪə.laɪz/"
+  example: "I didn't realize it was so late."
+  translations:
+    de: ["erkennen", "merken", "verwirklichen"]
+  example_translations:
+    de: "Mir war nicht klar, dass es so spät ist."
+
+- id: "recall"
+  lemma: "recall"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈkɔːl/"
+  example: "I can't recall his name."
+  translations:
+    de: ["sich erinnern", "zurückrufen"]
+  example_translations:
+    de: "Ich kann mich nicht an seinen Namen erinnern."
+
+- id: "recognize"
+  lemma: "recognize"
+  pos: verb
+  level: A2
+  ipa: "/ˈrek.əɡ.naɪz/"
+  example: "I didn't recognize you!"
+  translations:
+    de: ["erkennen", "anerkennen"]
+  example_translations:
+    de: "Ich habe dich nicht erkannt!"
+
+- id: "reflect"
+  lemma: "reflect"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈflekt/"
+  example: "The mountains are reflected in the lake."
+  translations:
+    de: ["widerspiegeln", "reflektieren", "nachdenken"]
+  example_translations:
+    de: "Die Berge spiegeln sich im See."
+
+- id: "regard-verb"
+  lemma: "regard"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈɡɑːd/"
+  example: "She is regarded as the best player."
+  translations:
+    de: ["betrachten", "ansehen"]
+  example_translations:
+    de: "Sie gilt als die beste Spielerin."
+
+- id: "remind"
+  lemma: "remind"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈmaɪnd/"
+  example: "Remind me to call her."
+  translations:
+    de: ["erinnern"]
+  example_translations:
+    de: "Erinnere mich daran, sie anzurufen."
+
+- id: "sense-noun"
+  lemma: "sense"
+  pos: noun
+  level: A2
+  ipa: "/sens/"
+  example: "That doesn't make sense."
+  translations:
+    de: ["der Sinn", "das Gefühl", "der Verstand"]
+  example_translations:
+    de: "Das ergibt keinen Sinn."
+
+- id: "solve"
+  lemma: "solve"
+  pos: verb
+  level: A2
+  ipa: "/sɒlv/"
+  example: "Can you solve this problem?"
+  translations:
+    de: ["lösen"]
+  example_translations:
+    de: "Kannst du dieses Problem lösen?"
+
+- id: "spirit"
+  lemma: "spirit"
+  pos: noun
+  level: B1
+  ipa: "/ˈspɪr.ɪt/"
+  example: "The team has a great spirit."
+  translations:
+    de: ["der Geist", "die Stimmung"]
+  example_translations:
+    de: "Die Mannschaft hat einen tollen Teamgeist."
+
+- id: "suppose"
+  lemma: "suppose"
+  pos: verb
+  level: A2
+  ipa: "/səˈpəʊz/"
+  example: "I suppose you're right."
+  translations:
+    de: ["annehmen", "vermuten"]
+  example_translations:
+    de: "Ich nehme an, du hast recht."
+
+- id: "sure-adjective"
+  lemma: "sure"
+  pos: adjective
+  level: A1
+  ipa: "/ʃɔːr/"
+  example: "Are you sure?"
+  translations:
+    de: ["sicher"]
+  example_translations:
+    de: "Bist du sicher?"
+
+- id: "suspect-verb"
+  lemma: "suspect"
+  pos: verb
+  level: B2
+  ipa: "/səˈspekt/"
+  example: "I suspect he's lying."
+  translations:
+    de: ["vermuten", "verdächtigen"]
+  example_translations:
+    de: "Ich vermute, dass er lügt."
+
+- id: "think"
+  lemma: "think"
+  pos: verb
+  level: A1
+  ipa: "/θɪŋk/"
+  example: "What do you think?"
+  translations:
+    de: ["denken", "glauben", "meinen"]
+  example_translations:
+    de: "Was meinst du?"
+
+- id: "thinking"
+  lemma: "thinking"
+  pos: noun
+  level: A2
+  ipa: "/ˈθɪŋ.kɪŋ/"
+  example: "We need some new thinking."
+  translations:
+    de: ["das Denken", "die Überlegung"]
+  example_translations:
+    de: "Wir brauchen neue Denkansätze."
+
+- id: "thought"
+  lemma: "thought"
+  pos: noun
+  level: A2
+  ipa: "/θɔːt/"
+  example: "That's an interesting thought."
+  translations:
+    de: ["der Gedanke"]
+  example_translations:
+    de: "Das ist ein interessanter Gedanke."
+
+- id: "understanding"
+  lemma: "understanding"
+  pos: noun
+  level: A2
+  ipa: "/ˌʌn.dəˈstæn.dɪŋ/"
+  example: "Thank you for your understanding."
+  translations:
+    de: ["das Verständnis"]
+  example_translations:
+    de: "Danke für Ihr Verständnis."
+
+- id: "view-verb"
+  lemma: "view"
+  pos: verb
+  level: B1
+  ipa: "/vjuː/"
+  example: "You can view the flat tomorrow."
+  translations:
+    de: ["betrachten", "ansehen", "besichtigen"]
+  example_translations:
+    de: "Sie können die Wohnung morgen besichtigen."
+
+- id: "vision"
+  lemma: "vision"
+  pos: noun
+  level: B2
+  ipa: "/ˈvɪʒ.ən/"
+  example: "She has a clear vision for the company."
+  translations:
+    de: ["die Vision", "das Sehvermögen"]
+  example_translations:
+    de: "Sie hat eine klare Vision für die Firma."
+
+- id: "will-noun"
+  lemma: "will"
+  pos: noun
+  level: B1
+  ipa: "/wɪl/"
+  example: "She has a strong will."
+  translations:
+    de: ["der Wille", "das Testament"]
+  example_translations:
+    de: "Sie hat einen starken Willen."
+
+- id: "wonder-verb"
+  lemma: "wonder"
+  pos: verb
+  level: B1
+  ipa: "/ˈwʌn.dər/"
+  example: "I wonder where he is."
+  translations:
+    de: ["sich fragen"]
+  example_translations:
+    de: "Ich frage mich, wo er ist."

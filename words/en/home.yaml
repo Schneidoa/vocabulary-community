@@ -1,0 +1,1080 @@
+# 🏠 Zuhause – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "alarm-noun"
+  lemma: "alarm"
+  pos: noun
+  level: B1
+  ipa: "/əˈlɑːm/"
+  example: "I set the alarm for six o'clock."
+  translations:
+    de: ["der Alarm", "der Wecker"]
+  example_translations:
+    de: "Ich habe den Wecker auf sechs Uhr gestellt."
+
+- id: "apartment"
+  lemma: "apartment"
+  pos: noun
+  level: A1
+  ipa: "/əˈpɑːt.mənt/"
+  example: "They live in a small apartment."
+  translations:
+    de: ["die Wohnung", "das Apartment"]
+  example_translations:
+    de: "Sie wohnen in einer kleinen Wohnung."
+
+- id: "asleep"
+  lemma: "asleep"
+  pos: adjective
+  level: A2
+  ipa: "/əˈsliːp/"
+  example: "The baby is asleep."
+  translations:
+    de: ["schlafend"]
+  example_translations:
+    de: "Das Baby schläft."
+
+- id: "bath"
+  lemma: "bath"
+  pos: noun
+  level: A1
+  ipa: "/bɑːθ/"
+  example: "I'm going to have a bath."
+  translations:
+    de: ["das Bad", "die Badewanne"]
+  example_translations:
+    de: "Ich nehme jetzt ein Bad."
+
+- id: "bathroom"
+  lemma: "bathroom"
+  pos: noun
+  level: A1
+  ipa: "/ˈbɑːθ.ruːm/"
+  example: "The bathroom is upstairs."
+  translations:
+    de: ["das Badezimmer", "das Bad"]
+  example_translations:
+    de: "Das Badezimmer ist oben."
+
+- id: "bed"
+  lemma: "bed"
+  pos: noun
+  level: A1
+  ipa: "/bed/"
+  example: "I go to bed at ten."
+  translations:
+    de: ["das Bett"]
+  example_translations:
+    de: "Ich gehe um zehn ins Bett."
+
+- id: "bedroom"
+  lemma: "bedroom"
+  pos: noun
+  level: A1
+  ipa: "/ˈbed.ruːm/"
+  example: "The flat has two bedrooms."
+  translations:
+    de: ["das Schlafzimmer"]
+  example_translations:
+    de: "Die Wohnung hat zwei Schlafzimmer."
+
+- id: "bell"
+  lemma: "bell"
+  pos: noun
+  level: B1
+  ipa: "/bel/"
+  example: "The bell rang at nine."
+  translations:
+    de: ["die Glocke", "die Klingel"]
+  example_translations:
+    de: "Um neun klingelte die Glocke."
+
+- id: "bin"
+  lemma: "bin"
+  pos: noun
+  level: A2
+  ipa: "/bɪn/"
+  example: "Put it in the bin."
+  translations:
+    de: ["der Mülleimer", "die Tonne"]
+  example_translations:
+    de: "Wirf es in den Mülleimer."
+
+- id: "bowl"
+  lemma: "bowl"
+  pos: noun
+  level: A2
+  ipa: "/bəʊl/"
+  example: "A bowl of soup, please."
+  translations:
+    de: ["die Schüssel", "die Schale"]
+  example_translations:
+    de: "Eine Schüssel Suppe, bitte."
+
+- id: "box"
+  lemma: "box"
+  pos: noun
+  level: A1
+  ipa: "/bɒks/"
+  example: "Put the toys in the box."
+  translations:
+    de: ["die Kiste", "die Schachtel"]
+  example_translations:
+    de: "Leg die Spielsachen in die Kiste."
+
+- id: "brush-noun"
+  lemma: "brush"
+  pos: noun
+  level: A2
+  ipa: "/brʌʃ/"
+  example: "Where is my hair brush?"
+  translations:
+    de: ["die Bürste", "der Pinsel"]
+  example_translations:
+    de: "Wo ist meine Haarbürste?"
+
+- id: "brush-verb"
+  lemma: "brush"
+  pos: verb
+  level: A2
+  ipa: "/brʌʃ/"
+  example: "Brush your teeth before bed."
+  translations:
+    de: ["bürsten", "putzen"]
+  example_translations:
+    de: "Putz dir vor dem Schlafen die Zähne."
+
+- id: "carpet"
+  lemma: "carpet"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɑː.pɪt/"
+  example: "There is a red carpet in the living room."
+  translations:
+    de: ["der Teppich"]
+  example_translations:
+    de: "Im Wohnzimmer liegt ein roter Teppich."
+
+- id: "ceiling"
+  lemma: "ceiling"
+  pos: noun
+  level: B1
+  ipa: "/ˈsiː.lɪŋ/"
+  example: "There is a spider on the ceiling."
+  translations:
+    de: ["die Decke (Zimmer)"]
+  example_translations:
+    de: "An der Decke ist eine Spinne."
+
+- id: "chair"
+  lemma: "chair"
+  pos: noun
+  level: A1
+  ipa: "/tʃeər/"
+  example: "Please sit on this chair."
+  translations:
+    de: ["der Stuhl"]
+  example_translations:
+    de: "Bitte setz dich auf diesen Stuhl."
+
+- id: "clean"
+  lemma: "clean"
+  pos: verb
+  level: A2
+  ipa: "/kliːn/"
+  example: "We clean the flat on Saturday."
+  translations:
+    de: ["putzen", "sauber machen"]
+  example_translations:
+    de: "Wir putzen samstags die Wohnung."
+
+- id: "clear-verb"
+  lemma: "clear"
+  pos: verb
+  level: B1
+  ipa: "/klɪər/"
+  example: "Can you clear the table?"
+  translations:
+    de: ["räumen", "abräumen", "aufklaren"]
+  example_translations:
+    de: "Kannst du den Tisch abräumen?"
+
+- id: "cloth"
+  lemma: "cloth"
+  pos: noun
+  level: B1
+  ipa: "/klɒθ/"
+  example: "Clean the table with a cloth."
+  translations:
+    de: ["der Stoff", "das Tuch"]
+  example_translations:
+    de: "Wisch den Tisch mit einem Tuch ab."
+
+- id: "container"
+  lemma: "container"
+  pos: noun
+  level: B1
+  ipa: "/kənˈteɪ.nər/"
+  example: "Keep the food in a plastic container."
+  translations:
+    de: ["der Behälter"]
+  example_translations:
+    de: "Bewahre das Essen in einem Plastikbehälter auf."
+
+- id: "cooker"
+  lemma: "cooker"
+  pos: noun
+  level: A2
+  ipa: "/ˈkʊk.ər/"
+  example: "The cooker is electric."
+  translations:
+    de: ["der Herd"]
+  example_translations:
+    de: "Der Herd ist elektrisch."
+
+- id: "cottage"
+  lemma: "cottage"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒt.ɪdʒ/"
+  example: "They rent a cottage by the sea."
+  translations:
+    de: ["das Landhaus", "das Cottage"]
+  example_translations:
+    de: "Sie mieten ein Häuschen am Meer."
+
+- id: "cupboard"
+  lemma: "cupboard"
+  pos: noun
+  level: A2
+  ipa: "/ˈkʌb.əd/"
+  example: "The plates are in the cupboard."
+  translations:
+    de: ["der Schrank"]
+  example_translations:
+    de: "Die Teller sind im Schrank."
+
+- id: "curtain"
+  lemma: "curtain"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɜː.tən/"
+  example: "Close the curtains, please."
+  translations:
+    de: ["der Vorhang", "die Gardine"]
+  example_translations:
+    de: "Zieh bitte die Vorhänge zu."
+
+- id: "decorate"
+  lemma: "decorate"
+  pos: verb
+  level: B1
+  ipa: "/ˈdek.ə.reɪt/"
+  example: "We decorated the tree together."
+  translations:
+    de: ["schmücken", "dekorieren", "renovieren"]
+  example_translations:
+    de: "Wir haben den Baum zusammen geschmückt."
+
+- id: "decoration"
+  lemma: "decoration"
+  pos: noun
+  level: B2
+  ipa: "/ˌdek.əˈreɪ.ʃən/"
+  example: "The Christmas decorations are beautiful."
+  translations:
+    de: ["die Dekoration", "der Schmuck"]
+  example_translations:
+    de: "Die Weihnachtsdekoration ist wunderschön."
+
+- id: "dirt"
+  lemma: "dirt"
+  pos: noun
+  level: B1
+  ipa: "/dɜːt/"
+  example: "There is dirt on your shoes."
+  translations:
+    de: ["der Schmutz", "der Dreck"]
+  example_translations:
+    de: "An deinen Schuhen ist Dreck."
+
+- id: "domestic"
+  lemma: "domestic"
+  pos: adjective
+  level: B2
+  ipa: "/dəˈmes.tɪk/"
+  example: "We took a domestic flight."
+  translations:
+    de: ["häuslich", "Haus-", "Inland-"]
+  example_translations:
+    de: "Wir haben einen Inlandsflug genommen."
+
+- id: "door"
+  lemma: "door"
+  pos: noun
+  level: A1
+  ipa: "/dɔːr/"
+  example: "Please close the door."
+  translations:
+    de: ["die Tür"]
+  example_translations:
+    de: "Bitte schließ die Tür."
+
+- id: "downstairs"
+  lemma: "downstairs"
+  pos: adverb
+  level: A1
+  ipa: "/ˌdaʊnˈsteəz/"
+  example: "The kitchen is downstairs."
+  translations:
+    de: ["unten", "nach unten"]
+  example_translations:
+    de: "Die Küche ist unten."
+
+- id: "dry-verb"
+  lemma: "dry"
+  pos: verb
+  level: A2
+  ipa: "/draɪ/"
+  example: "Can you dry the dishes?"
+  translations:
+    de: ["trocknen", "abtrocknen"]
+  example_translations:
+    de: "Kannst du das Geschirr abtrocknen?"
+
+- id: "dust"
+  lemma: "dust"
+  pos: noun
+  level: B1
+  ipa: "/dʌst/"
+  example: "The shelves are covered in dust."
+  translations:
+    de: ["der Staub"]
+  example_translations:
+    de: "Die Regale sind voller Staub."
+
+- id: "empty-verb"
+  lemma: "empty"
+  pos: verb
+  level: B1
+  ipa: "/ˈemp.ti/"
+  example: "Can you empty the bin?"
+  translations:
+    de: ["leeren", "ausleeren"]
+  example_translations:
+    de: "Kannst du den Mülleimer leeren?"
+
+- id: "estate"
+  lemma: "estate"
+  pos: noun
+  level: B2
+  ipa: "/ɪˈsteɪt/"
+  example: "They live on a housing estate."
+  translations:
+    de: ["das Anwesen", "die Siedlung", "der Nachlass"]
+  example_translations:
+    de: "Sie wohnen in einer Wohnsiedlung."
+
+- id: "fence"
+  lemma: "fence"
+  pos: noun
+  level: B1
+  ipa: "/fens/"
+  example: "The dog jumped over the fence."
+  translations:
+    de: ["der Zaun"]
+  example_translations:
+    de: "Der Hund sprang über den Zaun."
+
+- id: "flat"
+  lemma: "flat"
+  pos: noun
+  level: A2
+  ipa: "/flæt/"
+  example: "Our flat has three rooms."
+  translations:
+    de: ["die Wohnung"]
+  example_translations:
+    de: "Unsere Wohnung hat drei Zimmer."
+
+- id: "floor"
+  lemma: "floor"
+  pos: noun
+  level: A2
+  ipa: "/flɔːr/"
+  example: "The keys are on the floor."
+  translations:
+    de: ["der Boden", "das Stockwerk"]
+  example_translations:
+    de: "Die Schlüssel liegen auf dem Boden."
+
+- id: "folding"
+  lemma: "folding"
+  pos: adjective
+  level: B2
+  ipa: "/ˈfəʊl.dɪŋ/"
+  example: "We need some folding chairs."
+  translations:
+    de: ["Klapp-", "zusammenklappbar"]
+  example_translations:
+    de: "Wir brauchen ein paar Klappstühle."
+
+- id: "frame-noun"
+  lemma: "frame"
+  pos: noun
+  level: B1
+  ipa: "/freɪm/"
+  example: "I need a frame for this photo."
+  translations:
+    de: ["der Rahmen", "das Gestell"]
+  example_translations:
+    de: "Ich brauche einen Rahmen für dieses Foto."
+
+- id: "fridge"
+  lemma: "fridge"
+  pos: noun
+  level: A2
+  ipa: "/frɪdʒ/"
+  example: "There is milk in the fridge."
+  translations:
+    de: ["der Kühlschrank"]
+  example_translations:
+    de: "Im Kühlschrank ist Milch."
+
+- id: "furniture"
+  lemma: "furniture"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɜː.nɪ.tʃər/"
+  example: "We need new furniture."
+  translations:
+    de: ["die Möbel"]
+  example_translations:
+    de: "Wir brauchen neue Möbel."
+
+- id: "garage"
+  lemma: "garage"
+  pos: noun
+  level: B1
+  ipa: "/ˈɡær.ɑːʒ/"
+  example: "The car is in the garage."
+  translations:
+    de: ["die Garage", "die Werkstatt"]
+  example_translations:
+    de: "Das Auto steht in der Garage."
+
+- id: "garden"
+  lemma: "garden"
+  pos: noun
+  level: A1
+  ipa: "/ˈɡɑː.dən/"
+  example: "The children play in the garden."
+  translations:
+    de: ["der Garten"]
+  example_translations:
+    de: "Die Kinder spielen im Garten."
+
+- id: "gas"
+  lemma: "gas"
+  pos: noun
+  level: A2
+  ipa: "/ɡæs/"
+  example: "We cook with gas."
+  translations:
+    de: ["das Gas"]
+  example_translations:
+    de: "Wir kochen mit Gas."
+
+- id: "glass"
+  lemma: "glass"
+  pos: noun
+  level: A1
+  ipa: "/ɡlɑːs/"
+  example: "Can I have a glass of water?"
+  translations:
+    de: ["das Glas"]
+  example_translations:
+    de: "Kann ich ein Glas Wasser haben?"
+
+- id: "hall"
+  lemma: "hall"
+  pos: noun
+  level: A2
+  ipa: "/hɔːl/"
+  example: "Leave your shoes in the hall."
+  translations:
+    de: ["der Flur", "die Halle", "der Saal"]
+  example_translations:
+    de: "Lass deine Schuhe im Flur."
+
+- id: "handle-noun"
+  lemma: "handle"
+  pos: noun
+  level: B2
+  ipa: "/ˈhæn.dəl/"
+  example: "The door handle is broken."
+  translations:
+    de: ["der Griff", "der Henkel"]
+  example_translations:
+    de: "Der Türgriff ist kaputt."
+
+- id: "heating"
+  lemma: "heating"
+  pos: noun
+  level: B1
+  ipa: "/ˈhiː.tɪŋ/"
+  example: "Can you turn on the heating?"
+  translations:
+    de: ["die Heizung"]
+  example_translations:
+    de: "Kannst du die Heizung anmachen?"
+
+- id: "home"
+  lemma: "home"
+  pos: adverb
+  level: A1
+  ipa: "/həʊm/"
+  example: "I'm going home."
+  translations:
+    de: ["nach Hause", "zu Hause"]
+  example_translations:
+    de: "Ich gehe nach Hause."
+
+- id: "house"
+  lemma: "house"
+  pos: noun
+  level: A1
+  ipa: "/haʊs/"
+  example: "Our house is small."
+  translations:
+    de: ["das Haus"]
+  example_translations:
+    de: "Unser Haus ist klein."
+
+- id: "house-verb"
+  lemma: "house"
+  pos: verb
+  level: B2
+  ipa: "/haʊz/"
+  example: "The building houses a museum."
+  translations:
+    de: ["unterbringen", "beherbergen"]
+  example_translations:
+    de: "In dem Gebäude ist ein Museum untergebracht."
+
+- id: "household"
+  lemma: "household"
+  pos: noun
+  level: B2
+  ipa: "/ˈhaʊs.həʊld/"
+  example: "Every household has a TV."
+  translations:
+    de: ["der Haushalt"]
+  example_translations:
+    de: "Jeder Haushalt hat einen Fernseher."
+
+- id: "housing"
+  lemma: "housing"
+  pos: noun
+  level: B2
+  ipa: "/ˈhaʊ.zɪŋ/"
+  example: "Housing is expensive in the city."
+  translations:
+    de: ["der Wohnraum", "das Wohnungswesen"]
+  example_translations:
+    de: "Wohnraum ist in der Stadt teuer."
+
+- id: "indoors"
+  lemma: "indoors"
+  pos: adverb
+  level: B1
+  ipa: "/ˌɪnˈdɔːz/"
+  example: "Let's stay indoors today."
+  translations:
+    de: ["drinnen", "im Haus"]
+  example_translations:
+    de: "Lass uns heute drinnen bleiben."
+
+- id: "iron-noun"
+  lemma: "iron"
+  pos: noun
+  level: B1
+  ipa: "/aɪən/"
+  example: "The iron is hot."
+  translations:
+    de: ["das Bügeleisen", "das Eisen"]
+  example_translations:
+    de: "Das Bügeleisen ist heiß."
+
+- id: "iron-verb"
+  lemma: "iron"
+  pos: verb
+  level: B1
+  ipa: "/aɪən/"
+  example: "I have to iron my shirt."
+  translations:
+    de: ["bügeln"]
+  example_translations:
+    de: "Ich muss mein Hemd bügeln."
+
+- id: "key"
+  lemma: "key"
+  pos: noun
+  level: A2
+  ipa: "/kiː/"
+  example: "I can't find my key."
+  translations:
+    de: ["der Schlüssel"]
+  example_translations:
+    de: "Ich finde meinen Schlüssel nicht."
+
+- id: "kitchen"
+  lemma: "kitchen"
+  pos: noun
+  level: A1
+  ipa: "/ˈkɪtʃ.ən/"
+  example: "Mum is in the kitchen."
+  translations:
+    de: ["die Küche"]
+  example_translations:
+    de: "Mama ist in der Küche."
+
+- id: "lamp"
+  lemma: "lamp"
+  pos: noun
+  level: A2
+  ipa: "/læmp/"
+  example: "Turn on the lamp, please."
+  translations:
+    de: ["die Lampe"]
+  example_translations:
+    de: "Mach bitte die Lampe an."
+
+- id: "lift-noun"
+  lemma: "lift"
+  pos: noun
+  level: A2
+  ipa: "/lɪft/"
+  example: "Let's take the lift."
+  translations:
+    de: ["der Aufzug", "die Mitfahrgelegenheit"]
+  example_translations:
+    de: "Lass uns den Aufzug nehmen."
+
+- id: "light-noun"
+  lemma: "light"
+  pos: noun
+  level: A1
+  ipa: "/laɪt/"
+  example: "Turn off the light, please."
+  translations:
+    de: ["das Licht", "die Lampe"]
+  example_translations:
+    de: "Mach bitte das Licht aus."
+
+- id: "lock-noun"
+  lemma: "lock"
+  pos: noun
+  level: A2
+  ipa: "/lɒk/"
+  example: "The key is in the lock."
+  translations:
+    de: ["das Schloss"]
+  example_translations:
+    de: "Der Schlüssel steckt im Schloss."
+
+- id: "lock-verb"
+  lemma: "lock"
+  pos: verb
+  level: A2
+  ipa: "/lɒk/"
+  example: "Don't forget to lock the door."
+  translations:
+    de: ["abschließen", "zuschließen"]
+  example_translations:
+    de: "Vergiss nicht, die Tür abzuschließen."
+
+- id: "mess"
+  lemma: "mess"
+  pos: noun
+  level: B1
+  ipa: "/mes/"
+  example: "Your room is a mess!"
+  translations:
+    de: ["die Unordnung", "das Durcheinander"]
+  example_translations:
+    de: "Dein Zimmer ist ein einziges Chaos!"
+
+- id: "mirror"
+  lemma: "mirror"
+  pos: noun
+  level: A2
+  ipa: "/ˈmɪr.ər/"
+  example: "She looks in the mirror."
+  translations:
+    de: ["der Spiegel"]
+  example_translations:
+    de: "Sie schaut in den Spiegel."
+
+- id: "needle"
+  lemma: "needle"
+  pos: noun
+  level: B1
+  ipa: "/ˈniː.dəl/"
+  example: "I need a needle and thread."
+  translations:
+    de: ["die Nadel"]
+  example_translations:
+    de: "Ich brauche Nadel und Faden."
+
+- id: "oven"
+  lemma: "oven"
+  pos: noun
+  level: A2
+  ipa: "/ˈʌv.ən/"
+  example: "Put the cake in the oven."
+  translations:
+    de: ["der Backofen", "der Ofen"]
+  example_translations:
+    de: "Stell den Kuchen in den Ofen."
+
+- id: "pan"
+  lemma: "pan"
+  pos: noun
+  level: B1
+  ipa: "/pæn/"
+  example: "Heat the oil in a pan."
+  translations:
+    de: ["die Pfanne", "der Topf"]
+  example_translations:
+    de: "Erhitze das Öl in einer Pfanne."
+
+- id: "pin-noun"
+  lemma: "pin"
+  pos: noun
+  level: B1
+  ipa: "/pɪn/"
+  example: "Enter your PIN."
+  translations:
+    de: ["die Nadel", "die Stecknadel", "die PIN"]
+  example_translations:
+    de: "Gib deine PIN ein."
+
+- id: "pipe"
+  lemma: "pipe"
+  pos: noun
+  level: B1
+  ipa: "/paɪp/"
+  example: "A water pipe burst."
+  translations:
+    de: ["das Rohr", "die Pfeife"]
+  example_translations:
+    de: "Ein Wasserrohr ist geplatzt."
+
+- id: "pot"
+  lemma: "pot"
+  pos: noun
+  level: B1
+  ipa: "/pɒt/"
+  example: "Make a pot of tea."
+  translations:
+    de: ["der Topf", "die Kanne"]
+  example_translations:
+    de: "Mach eine Kanne Tee."
+
+- id: "powder"
+  lemma: "powder"
+  pos: noun
+  level: B1
+  ipa: "/ˈpaʊ.dər/"
+  example: "Use washing powder."
+  translations:
+    de: ["das Pulver"]
+  example_translations:
+    de: "Benutze Waschpulver."
+
+- id: "property"
+  lemma: "property"
+  pos: noun
+  level: B1
+  ipa: "/ˈprɒp.ə.ti/"
+  example: "This is private property."
+  translations:
+    de: ["das Eigentum", "die Immobilie", "die Eigenschaft"]
+  example_translations:
+    de: "Das ist Privateigentum."
+
+- id: "rent-noun"
+  lemma: "rent"
+  pos: noun
+  level: B1
+  ipa: "/rent/"
+  example: "The rent is very high."
+  translations:
+    de: ["die Miete"]
+  example_translations:
+    de: "Die Miete ist sehr hoch."
+
+- id: "rent-verb"
+  lemma: "rent"
+  pos: verb
+  level: B1
+  ipa: "/rent/"
+  example: "We rent a flat in the city."
+  translations:
+    de: ["mieten", "vermieten"]
+  example_translations:
+    de: "Wir mieten eine Wohnung in der Stadt."
+
+- id: "roof"
+  lemma: "roof"
+  pos: noun
+  level: A2
+  ipa: "/ruːf/"
+  example: "There's a bird on the roof."
+  translations:
+    de: ["das Dach"]
+  example_translations:
+    de: "Auf dem Dach sitzt ein Vogel."
+
+- id: "room"
+  lemma: "room"
+  pos: noun
+  level: A1
+  ipa: "/ruːm/"
+  example: "My room is blue."
+  translations:
+    de: ["das Zimmer", "der Raum"]
+  example_translations:
+    de: "Mein Zimmer ist blau."
+
+- id: "rubbish"
+  lemma: "rubbish"
+  pos: noun
+  level: A2
+  ipa: "/ˈrʌb.ɪʃ/"
+  example: "Take out the rubbish, please."
+  translations:
+    de: ["der Müll", "der Unsinn"]
+  example_translations:
+    de: "Bring bitte den Müll raus."
+
+- id: "sheet"
+  lemma: "sheet"
+  pos: noun
+  level: A2
+  ipa: "/ʃiːt/"
+  example: "Take a sheet of paper."
+  translations:
+    de: ["das Laken", "das Blatt"]
+  example_translations:
+    de: "Nimm ein Blatt Papier."
+
+- id: "shelf"
+  lemma: "shelf"
+  pos: noun
+  level: B1
+  ipa: "/ʃelf/"
+  example: "Put the books on the shelf."
+  translations:
+    de: ["das Regal", "das Brett"]
+  example_translations:
+    de: "Stell die Bücher ins Regal."
+
+- id: "shower"
+  lemma: "shower"
+  pos: noun
+  level: A1
+  ipa: "/ʃaʊər/"
+  example: "I take a shower every morning."
+  translations:
+    de: ["die Dusche", "der Schauer"]
+  example_translations:
+    de: "Ich dusche jeden Morgen."
+
+- id: "soap"
+  lemma: "soap"
+  pos: noun
+  level: A2
+  ipa: "/səʊp/"
+  example: "Wash your hands with soap."
+  translations:
+    de: ["die Seife"]
+  example_translations:
+    de: "Wasch dir die Hände mit Seife."
+
+- id: "spoon"
+  lemma: "spoon"
+  pos: noun
+  level: A2
+  ipa: "/spuːn/"
+  example: "I need a spoon for my soup."
+  translations:
+    de: ["der Löffel"]
+  example_translations:
+    de: "Ich brauche einen Löffel für meine Suppe."
+
+- id: "stair"
+  lemma: "stair"
+  pos: noun
+  level: A2
+  ipa: "/steər/"
+  example: "She sat on the bottom stair."
+  translations:
+    de: ["die Stufe"]
+  example_translations:
+    de: "Sie saß auf der untersten Stufe."
+
+- id: "stairs"
+  lemma: "stairs"
+  pos: noun
+  level: A2
+  ipa: "/steəz/"
+  example: "Take the stairs to the second floor."
+  translations:
+    de: ["die Treppe"]
+  example_translations:
+    de: "Nimm die Treppe in den zweiten Stock."
+
+- id: "sweep"
+  lemma: "sweep"
+  pos: verb
+  level: B2
+  ipa: "/swiːp/"
+  example: "Can you sweep the floor?"
+  translations:
+    de: ["fegen", "kehren"]
+  example_translations:
+    de: "Kannst du den Boden fegen?"
+
+- id: "table"
+  lemma: "table"
+  pos: noun
+  level: A1
+  ipa: "/ˈteɪ.bəl/"
+  example: "The keys are on the table."
+  translations:
+    de: ["der Tisch"]
+  example_translations:
+    de: "Die Schlüssel liegen auf dem Tisch."
+
+- id: "tidy-adjective"
+  lemma: "tidy"
+  pos: adjective
+  level: A2
+  ipa: "/ˈtaɪ.di/"
+  example: "Keep your room tidy."
+  translations:
+    de: ["ordentlich", "aufgeräumt"]
+  example_translations:
+    de: "Halte dein Zimmer ordentlich."
+
+- id: "tidy-verb"
+  lemma: "tidy"
+  pos: verb
+  level: A2
+  ipa: "/ˈtaɪ.di/"
+  example: "Tidy your room, please."
+  translations:
+    de: ["aufräumen"]
+  example_translations:
+    de: "Räum bitte dein Zimmer auf."
+
+- id: "toilet"
+  lemma: "toilet"
+  pos: noun
+  level: A1
+  ipa: "/ˈtɔɪ.lət/"
+  example: "Where is the toilet, please?"
+  translations:
+    de: ["die Toilette"]
+  example_translations:
+    de: "Wo ist bitte die Toilette?"
+
+- id: "towel"
+  lemma: "towel"
+  pos: noun
+  level: A2
+  ipa: "/ˈtaʊəl/"
+  example: "Can I have a clean towel?"
+  translations:
+    de: ["das Handtuch"]
+  example_translations:
+    de: "Kann ich ein sauberes Handtuch haben?"
+
+- id: "upstairs"
+  lemma: "upstairs"
+  pos: adverb
+  level: A1
+  ipa: "/ʌpˈsteəz/"
+  example: "The bathroom is upstairs."
+  translations:
+    de: ["oben", "nach oben"]
+  example_translations:
+    de: "Das Bad ist oben."
+
+- id: "wall"
+  lemma: "wall"
+  pos: noun
+  level: A2
+  ipa: "/wɔːl/"
+  example: "There is a picture on the wall."
+  translations:
+    de: ["die Wand", "die Mauer"]
+  example_translations:
+    de: "An der Wand hängt ein Bild."
+
+- id: "wash"
+  lemma: "wash"
+  pos: verb
+  level: A2
+  ipa: "/wɒʃ/"
+  example: "Wash your hands before dinner."
+  translations:
+    de: ["waschen"]
+  example_translations:
+    de: "Wasch dir vor dem Essen die Hände."
+
+- id: "washing"
+  lemma: "washing"
+  pos: noun
+  level: A2
+  ipa: "/ˈwɒʃ.ɪŋ/"
+  example: "I have to do the washing."
+  translations:
+    de: ["die Wäsche"]
+  example_translations:
+    de: "Ich muss Wäsche waschen."
+
+- id: "water-verb"
+  lemma: "water"
+  pos: verb
+  level: B1
+  ipa: "/ˈwɔː.tər/"
+  example: "Water the flowers every day."
+  translations:
+    de: ["gießen", "bewässern"]
+  example_translations:
+    de: "Gieß die Blumen jeden Tag."
+
+- id: "window"
+  lemma: "window"
+  pos: noun
+  level: A1
+  ipa: "/ˈwɪn.dəʊ/"
+  example: "Open the window, please."
+  translations:
+    de: ["das Fenster"]
+  example_translations:
+    de: "Öffne bitte das Fenster."
+
+- id: "yard"
+  lemma: "yard"
+  pos: noun
+  level: B1
+  ipa: "/jɑːd/"
+  example: "The children are playing in the yard."
+  translations:
+    de: ["der Hof", "der Garten", "das Yard"]
+  example_translations:
+    de: "Die Kinder spielen im Hof."

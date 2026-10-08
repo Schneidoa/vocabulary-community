@@ -1,0 +1,1168 @@
+# 🍎 Essen & Trinken – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "alcohol"
+  lemma: "alcohol"
+  pos: noun
+  level: B1
+  ipa: "/ˈæl.kə.hɒl/"
+  example: "He doesn't drink alcohol."
+  translations:
+    de: ["der Alkohol"]
+  example_translations:
+    de: "Er trinkt keinen Alkohol."
+
+- id: "alcoholic"
+  lemma: "alcoholic"
+  pos: adjective
+  level: B1
+  ipa: "/ˌæl.kəˈhɒl.ɪk/"
+  example: "Do you have any non-alcoholic drinks?"
+  translations:
+    de: ["alkoholisch"]
+  example_translations:
+    de: "Haben Sie alkoholfreie Getränke?"
+
+- id: "apple"
+  lemma: "apple"
+  pos: noun
+  level: A1
+  ipa: "/ˈæp.əl/"
+  example: "I eat an apple every day."
+  translations:
+    de: ["der Apfel"]
+  example_translations:
+    de: "Ich esse jeden Tag einen Apfel."
+
+- id: "bake"
+  lemma: "bake"
+  pos: verb
+  level: B1
+  ipa: "/beɪk/"
+  example: "My mother bakes bread every week."
+  translations:
+    de: ["backen"]
+  example_translations:
+    de: "Meine Mutter backt jede Woche Brot."
+
+- id: "banana"
+  lemma: "banana"
+  pos: noun
+  level: A1
+  ipa: "/bəˈnɑː.nə/"
+  example: "The banana is yellow."
+  translations:
+    de: ["die Banane"]
+  example_translations:
+    de: "Die Banane ist gelb."
+
+- id: "bar-noun"
+  lemma: "bar"
+  pos: noun
+  level: A1
+  ipa: "/bɑːr/"
+  example: "Let's meet at the bar."
+  translations:
+    de: ["die Bar", "der Riegel"]
+  example_translations:
+    de: "Treffen wir uns in der Bar."
+
+- id: "bean"
+  lemma: "bean"
+  pos: noun
+  level: A2
+  ipa: "/biːn/"
+  example: "I don't like green beans."
+  translations:
+    de: ["die Bohne"]
+  example_translations:
+    de: "Ich mag keine grünen Bohnen."
+
+- id: "beef"
+  lemma: "beef"
+  pos: noun
+  level: A2
+  ipa: "/biːf/"
+  example: "We had roast beef for lunch."
+  translations:
+    de: ["das Rindfleisch"]
+  example_translations:
+    de: "Wir hatten Rinderbraten zum Mittagessen."
+
+- id: "beer"
+  lemma: "beer"
+  pos: noun
+  level: A1
+  ipa: "/bɪər/"
+  example: "Two beers, please."
+  translations:
+    de: ["das Bier"]
+  example_translations:
+    de: "Zwei Bier, bitte."
+
+- id: "biscuit"
+  lemma: "biscuit"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɪs.kɪt/"
+  example: "Would you like a biscuit with your tea?"
+  translations:
+    de: ["der Keks"]
+  example_translations:
+    de: "Möchtest du einen Keks zum Tee?"
+
+- id: "bite-noun"
+  lemma: "bite"
+  pos: noun
+  level: B1
+  ipa: "/baɪt/"
+  example: "Can I have a bite of your sandwich?"
+  translations:
+    de: ["der Biss", "der Bissen"]
+  example_translations:
+    de: "Kann ich einmal von deinem Sandwich abbeißen?"
+
+- id: "boil"
+  lemma: "boil"
+  pos: verb
+  level: A2
+  ipa: "/bɔɪl/"
+  example: "Boil the water first."
+  translations:
+    de: ["kochen", "sieden"]
+  example_translations:
+    de: "Bring zuerst das Wasser zum Kochen."
+
+- id: "bottle"
+  lemma: "bottle"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɒt.əl/"
+  example: "A bottle of water, please."
+  translations:
+    de: ["die Flasche"]
+  example_translations:
+    de: "Eine Flasche Wasser, bitte."
+
+- id: "bread"
+  lemma: "bread"
+  pos: noun
+  level: A1
+  ipa: "/bred/"
+  example: "We buy bread in the morning."
+  translations:
+    de: ["das Brot"]
+  example_translations:
+    de: "Wir kaufen morgens Brot."
+
+- id: "breakfast"
+  lemma: "breakfast"
+  pos: noun
+  level: A1
+  ipa: "/ˈbrek.fəst/"
+  example: "Breakfast is at eight."
+  translations:
+    de: ["das Frühstück"]
+  example_translations:
+    de: "Das Frühstück ist um acht."
+
+- id: "butter"
+  lemma: "butter"
+  pos: noun
+  level: A1
+  ipa: "/ˈbʌt.ər/"
+  example: "Bread with butter, please."
+  translations:
+    de: ["die Butter"]
+  example_translations:
+    de: "Brot mit Butter, bitte."
+
+- id: "cake"
+  lemma: "cake"
+  pos: noun
+  level: A1
+  ipa: "/keɪk/"
+  example: "The cake is delicious."
+  translations:
+    de: ["der Kuchen"]
+  example_translations:
+    de: "Der Kuchen ist lecker."
+
+- id: "can-noun"
+  lemma: "can"
+  pos: noun
+  level: A2
+  ipa: "/kæn/"
+  example: "A can of cola, please."
+  translations:
+    de: ["die Dose"]
+  example_translations:
+    de: "Eine Dose Cola, bitte."
+
+- id: "carrot"
+  lemma: "carrot"
+  pos: noun
+  level: A1
+  ipa: "/ˈkær.ət/"
+  example: "Rabbits love carrots."
+  translations:
+    de: ["die Karotte", "die Möhre"]
+  example_translations:
+    de: "Kaninchen lieben Karotten."
+
+- id: "cheese"
+  lemma: "cheese"
+  pos: noun
+  level: A1
+  ipa: "/tʃiːz/"
+  example: "This cheese is from France."
+  translations:
+    de: ["der Käse"]
+  example_translations:
+    de: "Dieser Käse kommt aus Frankreich."
+
+- id: "chicken"
+  lemma: "chicken"
+  pos: noun
+  level: A2
+  ipa: "/ˈtʃɪk.ɪn/"
+  example: "We had chicken with rice."
+  translations:
+    de: ["das Hähnchen", "das Huhn"]
+  example_translations:
+    de: "Wir hatten Hähnchen mit Reis."
+
+- id: "chip"
+  lemma: "chip"
+  pos: noun
+  level: A2
+  ipa: "/tʃɪp/"
+  example: "Fish and chips, please."
+  translations:
+    de: ["die Pommes", "der Chip"]
+  example_translations:
+    de: "Fisch mit Pommes, bitte."
+
+- id: "chocolate"
+  lemma: "chocolate"
+  pos: noun
+  level: A1
+  ipa: "/ˈtʃɒk.lət/"
+  example: "I love chocolate."
+  translations:
+    de: ["die Schokolade"]
+  example_translations:
+    de: "Ich liebe Schokolade."
+
+- id: "coffee"
+  lemma: "coffee"
+  pos: noun
+  level: A1
+  ipa: "/ˈkɒf.i/"
+  example: "I drink coffee in the morning."
+  translations:
+    de: ["der Kaffee"]
+  example_translations:
+    de: "Ich trinke morgens Kaffee."
+
+- id: "cook"
+  lemma: "cook"
+  pos: verb
+  level: A2
+  ipa: "/kʊk/"
+  example: "My father likes to cook."
+  translations:
+    de: ["kochen"]
+  example_translations:
+    de: "Mein Vater kocht gern."
+
+- id: "cooking"
+  lemma: "cooking"
+  pos: noun
+  level: A1
+  ipa: "/ˈkʊk.ɪŋ/"
+  example: "I love Italian cooking."
+  translations:
+    de: ["das Kochen", "die Küche"]
+  example_translations:
+    de: "Ich liebe die italienische Küche."
+
+- id: "cool-verb"
+  lemma: "cool"
+  pos: verb
+  level: B1
+  ipa: "/kuːl/"
+  example: "Let the cake cool for ten minutes."
+  translations:
+    de: ["abkühlen", "kühlen"]
+  example_translations:
+    de: "Lass den Kuchen zehn Minuten abkühlen."
+
+- id: "cream-noun"
+  lemma: "cream"
+  pos: noun
+  level: A1
+  ipa: "/kriːm/"
+  example: "Strawberries with cream, please."
+  translations:
+    de: ["die Sahne", "die Creme"]
+  example_translations:
+    de: "Erdbeeren mit Sahne, bitte."
+
+- id: "cup"
+  lemma: "cup"
+  pos: noun
+  level: A1
+  ipa: "/kʌp/"
+  example: "Would you like a cup of tea?"
+  translations:
+    de: ["die Tasse", "der Pokal"]
+  example_translations:
+    de: "Möchtest du eine Tasse Tee?"
+
+- id: "delicious"
+  lemma: "delicious"
+  pos: adjective
+  level: A1
+  ipa: "/dɪˈlɪʃ.əs/"
+  example: "The cake is delicious."
+  translations:
+    de: ["lecker", "köstlich"]
+  example_translations:
+    de: "Der Kuchen ist lecker."
+
+- id: "dessert"
+  lemma: "dessert"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈzɜːt/"
+  example: "What's for dessert?"
+  translations:
+    de: ["der Nachtisch", "das Dessert"]
+  example_translations:
+    de: "Was gibt es zum Nachtisch?"
+
+- id: "diet"
+  lemma: "diet"
+  pos: noun
+  level: A1
+  ipa: "/ˈdaɪ.ət/"
+  example: "A healthy diet is important."
+  translations:
+    de: ["die Ernährung", "die Diät"]
+  example_translations:
+    de: "Eine gesunde Ernährung ist wichtig."
+
+- id: "dinner"
+  lemma: "dinner"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɪn.ər/"
+  example: "We have dinner at seven."
+  translations:
+    de: ["das Abendessen"]
+  example_translations:
+    de: "Wir essen um sieben zu Abend."
+
+- id: "dish"
+  lemma: "dish"
+  pos: noun
+  level: A1
+  ipa: "/dɪʃ/"
+  example: "This is my favourite dish."
+  translations:
+    de: ["das Gericht", "die Schüssel"]
+  example_translations:
+    de: "Das ist mein Lieblingsgericht."
+
+- id: "drink"
+  lemma: "drink"
+  pos: verb
+  level: A1
+  ipa: "/drɪŋk/"
+  example: "You should drink more water."
+  translations:
+    de: ["trinken"]
+  example_translations:
+    de: "Du solltest mehr Wasser trinken."
+
+- id: "drink-noun"
+  lemma: "drink"
+  pos: noun
+  level: A1
+  ipa: "/drɪŋk/"
+  example: "Would you like a drink?"
+  translations:
+    de: ["das Getränk", "der Drink"]
+  example_translations:
+    de: "Möchtest du etwas trinken?"
+
+- id: "drunk"
+  lemma: "drunk"
+  pos: adjective
+  level: B1
+  ipa: "/drʌŋk/"
+  example: "He was drunk at the party."
+  translations:
+    de: ["betrunken"]
+  example_translations:
+    de: "Er war auf der Party betrunken."
+
+- id: "eat"
+  lemma: "eat"
+  pos: verb
+  level: A1
+  ipa: "/iːt/"
+  example: "We eat lunch at noon."
+  translations:
+    de: ["essen"]
+  example_translations:
+    de: "Wir essen mittags."
+
+- id: "egg"
+  lemma: "egg"
+  pos: noun
+  level: A1
+  ipa: "/eɡ/"
+  example: "I have an egg for breakfast."
+  translations:
+    de: ["das Ei"]
+  example_translations:
+    de: "Ich esse ein Ei zum Frühstück."
+
+- id: "fat-noun"
+  lemma: "fat"
+  pos: noun
+  level: A2
+  ipa: "/fæt/"
+  example: "This food contains a lot of fat."
+  translations:
+    de: ["das Fett"]
+  example_translations:
+    de: "Dieses Essen enthält viel Fett."
+
+- id: "fish"
+  lemma: "fish"
+  pos: noun
+  level: A1
+  ipa: "/fɪʃ/"
+  example: "We eat fish on Friday."
+  translations:
+    de: ["der Fisch"]
+  example_translations:
+    de: "Wir essen freitags Fisch."
+
+- id: "flour"
+  lemma: "flour"
+  pos: noun
+  level: B1
+  ipa: "/flaʊər/"
+  example: "You need flour, eggs and milk."
+  translations:
+    de: ["das Mehl"]
+  example_translations:
+    de: "Du brauchst Mehl, Eier und Milch."
+
+- id: "food"
+  lemma: "food"
+  pos: noun
+  level: A1
+  ipa: "/fuːd/"
+  example: "The food here is great."
+  translations:
+    de: ["das Essen", "die Nahrung", "das Lebensmittel"]
+  example_translations:
+    de: "Das Essen hier ist super."
+
+- id: "fork"
+  lemma: "fork"
+  pos: noun
+  level: A2
+  ipa: "/fɔːk/"
+  example: "I need a fork for the salad."
+  translations:
+    de: ["die Gabel"]
+  example_translations:
+    de: "Ich brauche eine Gabel für den Salat."
+
+- id: "fresh"
+  lemma: "fresh"
+  pos: adjective
+  level: A2
+  ipa: "/freʃ/"
+  example: "I like fresh bread."
+  translations:
+    de: ["frisch"]
+  example_translations:
+    de: "Ich mag frisches Brot."
+
+- id: "frozen"
+  lemma: "frozen"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfrəʊ.zən/"
+  example: "We bought frozen vegetables."
+  translations:
+    de: ["gefroren", "tiefgekühlt"]
+  example_translations:
+    de: "Wir haben Tiefkühlgemüse gekauft."
+
+- id: "fruit"
+  lemma: "fruit"
+  pos: noun
+  level: A2
+  ipa: "/fruːt/"
+  example: "I eat fruit every morning."
+  translations:
+    de: ["das Obst", "die Frucht"]
+  example_translations:
+    de: "Ich esse jeden Morgen Obst."
+
+- id: "fry"
+  lemma: "fry"
+  pos: verb
+  level: B1
+  ipa: "/fraɪ/"
+  example: "Fry the onions in oil."
+  translations:
+    de: ["braten", "frittieren"]
+  example_translations:
+    de: "Brate die Zwiebeln in Öl an."
+
+- id: "grain"
+  lemma: "grain"
+  pos: noun
+  level: B1
+  ipa: "/ɡreɪn/"
+  example: "They grow grain on the farm."
+  translations:
+    de: ["das Getreide", "das Korn"]
+  example_translations:
+    de: "Auf dem Hof wird Getreide angebaut."
+
+- id: "heat-verb"
+  lemma: "heat"
+  pos: verb
+  level: A2
+  ipa: "/hiːt/"
+  example: "Heat the milk in a pan."
+  translations:
+    de: ["erhitzen", "heizen", "aufwärmen"]
+  example_translations:
+    de: "Erhitze die Milch in einem Topf."
+
+- id: "hungry"
+  lemma: "hungry"
+  pos: adjective
+  level: A2
+  ipa: "/ˈhʌŋ.ɡri/"
+  example: "I'm hungry, let's eat."
+  translations:
+    de: ["hungrig"]
+  example_translations:
+    de: "Ich habe Hunger, lass uns essen."
+
+- id: "ice-cream"
+  lemma: "ice cream"
+  pos: noun
+  level: A1
+  ipa: "/ˌaɪs ˈkriːm/"
+  example: "I'd like a chocolate ice cream."
+  translations:
+    de: ["das Eis", "die Eiscreme"]
+  example_translations:
+    de: "Ich hätte gern ein Schokoladeneis."
+
+- id: "ingredient"
+  lemma: "ingredient"
+  pos: noun
+  level: B1
+  ipa: "/ɪnˈɡriː.di.ənt/"
+  example: "What are the ingredients of this cake?"
+  translations:
+    de: ["die Zutat"]
+  example_translations:
+    de: "Was sind die Zutaten dieses Kuchens?"
+
+- id: "jam"
+  lemma: "jam"
+  pos: noun
+  level: A2
+  ipa: "/dʒæm/"
+  example: "I like bread with jam."
+  translations:
+    de: ["die Marmelade", "der Stau"]
+  example_translations:
+    de: "Ich mag Brot mit Marmelade."
+
+- id: "juice"
+  lemma: "juice"
+  pos: noun
+  level: A1
+  ipa: "/dʒuːs/"
+  example: "I like orange juice."
+  translations:
+    de: ["der Saft"]
+  example_translations:
+    de: "Ich mag Orangensaft."
+
+- id: "knife"
+  lemma: "knife"
+  pos: noun
+  level: A2
+  ipa: "/naɪf/"
+  example: "Be careful, the knife is sharp."
+  translations:
+    de: ["das Messer"]
+  example_translations:
+    de: "Vorsicht, das Messer ist scharf."
+
+- id: "lemon"
+  lemma: "lemon"
+  pos: noun
+  level: A2
+  ipa: "/ˈlem.ən/"
+  example: "Tea with lemon, please."
+  translations:
+    de: ["die Zitrone"]
+  example_translations:
+    de: "Tee mit Zitrone, bitte."
+
+- id: "lunch"
+  lemma: "lunch"
+  pos: noun
+  level: A2
+  ipa: "/lʌntʃ/"
+  example: "Let's have lunch together."
+  translations:
+    de: ["das Mittagessen"]
+  example_translations:
+    de: "Lass uns zusammen zu Mittag essen."
+
+- id: "meal"
+  lemma: "meal"
+  pos: noun
+  level: A1
+  ipa: "/miːl/"
+  example: "We had a nice meal."
+  translations:
+    de: ["die Mahlzeit", "das Essen"]
+  example_translations:
+    de: "Wir hatten ein schönes Essen."
+
+- id: "meat"
+  lemma: "meat"
+  pos: noun
+  level: A1
+  ipa: "/miːt/"
+  example: "He doesn't eat meat."
+  translations:
+    de: ["das Fleisch"]
+  example_translations:
+    de: "Er isst kein Fleisch."
+
+- id: "menu"
+  lemma: "menu"
+  pos: noun
+  level: A1
+  ipa: "/ˈmen.juː/"
+  example: "Can I see the menu, please?"
+  translations:
+    de: ["die Speisekarte", "das Menü"]
+  example_translations:
+    de: "Kann ich bitte die Speisekarte sehen?"
+
+- id: "milk"
+  lemma: "milk"
+  pos: noun
+  level: A1
+  ipa: "/mɪlk/"
+  example: "The cat drinks milk."
+  translations:
+    de: ["die Milch"]
+  example_translations:
+    de: "Die Katze trinkt Milch."
+
+- id: "mix-verb"
+  lemma: "mix"
+  pos: verb
+  level: B1
+  ipa: "/mɪks/"
+  example: "Mix the flour and the eggs."
+  translations:
+    de: ["mischen", "vermischen"]
+  example_translations:
+    de: "Vermische das Mehl und die Eier."
+
+- id: "nut"
+  lemma: "nut"
+  pos: noun
+  level: A2
+  ipa: "/nʌt/"
+  example: "I'm allergic to nuts."
+  translations:
+    de: ["die Nuss"]
+  example_translations:
+    de: "Ich bin allergisch gegen Nüsse."
+
+- id: "oil"
+  lemma: "oil"
+  pos: noun
+  level: A2
+  ipa: "/ɔɪl/"
+  example: "Fry the fish in oil."
+  translations:
+    de: ["das Öl"]
+  example_translations:
+    de: "Brate den Fisch in Öl."
+
+- id: "onion"
+  lemma: "onion"
+  pos: noun
+  level: A1
+  ipa: "/ˈʌn.jən/"
+  example: "Cut the onion into small pieces."
+  translations:
+    de: ["die Zwiebel"]
+  example_translations:
+    de: "Schneide die Zwiebel in kleine Stücke."
+
+- id: "orange-noun"
+  lemma: "orange"
+  pos: noun
+  level: A1
+  ipa: "/ˈɒr.ɪndʒ/"
+  example: "I eat an orange every day."
+  translations:
+    de: ["die Orange", "die Apfelsine"]
+  example_translations:
+    de: "Ich esse jeden Tag eine Orange."
+
+- id: "order-verb"
+  lemma: "order"
+  pos: verb
+  level: A1
+  ipa: "/ˈɔː.dər/"
+  example: "Are you ready to order?"
+  translations:
+    de: ["bestellen", "befehlen"]
+  example_translations:
+    de: "Möchten Sie bestellen?"
+
+- id: "pepper"
+  lemma: "pepper"
+  pos: noun
+  level: A1
+  ipa: "/ˈpep.ər/"
+  example: "Pass me the salt and pepper."
+  translations:
+    de: ["der Pfeffer", "die Paprika"]
+  example_translations:
+    de: "Gib mir bitte Salz und Pfeffer."
+
+- id: "pizza"
+  lemma: "pizza"
+  pos: noun
+  level: A1
+  ipa: "/ˈpiːt.sə/"
+  example: "Let's order a pizza."
+  translations:
+    de: ["die Pizza"]
+  example_translations:
+    de: "Lass uns eine Pizza bestellen."
+
+- id: "plate"
+  lemma: "plate"
+  pos: noun
+  level: A2
+  ipa: "/pleɪt/"
+  example: "Put the plates on the table."
+  translations:
+    de: ["der Teller"]
+  example_translations:
+    de: "Stell die Teller auf den Tisch."
+
+- id: "potato"
+  lemma: "potato"
+  pos: noun
+  level: A2
+  ipa: "/pəˈteɪ.təʊ/"
+  example: "These potatoes are from our garden."
+  translations:
+    de: ["die Kartoffel"]
+  example_translations:
+    de: "Diese Kartoffeln sind aus unserem Garten."
+
+- id: "pour"
+  lemma: "pour"
+  pos: verb
+  level: B1
+  ipa: "/pɔːr/"
+  example: "Can you pour me some water?"
+  translations:
+    de: ["gießen", "einschenken", "in Strömen regnen"]
+  example_translations:
+    de: "Kannst du mir etwas Wasser einschenken?"
+
+- id: "produce-noun"
+  lemma: "produce"
+  pos: noun
+  level: B2
+  ipa: "/ˈprɒdʒ.uːs/"
+  example: "The market sells fresh local produce."
+  translations:
+    de: ["die Erzeugnisse", "die Agrarprodukte"]
+  example_translations:
+    de: "Der Markt verkauft frische regionale Erzeugnisse."
+
+- id: "pub"
+  lemma: "pub"
+  pos: noun
+  level: A2
+  ipa: "/pʌb/"
+  example: "Let's meet at the pub."
+  translations:
+    de: ["die Kneipe", "der Pub"]
+  example_translations:
+    de: "Treffen wir uns in der Kneipe."
+
+- id: "raw"
+  lemma: "raw"
+  pos: adjective
+  level: B2
+  ipa: "/rɔː/"
+  example: "You can eat these vegetables raw."
+  translations:
+    de: ["roh"]
+  example_translations:
+    de: "Dieses Gemüse kann man roh essen."
+
+- id: "recipe"
+  lemma: "recipe"
+  pos: noun
+  level: A2
+  ipa: "/ˈres.ɪ.pi/"
+  example: "Can you give me the recipe?"
+  translations:
+    de: ["das Rezept"]
+  example_translations:
+    de: "Kannst du mir das Rezept geben?"
+
+- id: "rice"
+  lemma: "rice"
+  pos: noun
+  level: A1
+  ipa: "/raɪs/"
+  example: "The rice is ready."
+  translations:
+    de: ["der Reis"]
+  example_translations:
+    de: "Der Reis ist fertig."
+
+- id: "roll-noun"
+  lemma: "roll"
+  pos: noun
+  level: B1
+  ipa: "/rəʊl/"
+  example: "I had a cheese roll for lunch."
+  translations:
+    de: ["das Brötchen", "die Rolle"]
+  example_translations:
+    de: "Ich hatte ein Käsebrötchen zum Mittagessen."
+
+- id: "salad"
+  lemma: "salad"
+  pos: noun
+  level: A1
+  ipa: "/ˈsæl.əd/"
+  example: "I'd like a green salad."
+  translations:
+    de: ["der Salat"]
+  example_translations:
+    de: "Ich hätte gern einen grünen Salat."
+
+- id: "salt"
+  lemma: "salt"
+  pos: noun
+  level: A2
+  ipa: "/sɒlt/"
+  example: "Can you pass me the salt?"
+  translations:
+    de: ["das Salz"]
+  example_translations:
+    de: "Kannst du mir das Salz geben?"
+
+- id: "sample-verb"
+  lemma: "sample"
+  pos: verb
+  level: B2
+  ipa: "/ˈsɑːm.pəl/"
+  example: "You can sample the cheese."
+  translations:
+    de: ["probieren", "kosten"]
+  example_translations:
+    de: "Sie können den Käse probieren."
+
+- id: "sandwich"
+  lemma: "sandwich"
+  pos: noun
+  level: A1
+  ipa: "/ˈsæn.wɪdʒ/"
+  example: "I'll have a cheese sandwich."
+  translations:
+    de: ["das Sandwich", "das belegte Brot"]
+  example_translations:
+    de: "Ich nehme ein Käsesandwich."
+
+- id: "sauce"
+  lemma: "sauce"
+  pos: noun
+  level: A2
+  ipa: "/sɔːs/"
+  example: "Pasta with tomato sauce, please."
+  translations:
+    de: ["die Soße"]
+  example_translations:
+    de: "Nudeln mit Tomatensoße, bitte."
+
+- id: "serve"
+  lemma: "serve"
+  pos: verb
+  level: A2
+  ipa: "/sɜːv/"
+  example: "Breakfast is served from seven to ten."
+  translations:
+    de: ["servieren", "bedienen", "dienen"]
+  example_translations:
+    de: "Das Frühstück wird von sieben bis zehn serviert."
+
+- id: "shake-noun"
+  lemma: "shake"
+  pos: noun
+  level: B1
+  ipa: "/ʃeɪk/"
+  example: "I'll have a chocolate shake."
+  translations:
+    de: ["der Shake", "das Schütteln"]
+  example_translations:
+    de: "Ich nehme einen Schokoshake."
+
+- id: "slice-noun"
+  lemma: "slice"
+  pos: noun
+  level: B1
+  ipa: "/slaɪs/"
+  example: "Can I have a slice of bread?"
+  translations:
+    de: ["die Scheibe", "das Stück"]
+  example_translations:
+    de: "Kann ich eine Scheibe Brot haben?"
+
+- id: "slice-verb"
+  lemma: "slice"
+  pos: verb
+  level: B1
+  ipa: "/slaɪs/"
+  example: "Slice the tomatoes."
+  translations:
+    de: ["in Scheiben schneiden"]
+  example_translations:
+    de: "Schneide die Tomaten in Scheiben."
+
+- id: "soup"
+  lemma: "soup"
+  pos: noun
+  level: A2
+  ipa: "/suːp/"
+  example: "The soup is too hot."
+  translations:
+    de: ["die Suppe"]
+  example_translations:
+    de: "Die Suppe ist zu heiß."
+
+- id: "spicy"
+  lemma: "spicy"
+  pos: adjective
+  level: B1
+  ipa: "/ˈspaɪ.si/"
+  example: "I love spicy food."
+  translations:
+    de: ["scharf", "würzig"]
+  example_translations:
+    de: "Ich liebe scharfes Essen."
+
+- id: "sugar"
+  lemma: "sugar"
+  pos: noun
+  level: A2
+  ipa: "/ˈʃʊɡ.ər/"
+  example: "I take my tea without sugar."
+  translations:
+    de: ["der Zucker"]
+  example_translations:
+    de: "Ich trinke meinen Tee ohne Zucker."
+
+- id: "sweet-adjective"
+  lemma: "sweet"
+  pos: adjective
+  level: A2
+  ipa: "/swiːt/"
+  example: "The cake is very sweet."
+  translations:
+    de: ["süß"]
+  example_translations:
+    de: "Der Kuchen ist sehr süß."
+
+- id: "sweet-noun"
+  lemma: "sweet"
+  pos: noun
+  level: A2
+  ipa: "/swiːt/"
+  example: "Children love sweets."
+  translations:
+    de: ["die Süßigkeit", "der Bonbon"]
+  example_translations:
+    de: "Kinder lieben Süßigkeiten."
+
+- id: "taste-noun"
+  lemma: "taste"
+  pos: noun
+  level: A2
+  ipa: "/teɪst/"
+  example: "I don't like the taste of fish."
+  translations:
+    de: ["der Geschmack"]
+  example_translations:
+    de: "Ich mag den Geschmack von Fisch nicht."
+
+- id: "taste-verb"
+  lemma: "taste"
+  pos: verb
+  level: A2
+  ipa: "/teɪst/"
+  example: "This soup tastes great."
+  translations:
+    de: ["schmecken", "probieren"]
+  example_translations:
+    de: "Diese Suppe schmeckt toll."
+
+- id: "tea"
+  lemma: "tea"
+  pos: noun
+  level: A1
+  ipa: "/tiː/"
+  example: "Would you like a cup of tea?"
+  translations:
+    de: ["der Tee"]
+  example_translations:
+    de: "Möchtest du eine Tasse Tee?"
+
+- id: "thirsty"
+  lemma: "thirsty"
+  pos: adjective
+  level: A2
+  ipa: "/ˈθɜː.sti/"
+  example: "The dog is thirsty."
+  translations:
+    de: ["durstig"]
+  example_translations:
+    de: "Der Hund ist durstig."
+
+- id: "tin"
+  lemma: "tin"
+  pos: noun
+  level: B1
+  ipa: "/tɪn/"
+  example: "Open a tin of tomatoes."
+  translations:
+    de: ["die Dose", "das Zinn"]
+  example_translations:
+    de: "Mach eine Dose Tomaten auf."
+
+- id: "tip-verb"
+  lemma: "tip"
+  pos: verb
+  level: B1
+  ipa: "/tɪp/"
+  example: "Do you tip in restaurants?"
+  translations:
+    de: ["Trinkgeld geben", "kippen"]
+  example_translations:
+    de: "Gibst du in Restaurants Trinkgeld?"
+
+- id: "tomato"
+  lemma: "tomato"
+  pos: noun
+  level: A1
+  ipa: "/təˈmɑː.təʊ/"
+  example: "I need tomatoes for the salad."
+  translations:
+    de: ["die Tomate"]
+  example_translations:
+    de: "Ich brauche Tomaten für den Salat."
+
+- id: "vegetable"
+  lemma: "vegetable"
+  pos: noun
+  level: A1
+  ipa: "/ˈvedʒ.tə.bəl/"
+  example: "Eat more vegetables."
+  translations:
+    de: ["das Gemüse"]
+  example_translations:
+    de: "Iss mehr Gemüse."
+
+- id: "vegetables"
+  lemma: "vegetables"
+  pos: noun
+  level: A2
+  ipa: "/ˈvedʒ.tə.bəlz/"
+  example: "You should eat more vegetables."
+  translations:
+    de: ["das Gemüse"]
+  example_translations:
+    de: "Du solltest mehr Gemüse essen."
+
+- id: "vitamin"
+  lemma: "vitamin"
+  pos: noun
+  level: B2
+  ipa: "/ˈvɪt.ə.mɪn/"
+  example: "Oranges contain vitamin C."
+  translations:
+    de: ["das Vitamin"]
+  example_translations:
+    de: "Orangen enthalten Vitamin C."
+
+- id: "warm-verb"
+  lemma: "warm"
+  pos: verb
+  level: B1
+  ipa: "/wɔːm/"
+  example: "Warm the soup before you eat it."
+  translations:
+    de: ["wärmen", "aufwärmen"]
+  example_translations:
+    de: "Wärm die Suppe auf, bevor du sie isst."
+
+- id: "water"
+  lemma: "water"
+  pos: noun
+  level: A1
+  ipa: "/ˈwɔː.tər/"
+  example: "Can I have a glass of water?"
+  translations:
+    de: ["das Wasser"]
+  example_translations:
+    de: "Kann ich ein Glas Wasser haben?"
+
+- id: "wine"
+  lemma: "wine"
+  pos: noun
+  level: A1
+  ipa: "/waɪn/"
+  example: "A glass of red wine, please."
+  translations:
+    de: ["der Wein"]
+  example_translations:
+    de: "Ein Glas Rotwein, bitte."

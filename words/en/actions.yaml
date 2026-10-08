@@ -1,0 +1,3093 @@
+# 🏃 Alltägliche Verben – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "abandon"
+  lemma: "abandon"
+  pos: verb
+  level: B2
+  ipa: "/əˈbæn.dən/"
+  example: "They had to abandon the car in the snow."
+  translations:
+    de: ["verlassen", "aufgeben"]
+  example_translations:
+    de: "Sie mussten das Auto im Schnee zurücklassen."
+
+- id: "accept"
+  lemma: "accept"
+  pos: verb
+  level: A2
+  ipa: "/əkˈsept/"
+  example: "Do you accept credit cards?"
+  translations:
+    de: ["annehmen", "akzeptieren"]
+  example_translations:
+    de: "Nehmen Sie Kreditkarten an?"
+
+- id: "accompany"
+  lemma: "accompany"
+  pos: verb
+  level: B2
+  ipa: "/əˈkʌm.pə.ni/"
+  example: "Children must be accompanied by an adult."
+  translations:
+    de: ["begleiten"]
+  example_translations:
+    de: "Kinder müssen von einem Erwachsenen begleitet werden."
+
+- id: "acquire"
+  lemma: "acquire"
+  pos: verb
+  level: B2
+  ipa: "/əˈkwaɪər/"
+  example: "She acquired a good knowledge of French."
+  translations:
+    de: ["erwerben", "sich aneignen"]
+  example_translations:
+    de: "Sie hat sich gute Französischkenntnisse angeeignet."
+
+- id: "act-verb"
+  lemma: "act"
+  pos: verb
+  level: A2
+  ipa: "/ækt/"
+  example: "We must act now."
+  translations:
+    de: ["handeln", "spielen"]
+  example_translations:
+    de: "Wir müssen jetzt handeln."
+
+- id: "adapt"
+  lemma: "adapt"
+  pos: verb
+  level: B2
+  ipa: "/əˈdæpt/"
+  example: "Children adapt quickly to new schools."
+  translations:
+    de: ["anpassen", "sich anpassen"]
+  example_translations:
+    de: "Kinder passen sich schnell an neue Schulen an."
+
+- id: "add"
+  lemma: "add"
+  pos: verb
+  level: A1
+  ipa: "/æd/"
+  example: "Add some salt to the soup."
+  translations:
+    de: ["hinzufügen", "addieren"]
+  example_translations:
+    de: "Gib etwas Salz in die Suppe."
+
+- id: "advance-verb"
+  lemma: "advance"
+  pos: verb
+  level: B2
+  ipa: "/ədˈvɑːns/"
+  example: "The army advanced towards the city."
+  translations:
+    de: ["vorrücken", "voranbringen"]
+  example_translations:
+    de: "Die Armee rückte auf die Stadt vor."
+
+- id: "affect"
+  lemma: "affect"
+  pos: verb
+  level: A2
+  ipa: "/əˈfekt/"
+  example: "The weather affects my mood."
+  translations:
+    de: ["beeinflussen", "betreffen"]
+  example_translations:
+    de: "Das Wetter beeinflusst meine Stimmung."
+
+- id: "aid-verb"
+  lemma: "aid"
+  pos: verb
+  level: B2
+  ipa: "/eɪd/"
+  example: "The new drug aids recovery."
+  translations:
+    de: ["helfen", "unterstützen"]
+  example_translations:
+    de: "Das neue Medikament unterstützt die Genesung."
+
+- id: "aim-verb"
+  lemma: "aim"
+  pos: verb
+  level: B1
+  ipa: "/eɪm/"
+  example: "We aim to finish by Friday."
+  translations:
+    de: ["zielen", "anstreben"]
+  example_translations:
+    de: "Wir wollen bis Freitag fertig sein."
+
+- id: "allow"
+  lemma: "allow"
+  pos: verb
+  level: A2
+  ipa: "/əˈlaʊ/"
+  example: "Dogs are not allowed in the shop."
+  translations:
+    de: ["erlauben", "zulassen"]
+  example_translations:
+    de: "Hunde sind im Geschäft nicht erlaubt."
+
+- id: "alter"
+  lemma: "alter"
+  pos: verb
+  level: B2
+  ipa: "/ˈɒl.tər/"
+  example: "We had to alter our plans."
+  translations:
+    de: ["ändern", "verändern"]
+  example_translations:
+    de: "Wir mussten unsere Pläne ändern."
+
+- id: "appear"
+  lemma: "appear"
+  pos: verb
+  level: A2
+  ipa: "/əˈpɪər/"
+  example: "A man suddenly appeared at the door."
+  translations:
+    de: ["erscheinen", "scheinen"]
+  example_translations:
+    de: "Plötzlich erschien ein Mann an der Tür."
+
+- id: "approach-verb"
+  lemma: "approach"
+  pos: verb
+  level: B2
+  ipa: "/əˈprəʊtʃ/"
+  example: "A man approached me in the street."
+  translations:
+    de: ["sich nähern", "herangehen an"]
+  example_translations:
+    de: "Ein Mann kam auf der Straße auf mich zu."
+
+- id: "arrange"
+  lemma: "arrange"
+  pos: verb
+  level: A2
+  ipa: "/əˈreɪndʒ/"
+  example: "We arranged to meet at six."
+  translations:
+    de: ["arrangieren", "vereinbaren", "ordnen"]
+  example_translations:
+    de: "Wir haben vereinbart, uns um sechs zu treffen."
+
+- id: "assist"
+  lemma: "assist"
+  pos: verb
+  level: B1
+  ipa: "/əˈsɪst/"
+  example: "Can I assist you?"
+  translations:
+    de: ["helfen", "unterstützen"]
+  example_translations:
+    de: "Kann ich Ihnen helfen?"
+
+- id: "attack-verb"
+  lemma: "attack"
+  pos: verb
+  level: A2
+  ipa: "/əˈtæk/"
+  example: "The dog attacked the cat."
+  translations:
+    de: ["angreifen"]
+  example_translations:
+    de: "Der Hund griff die Katze an."
+
+- id: "attempt-verb"
+  lemma: "attempt"
+  pos: verb
+  level: B2
+  ipa: "/əˈtempt/"
+  example: "She attempted to climb the mountain."
+  translations:
+    de: ["versuchen"]
+  example_translations:
+    de: "Sie versuchte, den Berg zu besteigen."
+
+- id: "attract"
+  lemma: "attract"
+  pos: verb
+  level: B1
+  ipa: "/əˈtrækt/"
+  example: "The museum attracts many tourists."
+  translations:
+    de: ["anziehen", "anlocken"]
+  example_translations:
+    de: "Das Museum zieht viele Touristen an."
+
+- id: "avoid"
+  lemma: "avoid"
+  pos: verb
+  level: A2
+  ipa: "/əˈvɔɪd/"
+  example: "Try to avoid sugar."
+  translations:
+    de: ["vermeiden", "meiden"]
+  example_translations:
+    de: "Versuche, Zucker zu meiden."
+
+- id: "back-verb"
+  lemma: "back"
+  pos: verb
+  level: B2
+  ipa: "/bæk/"
+  example: "All my friends backed me."
+  translations:
+    de: ["unterstützen", "zurücksetzen"]
+  example_translations:
+    de: "Alle meine Freunde haben mich unterstützt."
+
+- id: "balance-verb"
+  lemma: "balance"
+  pos: verb
+  level: B1
+  ipa: "/ˈbæl.əns/"
+  example: "She balanced the book on her head."
+  translations:
+    de: ["balancieren", "ausgleichen"]
+  example_translations:
+    de: "Sie balancierte das Buch auf dem Kopf."
+
+- id: "bar-verb"
+  lemma: "bar"
+  pos: verb
+  level: B2
+  ipa: "/bɑːr/"
+  example: "A tree barred the way."
+  translations:
+    de: ["versperren", "ausschließen"]
+  example_translations:
+    de: "Ein Baum versperrte den Weg."
+
+- id: "base-verb"
+  lemma: "base"
+  pos: verb
+  level: B1
+  ipa: "/beɪs/"
+  example: "The film is based on a true story."
+  translations:
+    de: ["stützen", "basieren"]
+  example_translations:
+    de: "Der Film basiert auf einer wahren Geschichte."
+
+- id: "battle-verb"
+  lemma: "battle"
+  pos: verb
+  level: B2
+  ipa: "/ˈbæt.əl/"
+  example: "She battled against the illness."
+  translations:
+    de: ["kämpfen"]
+  example_translations:
+    de: "Sie kämpfte gegen die Krankheit."
+
+- id: "be"
+  lemma: "be"
+  pos: verb
+  level: A1
+  ipa: "/biː/"
+  example: "I want to be a doctor."
+  translations:
+    de: ["sein"]
+  example_translations:
+    de: "Ich möchte Arzt sein."
+
+- id: "become"
+  lemma: "become"
+  pos: verb
+  level: A1
+  ipa: "/bɪˈkʌm/"
+  example: "She wants to become a doctor."
+  translations:
+    de: ["werden"]
+  example_translations:
+    de: "Sie möchte Ärztin werden."
+
+- id: "begin"
+  lemma: "begin"
+  pos: verb
+  level: A2
+  ipa: "/bɪˈɡɪn/"
+  example: "The film begins at eight."
+  translations:
+    de: ["beginnen", "anfangen"]
+  example_translations:
+    de: "Der Film beginnt um acht."
+
+- id: "belong"
+  lemma: "belong"
+  pos: verb
+  level: A2
+  ipa: "/bɪˈlɒŋ/"
+  example: "This book belongs to me."
+  translations:
+    de: ["gehören"]
+  example_translations:
+    de: "Dieses Buch gehört mir."
+
+- id: "bend-verb"
+  lemma: "bend"
+  pos: verb
+  level: B1
+  ipa: "/bend/"
+  example: "Bend your knees."
+  translations:
+    de: ["biegen", "sich bücken"]
+  example_translations:
+    de: "Beuge die Knie."
+
+- id: "benefit-verb"
+  lemma: "benefit"
+  pos: verb
+  level: B1
+  ipa: "/ˈben.ɪ.fɪt/"
+  example: "Everyone will benefit from the changes."
+  translations:
+    de: ["profitieren", "nützen"]
+  example_translations:
+    de: "Alle werden von den Änderungen profitieren."
+
+- id: "bite-verb"
+  lemma: "bite"
+  pos: verb
+  level: B1
+  ipa: "/baɪt/"
+  example: "Does your dog bite?"
+  translations:
+    de: ["beißen"]
+  example_translations:
+    de: "Beißt dein Hund?"
+
+- id: "block-verb"
+  lemma: "block"
+  pos: verb
+  level: B1
+  ipa: "/blɒk/"
+  example: "A car is blocking the road."
+  translations:
+    de: ["blockieren", "versperren"]
+  example_translations:
+    de: "Ein Auto blockiert die Straße."
+
+- id: "borrow"
+  lemma: "borrow"
+  pos: verb
+  level: A2
+  ipa: "/ˈbɒr.əʊ/"
+  example: "Can I borrow your pen?"
+  translations:
+    de: ["leihen", "ausleihen"]
+  example_translations:
+    de: "Kann ich mir deinen Stift leihen?"
+
+- id: "break-verb"
+  lemma: "break"
+  pos: verb
+  level: A1
+  ipa: "/breɪk/"
+  example: "Be careful, don't break the glass."
+  translations:
+    de: ["brechen", "kaputt machen"]
+  example_translations:
+    de: "Pass auf, zerbrich das Glas nicht."
+
+- id: "bring"
+  lemma: "bring"
+  pos: verb
+  level: A1
+  ipa: "/brɪŋ/"
+  example: "Can you bring a cake?"
+  translations:
+    de: ["bringen", "mitbringen"]
+  example_translations:
+    de: "Kannst du einen Kuchen mitbringen?"
+
+- id: "build"
+  lemma: "build"
+  pos: verb
+  level: A1
+  ipa: "/bɪld/"
+  example: "They are building a new school."
+  translations:
+    de: ["bauen"]
+  example_translations:
+    de: "Sie bauen eine neue Schule."
+
+- id: "burn-verb"
+  lemma: "burn"
+  pos: verb
+  level: A2
+  ipa: "/bɜːn/"
+  example: "I burnt my finger."
+  translations:
+    de: ["brennen", "verbrennen"]
+  example_translations:
+    de: "Ich habe mir den Finger verbrannt."
+
+- id: "bury"
+  lemma: "bury"
+  pos: verb
+  level: B1
+  ipa: "/ˈber.i/"
+  example: "The dog buried a bone."
+  translations:
+    de: ["begraben", "vergraben"]
+  example_translations:
+    de: "Der Hund vergrub einen Knochen."
+
+- id: "cancel"
+  lemma: "cancel"
+  pos: verb
+  level: B2
+  ipa: "/ˈkæn.səl/"
+  example: "The flight was cancelled."
+  translations:
+    de: ["absagen", "stornieren"]
+  example_translations:
+    de: "Der Flug wurde gestrichen."
+
+- id: "capture-verb"
+  lemma: "capture"
+  pos: verb
+  level: B2
+  ipa: "/ˈkæp.tʃər/"
+  example: "The police captured the thief."
+  translations:
+    de: ["fangen", "gefangen nehmen", "einfangen"]
+  example_translations:
+    de: "Die Polizei fasste den Dieb."
+
+- id: "carry"
+  lemma: "carry"
+  pos: verb
+  level: A2
+  ipa: "/ˈkær.i/"
+  example: "Can you carry this bag?"
+  translations:
+    de: ["tragen"]
+  example_translations:
+    de: "Kannst du diese Tasche tragen?"
+
+- id: "cast-verb"
+  lemma: "cast"
+  pos: verb
+  level: B2
+  ipa: "/kɑːst/"
+  example: "She cast a look at the clock."
+  translations:
+    de: ["werfen", "besetzen"]
+  example_translations:
+    de: "Sie warf einen Blick auf die Uhr."
+
+- id: "catch-verb"
+  lemma: "catch"
+  pos: verb
+  level: A2
+  ipa: "/kætʃ/"
+  example: "I have to catch the bus."
+  translations:
+    de: ["fangen", "erwischen", "nehmen"]
+  example_translations:
+    de: "Ich muss den Bus erwischen."
+
+- id: "cause-verb"
+  lemma: "cause"
+  pos: verb
+  level: A2
+  ipa: "/kɔːz/"
+  example: "The storm caused a lot of damage."
+  translations:
+    de: ["verursachen"]
+  example_translations:
+    de: "Der Sturm verursachte großen Schaden."
+
+- id: "centre-verb"
+  lemma: "centre"
+  pos: verb
+  level: B1
+  ipa: "/ˈsen.tər/"
+  example: "The story centres on a young girl."
+  translations:
+    de: ["zentrieren", "sich drehen um"]
+  example_translations:
+    de: "Die Geschichte dreht sich um ein junges Mädchen."
+
+- id: "chain-verb"
+  lemma: "chain"
+  pos: verb
+  level: B2
+  ipa: "/tʃeɪn/"
+  example: "He chained his bike to the fence."
+  translations:
+    de: ["anketten"]
+  example_translations:
+    de: "Er kettete sein Fahrrad an den Zaun."
+
+- id: "challenge-verb"
+  lemma: "challenge"
+  pos: verb
+  level: B2
+  ipa: "/ˈtʃæl.ɪndʒ/"
+  example: "He challenged me to a game of chess."
+  translations:
+    de: ["herausfordern", "infrage stellen"]
+  example_translations:
+    de: "Er forderte mich zu einer Partie Schach heraus."
+
+- id: "change-verb"
+  lemma: "change"
+  pos: verb
+  level: A1
+  ipa: "/tʃeɪndʒ/"
+  example: "You have to change trains in Cologne."
+  translations:
+    de: ["ändern", "wechseln", "umsteigen"]
+  example_translations:
+    de: "Du musst in Köln umsteigen."
+
+- id: "check-verb"
+  lemma: "check"
+  pos: verb
+  level: A1
+  ipa: "/tʃek/"
+  example: "Please check your answers."
+  translations:
+    de: ["prüfen", "kontrollieren", "nachsehen"]
+  example_translations:
+    de: "Bitte überprüft eure Antworten."
+
+- id: "choose"
+  lemma: "choose"
+  pos: verb
+  level: A2
+  ipa: "/tʃuːz/"
+  example: "Choose one colour."
+  translations:
+    de: ["wählen", "aussuchen"]
+  example_translations:
+    de: "Wähle eine Farbe."
+
+- id: "circle-verb"
+  lemma: "circle"
+  pos: verb
+  level: A2
+  ipa: "/ˈsɜː.kəl/"
+  example: "Circle the correct answer."
+  translations:
+    de: ["einkreisen", "kreisen"]
+  example_translations:
+    de: "Kreise die richtige Antwort ein."
+
+- id: "close-verb"
+  lemma: "close"
+  pos: verb
+  level: A1
+  ipa: "/kləʊz/"
+  example: "Please close the window."
+  translations:
+    de: ["schließen", "zumachen"]
+  example_translations:
+    de: "Bitte schließ das Fenster."
+
+- id: "collapse-verb"
+  lemma: "collapse"
+  pos: verb
+  level: B2
+  ipa: "/kəˈlæps/"
+  example: "The old bridge collapsed."
+  translations:
+    de: ["einstürzen", "zusammenbrechen"]
+  example_translations:
+    de: "Die alte Brücke stürzte ein."
+
+- id: "combine"
+  lemma: "combine"
+  pos: verb
+  level: B1
+  ipa: "/kəmˈbaɪn/"
+  example: "Combine the eggs and the sugar."
+  translations:
+    de: ["verbinden", "kombinieren"]
+  example_translations:
+    de: "Vermische die Eier mit dem Zucker."
+
+- id: "come"
+  lemma: "come"
+  pos: verb
+  level: A1
+  ipa: "/kʌm/"
+  example: "Come here, please."
+  translations:
+    de: ["kommen"]
+  example_translations:
+    de: "Komm bitte her."
+
+- id: "complete-verb"
+  lemma: "complete"
+  pos: verb
+  level: A1
+  ipa: "/kəmˈpliːt/"
+  example: "Complete the sentences."
+  translations:
+    de: ["ergänzen", "beenden", "ausfüllen"]
+  example_translations:
+    de: "Ergänze die Sätze."
+
+- id: "continue"
+  lemma: "continue"
+  pos: verb
+  level: A2
+  ipa: "/kənˈtɪn.juː/"
+  example: "Please continue reading."
+  translations:
+    de: ["fortsetzen", "weitermachen"]
+  example_translations:
+    de: "Bitte lies weiter."
+
+- id: "contribute"
+  lemma: "contribute"
+  pos: verb
+  level: B2
+  ipa: "/kənˈtrɪb.juːt/"
+  example: "Everyone contributed ten euros."
+  translations:
+    de: ["beitragen", "spenden"]
+  example_translations:
+    de: "Jeder hat zehn Euro beigesteuert."
+
+- id: "control-verb"
+  lemma: "control"
+  pos: verb
+  level: A2
+  ipa: "/kənˈtrəʊl/"
+  example: "She can't control her dog."
+  translations:
+    de: ["kontrollieren", "steuern", "beherrschen"]
+  example_translations:
+    de: "Sie hat ihren Hund nicht im Griff."
+
+- id: "convert"
+  lemma: "convert"
+  pos: verb
+  level: B2
+  ipa: "/kənˈvɜːt/"
+  example: "They converted the barn into a house."
+  translations:
+    de: ["umwandeln", "umbauen", "umrechnen"]
+  example_translations:
+    de: "Sie haben die Scheune zu einem Haus umgebaut."
+
+- id: "copy-verb"
+  lemma: "copy"
+  pos: verb
+  level: A2
+  ipa: "/ˈkɒp.i/"
+  example: "Don't copy your neighbour's answers."
+  translations:
+    de: ["kopieren", "abschreiben"]
+  example_translations:
+    de: "Schreib nicht von deinem Nachbarn ab."
+
+- id: "cover-verb"
+  lemma: "cover"
+  pos: verb
+  level: A2
+  ipa: "/ˈkʌv.ər/"
+  example: "Snow covered the ground."
+  translations:
+    de: ["bedecken", "abdecken"]
+  example_translations:
+    de: "Schnee bedeckte den Boden."
+
+- id: "create"
+  lemma: "create"
+  pos: verb
+  level: A1
+  ipa: "/kriˈeɪt/"
+  example: "We created a new website."
+  translations:
+    de: ["schaffen", "erstellen"]
+  example_translations:
+    de: "Wir haben eine neue Webseite erstellt."
+
+- id: "curve-verb"
+  lemma: "curve"
+  pos: verb
+  level: B2
+  ipa: "/kɜːv/"
+  example: "The path curves to the left."
+  translations:
+    de: ["sich biegen", "sich krümmen"]
+  example_translations:
+    de: "Der Weg macht eine Kurve nach links."
+
+- id: "cut-verb"
+  lemma: "cut"
+  pos: verb
+  level: A1
+  ipa: "/kʌt/"
+  example: "Cut the bread, please."
+  translations:
+    de: ["schneiden"]
+  example_translations:
+    de: "Schneide bitte das Brot."
+
+- id: "damage-verb"
+  lemma: "damage"
+  pos: verb
+  level: B1
+  ipa: "/ˈdæm.ɪdʒ/"
+  example: "Smoking damages your health."
+  translations:
+    de: ["beschädigen", "schaden"]
+  example_translations:
+    de: "Rauchen schadet deiner Gesundheit."
+
+- id: "deal-verb"
+  lemma: "deal"
+  pos: verb
+  level: A2
+  ipa: "/diːl/"
+  example: "I'll deal with the problem tomorrow."
+  translations:
+    de: ["sich befassen mit", "umgehen mit"]
+  example_translations:
+    de: "Ich kümmere mich morgen um das Problem."
+
+- id: "decide"
+  lemma: "decide"
+  pos: verb
+  level: A2
+  ipa: "/dɪˈsaɪd/"
+  example: "You have to decide now."
+  translations:
+    de: ["entscheiden", "sich entscheiden"]
+  example_translations:
+    de: "Du musst dich jetzt entscheiden."
+
+- id: "defend"
+  lemma: "defend"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈfend/"
+  example: "He defended his friend."
+  translations:
+    de: ["verteidigen"]
+  example_translations:
+    de: "Er verteidigte seinen Freund."
+
+- id: "desert-verb"
+  lemma: "desert"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈzɜːt/"
+  example: "His friends deserted him."
+  translations:
+    de: ["verlassen", "im Stich lassen"]
+  example_translations:
+    de: "Seine Freunde ließen ihn im Stich."
+
+- id: "destroy"
+  lemma: "destroy"
+  pos: verb
+  level: A2
+  ipa: "/dɪˈstrɔɪ/"
+  example: "The fire destroyed the house."
+  translations:
+    de: ["zerstören"]
+  example_translations:
+    de: "Das Feuer zerstörte das Haus."
+
+- id: "develop"
+  lemma: "develop"
+  pos: verb
+  level: A2
+  ipa: "/dɪˈvel.əp/"
+  example: "The town has developed a lot."
+  translations:
+    de: ["entwickeln", "sich entwickeln"]
+  example_translations:
+    de: "Die Stadt hat sich stark entwickelt."
+
+- id: "dig"
+  lemma: "dig"
+  pos: verb
+  level: B2
+  ipa: "/dɪɡ/"
+  example: "The dog is digging a hole."
+  translations:
+    de: ["graben"]
+  example_translations:
+    de: "Der Hund gräbt ein Loch."
+
+- id: "disappear"
+  lemma: "disappear"
+  pos: verb
+  level: A2
+  ipa: "/ˌdɪs.əˈpɪər/"
+  example: "My keys have disappeared."
+  translations:
+    de: ["verschwinden"]
+  example_translations:
+    de: "Meine Schlüssel sind verschwunden."
+
+- id: "discover"
+  lemma: "discover"
+  pos: verb
+  level: A2
+  ipa: "/dɪˈskʌv.ər/"
+  example: "We discovered a great restaurant."
+  translations:
+    de: ["entdecken", "herausfinden"]
+  example_translations:
+    de: "Wir haben ein tolles Restaurant entdeckt."
+
+- id: "distribute"
+  lemma: "distribute"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈstrɪb.juːt/"
+  example: "They distributed food to the poor."
+  translations:
+    de: ["verteilen"]
+  example_translations:
+    de: "Sie verteilten Essen an die Armen."
+
+- id: "do"
+  lemma: "do"
+  pos: verb
+  level: A1
+  ipa: "/duː/"
+  example: "What are you doing?"
+  translations:
+    de: ["machen", "tun"]
+  example_translations:
+    de: "Was machst du?"
+
+- id: "drag"
+  lemma: "drag"
+  pos: verb
+  level: B2
+  ipa: "/dræɡ/"
+  example: "He dragged the heavy box across the floor."
+  translations:
+    de: ["ziehen", "schleppen"]
+  example_translations:
+    de: "Er schleppte die schwere Kiste über den Boden."
+
+- id: "drop-verb"
+  lemma: "drop"
+  pos: verb
+  level: A2
+  ipa: "/drɒp/"
+  example: "I dropped my phone."
+  translations:
+    de: ["fallen lassen", "sinken"]
+  example_translations:
+    de: "Ich habe mein Handy fallen lassen."
+
+- id: "emerge"
+  lemma: "emerge"
+  pos: verb
+  level: B2
+  ipa: "/iˈmɜːdʒ/"
+  example: "A man emerged from the shadows."
+  translations:
+    de: ["auftauchen", "herauskommen"]
+  example_translations:
+    de: "Ein Mann tauchte aus dem Schatten auf."
+
+- id: "encounter-verb"
+  lemma: "encounter"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈkaʊn.tər/"
+  example: "We encountered many problems."
+  translations:
+    de: ["begegnen", "stoßen auf"]
+  example_translations:
+    de: "Wir stießen auf viele Probleme."
+
+- id: "engage"
+  lemma: "engage"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈɡeɪdʒ/"
+  example: "The teacher engages all the students."
+  translations:
+    de: ["sich beschäftigen", "einbinden", "fesseln"]
+  example_translations:
+    de: "Die Lehrerin bindet alle Schüler ein."
+
+- id: "enhance"
+  lemma: "enhance"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈhɑːns/"
+  example: "Good lighting enhances the room."
+  translations:
+    de: ["verbessern", "steigern"]
+  example_translations:
+    de: "Gute Beleuchtung wertet den Raum auf."
+
+- id: "ensure"
+  lemma: "ensure"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈʃɔːr/"
+  example: "Please ensure that the door is locked."
+  translations:
+    de: ["sicherstellen", "gewährleisten"]
+  example_translations:
+    de: "Bitte stellen Sie sicher, dass die Tür abgeschlossen ist."
+
+- id: "enter"
+  lemma: "enter"
+  pos: verb
+  level: A2
+  ipa: "/ˈen.tər/"
+  example: "Please enter your password."
+  translations:
+    de: ["betreten", "eingeben", "teilnehmen"]
+  example_translations:
+    de: "Bitte gib dein Passwort ein."
+
+- id: "escape-verb"
+  lemma: "escape"
+  pos: verb
+  level: B1
+  ipa: "/ɪˈskeɪp/"
+  example: "The prisoner escaped."
+  translations:
+    de: ["entkommen", "fliehen"]
+  example_translations:
+    de: "Der Gefangene ist geflohen."
+
+- id: "experience-verb"
+  lemma: "experience"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈspɪə.ri.əns/"
+  example: "We experienced some problems."
+  translations:
+    de: ["erleben", "erfahren"]
+  example_translations:
+    de: "Wir hatten einige Probleme."
+
+- id: "explain"
+  lemma: "explain"
+  pos: verb
+  level: A2
+  ipa: "/ɪkˈspleɪn/"
+  example: "Can you explain it again?"
+  translations:
+    de: ["erklären"]
+  example_translations:
+    de: "Kannst du es noch einmal erklären?"
+
+- id: "explode"
+  lemma: "explode"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈspləʊd/"
+  example: "The bomb exploded."
+  translations:
+    de: ["explodieren"]
+  example_translations:
+    de: "Die Bombe explodierte."
+
+- id: "expose"
+  lemma: "expose"
+  pos: verb
+  level: B2
+  ipa: "/ɪkˈspəʊz/"
+  example: "Don't expose your skin to the sun too long."
+  translations:
+    de: ["aussetzen", "aufdecken", "entblößen"]
+  example_translations:
+    de: "Setz deine Haut nicht zu lange der Sonne aus."
+
+- id: "extend"
+  lemma: "extend"
+  pos: verb
+  level: B2
+  ipa: "/ɪkˈstend/"
+  example: "I want to extend my visa."
+  translations:
+    de: ["verlängern", "erweitern"]
+  example_translations:
+    de: "Ich möchte mein Visum verlängern."
+
+- id: "face-verb"
+  lemma: "face"
+  pos: verb
+  level: B1
+  ipa: "/feɪs/"
+  example: "The room faces the sea."
+  translations:
+    de: ["gegenüberstehen", "sich stellen", "zeigen nach"]
+  example_translations:
+    de: "Das Zimmer geht aufs Meer hinaus."
+
+- id: "fall-verb"
+  lemma: "fall"
+  pos: verb
+  level: A1
+  ipa: "/fɔːl/"
+  example: "Be careful, don't fall!"
+  translations:
+    de: ["fallen", "stürzen"]
+  example_translations:
+    de: "Pass auf, fall nicht hin!"
+
+- id: "fight-verb"
+  lemma: "fight"
+  pos: verb
+  level: A2
+  ipa: "/faɪt/"
+  example: "The two boys were fighting."
+  translations:
+    de: ["kämpfen", "sich streiten", "sich prügeln"]
+  example_translations:
+    de: "Die beiden Jungen prügelten sich."
+
+- id: "fill"
+  lemma: "fill"
+  pos: verb
+  level: A1
+  ipa: "/fɪl/"
+  example: "Fill the glass with water."
+  translations:
+    de: ["füllen", "ausfüllen"]
+  example_translations:
+    de: "Füll das Glas mit Wasser."
+
+- id: "find"
+  lemma: "find"
+  pos: verb
+  level: A2
+  ipa: "/faɪnd/"
+  example: "I can't find my glasses."
+  translations:
+    de: ["finden"]
+  example_translations:
+    de: "Ich finde meine Brille nicht."
+
+- id: "finish"
+  lemma: "finish"
+  pos: verb
+  level: A2
+  ipa: "/ˈfɪn.ɪʃ/"
+  example: "I finish work at five."
+  translations:
+    de: ["beenden", "fertig machen", "aufhören"]
+  example_translations:
+    de: "Ich höre um fünf mit der Arbeit auf."
+
+- id: "fix-verb"
+  lemma: "fix"
+  pos: verb
+  level: A2
+  ipa: "/fɪks/"
+  example: "Can you fix my bike?"
+  translations:
+    de: ["reparieren", "befestigen", "festlegen"]
+  example_translations:
+    de: "Kannst du mein Fahrrad reparieren?"
+
+- id: "flash-verb"
+  lemma: "flash"
+  pos: verb
+  level: B2
+  ipa: "/flæʃ/"
+  example: "The light was flashing."
+  translations:
+    de: ["blinken", "aufblitzen"]
+  example_translations:
+    de: "Das Licht blinkte."
+
+- id: "float"
+  lemma: "float"
+  pos: verb
+  level: B2
+  ipa: "/fləʊt/"
+  example: "Wood floats on water."
+  translations:
+    de: ["schwimmen", "treiben", "schweben"]
+  example_translations:
+    de: "Holz schwimmt auf dem Wasser."
+
+- id: "fold-verb"
+  lemma: "fold"
+  pos: verb
+  level: B1
+  ipa: "/fəʊld/"
+  example: "Fold the paper in half."
+  translations:
+    de: ["falten", "zusammenlegen"]
+  example_translations:
+    de: "Falte das Papier in der Mitte."
+
+- id: "follow"
+  lemma: "follow"
+  pos: verb
+  level: A1
+  ipa: "/ˈfɒl.əʊ/"
+  example: "Follow me, please."
+  translations:
+    de: ["folgen", "befolgen"]
+  example_translations:
+    de: "Folgen Sie mir bitte."
+
+- id: "force-verb"
+  lemma: "force"
+  pos: verb
+  level: B1
+  ipa: "/fɔːs/"
+  example: "Nobody forced you to come."
+  translations:
+    de: ["zwingen"]
+  example_translations:
+    de: "Niemand hat dich gezwungen zu kommen."
+
+- id: "form-verb"
+  lemma: "form"
+  pos: verb
+  level: A1
+  ipa: "/fɔːm/"
+  example: "Form groups of four."
+  translations:
+    de: ["bilden", "formen"]
+  example_translations:
+    de: "Bildet Vierergruppen."
+
+- id: "frame-verb"
+  lemma: "frame"
+  pos: verb
+  level: B1
+  ipa: "/freɪm/"
+  example: "We framed the picture."
+  translations:
+    de: ["einrahmen", "formulieren"]
+  example_translations:
+    de: "Wir haben das Bild eingerahmt."
+
+- id: "free-verb"
+  lemma: "free"
+  pos: verb
+  level: B2
+  ipa: "/friː/"
+  example: "They freed the prisoners."
+  translations:
+    de: ["befreien", "freilassen"]
+  example_translations:
+    de: "Sie ließen die Gefangenen frei."
+
+- id: "gain-verb"
+  lemma: "gain"
+  pos: verb
+  level: B2
+  ipa: "/ɡeɪn/"
+  example: "I gained two kilos on holiday."
+  translations:
+    de: ["gewinnen", "zunehmen", "erlangen"]
+  example_translations:
+    de: "Ich habe im Urlaub zwei Kilo zugenommen."
+
+- id: "gather"
+  lemma: "gather"
+  pos: verb
+  level: B1
+  ipa: "/ˈɡæð.ər/"
+  example: "A crowd gathered in the square."
+  translations:
+    de: ["sammeln", "sich versammeln"]
+  example_translations:
+    de: "Eine Menschenmenge versammelte sich auf dem Platz."
+
+- id: "get"
+  lemma: "get"
+  pos: verb
+  level: A1
+  ipa: "/ɡet/"
+  example: "I got a letter today."
+  translations:
+    de: ["bekommen", "holen", "werden", "ankommen"]
+  example_translations:
+    de: "Ich habe heute einen Brief bekommen."
+
+- id: "give"
+  lemma: "give"
+  pos: verb
+  level: A1
+  ipa: "/ɡɪv/"
+  example: "Give me the book, please."
+  translations:
+    de: ["geben"]
+  example_translations:
+    de: "Gib mir bitte das Buch."
+
+- id: "go"
+  lemma: "go"
+  pos: verb
+  level: A1
+  ipa: "/ɡəʊ/"
+  example: "We go to school by bus."
+  translations:
+    de: ["gehen", "fahren"]
+  example_translations:
+    de: "Wir fahren mit dem Bus zur Schule."
+
+- id: "grab"
+  lemma: "grab"
+  pos: verb
+  level: B2
+  ipa: "/ɡræb/"
+  example: "He grabbed my arm."
+  translations:
+    de: ["packen", "greifen", "schnappen"]
+  example_translations:
+    de: "Er packte mich am Arm."
+
+- id: "grow"
+  lemma: "grow"
+  pos: verb
+  level: A1
+  ipa: "/ɡrəʊ/"
+  example: "Children grow fast."
+  translations:
+    de: ["wachsen", "anbauen"]
+  example_translations:
+    de: "Kinder wachsen schnell."
+
+- id: "guard-verb"
+  lemma: "guard"
+  pos: verb
+  level: B1
+  ipa: "/ɡɑːd/"
+  example: "Two dogs guard the house."
+  translations:
+    de: ["bewachen", "schützen"]
+  example_translations:
+    de: "Zwei Hunde bewachen das Haus."
+
+- id: "hand-verb"
+  lemma: "hand"
+  pos: verb
+  level: B1
+  ipa: "/hænd/"
+  example: "Can you hand me the salt?"
+  translations:
+    de: ["reichen", "geben"]
+  example_translations:
+    de: "Kannst du mir das Salz reichen?"
+
+- id: "handle-verb"
+  lemma: "handle"
+  pos: verb
+  level: B2
+  ipa: "/ˈhæn.dəl/"
+  example: "She handled the situation well."
+  translations:
+    de: ["umgehen mit", "bewältigen", "anfassen"]
+  example_translations:
+    de: "Sie hat die Situation gut gemeistert."
+
+- id: "hang"
+  lemma: "hang"
+  pos: verb
+  level: B1
+  ipa: "/hæŋ/"
+  example: "Hang your coat on the hook."
+  translations:
+    de: ["hängen", "aufhängen"]
+  example_translations:
+    de: "Häng deinen Mantel an den Haken."
+
+- id: "harm-verb"
+  lemma: "harm"
+  pos: verb
+  level: B2
+  ipa: "/hɑːm/"
+  example: "Too much sun can harm your skin."
+  translations:
+    de: ["schaden", "verletzen"]
+  example_translations:
+    de: "Zu viel Sonne kann deiner Haut schaden."
+
+- id: "have"
+  lemma: "have"
+  pos: verb
+  level: A1
+  ipa: "/hæv/"
+  example: "I have two sisters."
+  translations:
+    de: ["haben"]
+  example_translations:
+    de: "Ich habe zwei Schwestern."
+
+- id: "hear"
+  lemma: "hear"
+  pos: verb
+  level: A1
+  ipa: "/hɪər/"
+  example: "Can you hear me?"
+  translations:
+    de: ["hören"]
+  example_translations:
+    de: "Kannst du mich hören?"
+
+- id: "help"
+  lemma: "help"
+  pos: verb
+  level: A2
+  ipa: "/help/"
+  example: "Can you help me?"
+  translations:
+    de: ["helfen"]
+  example_translations:
+    de: "Kannst du mir helfen?"
+
+- id: "help-noun"
+  lemma: "help"
+  pos: noun
+  level: A1
+  ipa: "/help/"
+  example: "Thanks for your help."
+  translations:
+    de: ["die Hilfe"]
+  example_translations:
+    de: "Danke für deine Hilfe."
+
+- id: "hide"
+  lemma: "hide"
+  pos: verb
+  level: A2
+  ipa: "/haɪd/"
+  example: "The cat is hiding under the bed."
+  translations:
+    de: ["verstecken", "sich verstecken"]
+  example_translations:
+    de: "Die Katze versteckt sich unter dem Bett."
+
+- id: "hit-verb"
+  lemma: "hit"
+  pos: verb
+  level: A2
+  ipa: "/hɪt/"
+  example: "He hit the ball hard."
+  translations:
+    de: ["schlagen", "treffen"]
+  example_translations:
+    de: "Er schlug den Ball kräftig."
+
+- id: "hold-verb"
+  lemma: "hold"
+  pos: verb
+  level: A2
+  ipa: "/həʊld/"
+  example: "Hold my hand."
+  translations:
+    de: ["halten", "festhalten", "abhalten"]
+  example_translations:
+    de: "Halt meine Hand."
+
+- id: "hurry-verb"
+  lemma: "hurry"
+  pos: verb
+  level: B1
+  ipa: "/ˈhʌr.i/"
+  example: "Hurry up, we're late!"
+  translations:
+    de: ["sich beeilen"]
+  example_translations:
+    de: "Beeil dich, wir sind spät dran!"
+
+- id: "ignore"
+  lemma: "ignore"
+  pos: verb
+  level: B1
+  ipa: "/ɪɡˈnɔːr/"
+  example: "He ignored my advice."
+  translations:
+    de: ["ignorieren", "nicht beachten"]
+  example_translations:
+    de: "Er hat meinen Rat ignoriert."
+
+- id: "improve"
+  lemma: "improve"
+  pos: verb
+  level: A1
+  ipa: "/ɪmˈpruːv/"
+  example: "I want to improve my English."
+  translations:
+    de: ["verbessern", "besser werden"]
+  example_translations:
+    de: "Ich möchte mein Englisch verbessern."
+
+- id: "influence-verb"
+  lemma: "influence"
+  pos: verb
+  level: B1
+  ipa: "/ˈɪn.flu.əns/"
+  example: "The weather influences my mood."
+  translations:
+    de: ["beeinflussen"]
+  example_translations:
+    de: "Das Wetter beeinflusst meine Stimmung."
+
+- id: "join"
+  lemma: "join"
+  pos: verb
+  level: A1
+  ipa: "/dʒɔɪn/"
+  example: "Why don't you join us?"
+  translations:
+    de: ["beitreten", "sich anschließen", "verbinden"]
+  example_translations:
+    de: "Warum kommst du nicht mit?"
+
+- id: "jump-verb"
+  lemma: "jump"
+  pos: verb
+  level: A2
+  ipa: "/dʒʌmp/"
+  example: "The cat jumped onto the table."
+  translations:
+    de: ["springen"]
+  example_translations:
+    de: "Die Katze sprang auf den Tisch."
+
+- id: "keep"
+  lemma: "keep"
+  pos: verb
+  level: A1
+  ipa: "/kiːp/"
+  example: "You can keep the book."
+  translations:
+    de: ["behalten", "halten", "aufbewahren"]
+  example_translations:
+    de: "Du kannst das Buch behalten."
+
+- id: "kick-verb"
+  lemma: "kick"
+  pos: verb
+  level: B1
+  ipa: "/kɪk/"
+  example: "He kicked the ball."
+  translations:
+    de: ["treten", "kicken"]
+  example_translations:
+    de: "Er trat gegen den Ball."
+
+- id: "kill"
+  lemma: "kill"
+  pos: verb
+  level: A2
+  ipa: "/kɪl/"
+  example: "The storm killed three people."
+  translations:
+    de: ["töten", "umbringen"]
+  example_translations:
+    de: "Der Sturm tötete drei Menschen."
+
+- id: "knock-verb"
+  lemma: "knock"
+  pos: verb
+  level: A2
+  ipa: "/nɒk/"
+  example: "Someone is knocking at the door."
+  translations:
+    de: ["klopfen", "stoßen"]
+  example_translations:
+    de: "Jemand klopft an die Tür."
+
+- id: "label-verb"
+  lemma: "label"
+  pos: verb
+  level: B1
+  ipa: "/ˈleɪ.bəl/"
+  example: "Label the boxes, please."
+  translations:
+    de: ["beschriften", "etikettieren"]
+  example_translations:
+    de: "Beschrifte bitte die Kartons."
+
+- id: "lay"
+  lemma: "lay"
+  pos: verb
+  level: B1
+  ipa: "/leɪ/"
+  example: "Can you lay the table?"
+  translations:
+    de: ["legen", "decken"]
+  example_translations:
+    de: "Kannst du den Tisch decken?"
+
+- id: "lead-verb"
+  lemma: "lead"
+  pos: verb
+  level: A2
+  ipa: "/liːd/"
+  example: "This road leads to the beach."
+  translations:
+    de: ["führen", "leiten"]
+  example_translations:
+    de: "Diese Straße führt zum Strand."
+
+- id: "lean"
+  lemma: "lean"
+  pos: verb
+  level: B2
+  ipa: "/liːn/"
+  example: "Don't lean on the door."
+  translations:
+    de: ["lehnen", "sich lehnen"]
+  example_translations:
+    de: "Lehn dich nicht an die Tür."
+
+- id: "lend"
+  lemma: "lend"
+  pos: verb
+  level: A2
+  ipa: "/lend/"
+  example: "Can you lend me ten euros?"
+  translations:
+    de: ["leihen", "verleihen"]
+  example_translations:
+    de: "Kannst du mir zehn Euro leihen?"
+
+- id: "let"
+  lemma: "let"
+  pos: verb
+  level: A1
+  ipa: "/let/"
+  example: "Let me help you."
+  translations:
+    de: ["lassen", "erlauben"]
+  example_translations:
+    de: "Lass mich dir helfen."
+
+- id: "level-verb"
+  lemma: "level"
+  pos: verb
+  level: B2
+  ipa: "/ˈlev.əl/"
+  example: "They levelled the score."
+  translations:
+    de: ["ebnen", "ausgleichen"]
+  example_translations:
+    de: "Sie glichen aus."
+
+- id: "lie-verb"
+  lemma: "lie"
+  pos: verb
+  level: A1
+  ipa: "/laɪ/"
+  example: "I lay on the beach all day."
+  translations:
+    de: ["liegen", "lügen"]
+  example_translations:
+    de: "Ich lag den ganzen Tag am Strand."
+
+- id: "lift-verb"
+  lemma: "lift"
+  pos: verb
+  level: A2
+  ipa: "/lɪft/"
+  example: "Can you lift this box?"
+  translations:
+    de: ["heben", "hochheben"]
+  example_translations:
+    de: "Kannst du diese Kiste hochheben?"
+
+- id: "light-verb"
+  lemma: "light"
+  pos: verb
+  level: A2
+  ipa: "/laɪt/"
+  example: "Can you light the candles?"
+  translations:
+    de: ["anzünden", "beleuchten"]
+  example_translations:
+    de: "Kannst du die Kerzen anzünden?"
+
+- id: "limit-verb"
+  lemma: "limit"
+  pos: verb
+  level: B1
+  ipa: "/ˈlɪm.ɪt/"
+  example: "Limit your screen time."
+  translations:
+    de: ["begrenzen", "beschränken"]
+  example_translations:
+    de: "Begrenze deine Bildschirmzeit."
+
+- id: "line-verb"
+  lemma: "line"
+  pos: verb
+  level: B2
+  ipa: "/laɪn/"
+  example: "Trees line the street."
+  translations:
+    de: ["säumen", "auskleiden"]
+  example_translations:
+    de: "Bäume säumen die Straße."
+
+- id: "link-verb"
+  lemma: "link"
+  pos: verb
+  level: A2
+  ipa: "/lɪŋk/"
+  example: "The two towns are linked by a bridge."
+  translations:
+    de: ["verbinden", "verknüpfen"]
+  example_translations:
+    de: "Die beiden Städte sind durch eine Brücke verbunden."
+
+- id: "list-verb"
+  lemma: "list"
+  pos: verb
+  level: A1
+  ipa: "/lɪst/"
+  example: "List five things you like."
+  translations:
+    de: ["auflisten", "aufzählen"]
+  example_translations:
+    de: "Zähl fünf Dinge auf, die du magst."
+
+- id: "listen"
+  lemma: "listen"
+  pos: verb
+  level: A1
+  ipa: "/ˈlɪs.ən/"
+  example: "Listen to me!"
+  translations:
+    de: ["zuhören", "hören"]
+  example_translations:
+    de: "Hör mir zu!"
+
+- id: "live"
+  lemma: "live"
+  pos: verb
+  level: A1
+  ipa: "/lɪv/"
+  example: "I live in Hamburg."
+  translations:
+    de: ["wohnen", "leben"]
+  example_translations:
+    de: "Ich wohne in Hamburg."
+
+- id: "load-verb"
+  lemma: "load"
+  pos: verb
+  level: B2
+  ipa: "/ləʊd/"
+  example: "We loaded the car."
+  translations:
+    de: ["laden", "beladen"]
+  example_translations:
+    de: "Wir beluden das Auto."
+
+- id: "look-verb"
+  lemma: "look"
+  pos: verb
+  level: A1
+  ipa: "/lʊk/"
+  example: "Look at this picture!"
+  translations:
+    de: ["schauen", "aussehen"]
+  example_translations:
+    de: "Schau dir dieses Bild an!"
+
+- id: "lower"
+  lemma: "lower"
+  pos: verb
+  level: B2
+  ipa: "/ˈləʊ.ər/"
+  example: "They lowered the prices."
+  translations:
+    de: ["senken", "herunterlassen"]
+  example_translations:
+    de: "Sie senkten die Preise."
+
+- id: "maintain"
+  lemma: "maintain"
+  pos: verb
+  level: B2
+  ipa: "/meɪnˈteɪn/"
+  example: "It's expensive to maintain an old house."
+  translations:
+    de: ["aufrechterhalten", "instand halten", "behaupten"]
+  example_translations:
+    de: "Es ist teuer, ein altes Haus instand zu halten."
+
+- id: "make"
+  lemma: "make"
+  pos: verb
+  level: A1
+  ipa: "/meɪk/"
+  example: "Let's make a cake."
+  translations:
+    de: ["machen", "herstellen"]
+  example_translations:
+    de: "Lass uns einen Kuchen machen."
+
+- id: "meet"
+  lemma: "meet"
+  pos: verb
+  level: A2
+  ipa: "/miːt/"
+  example: "Let's meet tomorrow."
+  translations:
+    de: ["treffen", "kennenlernen"]
+  example_translations:
+    de: "Lass uns morgen treffen."
+
+- id: "miss"
+  lemma: "miss"
+  pos: verb
+  level: A1
+  ipa: "/mɪs/"
+  example: "I missed the bus."
+  translations:
+    de: ["verpassen", "vermissen", "verfehlen"]
+  example_translations:
+    de: "Ich habe den Bus verpasst."
+
+- id: "model-verb"
+  lemma: "model"
+  pos: verb
+  level: B2
+  ipa: "/ˈmɒd.əl/"
+  example: "The house is modelled on an Italian villa."
+  translations:
+    de: ["modellieren", "nachbilden", "als Model arbeiten"]
+  example_translations:
+    de: "Das Haus ist einer italienischen Villa nachempfunden."
+
+- id: "modify"
+  lemma: "modify"
+  pos: verb
+  level: B2
+  ipa: "/ˈmɒd.ɪ.faɪ/"
+  example: "We modified the plan a little."
+  translations:
+    de: ["ändern", "modifizieren"]
+  example_translations:
+    de: "Wir haben den Plan etwas geändert."
+
+- id: "mount"
+  lemma: "mount"
+  pos: verb
+  level: B2
+  ipa: "/maʊnt/"
+  example: "He mounted the horse."
+  translations:
+    de: ["steigen", "besteigen", "anbringen"]
+  example_translations:
+    de: "Er stieg auf das Pferd."
+
+- id: "move-verb"
+  lemma: "move"
+  pos: verb
+  level: A1
+  ipa: "/muːv/"
+  example: "We moved to Berlin last year."
+  translations:
+    de: ["bewegen", "umziehen"]
+  example_translations:
+    de: "Wir sind letztes Jahr nach Berlin gezogen."
+
+- id: "narrow-verb"
+  lemma: "narrow"
+  pos: verb
+  level: B2
+  ipa: "/ˈnær.əʊ/"
+  example: "The road narrows here."
+  translations:
+    de: ["sich verengen", "eingrenzen"]
+  example_translations:
+    de: "Die Straße wird hier enger."
+
+- id: "need"
+  lemma: "need"
+  pos: verb
+  level: A2
+  ipa: "/niːd/"
+  example: "I need your help."
+  translations:
+    de: ["brauchen"]
+  example_translations:
+    de: "Ich brauche deine Hilfe."
+
+- id: "obey"
+  lemma: "obey"
+  pos: verb
+  level: B2
+  ipa: "/əʊˈbeɪ/"
+  example: "You must obey the law."
+  translations:
+    de: ["gehorchen", "befolgen"]
+  example_translations:
+    de: "Man muss sich an das Gesetz halten."
+
+- id: "obtain"
+  lemma: "obtain"
+  pos: verb
+  level: B2
+  ipa: "/əbˈteɪn/"
+  example: "You need to obtain a visa."
+  translations:
+    de: ["erhalten", "bekommen"]
+  example_translations:
+    de: "Du musst ein Visum beantragen."
+
+- id: "open"
+  lemma: "open"
+  pos: verb
+  level: A1
+  ipa: "/ˈəʊ.pən/"
+  example: "Can you open the door?"
+  translations:
+    de: ["öffnen", "aufmachen"]
+  example_translations:
+    de: "Kannst du die Tür öffnen?"
+
+- id: "organize"
+  lemma: "organize"
+  pos: verb
+  level: A2
+  ipa: "/ˈɔː.ɡən.aɪz/"
+  example: "Who organized the party?"
+  translations:
+    de: ["organisieren"]
+  example_translations:
+    de: "Wer hat die Party organisiert?"
+
+- id: "pace-verb"
+  lemma: "pace"
+  pos: verb
+  level: B2
+  ipa: "/peɪs/"
+  example: "He paced up and down the room."
+  translations:
+    de: ["auf und ab gehen"]
+  example_translations:
+    de: "Er ging im Zimmer auf und ab."
+
+- id: "participate"
+  lemma: "participate"
+  pos: verb
+  level: B1
+  ipa: "/pɑːˈtɪs.ɪ.peɪt/"
+  example: "Everyone can participate."
+  translations:
+    de: ["teilnehmen", "sich beteiligen"]
+  example_translations:
+    de: "Jeder kann mitmachen."
+
+- id: "pick-verb"
+  lemma: "pick"
+  pos: verb
+  level: A2
+  ipa: "/pɪk/"
+  example: "Pick a card."
+  translations:
+    de: ["pflücken", "aussuchen", "wählen"]
+  example_translations:
+    de: "Such dir eine Karte aus."
+
+- id: "pile-verb"
+  lemma: "pile"
+  pos: verb
+  level: B2
+  ipa: "/paɪl/"
+  example: "Pile the plates on the table."
+  translations:
+    de: ["stapeln", "häufen"]
+  example_translations:
+    de: "Staple die Teller auf dem Tisch."
+
+- id: "pin-verb"
+  lemma: "pin"
+  pos: verb
+  level: B1
+  ipa: "/pɪn/"
+  example: "Pin the notice to the board."
+  translations:
+    de: ["anheften", "feststecken"]
+  example_translations:
+    de: "Hefte den Zettel an die Pinnwand."
+
+- id: "place-verb"
+  lemma: "place"
+  pos: verb
+  level: B1
+  ipa: "/pleɪs/"
+  example: "Place the vase on the table."
+  translations:
+    de: ["stellen", "legen", "platzieren"]
+  example_translations:
+    de: "Stell die Vase auf den Tisch."
+
+- id: "plan-verb"
+  lemma: "plan"
+  pos: verb
+  level: A1
+  ipa: "/plæn/"
+  example: "We are planning a trip to Italy."
+  translations:
+    de: ["planen", "vorhaben"]
+  example_translations:
+    de: "Wir planen eine Reise nach Italien."
+
+- id: "point-verb"
+  lemma: "point"
+  pos: verb
+  level: B1
+  ipa: "/pɔɪnt/"
+  example: "Don't point at people."
+  translations:
+    de: ["zeigen", "deuten"]
+  example_translations:
+    de: "Zeig nicht mit dem Finger auf Leute."
+
+- id: "poison-verb"
+  lemma: "poison"
+  pos: verb
+  level: B1
+  ipa: "/ˈpɔɪ.zən/"
+  example: "Someone poisoned the dog."
+  translations:
+    de: ["vergiften"]
+  example_translations:
+    de: "Jemand hat den Hund vergiftet."
+
+- id: "pose"
+  lemma: "pose"
+  pos: verb
+  level: B2
+  ipa: "/pəʊz/"
+  example: "The fire poses a danger."
+  translations:
+    de: ["posieren", "darstellen"]
+  example_translations:
+    de: "Das Feuer stellt eine Gefahr dar."
+
+- id: "position-verb"
+  lemma: "position"
+  pos: verb
+  level: B2
+  ipa: "/pəˈzɪʃ.ən/"
+  example: "Position the camera carefully."
+  translations:
+    de: ["aufstellen", "positionieren"]
+  example_translations:
+    de: "Stell die Kamera sorgfältig auf."
+
+- id: "prepare"
+  lemma: "prepare"
+  pos: verb
+  level: A1
+  ipa: "/prɪˈpeər/"
+  example: "I have to prepare for the exam."
+  translations:
+    de: ["vorbereiten", "zubereiten"]
+  example_translations:
+    de: "Ich muss mich auf die Prüfung vorbereiten."
+
+- id: "preserve"
+  lemma: "preserve"
+  pos: verb
+  level: B2
+  ipa: "/prɪˈzɜːv/"
+  example: "We must preserve our forests."
+  translations:
+    de: ["bewahren", "erhalten", "konservieren"]
+  example_translations:
+    de: "Wir müssen unsere Wälder erhalten."
+
+- id: "press-verb"
+  lemma: "press"
+  pos: verb
+  level: B1
+  ipa: "/pres/"
+  example: "Press the button."
+  translations:
+    de: ["drücken", "pressen"]
+  example_translations:
+    de: "Drück den Knopf."
+
+- id: "pretend"
+  lemma: "pretend"
+  pos: verb
+  level: B1
+  ipa: "/prɪˈtend/"
+  example: "He pretended to be asleep."
+  translations:
+    de: ["so tun als ob", "vortäuschen"]
+  example_translations:
+    de: "Er tat so, als ob er schliefe."
+
+- id: "prevent"
+  lemma: "prevent"
+  pos: verb
+  level: A2
+  ipa: "/prɪˈvent/"
+  example: "We must prevent accidents."
+  translations:
+    de: ["verhindern", "vorbeugen"]
+  example_translations:
+    de: "Wir müssen Unfälle verhindern."
+
+- id: "protect"
+  lemma: "protect"
+  pos: verb
+  level: A2
+  ipa: "/prəˈtekt/"
+  example: "Sunscreen protects your skin."
+  translations:
+    de: ["schützen"]
+  example_translations:
+    de: "Sonnencreme schützt deine Haut."
+
+- id: "provide"
+  lemma: "provide"
+  pos: verb
+  level: A2
+  ipa: "/prəˈvaɪd/"
+  example: "The hotel provides towels."
+  translations:
+    de: ["bereitstellen", "liefern", "bieten"]
+  example_translations:
+    de: "Das Hotel stellt Handtücher bereit."
+
+- id: "pull-verb"
+  lemma: "pull"
+  pos: verb
+  level: A2
+  ipa: "/pʊl/"
+  example: "Pull the door to open it."
+  translations:
+    de: ["ziehen"]
+  example_translations:
+    de: "Zieh an der Tür, um sie zu öffnen."
+
+- id: "pursue"
+  lemma: "pursue"
+  pos: verb
+  level: B2
+  ipa: "/pəˈsjuː/"
+  example: "She wants to pursue a career in music."
+  translations:
+    de: ["verfolgen", "anstreben"]
+  example_translations:
+    de: "Sie möchte eine Karriere in der Musik anstreben."
+
+- id: "push-verb"
+  lemma: "push"
+  pos: verb
+  level: A2
+  ipa: "/pʊʃ/"
+  example: "Push the door."
+  translations:
+    de: ["drücken", "schieben", "stoßen"]
+  example_translations:
+    de: "Drück die Tür auf."
+
+- id: "put"
+  lemma: "put"
+  pos: verb
+  level: A1
+  ipa: "/pʊt/"
+  example: "Put the book on the table."
+  translations:
+    de: ["legen", "stellen", "setzen"]
+  example_translations:
+    de: "Leg das Buch auf den Tisch."
+
+- id: "raise"
+  lemma: "raise"
+  pos: verb
+  level: A2
+  ipa: "/reɪz/"
+  example: "Raise your hand if you know the answer."
+  translations:
+    de: ["heben", "erhöhen", "großziehen", "sammeln"]
+  example_translations:
+    de: "Hebt die Hand, wenn ihr die Antwort wisst."
+
+- id: "reach-verb"
+  lemma: "reach"
+  pos: verb
+  level: A2
+  ipa: "/riːtʃ/"
+  example: "We reached the hotel at midnight."
+  translations:
+    de: ["erreichen", "reichen"]
+  example_translations:
+    de: "Wir erreichten das Hotel um Mitternacht."
+
+- id: "react"
+  lemma: "react"
+  pos: verb
+  level: A2
+  ipa: "/riˈækt/"
+  example: "How did she react?"
+  translations:
+    de: ["reagieren"]
+  example_translations:
+    de: "Wie hat sie reagiert?"
+
+- id: "read"
+  lemma: "read"
+  pos: verb
+  level: A1
+  ipa: "/riːd/"
+  example: "I read the newspaper."
+  translations:
+    de: ["lesen"]
+  example_translations:
+    de: "Ich lese die Zeitung."
+
+- id: "receive"
+  lemma: "receive"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈsiːv/"
+  example: "Did you receive my email?"
+  translations:
+    de: ["erhalten", "bekommen", "empfangen"]
+  example_translations:
+    de: "Hast du meine E-Mail erhalten?"
+
+- id: "release-verb"
+  lemma: "release"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈliːs/"
+  example: "The band released a new song."
+  translations:
+    de: ["freilassen", "veröffentlichen"]
+  example_translations:
+    de: "Die Band hat ein neues Lied veröffentlicht."
+
+- id: "remain"
+  lemma: "remain"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈmeɪn/"
+  example: "Please remain seated."
+  translations:
+    de: ["bleiben", "übrig bleiben"]
+  example_translations:
+    de: "Bitte bleiben Sie sitzen."
+
+- id: "remove"
+  lemma: "remove"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈmuːv/"
+  example: "Please remove your shoes."
+  translations:
+    de: ["entfernen", "wegnehmen"]
+  example_translations:
+    de: "Bitte zieh deine Schuhe aus."
+
+- id: "repair-verb"
+  lemma: "repair"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈpeər/"
+  example: "Can you repair my watch?"
+  translations:
+    de: ["reparieren"]
+  example_translations:
+    de: "Können Sie meine Uhr reparieren?"
+
+- id: "replace"
+  lemma: "replace"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈpleɪs/"
+  example: "We need to replace the old windows."
+  translations:
+    de: ["ersetzen", "austauschen"]
+  example_translations:
+    de: "Wir müssen die alten Fenster austauschen."
+
+- id: "rescue-verb"
+  lemma: "rescue"
+  pos: verb
+  level: B2
+  ipa: "/ˈres.kjuː/"
+  example: "The firefighters rescued the cat."
+  translations:
+    de: ["retten"]
+  example_translations:
+    de: "Die Feuerwehrleute retteten die Katze."
+
+- id: "resist"
+  lemma: "resist"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈzɪst/"
+  example: "I couldn't resist the cake."
+  translations:
+    de: ["widerstehen", "sich widersetzen"]
+  example_translations:
+    de: "Ich konnte dem Kuchen nicht widerstehen."
+
+- id: "resolve"
+  lemma: "resolve"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈzɒlv/"
+  example: "We resolved the problem."
+  translations:
+    de: ["lösen", "beschließen"]
+  example_translations:
+    de: "Wir haben das Problem gelöst."
+
+- id: "retain"
+  lemma: "retain"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈteɪn/"
+  example: "The town has retained its charm."
+  translations:
+    de: ["behalten", "bewahren"]
+  example_translations:
+    de: "Die Stadt hat ihren Charme bewahrt."
+
+- id: "reward-verb"
+  lemma: "reward"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈwɔːd/"
+  example: "Hard work is rewarded."
+  translations:
+    de: ["belohnen"]
+  example_translations:
+    de: "Harte Arbeit wird belohnt."
+
+- id: "rid"
+  lemma: "rid"
+  pos: verb
+  level: B2
+  ipa: "/rɪd/"
+  example: "I want to get rid of these old clothes."
+  translations:
+    de: ["loswerden", "befreien"]
+  example_translations:
+    de: "Ich möchte diese alten Klamotten loswerden."
+
+- id: "risk-verb"
+  lemma: "risk"
+  pos: verb
+  level: B1
+  ipa: "/rɪsk/"
+  example: "Don't risk your life."
+  translations:
+    de: ["riskieren"]
+  example_translations:
+    de: "Riskier nicht dein Leben."
+
+- id: "roll-verb"
+  lemma: "roll"
+  pos: verb
+  level: B1
+  ipa: "/rəʊl/"
+  example: "The ball rolled under the car."
+  translations:
+    de: ["rollen"]
+  example_translations:
+    de: "Der Ball rollte unter das Auto."
+
+- id: "rub"
+  lemma: "rub"
+  pos: verb
+  level: B2
+  ipa: "/rʌb/"
+  example: "He rubbed his eyes."
+  translations:
+    de: ["reiben"]
+  example_translations:
+    de: "Er rieb sich die Augen."
+
+- id: "run-verb"
+  lemma: "run"
+  pos: verb
+  level: A1
+  ipa: "/rʌn/"
+  example: "I run every morning."
+  translations:
+    de: ["laufen", "rennen", "leiten"]
+  example_translations:
+    de: "Ich laufe jeden Morgen."
+
+- id: "rush-verb"
+  lemma: "rush"
+  pos: verb
+  level: B2
+  ipa: "/rʌʃ/"
+  example: "Don't rush!"
+  translations:
+    de: ["eilen", "hetzen"]
+  example_translations:
+    de: "Hetz nicht!"
+
+- id: "save"
+  lemma: "save"
+  pos: verb
+  level: A2
+  ipa: "/seɪv/"
+  example: "I'm saving money for a car."
+  translations:
+    de: ["retten", "sparen", "speichern"]
+  example_translations:
+    de: "Ich spare Geld für ein Auto."
+
+- id: "say"
+  lemma: "say"
+  pos: verb
+  level: A1
+  ipa: "/seɪ/"
+  example: "What did you say?"
+  translations:
+    de: ["sagen"]
+  example_translations:
+    de: "Was hast du gesagt?"
+
+- id: "search-verb"
+  lemma: "search"
+  pos: verb
+  level: A2
+  ipa: "/sɜːtʃ/"
+  example: "The police searched the house."
+  translations:
+    de: ["suchen", "durchsuchen"]
+  example_translations:
+    de: "Die Polizei durchsuchte das Haus."
+
+- id: "seat-verb"
+  lemma: "seat"
+  pos: verb
+  level: B2
+  ipa: "/siːt/"
+  example: "Please be seated."
+  translations:
+    de: ["setzen", "Platz bieten für"]
+  example_translations:
+    de: "Bitte nehmen Sie Platz."
+
+- id: "secure-verb"
+  lemma: "secure"
+  pos: verb
+  level: B2
+  ipa: "/sɪˈkjʊər/"
+  example: "He secured a place at university."
+  translations:
+    de: ["sichern", "sich verschaffen"]
+  example_translations:
+    de: "Er hat sich einen Studienplatz gesichert."
+
+- id: "see"
+  lemma: "see"
+  pos: verb
+  level: A1
+  ipa: "/siː/"
+  example: "I can see the sea."
+  translations:
+    de: ["sehen"]
+  example_translations:
+    de: "Ich kann das Meer sehen."
+
+- id: "seek"
+  lemma: "seek"
+  pos: verb
+  level: B2
+  ipa: "/siːk/"
+  example: "They are seeking help."
+  translations:
+    de: ["suchen", "anstreben"]
+  example_translations:
+    de: "Sie suchen Hilfe."
+
+- id: "select"
+  lemma: "select"
+  pos: verb
+  level: B2
+  ipa: "/sɪˈlekt/"
+  example: "Select a file from the list."
+  translations:
+    de: ["auswählen"]
+  example_translations:
+    de: "Wähle eine Datei aus der Liste aus."
+
+- id: "send"
+  lemma: "send"
+  pos: verb
+  level: A2
+  ipa: "/send/"
+  example: "Send me a photo."
+  translations:
+    de: ["schicken", "senden"]
+  example_translations:
+    de: "Schick mir ein Foto."
+
+- id: "separate-verb"
+  lemma: "separate"
+  pos: verb
+  level: B1
+  ipa: "/ˈsep.ər.eɪt/"
+  example: "Her parents separated last year."
+  translations:
+    de: ["trennen", "sich trennen"]
+  example_translations:
+    de: "Ihre Eltern haben sich letztes Jahr getrennt."
+
+- id: "set-verb"
+  lemma: "set"
+  pos: verb
+  level: B1
+  ipa: "/set/"
+  example: "Set the alarm for six."
+  translations:
+    de: ["stellen", "festlegen", "untergehen (Sonne)"]
+  example_translations:
+    de: "Stell den Wecker auf sechs."
+
+- id: "settle"
+  lemma: "settle"
+  pos: verb
+  level: B2
+  ipa: "/ˈset.əl/"
+  example: "They settled in Canada."
+  translations:
+    de: ["sich niederlassen", "regeln", "beilegen"]
+  example_translations:
+    de: "Sie haben sich in Kanada niedergelassen."
+
+- id: "shake-verb"
+  lemma: "shake"
+  pos: verb
+  level: A2
+  ipa: "/ʃeɪk/"
+  example: "Shake the bottle before use."
+  translations:
+    de: ["schütteln", "zittern"]
+  example_translations:
+    de: "Vor Gebrauch die Flasche schütteln."
+
+- id: "shape-verb"
+  lemma: "shape"
+  pos: verb
+  level: B2
+  ipa: "/ʃeɪp/"
+  example: "Her childhood shaped her life."
+  translations:
+    de: ["formen", "gestalten"]
+  example_translations:
+    de: "Ihre Kindheit hat ihr Leben geprägt."
+
+- id: "share-verb"
+  lemma: "share"
+  pos: verb
+  level: A1
+  ipa: "/ʃeər/"
+  example: "Let's share the pizza."
+  translations:
+    de: ["teilen"]
+  example_translations:
+    de: "Lass uns die Pizza teilen."
+
+- id: "shelter-verb"
+  lemma: "shelter"
+  pos: verb
+  level: B2
+  ipa: "/ˈʃel.tər/"
+  example: "We sheltered under a tree."
+  translations:
+    de: ["Schutz suchen", "schützen"]
+  example_translations:
+    de: "Wir suchten unter einem Baum Schutz."
+
+- id: "shift-verb"
+  lemma: "shift"
+  pos: verb
+  level: B2
+  ipa: "/ʃɪft/"
+  example: "Can you help me shift this table?"
+  translations:
+    de: ["verschieben", "verlagern", "sich ändern"]
+  example_translations:
+    de: "Kannst du mir helfen, diesen Tisch zu verschieben?"
+
+- id: "shoot"
+  lemma: "shoot"
+  pos: verb
+  level: B1
+  ipa: "/ʃuːt/"
+  example: "He shot the ball into the goal."
+  translations:
+    de: ["schießen", "drehen (Film)"]
+  example_translations:
+    de: "Er schoss den Ball ins Tor."
+
+- id: "show-verb"
+  lemma: "show"
+  pos: verb
+  level: A1
+  ipa: "/ʃəʊ/"
+  example: "Can you show me the way?"
+  translations:
+    de: ["zeigen"]
+  example_translations:
+    de: "Kannst du mir den Weg zeigen?"
+
+- id: "shut"
+  lemma: "shut"
+  pos: verb
+  level: A2
+  ipa: "/ʃʌt/"
+  example: "Shut the door, please."
+  translations:
+    de: ["schließen", "zumachen"]
+  example_translations:
+    de: "Mach bitte die Tür zu."
+
+- id: "sink"
+  lemma: "sink"
+  pos: verb
+  level: B1
+  ipa: "/sɪŋk/"
+  example: "The ship sank."
+  translations:
+    de: ["sinken", "untergehen"]
+  example_translations:
+    de: "Das Schiff ist gesunken."
+
+- id: "sit"
+  lemma: "sit"
+  pos: verb
+  level: A1
+  ipa: "/sɪt/"
+  example: "Please sit down."
+  translations:
+    de: ["sitzen", "sich setzen"]
+  example_translations:
+    de: "Bitte setz dich."
+
+- id: "sleep"
+  lemma: "sleep"
+  pos: verb
+  level: A1
+  ipa: "/sliːp/"
+  example: "The baby sleeps a lot."
+  translations:
+    de: ["schlafen"]
+  example_translations:
+    de: "Das Baby schläft viel."
+
+- id: "slide-verb"
+  lemma: "slide"
+  pos: verb
+  level: B2
+  ipa: "/slaɪd/"
+  example: "The children slid on the ice."
+  translations:
+    de: ["rutschen", "gleiten", "schieben"]
+  example_translations:
+    de: "Die Kinder rutschten auf dem Eis."
+
+- id: "slip"
+  lemma: "slip"
+  pos: verb
+  level: B2
+  ipa: "/slɪp/"
+  example: "I slipped on the ice."
+  translations:
+    de: ["ausrutschen", "schlüpfen"]
+  example_translations:
+    de: "Ich bin auf dem Eis ausgerutscht."
+
+- id: "slow-verb"
+  lemma: "slow"
+  pos: verb
+  level: B1
+  ipa: "/sləʊ/"
+  example: "Slow down, please!"
+  translations:
+    de: ["verlangsamen", "langsamer werden"]
+  example_translations:
+    de: "Fahr bitte langsamer!"
+
+- id: "sort-verb"
+  lemma: "sort"
+  pos: verb
+  level: B1
+  ipa: "/sɔːt/"
+  example: "Sort the cards by colour."
+  translations:
+    de: ["sortieren", "ordnen"]
+  example_translations:
+    de: "Sortiere die Karten nach Farbe."
+
+- id: "speak"
+  lemma: "speak"
+  pos: verb
+  level: A1
+  ipa: "/spiːk/"
+  example: "Do you speak English?"
+  translations:
+    de: ["sprechen"]
+  example_translations:
+    de: "Sprichst du Englisch?"
+
+- id: "split-verb"
+  lemma: "split"
+  pos: verb
+  level: B2
+  ipa: "/splɪt/"
+  example: "Let's split the bill."
+  translations:
+    de: ["teilen", "spalten", "sich trennen"]
+  example_translations:
+    de: "Lass uns die Rechnung teilen."
+
+- id: "spot-verb"
+  lemma: "spot"
+  pos: verb
+  level: B2
+  ipa: "/spɒt/"
+  example: "I spotted him in the crowd."
+  translations:
+    de: ["entdecken", "erkennen"]
+  example_translations:
+    de: "Ich entdeckte ihn in der Menge."
+
+- id: "spread-verb"
+  lemma: "spread"
+  pos: verb
+  level: B1
+  ipa: "/spred/"
+  example: "The news spread quickly."
+  translations:
+    de: ["verbreiten", "sich ausbreiten", "streichen"]
+  example_translations:
+    de: "Die Nachricht verbreitete sich schnell."
+
+- id: "spring-verb"
+  lemma: "spring"
+  pos: verb
+  level: B2
+  ipa: "/sprɪŋ/"
+  example: "The cat sprang onto the table."
+  translations:
+    de: ["springen"]
+  example_translations:
+    de: "Die Katze sprang auf den Tisch."
+
+- id: "stand-verb"
+  lemma: "stand"
+  pos: verb
+  level: A1
+  ipa: "/stænd/"
+  example: "Please stand up."
+  translations:
+    de: ["stehen", "aushalten"]
+  example_translations:
+    de: "Bitte steht auf."
+
+- id: "stare"
+  lemma: "stare"
+  pos: verb
+  level: B2
+  ipa: "/steər/"
+  example: "Don't stare at people."
+  translations:
+    de: ["starren", "anstarren"]
+  example_translations:
+    de: "Starr die Leute nicht an."
+
+- id: "step-verb"
+  lemma: "step"
+  pos: verb
+  level: B2
+  ipa: "/step/"
+  example: "Please step inside."
+  translations:
+    de: ["treten", "gehen"]
+  example_translations:
+    de: "Bitte treten Sie ein."
+
+- id: "stick-verb"
+  lemma: "stick"
+  pos: verb
+  level: B1
+  ipa: "/stɪk/"
+  example: "Stick the photo in your book."
+  translations:
+    de: ["kleben", "stecken"]
+  example_translations:
+    de: "Kleb das Foto in dein Heft."
+
+- id: "stop-verb"
+  lemma: "stop"
+  pos: verb
+  level: A1
+  ipa: "/stɒp/"
+  example: "Stop talking!"
+  translations:
+    de: ["aufhören", "anhalten", "stoppen"]
+  example_translations:
+    de: "Hör auf zu reden!"
+
+- id: "store-verb"
+  lemma: "store"
+  pos: verb
+  level: B1
+  ipa: "/stɔːr/"
+  example: "Store the wine in a cool place."
+  translations:
+    de: ["lagern", "speichern", "aufbewahren"]
+  example_translations:
+    de: "Lagere den Wein an einem kühlen Ort."
+
+- id: "stretch-verb"
+  lemma: "stretch"
+  pos: verb
+  level: B2
+  ipa: "/stretʃ/"
+  example: "Stretch your legs."
+  translations:
+    de: ["dehnen", "sich strecken", "sich erstrecken"]
+  example_translations:
+    de: "Streck deine Beine."
+
+- id: "strike-verb"
+  lemma: "strike"
+  pos: verb
+  level: B2
+  ipa: "/straɪk/"
+  example: "The tree was struck by lightning."
+  translations:
+    de: ["schlagen", "treffen", "streiken"]
+  example_translations:
+    de: "Der Baum wurde vom Blitz getroffen."
+
+- id: "structure-verb"
+  lemma: "structure"
+  pos: verb
+  level: B2
+  ipa: "/ˈstrʌk.tʃər/"
+  example: "Structure your essay carefully."
+  translations:
+    de: ["strukturieren", "gliedern"]
+  example_translations:
+    de: "Gliedere deinen Aufsatz sorgfältig."
+
+- id: "struggle-verb"
+  lemma: "struggle"
+  pos: verb
+  level: B2
+  ipa: "/ˈstrʌɡ.əl/"
+  example: "She struggled to open the door."
+  translations:
+    de: ["kämpfen", "sich abmühen"]
+  example_translations:
+    de: "Sie mühte sich ab, die Tür zu öffnen."
+
+- id: "stuff-verb"
+  lemma: "stuff"
+  pos: verb
+  level: B2
+  ipa: "/stʌf/"
+  example: "She stuffed her clothes into the bag."
+  translations:
+    de: ["stopfen", "füllen"]
+  example_translations:
+    de: "Sie stopfte ihre Kleidung in die Tasche."
+
+- id: "supply-verb"
+  lemma: "supply"
+  pos: verb
+  level: B1
+  ipa: "/səˈplaɪ/"
+  example: "The company supplies the schools with books."
+  translations:
+    de: ["liefern", "versorgen"]
+  example_translations:
+    de: "Die Firma beliefert die Schulen mit Büchern."
+
+- id: "support-verb"
+  lemma: "support"
+  pos: verb
+  level: A2
+  ipa: "/səˈpɔːt/"
+  example: "Which team do you support?"
+  translations:
+    de: ["unterstützen", "Fan sein von"]
+  example_translations:
+    de: "Für welche Mannschaft bist du?"
+
+- id: "surround"
+  lemma: "surround"
+  pos: verb
+  level: B2
+  ipa: "/səˈraʊnd/"
+  example: "The house is surrounded by trees."
+  translations:
+    de: ["umgeben", "umzingeln"]
+  example_translations:
+    de: "Das Haus ist von Bäumen umgeben."
+
+- id: "survive"
+  lemma: "survive"
+  pos: verb
+  level: B1
+  ipa: "/səˈvaɪv/"
+  example: "Only two people survived the crash."
+  translations:
+    de: ["überleben"]
+  example_translations:
+    de: "Nur zwei Menschen überlebten den Absturz."
+
+- id: "take"
+  lemma: "take"
+  pos: verb
+  level: A1
+  ipa: "/teɪk/"
+  example: "Take an umbrella with you."
+  translations:
+    de: ["nehmen"]
+  example_translations:
+    de: "Nimm einen Regenschirm mit."
+
+- id: "tear-verb"
+  lemma: "tear"
+  pos: verb
+  level: B2
+  ipa: "/teər/"
+  example: "Don't tear the paper."
+  translations:
+    de: ["reißen", "zerreißen"]
+  example_translations:
+    de: "Zerreiß das Papier nicht."
+
+- id: "throw"
+  lemma: "throw"
+  pos: verb
+  level: A2
+  ipa: "/θrəʊ/"
+  example: "Throw the ball to me."
+  translations:
+    de: ["werfen"]
+  example_translations:
+    de: "Wirf mir den Ball zu."
+
+- id: "tie-verb"
+  lemma: "tie"
+  pos: verb
+  level: A2
+  ipa: "/taɪ/"
+  example: "Tie your shoes."
+  translations:
+    de: ["binden", "festbinden"]
+  example_translations:
+    de: "Binde deine Schuhe zu."
+
+- id: "touch-verb"
+  lemma: "touch"
+  pos: verb
+  level: A2
+  ipa: "/tʌtʃ/"
+  example: "Don't touch the paintings."
+  translations:
+    de: ["berühren", "anfassen"]
+  example_translations:
+    de: "Fass die Gemälde nicht an."
+
+- id: "transform"
+  lemma: "transform"
+  pos: verb
+  level: B2
+  ipa: "/trænsˈfɔːm/"
+  example: "They transformed the old factory into flats."
+  translations:
+    de: ["verwandeln", "umgestalten"]
+  example_translations:
+    de: "Sie verwandelten die alte Fabrik in Wohnungen."
+
+- id: "treat"
+  lemma: "treat"
+  pos: verb
+  level: B1
+  ipa: "/triːt/"
+  example: "Treat others as you want to be treated."
+  translations:
+    de: ["behandeln", "einladen"]
+  example_translations:
+    de: "Behandle andere so, wie du behandelt werden möchtest."
+
+- id: "trick-verb"
+  lemma: "trick"
+  pos: verb
+  level: B1
+  ipa: "/trɪk/"
+  example: "He tricked me into paying."
+  translations:
+    de: ["hereinlegen", "austricksen"]
+  example_translations:
+    de: "Er hat mich dazu gebracht zu bezahlen."
+
+- id: "trip-verb"
+  lemma: "trip"
+  pos: verb
+  level: B2
+  ipa: "/trɪp/"
+  example: "I tripped over the cable."
+  translations:
+    de: ["stolpern"]
+  example_translations:
+    de: "Ich bin über das Kabel gestolpert."
+
+- id: "try"
+  lemma: "try"
+  pos: verb
+  level: A2
+  ipa: "/traɪ/"
+  example: "Try again!"
+  translations:
+    de: ["versuchen", "probieren"]
+  example_translations:
+    de: "Versuch es noch einmal!"
+
+- id: "turn-verb"
+  lemma: "turn"
+  pos: verb
+  level: A1
+  ipa: "/tɜːn/"
+  example: "Turn left at the lights."
+  translations:
+    de: ["drehen", "abbiegen", "werden"]
+  example_translations:
+    de: "Biegen Sie an der Ampel links ab."
+
+- id: "use-verb"
+  lemma: "use"
+  pos: verb
+  level: A1
+  ipa: "/juːz/"
+  example: "Can I use your phone?"
+  translations:
+    de: ["benutzen", "verwenden"]
+  example_translations:
+    de: "Kann ich dein Telefon benutzen?"
+
+- id: "visit"
+  lemma: "visit"
+  pos: verb
+  level: A2
+  ipa: "/ˈvɪz.ɪt/"
+  example: "We visit our grandparents on Sunday."
+  translations:
+    de: ["besuchen"]
+  example_translations:
+    de: "Wir besuchen sonntags unsere Großeltern."
+
+- id: "wait"
+  lemma: "wait"
+  pos: verb
+  level: A2
+  ipa: "/weɪt/"
+  example: "Please wait here."
+  translations:
+    de: ["warten"]
+  example_translations:
+    de: "Bitte warte hier."
+
+- id: "wake"
+  lemma: "wake"
+  pos: verb
+  level: A1
+  ipa: "/weɪk/"
+  example: "I wake up at seven."
+  translations:
+    de: ["aufwachen", "wecken"]
+  example_translations:
+    de: "Ich wache um sieben auf."
+
+- id: "walk-verb"
+  lemma: "walk"
+  pos: verb
+  level: A1
+  ipa: "/wɔːk/"
+  example: "I walk to school."
+  translations:
+    de: ["gehen", "zu Fuß gehen", "spazieren gehen"]
+  example_translations:
+    de: "Ich gehe zu Fuß zur Schule."
+
+- id: "waste-verb"
+  lemma: "waste"
+  pos: verb
+  level: B1
+  ipa: "/weɪst/"
+  example: "Don't waste water."
+  translations:
+    de: ["verschwenden"]
+  example_translations:
+    de: "Verschwende kein Wasser."
+
+- id: "watch-verb"
+  lemma: "watch"
+  pos: verb
+  level: A1
+  ipa: "/wɒtʃ/"
+  example: "We watched a film."
+  translations:
+    de: ["anschauen", "beobachten", "aufpassen"]
+  example_translations:
+    de: "Wir haben einen Film angeschaut."
+
+- id: "wind-verb"
+  lemma: "wind"
+  pos: verb
+  level: B2
+  ipa: "/waɪnd/"
+  example: "The road winds through the hills."
+  translations:
+    de: ["sich winden", "aufwickeln"]
+  example_translations:
+    de: "Die Straße schlängelt sich durch die Hügel."
+
+- id: "wrap"
+  lemma: "wrap"
+  pos: verb
+  level: B2
+  ipa: "/ræp/"
+  example: "I need to wrap the presents."
+  translations:
+    de: ["einpacken", "einwickeln"]
+  example_translations:
+    de: "Ich muss die Geschenke einpacken."
+
+- id: "write"
+  lemma: "write"
+  pos: verb
+  level: A1
+  ipa: "/raɪt/"
+  example: "Please write your name here."
+  translations:
+    de: ["schreiben"]
+  example_translations:
+    de: "Bitte schreib hier deinen Namen."

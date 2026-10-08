@@ -1,0 +1,1322 @@
+# ⚽ Freizeit & Hobbys – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "activity"
+  lemma: "activity"
+  pos: noun
+  level: A1
+  ipa: "/ækˈtɪv.ə.ti/"
+  example: "The hotel offers many activities for children."
+  translations:
+    de: ["die Aktivität", "die Beschäftigung"]
+  example_translations:
+    de: "Das Hotel bietet viele Aktivitäten für Kinder."
+
+- id: "adventure"
+  lemma: "adventure"
+  pos: noun
+  level: A2
+  ipa: "/ədˈven.tʃər/"
+  example: "Our trip was a real adventure."
+  translations:
+    de: ["das Abenteuer"]
+  example_translations:
+    de: "Unsere Reise war ein echtes Abenteuer."
+
+- id: "athlete"
+  lemma: "athlete"
+  pos: noun
+  level: A2
+  ipa: "/ˈæθ.liːt/"
+  example: "She is a professional athlete."
+  translations:
+    de: ["der Sportler", "die Sportlerin", "der Athlet"]
+  example_translations:
+    de: "Sie ist Profisportlerin."
+
+- id: "ball"
+  lemma: "ball"
+  pos: noun
+  level: A1
+  ipa: "/bɔːl/"
+  example: "Throw me the ball!"
+  translations:
+    de: ["der Ball"]
+  example_translations:
+    de: "Wirf mir den Ball zu!"
+
+- id: "baseball"
+  lemma: "baseball"
+  pos: noun
+  level: A2
+  ipa: "/ˈbeɪs.bɔːl/"
+  example: "Baseball is popular in the USA."
+  translations:
+    de: ["der Baseball"]
+  example_translations:
+    de: "Baseball ist in den USA beliebt."
+
+- id: "basketball"
+  lemma: "basketball"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɑː.skɪt.bɔːl/"
+  example: "Do you play basketball?"
+  translations:
+    de: ["der Basketball"]
+  example_translations:
+    de: "Spielst du Basketball?"
+
+- id: "beat-verb"
+  lemma: "beat"
+  pos: verb
+  level: B1
+  ipa: "/biːt/"
+  example: "We beat them 3-0."
+  translations:
+    de: ["schlagen", "besiegen"]
+  example_translations:
+    de: "Wir haben sie 3:0 geschlagen."
+
+- id: "bet-noun"
+  lemma: "bet"
+  pos: noun
+  level: B2
+  ipa: "/bet/"
+  example: "He won the bet."
+  translations:
+    de: ["die Wette"]
+  example_translations:
+    de: "Er hat die Wette gewonnen."
+
+- id: "bet-verb"
+  lemma: "bet"
+  pos: verb
+  level: B2
+  ipa: "/bet/"
+  example: "I bet you can't do it."
+  translations:
+    de: ["wetten"]
+  example_translations:
+    de: "Ich wette, das schaffst du nicht."
+
+- id: "camp-noun"
+  lemma: "camp"
+  pos: noun
+  level: A2
+  ipa: "/kæmp/"
+  example: "The children are at summer camp."
+  translations:
+    de: ["das Lager", "das Camp"]
+  example_translations:
+    de: "Die Kinder sind im Sommerlager."
+
+- id: "camp-verb"
+  lemma: "camp"
+  pos: verb
+  level: A2
+  ipa: "/kæmp/"
+  example: "We camped by the lake."
+  translations:
+    de: ["zelten", "campen"]
+  example_translations:
+    de: "Wir haben am See gezeltet."
+
+- id: "camping"
+  lemma: "camping"
+  pos: noun
+  level: A2
+  ipa: "/ˈkæm.pɪŋ/"
+  example: "We go camping every summer."
+  translations:
+    de: ["das Camping", "das Zelten"]
+  example_translations:
+    de: "Wir gehen jeden Sommer zelten."
+
+- id: "captain"
+  lemma: "captain"
+  pos: noun
+  level: B1
+  ipa: "/ˈkæp.tɪn/"
+  example: "He is the captain of the team."
+  translations:
+    de: ["der Kapitän"]
+  example_translations:
+    de: "Er ist der Kapitän der Mannschaft."
+
+- id: "catch-noun"
+  lemma: "catch"
+  pos: noun
+  level: B2
+  ipa: "/kætʃ/"
+  example: "What's the catch?"
+  translations:
+    de: ["der Fang", "der Haken"]
+  example_translations:
+    de: "Wo ist der Haken?"
+
+- id: "celebrate"
+  lemma: "celebrate"
+  pos: verb
+  level: A2
+  ipa: "/ˈsel.ə.breɪt/"
+  example: "We celebrated her birthday."
+  translations:
+    de: ["feiern"]
+  example_translations:
+    de: "Wir haben ihren Geburtstag gefeiert."
+
+- id: "celebration"
+  lemma: "celebration"
+  pos: noun
+  level: B1
+  ipa: "/ˌsel.əˈbreɪ.ʃən/"
+  example: "There was a big celebration after the match."
+  translations:
+    de: ["die Feier"]
+  example_translations:
+    de: "Nach dem Spiel gab es eine große Feier."
+
+- id: "champion"
+  lemma: "champion"
+  pos: noun
+  level: B1
+  ipa: "/ˈtʃæm.pi.ən/"
+  example: "She is the world champion."
+  translations:
+    de: ["der Meister", "der Sieger", "der Champion"]
+  example_translations:
+    de: "Sie ist Weltmeisterin."
+
+- id: "climb-noun"
+  lemma: "climb"
+  pos: noun
+  level: B1
+  ipa: "/klaɪm/"
+  example: "It was a hard climb to the top."
+  translations:
+    de: ["der Aufstieg", "die Kletterpartie"]
+  example_translations:
+    de: "Es war ein schwerer Aufstieg bis zum Gipfel."
+
+- id: "climb-verb"
+  lemma: "climb"
+  pos: verb
+  level: A1
+  ipa: "/klaɪm/"
+  example: "We climbed the mountain."
+  translations:
+    de: ["klettern", "steigen", "besteigen"]
+  example_translations:
+    de: "Wir haben den Berg bestiegen."
+
+- id: "club"
+  lemma: "club"
+  pos: noun
+  level: A1
+  ipa: "/klʌb/"
+  example: "I'm a member of a tennis club."
+  translations:
+    de: ["der Verein", "der Klub"]
+  example_translations:
+    de: "Ich bin Mitglied in einem Tennisverein."
+
+- id: "coach-noun"
+  lemma: "coach"
+  pos: noun
+  level: A2
+  ipa: "/kəʊtʃ/"
+  example: "The coach told us to run faster."
+  translations:
+    de: ["der Trainer", "der Reisebus"]
+  example_translations:
+    de: "Der Trainer sagte uns, wir sollten schneller laufen."
+
+- id: "coach-verb"
+  lemma: "coach"
+  pos: verb
+  level: B1
+  ipa: "/kəʊtʃ/"
+  example: "She coaches the children's team."
+  translations:
+    de: ["trainieren", "coachen"]
+  example_translations:
+    de: "Sie trainiert die Kindermannschaft."
+
+- id: "collect"
+  lemma: "collect"
+  pos: verb
+  level: A2
+  ipa: "/kəˈlekt/"
+  example: "He collects stamps."
+  translations:
+    de: ["sammeln", "abholen"]
+  example_translations:
+    de: "Er sammelt Briefmarken."
+
+- id: "collection"
+  lemma: "collection"
+  pos: noun
+  level: B1
+  ipa: "/kəˈlek.ʃən/"
+  example: "She has a big collection of books."
+  translations:
+    de: ["die Sammlung"]
+  example_translations:
+    de: "Sie hat eine große Büchersammlung."
+
+- id: "compete"
+  lemma: "compete"
+  pos: verb
+  level: A2
+  ipa: "/kəmˈpiːt/"
+  example: "Ten teams will compete in the final."
+  translations:
+    de: ["antreten", "konkurrieren"]
+  example_translations:
+    de: "Zehn Mannschaften treten im Finale an."
+
+- id: "competition"
+  lemma: "competition"
+  pos: noun
+  level: A2
+  ipa: "/ˌkɒm.pəˈtɪʃ.ən/"
+  example: "She won a singing competition."
+  translations:
+    de: ["der Wettbewerb", "die Konkurrenz"]
+  example_translations:
+    de: "Sie hat einen Gesangswettbewerb gewonnen."
+
+- id: "concert"
+  lemma: "concert"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒn.sət/"
+  example: "We are going to a concert tonight."
+  translations:
+    de: ["das Konzert"]
+  example_translations:
+    de: "Wir gehen heute Abend auf ein Konzert."
+
+- id: "contest-noun"
+  lemma: "contest"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.test/"
+  example: "She entered a photo contest."
+  translations:
+    de: ["der Wettbewerb", "der Wettkampf"]
+  example_translations:
+    de: "Sie nahm an einem Fotowettbewerb teil."
+
+- id: "dance"
+  lemma: "dance"
+  pos: verb
+  level: A2
+  ipa: "/dɑːns/"
+  example: "Do you want to dance?"
+  translations:
+    de: ["tanzen"]
+  example_translations:
+    de: "Möchtest du tanzen?"
+
+- id: "dance-noun"
+  lemma: "dance"
+  pos: noun
+  level: A1
+  ipa: "/dɑːns/"
+  example: "Can I have this dance?"
+  translations:
+    de: ["der Tanz"]
+  example_translations:
+    de: "Darf ich um diesen Tanz bitten?"
+
+- id: "dancing"
+  lemma: "dancing"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɑːn.sɪŋ/"
+  example: "I love dancing."
+  translations:
+    de: ["das Tanzen"]
+  example_translations:
+    de: "Ich liebe das Tanzen."
+
+- id: "defeat-noun"
+  lemma: "defeat"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈfiːt/"
+  example: "It was their first defeat this season."
+  translations:
+    de: ["die Niederlage"]
+  example_translations:
+    de: "Es war ihre erste Niederlage in dieser Saison."
+
+- id: "defeat-verb"
+  lemma: "defeat"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈfiːt/"
+  example: "We defeated the champions."
+  translations:
+    de: ["besiegen", "schlagen"]
+  example_translations:
+    de: "Wir haben den Meister besiegt."
+
+- id: "draw"
+  lemma: "draw"
+  pos: verb
+  level: A1
+  ipa: "/drɔː/"
+  example: "Can you draw a horse?"
+  translations:
+    de: ["zeichnen", "ziehen"]
+  example_translations:
+    de: "Kannst du ein Pferd zeichnen?"
+
+- id: "entertain"
+  lemma: "entertain"
+  pos: verb
+  level: B1
+  ipa: "/ˌen.təˈteɪn/"
+  example: "The clown entertained the children."
+  translations:
+    de: ["unterhalten", "bewirten"]
+  example_translations:
+    de: "Der Clown unterhielt die Kinder."
+
+- id: "entertainment"
+  lemma: "entertainment"
+  pos: noun
+  level: B1
+  ipa: "/ˌen.təˈteɪn.mənt/"
+  example: "There is live entertainment every night."
+  translations:
+    de: ["die Unterhaltung"]
+  example_translations:
+    de: "Jeden Abend gibt es Live-Unterhaltung."
+
+- id: "fan"
+  lemma: "fan"
+  pos: noun
+  level: A2
+  ipa: "/fæn/"
+  example: "I'm a big fan of this band."
+  translations:
+    de: ["der Fan", "der Ventilator"]
+  example_translations:
+    de: "Ich bin ein großer Fan dieser Band."
+
+- id: "film"
+  lemma: "film"
+  pos: noun
+  level: A1
+  ipa: "/fɪlm/"
+  example: "The film starts at eight."
+  translations:
+    de: ["der Film"]
+  example_translations:
+    de: "Der Film beginnt um acht."
+
+- id: "final-noun"
+  lemma: "final"
+  pos: noun
+  level: A2
+  ipa: "/ˈfaɪ.nəl/"
+  example: "Our team is in the final."
+  translations:
+    de: ["das Finale", "das Endspiel"]
+  example_translations:
+    de: "Unsere Mannschaft ist im Finale."
+
+- id: "finish-noun"
+  lemma: "finish"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪn.ɪʃ/"
+  example: "It was a close finish."
+  translations:
+    de: ["das Ende", "das Ziel"]
+  example_translations:
+    de: "Es war ein knapper Zieleinlauf."
+
+- id: "fish-verb"
+  lemma: "fish"
+  pos: verb
+  level: A2
+  ipa: "/fɪʃ/"
+  example: "We fished in the lake."
+  translations:
+    de: ["angeln", "fischen"]
+  example_translations:
+    de: "Wir haben im See geangelt."
+
+- id: "fishing"
+  lemma: "fishing"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪʃ.ɪŋ/"
+  example: "My grandfather loves fishing."
+  translations:
+    de: ["das Angeln", "die Fischerei"]
+  example_translations:
+    de: "Mein Großvater angelt sehr gern."
+
+- id: "football"
+  lemma: "football"
+  pos: noun
+  level: A1
+  ipa: "/ˈfʊt.bɔːl/"
+  example: "Do you like football?"
+  translations:
+    de: ["der Fußball"]
+  example_translations:
+    de: "Magst du Fußball?"
+
+- id: "fun-noun"
+  lemma: "fun"
+  pos: noun
+  level: A1
+  ipa: "/fʌn/"
+  example: "Have fun!"
+  translations:
+    de: ["der Spaß"]
+  example_translations:
+    de: "Viel Spaß!"
+
+- id: "game"
+  lemma: "game"
+  pos: noun
+  level: A1
+  ipa: "/ɡeɪm/"
+  example: "Let's play a game."
+  translations:
+    de: ["das Spiel"]
+  example_translations:
+    de: "Lass uns ein Spiel spielen."
+
+- id: "go-noun"
+  lemma: "go"
+  pos: noun
+  level: B1
+  ipa: "/ɡəʊ/"
+  example: "Can I have a go?"
+  translations:
+    de: ["der Versuch", "das Mal"]
+  example_translations:
+    de: "Darf ich es mal versuchen?"
+
+- id: "goal"
+  lemma: "goal"
+  pos: noun
+  level: A2
+  ipa: "/ɡəʊl/"
+  example: "He scored a goal."
+  translations:
+    de: ["das Tor", "das Ziel"]
+  example_translations:
+    de: "Er hat ein Tor geschossen."
+
+- id: "golf"
+  lemma: "golf"
+  pos: noun
+  level: A2
+  ipa: "/ɡɒlf/"
+  example: "My father plays golf."
+  translations:
+    de: ["das Golf"]
+  example_translations:
+    de: "Mein Vater spielt Golf."
+
+- id: "guitar"
+  lemma: "guitar"
+  pos: noun
+  level: A2
+  ipa: "/ɡɪˈtɑːr/"
+  example: "He plays the guitar."
+  translations:
+    de: ["die Gitarre"]
+  example_translations:
+    de: "Er spielt Gitarre."
+
+- id: "gym"
+  lemma: "gym"
+  pos: noun
+  level: A1
+  ipa: "/dʒɪm/"
+  example: "I go to the gym three times a week."
+  translations:
+    de: ["das Fitnessstudio", "die Turnhalle"]
+  example_translations:
+    de: "Ich gehe dreimal pro Woche ins Fitnessstudio."
+
+- id: "hike-noun"
+  lemma: "hike"
+  pos: noun
+  level: A2
+  ipa: "/haɪk/"
+  example: "We went on a long hike."
+  translations:
+    de: ["die Wanderung"]
+  example_translations:
+    de: "Wir haben eine lange Wanderung gemacht."
+
+- id: "hike-verb"
+  lemma: "hike"
+  pos: verb
+  level: A2
+  ipa: "/haɪk/"
+  example: "We hiked in the mountains."
+  translations:
+    de: ["wandern"]
+  example_translations:
+    de: "Wir sind in den Bergen gewandert."
+
+- id: "hobby"
+  lemma: "hobby"
+  pos: noun
+  level: A2
+  ipa: "/ˈhɒb.i/"
+  example: "Reading is my favourite hobby."
+  translations:
+    de: ["das Hobby"]
+  example_translations:
+    de: "Lesen ist mein Lieblingshobby."
+
+- id: "hockey"
+  lemma: "hockey"
+  pos: noun
+  level: A2
+  ipa: "/ˈhɒk.i/"
+  example: "She plays hockey at school."
+  translations:
+    de: ["das Hockey"]
+  example_translations:
+    de: "Sie spielt in der Schule Hockey."
+
+- id: "host-verb"
+  lemma: "host"
+  pos: verb
+  level: B2
+  ipa: "/həʊst/"
+  example: "Which city will host the Olympics?"
+  translations:
+    de: ["ausrichten", "moderieren"]
+  example_translations:
+    de: "Welche Stadt richtet die Olympischen Spiele aus?"
+
+- id: "hunting"
+  lemma: "hunting"
+  pos: noun
+  level: B2
+  ipa: "/ˈhʌn.tɪŋ/"
+  example: "He goes hunting in autumn."
+  translations:
+    de: ["die Jagd"]
+  example_translations:
+    de: "Im Herbst geht er auf die Jagd."
+
+- id: "indoor"
+  lemma: "indoor"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɪn.dɔːr/"
+  example: "The hotel has an indoor pool."
+  translations:
+    de: ["Innen-", "Hallen-"]
+  example_translations:
+    de: "Das Hotel hat ein Hallenbad."
+
+- id: "interest-noun"
+  lemma: "interest"
+  pos: noun
+  level: A1
+  ipa: "/ˈɪn.trəst/"
+  example: "What are your interests?"
+  translations:
+    de: ["das Interesse", "die Zinsen"]
+  example_translations:
+    de: "Was sind deine Interessen?"
+
+- id: "jump-noun"
+  lemma: "jump"
+  pos: noun
+  level: A2
+  ipa: "/dʒʌmp/"
+  example: "That was a great jump!"
+  translations:
+    de: ["der Sprung"]
+  example_translations:
+    de: "Das war ein toller Sprung!"
+
+- id: "kick-noun"
+  lemma: "kick"
+  pos: noun
+  level: B1
+  ipa: "/kɪk/"
+  example: "He gave the ball a hard kick."
+  translations:
+    de: ["der Tritt", "der Schuss"]
+  example_translations:
+    de: "Er gab dem Ball einen kräftigen Tritt."
+
+- id: "lead-noun"
+  lemma: "lead"
+  pos: noun
+  level: B1
+  ipa: "/liːd/"
+  example: "Our team is in the lead."
+  translations:
+    de: ["die Führung", "die Hauptrolle", "die Leine"]
+  example_translations:
+    de: "Unsere Mannschaft liegt in Führung."
+
+- id: "league"
+  lemma: "league"
+  pos: noun
+  level: B2
+  ipa: "/liːɡ/"
+  example: "Our team is top of the league."
+  translations:
+    de: ["die Liga"]
+  example_translations:
+    de: "Unsere Mannschaft ist Tabellenführer."
+
+- id: "leisure"
+  lemma: "leisure"
+  pos: noun
+  level: B1
+  ipa: "/ˈleʒ.ər/"
+  example: "What do you do in your leisure time?"
+  translations:
+    de: ["die Freizeit"]
+  example_translations:
+    de: "Was machst du in deiner Freizeit?"
+
+- id: "lose"
+  lemma: "lose"
+  pos: verb
+  level: A2
+  ipa: "/luːz/"
+  example: "I don't like to lose."
+  translations:
+    de: ["verlieren"]
+  example_translations:
+    de: "Ich verliere nicht gern."
+
+- id: "match-noun"
+  lemma: "match"
+  pos: noun
+  level: A1
+  ipa: "/mætʃ/"
+  example: "Did you watch the match?"
+  translations:
+    de: ["das Spiel", "das Streichholz"]
+  example_translations:
+    de: "Hast du das Spiel gesehen?"
+
+- id: "music"
+  lemma: "music"
+  pos: noun
+  level: A1
+  ipa: "/ˈmjuː.zɪk/"
+  example: "I listen to music every day."
+  translations:
+    de: ["die Musik"]
+  example_translations:
+    de: "Ich höre jeden Tag Musik."
+
+- id: "net"
+  lemma: "net"
+  pos: noun
+  level: B1
+  ipa: "/net/"
+  example: "The ball hit the net."
+  translations:
+    de: ["das Netz"]
+  example_translations:
+    de: "Der Ball traf das Netz."
+
+- id: "opponent"
+  lemma: "opponent"
+  pos: noun
+  level: B2
+  ipa: "/əˈpəʊ.nənt/"
+  example: "Our opponent is very strong."
+  translations:
+    de: ["der Gegner", "die Gegnerin"]
+  example_translations:
+    de: "Unser Gegner ist sehr stark."
+
+- id: "outdoor"
+  lemma: "outdoor"
+  pos: adjective
+  level: B1
+  ipa: "/ˌaʊtˈdɔːr/"
+  example: "The hotel has an outdoor pool."
+  translations:
+    de: ["Außen-", "im Freien"]
+  example_translations:
+    de: "Das Hotel hat ein Freibad."
+
+- id: "outdoors"
+  lemma: "outdoors"
+  pos: adverb
+  level: B1
+  ipa: "/ˌaʊtˈdɔːz/"
+  example: "We ate outdoors."
+  translations:
+    de: ["draußen", "im Freien"]
+  example_translations:
+    de: "Wir haben draußen gegessen."
+
+- id: "paint"
+  lemma: "paint"
+  pos: verb
+  level: A2
+  ipa: "/peɪnt/"
+  example: "She paints in her free time."
+  translations:
+    de: ["malen", "streichen"]
+  example_translations:
+    de: "Sie malt in ihrer Freizeit."
+
+- id: "paint-noun"
+  lemma: "paint"
+  pos: noun
+  level: A1
+  ipa: "/peɪnt/"
+  example: "We need white paint for the walls."
+  translations:
+    de: ["die Farbe (zum Malen)"]
+  example_translations:
+    de: "Wir brauchen weiße Farbe für die Wände."
+
+- id: "party"
+  lemma: "party"
+  pos: noun
+  level: A1
+  ipa: "/ˈpɑː.ti/"
+  example: "We're having a party on Saturday."
+  translations:
+    de: ["die Party", "die Feier", "die Partei"]
+  example_translations:
+    de: "Wir machen am Samstag eine Party."
+
+- id: "photo"
+  lemma: "photo"
+  pos: noun
+  level: A1
+  ipa: "/ˈfəʊ.təʊ/"
+  example: "Can I take a photo?"
+  translations:
+    de: ["das Foto"]
+  example_translations:
+    de: "Darf ich ein Foto machen?"
+
+- id: "photograph-noun"
+  lemma: "photograph"
+  pos: noun
+  level: A1
+  ipa: "/ˈfəʊ.tə.ɡrɑːf/"
+  example: "This is an old photograph of my grandmother."
+  translations:
+    de: ["das Foto", "die Fotografie"]
+  example_translations:
+    de: "Das ist ein altes Foto meiner Großmutter."
+
+- id: "photograph-verb"
+  lemma: "photograph"
+  pos: verb
+  level: A2
+  ipa: "/ˈfəʊ.tə.ɡrɑːf/"
+  example: "He photographs animals."
+  translations:
+    de: ["fotografieren"]
+  example_translations:
+    de: "Er fotografiert Tiere."
+
+- id: "photography"
+  lemma: "photography"
+  pos: noun
+  level: B1
+  ipa: "/fəˈtɒɡ.rə.fi/"
+  example: "Photography is my hobby."
+  translations:
+    de: ["die Fotografie"]
+  example_translations:
+    de: "Fotografie ist mein Hobby."
+
+- id: "pitch"
+  lemma: "pitch"
+  pos: noun
+  level: B2
+  ipa: "/pɪtʃ/"
+  example: "The players are on the pitch."
+  translations:
+    de: ["das Spielfeld", "die Tonhöhe"]
+  example_translations:
+    de: "Die Spieler sind auf dem Platz."
+
+- id: "play"
+  lemma: "play"
+  pos: verb
+  level: A1
+  ipa: "/pleɪ/"
+  example: "The kids play football."
+  translations:
+    de: ["spielen"]
+  example_translations:
+    de: "Die Kinder spielen Fußball."
+
+- id: "player"
+  lemma: "player"
+  pos: noun
+  level: A1
+  ipa: "/ˈpleɪ.ər/"
+  example: "He is a good football player."
+  translations:
+    de: ["der Spieler", "die Spielerin"]
+  example_translations:
+    de: "Er ist ein guter Fußballspieler."
+
+- id: "pool"
+  lemma: "pool"
+  pos: noun
+  level: A1
+  ipa: "/puːl/"
+  example: "The hotel has a pool."
+  translations:
+    de: ["das Schwimmbecken", "der Pool"]
+  example_translations:
+    de: "Das Hotel hat einen Pool."
+
+- id: "prize"
+  lemma: "prize"
+  pos: noun
+  level: A2
+  ipa: "/praɪz/"
+  example: "She won first prize."
+  translations:
+    de: ["der Preis", "der Gewinn"]
+  example_translations:
+    de: "Sie hat den ersten Preis gewonnen."
+
+- id: "race-noun"
+  lemma: "race"
+  pos: noun
+  level: A2
+  ipa: "/reɪs/"
+  example: "Who won the race?"
+  translations:
+    de: ["das Rennen", "der Wettlauf", "die Rasse"]
+  example_translations:
+    de: "Wer hat das Rennen gewonnen?"
+
+- id: "race-verb"
+  lemma: "race"
+  pos: verb
+  level: A2
+  ipa: "/reɪs/"
+  example: "I'll race you to the tree!"
+  translations:
+    de: ["rennen", "um die Wette laufen"]
+  example_translations:
+    de: "Wer zuerst am Baum ist!"
+
+- id: "racing"
+  lemma: "racing"
+  pos: noun
+  level: B1
+  ipa: "/ˈreɪ.sɪŋ/"
+  example: "He loves car racing."
+  translations:
+    de: ["der Rennsport"]
+  example_translations:
+    de: "Er liebt Autorennen."
+
+- id: "relax"
+  lemma: "relax"
+  pos: verb
+  level: A1
+  ipa: "/rɪˈlæks/"
+  example: "I want to relax this weekend."
+  translations:
+    de: ["sich entspannen"]
+  example_translations:
+    de: "Ich möchte mich am Wochenende entspannen."
+
+- id: "round-noun"
+  lemma: "round"
+  pos: noun
+  level: B2
+  ipa: "/raʊnd/"
+  example: "It's my round. What would you like?"
+  translations:
+    de: ["die Runde"]
+  example_translations:
+    de: "Diese Runde geht auf mich. Was möchtest du?"
+
+- id: "rugby"
+  lemma: "rugby"
+  pos: noun
+  level: B1
+  ipa: "/ˈrʌɡ.bi/"
+  example: "Rugby is popular in Wales."
+  translations:
+    de: ["das Rugby"]
+  example_translations:
+    de: "Rugby ist in Wales beliebt."
+
+- id: "run-noun"
+  lemma: "run"
+  pos: noun
+  level: A2
+  ipa: "/rʌn/"
+  example: "Let's go for a run."
+  translations:
+    de: ["der Lauf", "die Runde"]
+  example_translations:
+    de: "Lass uns laufen gehen."
+
+- id: "runner"
+  lemma: "runner"
+  pos: noun
+  level: A2
+  ipa: "/ˈrʌn.ər/"
+  example: "She is a fast runner."
+  translations:
+    de: ["der Läufer", "die Läuferin"]
+  example_translations:
+    de: "Sie ist eine schnelle Läuferin."
+
+- id: "running"
+  lemma: "running"
+  pos: noun
+  level: A2
+  ipa: "/ˈrʌn.ɪŋ/"
+  example: "Running is good exercise."
+  translations:
+    de: ["das Laufen"]
+  example_translations:
+    de: "Laufen ist ein gutes Training."
+
+- id: "sail-noun"
+  lemma: "sail"
+  pos: noun
+  level: B1
+  ipa: "/seɪl/"
+  example: "The boat has white sails."
+  translations:
+    de: ["das Segel"]
+  example_translations:
+    de: "Das Boot hat weiße Segel."
+
+- id: "sail-verb"
+  lemma: "sail"
+  pos: verb
+  level: A2
+  ipa: "/seɪl/"
+  example: "We sailed to the island."
+  translations:
+    de: ["segeln"]
+  example_translations:
+    de: "Wir sind zur Insel gesegelt."
+
+- id: "sailing"
+  lemma: "sailing"
+  pos: noun
+  level: A2
+  ipa: "/ˈseɪ.lɪŋ/"
+  example: "Sailing is my favourite sport."
+  translations:
+    de: ["das Segeln"]
+  example_translations:
+    de: "Segeln ist mein Lieblingssport."
+
+- id: "score-noun"
+  lemma: "score"
+  pos: noun
+  level: A2
+  ipa: "/skɔːr/"
+  example: "What's the score?"
+  translations:
+    de: ["der Spielstand", "die Punktzahl"]
+  example_translations:
+    de: "Wie steht es?"
+
+- id: "score-verb"
+  lemma: "score"
+  pos: verb
+  level: A2
+  ipa: "/skɔːr/"
+  example: "He scored two goals."
+  translations:
+    de: ["erzielen", "ein Tor schießen", "punkten"]
+  example_translations:
+    de: "Er hat zwei Tore geschossen."
+
+- id: "sing"
+  lemma: "sing"
+  pos: verb
+  level: A1
+  ipa: "/sɪŋ/"
+  example: "She sings in a choir."
+  translations:
+    de: ["singen"]
+  example_translations:
+    de: "Sie singt in einem Chor."
+
+- id: "singing"
+  lemma: "singing"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪŋ.ɪŋ/"
+  example: "I love singing."
+  translations:
+    de: ["das Singen", "der Gesang"]
+  example_translations:
+    de: "Ich singe sehr gern."
+
+- id: "ski-noun"
+  lemma: "ski"
+  pos: noun
+  level: A2
+  ipa: "/skiː/"
+  example: "I need new skis."
+  translations:
+    de: ["der Ski"]
+  example_translations:
+    de: "Ich brauche neue Skier."
+
+- id: "ski-verb"
+  lemma: "ski"
+  pos: verb
+  level: A2
+  ipa: "/skiː/"
+  example: "Can you ski?"
+  translations:
+    de: ["Ski fahren"]
+  example_translations:
+    de: "Kannst du Ski fahren?"
+
+- id: "skiing"
+  lemma: "skiing"
+  pos: noun
+  level: A2
+  ipa: "/ˈskiː.ɪŋ/"
+  example: "We go skiing in winter."
+  translations:
+    de: ["das Skifahren"]
+  example_translations:
+    de: "Im Winter fahren wir Ski."
+
+- id: "soccer"
+  lemma: "soccer"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɒk.ər/"
+  example: "Soccer is popular in the USA too."
+  translations:
+    de: ["der Fußball"]
+  example_translations:
+    de: "Fußball ist auch in den USA beliebt."
+
+- id: "sport"
+  lemma: "sport"
+  pos: noun
+  level: A1
+  ipa: "/spɔːt/"
+  example: "Tennis is my favourite sport."
+  translations:
+    de: ["der Sport", "die Sportart"]
+  example_translations:
+    de: "Tennis ist mein Lieblingssport."
+
+- id: "stadium"
+  lemma: "stadium"
+  pos: noun
+  level: B1
+  ipa: "/ˈsteɪ.di.əm/"
+  example: "The stadium was full."
+  translations:
+    de: ["das Stadion"]
+  example_translations:
+    de: "Das Stadion war voll."
+
+- id: "supporter"
+  lemma: "supporter"
+  pos: noun
+  level: B1
+  ipa: "/səˈpɔː.tər/"
+  example: "The supporters sang loudly."
+  translations:
+    de: ["der Anhänger", "der Fan", "der Unterstützer"]
+  example_translations:
+    de: "Die Fans sangen laut."
+
+- id: "swim"
+  lemma: "swim"
+  pos: verb
+  level: A1
+  ipa: "/swɪm/"
+  example: "Can you swim?"
+  translations:
+    de: ["schwimmen"]
+  example_translations:
+    de: "Kannst du schwimmen?"
+
+- id: "swim-noun"
+  lemma: "swim"
+  pos: noun
+  level: B1
+  ipa: "/swɪm/"
+  example: "Let's go for a swim."
+  translations:
+    de: ["das Schwimmen"]
+  example_translations:
+    de: "Lass uns schwimmen gehen."
+
+- id: "swimming"
+  lemma: "swimming"
+  pos: noun
+  level: A1
+  ipa: "/ˈswɪm.ɪŋ/"
+  example: "Swimming is good exercise."
+  translations:
+    de: ["das Schwimmen"]
+  example_translations:
+    de: "Schwimmen ist ein gutes Training."
+
+- id: "team"
+  lemma: "team"
+  pos: noun
+  level: A2
+  ipa: "/tiːm/"
+  example: "Our team won the match."
+  translations:
+    de: ["die Mannschaft", "das Team"]
+  example_translations:
+    de: "Unsere Mannschaft hat das Spiel gewonnen."
+
+- id: "tennis"
+  lemma: "tennis"
+  pos: noun
+  level: A1
+  ipa: "/ˈten.ɪs/"
+  example: "Do you play tennis?"
+  translations:
+    de: ["das Tennis"]
+  example_translations:
+    de: "Spielst du Tennis?"
+
+- id: "tent"
+  lemma: "tent"
+  pos: noun
+  level: B1
+  ipa: "/tent/"
+  example: "We slept in a tent."
+  translations:
+    de: ["das Zelt"]
+  example_translations:
+    de: "Wir haben im Zelt geschlafen."
+
+- id: "toy"
+  lemma: "toy"
+  pos: noun
+  level: A2
+  ipa: "/tɔɪ/"
+  example: "The children are playing with their toys."
+  translations:
+    de: ["das Spielzeug"]
+  example_translations:
+    de: "Die Kinder spielen mit ihren Spielsachen."
+
+- id: "track-noun"
+  lemma: "track"
+  pos: noun
+  level: A2
+  ipa: "/træk/"
+  example: "The athletes ran around the track."
+  translations:
+    de: ["der Weg", "die Strecke", "das Gleis", "das Lied"]
+  example_translations:
+    de: "Die Sportler liefen um die Bahn."
+
+- id: "train-verb"
+  lemma: "train"
+  pos: verb
+  level: A2
+  ipa: "/treɪn/"
+  example: "She trains every day."
+  translations:
+    de: ["trainieren", "ausbilden"]
+  example_translations:
+    de: "Sie trainiert jeden Tag."
+
+- id: "trainer"
+  lemma: "trainer"
+  pos: noun
+  level: A2
+  ipa: "/ˈtreɪ.nər/"
+  example: "My new trainers are white."
+  translations:
+    de: ["der Trainer", "der Turnschuh"]
+  example_translations:
+    de: "Meine neuen Turnschuhe sind weiß."
+
+- id: "victory"
+  lemma: "victory"
+  pos: noun
+  level: B2
+  ipa: "/ˈvɪk.tər.i/"
+  example: "The team celebrated their victory."
+  translations:
+    de: ["der Sieg"]
+  example_translations:
+    de: "Die Mannschaft feierte ihren Sieg."
+
+- id: "walk-noun"
+  lemma: "walk"
+  pos: noun
+  level: A1
+  ipa: "/wɔːk/"
+  example: "Let's go for a walk."
+  translations:
+    de: ["der Spaziergang"]
+  example_translations:
+    de: "Lass uns spazieren gehen."
+
+- id: "win"
+  lemma: "win"
+  pos: verb
+  level: A2
+  ipa: "/wɪn/"
+  example: "I hope we win."
+  translations:
+    de: ["gewinnen"]
+  example_translations:
+    de: "Ich hoffe, wir gewinnen."
+
+- id: "win-noun"
+  lemma: "win"
+  pos: noun
+  level: B1
+  ipa: "/wɪn/"
+  example: "It was our third win in a row."
+  translations:
+    de: ["der Sieg"]
+  example_translations:
+    de: "Es war unser dritter Sieg in Folge."
+
+- id: "winner"
+  lemma: "winner"
+  pos: noun
+  level: A2
+  ipa: "/ˈwɪn.ər/"
+  example: "And the winner is …"
+  translations:
+    de: ["der Gewinner", "die Gewinnerin", "der Sieger"]
+  example_translations:
+    de: "Und der Gewinner ist …"

@@ -1,0 +1,1586 @@
+# 😊 Gefühle – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "admire"
+  lemma: "admire"
+  pos: verb
+  level: B1
+  ipa: "/ədˈmaɪər/"
+  example: "I admire your courage."
+  translations:
+    de: ["bewundern"]
+  example_translations:
+    de: "Ich bewundere deinen Mut."
+
+- id: "afraid"
+  lemma: "afraid"
+  pos: adjective
+  level: A2
+  ipa: "/əˈfreɪd/"
+  example: "She is afraid of dogs."
+  translations:
+    de: ["ängstlich"]
+  example_translations:
+    de: "Sie hat Angst vor Hunden."
+
+- id: "alarm-verb"
+  lemma: "alarm"
+  pos: verb
+  level: B2
+  ipa: "/əˈlɑːm/"
+  example: "The news alarmed everyone."
+  translations:
+    de: ["beunruhigen", "alarmieren"]
+  example_translations:
+    de: "Die Nachricht beunruhigte alle."
+
+- id: "amazed"
+  lemma: "amazed"
+  pos: adjective
+  level: B1
+  ipa: "/əˈmeɪzd/"
+  example: "I was amazed by the view."
+  translations:
+    de: ["erstaunt"]
+  example_translations:
+    de: "Ich war von der Aussicht erstaunt."
+
+- id: "anger"
+  lemma: "anger"
+  pos: noun
+  level: B2
+  ipa: "/ˈæŋ.ɡər/"
+  example: "He couldn't hide his anger."
+  translations:
+    de: ["die Wut", "der Ärger"]
+  example_translations:
+    de: "Er konnte seine Wut nicht verbergen."
+
+- id: "angry"
+  lemma: "angry"
+  pos: adjective
+  level: A2
+  ipa: "/ˈæŋ.ɡri/"
+  example: "Why are you angry with me?"
+  translations:
+    de: ["wütend", "böse", "verärgert"]
+  example_translations:
+    de: "Warum bist du wütend auf mich?"
+
+- id: "annoy"
+  lemma: "annoy"
+  pos: verb
+  level: B1
+  ipa: "/əˈnɔɪ/"
+  example: "My brother always annoys me."
+  translations:
+    de: ["ärgern", "nerven"]
+  example_translations:
+    de: "Mein Bruder nervt mich immer."
+
+- id: "annoyed"
+  lemma: "annoyed"
+  pos: adjective
+  level: B1
+  ipa: "/əˈnɔɪd/"
+  example: "She was annoyed with me."
+  translations:
+    de: ["verärgert", "genervt"]
+  example_translations:
+    de: "Sie war genervt von mir."
+
+- id: "annoying"
+  lemma: "annoying"
+  pos: adjective
+  level: B1
+  ipa: "/əˈnɔɪ.ɪŋ/"
+  example: "That noise is really annoying."
+  translations:
+    de: ["ärgerlich", "nervig"]
+  example_translations:
+    de: "Dieses Geräusch ist wirklich nervig."
+
+- id: "anxious"
+  lemma: "anxious"
+  pos: adjective
+  level: B2
+  ipa: "/ˈæŋk.ʃəs/"
+  example: "She is anxious about the exam."
+  translations:
+    de: ["ängstlich", "besorgt"]
+  example_translations:
+    de: "Sie macht sich Sorgen wegen der Prüfung."
+
+- id: "appreciate"
+  lemma: "appreciate"
+  pos: verb
+  level: B1
+  ipa: "/əˈpriː.ʃi.eɪt/"
+  example: "I really appreciate your help."
+  translations:
+    de: ["schätzen", "zu schätzen wissen"]
+  example_translations:
+    de: "Ich weiß deine Hilfe wirklich zu schätzen."
+
+- id: "ashamed"
+  lemma: "ashamed"
+  pos: adjective
+  level: B2
+  ipa: "/əˈʃeɪmd/"
+  example: "You should be ashamed of yourself."
+  translations:
+    de: ["beschämt"]
+  example_translations:
+    de: "Du solltest dich schämen."
+
+- id: "bear-verb"
+  lemma: "bear"
+  pos: verb
+  level: B2
+  ipa: "/beər/"
+  example: "I can't bear the noise."
+  translations:
+    de: ["ertragen", "aushalten"]
+  example_translations:
+    de: "Ich kann den Lärm nicht ertragen."
+
+- id: "bored"
+  lemma: "bored"
+  pos: adjective
+  level: A2
+  ipa: "/bɔːd/"
+  example: "The children are bored."
+  translations:
+    de: ["gelangweilt"]
+  example_translations:
+    de: "Die Kinder langweilen sich."
+
+- id: "bother"
+  lemma: "bother"
+  pos: verb
+  level: B1
+  ipa: "/ˈbɒð.ər/"
+  example: "Does the music bother you?"
+  translations:
+    de: ["stören", "sich die Mühe machen"]
+  example_translations:
+    de: "Stört dich die Musik?"
+
+- id: "calm-noun"
+  lemma: "calm"
+  pos: noun
+  level: B1
+  ipa: "/kɑːm/"
+  example: "I love the calm of the morning."
+  translations:
+    de: ["die Ruhe"]
+  example_translations:
+    de: "Ich liebe die Ruhe am Morgen."
+
+- id: "calm-verb"
+  lemma: "calm"
+  pos: verb
+  level: B1
+  ipa: "/kɑːm/"
+  example: "She tried to calm the baby."
+  translations:
+    de: ["beruhigen"]
+  example_translations:
+    de: "Sie versuchte, das Baby zu beruhigen."
+
+- id: "care-verb"
+  lemma: "care"
+  pos: verb
+  level: A2
+  ipa: "/keər/"
+  example: "I don't care what they think."
+  translations:
+    de: ["sich kümmern", "wichtig sein"]
+  example_translations:
+    de: "Es ist mir egal, was sie denken."
+
+- id: "cheerful"
+  lemma: "cheerful"
+  pos: adjective
+  level: B1
+  ipa: "/ˈtʃɪə.fəl/"
+  example: "She is always cheerful."
+  translations:
+    de: ["fröhlich", "heiter"]
+  example_translations:
+    de: "Sie ist immer fröhlich."
+
+- id: "comfort-noun"
+  lemma: "comfort"
+  pos: noun
+  level: B2
+  ipa: "/ˈkʌm.fət/"
+  example: "Her words gave me comfort."
+  translations:
+    de: ["der Komfort", "der Trost"]
+  example_translations:
+    de: "Ihre Worte spendeten mir Trost."
+
+- id: "comfort-verb"
+  lemma: "comfort"
+  pos: verb
+  level: B2
+  ipa: "/ˈkʌm.fət/"
+  example: "She comforted the crying child."
+  translations:
+    de: ["trösten"]
+  example_translations:
+    de: "Sie tröstete das weinende Kind."
+
+- id: "concern-noun"
+  lemma: "concern"
+  pos: noun
+  level: B2
+  ipa: "/kənˈsɜːn/"
+  example: "There is concern about the economy."
+  translations:
+    de: ["die Sorge", "das Anliegen"]
+  example_translations:
+    de: "Es gibt Sorgen um die Wirtschaft."
+
+- id: "concerned"
+  lemma: "concerned"
+  pos: adjective
+  level: B2
+  ipa: "/kənˈsɜːnd/"
+  example: "I'm concerned about your health."
+  translations:
+    de: ["besorgt", "betroffen"]
+  example_translations:
+    de: "Ich mache mir Sorgen um deine Gesundheit."
+
+- id: "confidence"
+  lemma: "confidence"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.fɪ.dəns/"
+  example: "She has a lot of confidence."
+  translations:
+    de: ["das Selbstvertrauen", "das Vertrauen"]
+  example_translations:
+    de: "Sie hat viel Selbstvertrauen."
+
+- id: "confident"
+  lemma: "confident"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkɒn.fɪ.dənt/"
+  example: "I'm confident that we will win."
+  translations:
+    de: ["selbstbewusst", "zuversichtlich"]
+  example_translations:
+    de: "Ich bin zuversichtlich, dass wir gewinnen."
+
+- id: "confused"
+  lemma: "confused"
+  pos: adjective
+  level: B1
+  ipa: "/kənˈfjuːzd/"
+  example: "I'm confused. Can you explain again?"
+  translations:
+    de: ["verwirrt"]
+  example_translations:
+    de: "Ich bin verwirrt. Kannst du es noch einmal erklären?"
+
+- id: "courage"
+  lemma: "courage"
+  pos: noun
+  level: B2
+  ipa: "/ˈkʌr.ɪdʒ/"
+  example: "It takes courage to say no."
+  translations:
+    de: ["der Mut"]
+  example_translations:
+    de: "Es braucht Mut, Nein zu sagen."
+
+- id: "cry-verb"
+  lemma: "cry"
+  pos: verb
+  level: A2
+  ipa: "/kraɪ/"
+  example: "The baby is crying."
+  translations:
+    de: ["weinen", "schreien"]
+  example_translations:
+    de: "Das Baby weint."
+
+- id: "dear-interjection"
+  lemma: "dear"
+  pos: interjection
+  level: A2
+  ipa: "/dɪər/"
+  example: "Oh dear, I forgot my keys!"
+  translations:
+    de: ["oje", "ach du meine Güte"]
+  example_translations:
+    de: "Oje, ich habe meine Schlüssel vergessen!"
+
+- id: "deeply"
+  lemma: "deeply"
+  pos: adverb
+  level: B2
+  ipa: "/ˈdiːp.li/"
+  example: "I'm deeply sorry."
+  translations:
+    de: ["zutiefst", "sehr"]
+  example_translations:
+    de: "Es tut mir zutiefst leid."
+
+- id: "delight-noun"
+  lemma: "delight"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈlaɪt/"
+  example: "To my delight, she said yes."
+  translations:
+    de: ["die Freude", "das Vergnügen"]
+  example_translations:
+    de: "Zu meiner Freude sagte sie Ja."
+
+- id: "delight-verb"
+  lemma: "delight"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈlaɪt/"
+  example: "The show delighted the children."
+  translations:
+    de: ["erfreuen", "begeistern"]
+  example_translations:
+    de: "Die Show begeisterte die Kinder."
+
+- id: "delighted"
+  lemma: "delighted"
+  pos: adjective
+  level: B2
+  ipa: "/dɪˈlaɪ.tɪd/"
+  example: "I'm delighted to meet you."
+  translations:
+    de: ["hocherfreut", "begeistert"]
+  example_translations:
+    de: "Ich freue mich sehr, Sie kennenzulernen."
+
+- id: "depressed"
+  lemma: "depressed"
+  pos: adjective
+  level: B2
+  ipa: "/dɪˈprest/"
+  example: "He has been depressed since he lost his job."
+  translations:
+    de: ["deprimiert", "niedergeschlagen"]
+  example_translations:
+    de: "Seit er seinen Job verloren hat, ist er deprimiert."
+
+- id: "depressing"
+  lemma: "depressing"
+  pos: adjective
+  level: B2
+  ipa: "/dɪˈpres.ɪŋ/"
+  example: "The news is so depressing."
+  translations:
+    de: ["deprimierend"]
+  example_translations:
+    de: "Die Nachrichten sind so deprimierend."
+
+- id: "desire-noun"
+  lemma: "desire"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈzaɪər/"
+  example: "She has a strong desire to travel."
+  translations:
+    de: ["der Wunsch", "das Verlangen"]
+  example_translations:
+    de: "Sie hat einen starken Wunsch zu reisen."
+
+- id: "desire-verb"
+  lemma: "desire"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈzaɪər/"
+  example: "The hotel has everything you could desire."
+  translations:
+    de: ["wünschen", "begehren"]
+  example_translations:
+    de: "Das Hotel hat alles, was man sich wünschen kann."
+
+- id: "desperate"
+  lemma: "desperate"
+  pos: adjective
+  level: B2
+  ipa: "/ˈdes.pər.ət/"
+  example: "They were desperate for help."
+  translations:
+    de: ["verzweifelt"]
+  example_translations:
+    de: "Sie brauchten verzweifelt Hilfe."
+
+- id: "disappointed"
+  lemma: "disappointed"
+  pos: adjective
+  level: B1
+  ipa: "/ˌdɪs.əˈpɔɪn.tɪd/"
+  example: "I was disappointed with the result."
+  translations:
+    de: ["enttäuscht"]
+  example_translations:
+    de: "Ich war vom Ergebnis enttäuscht."
+
+- id: "disappointing"
+  lemma: "disappointing"
+  pos: adjective
+  level: B1
+  ipa: "/ˌdɪs.əˈpɔɪn.tɪŋ/"
+  example: "The film was disappointing."
+  translations:
+    de: ["enttäuschend"]
+  example_translations:
+    de: "Der Film war enttäuschend."
+
+- id: "dislike-noun"
+  lemma: "dislike"
+  pos: noun
+  level: B1
+  ipa: "/dɪˈslaɪk/"
+  example: "She has a dislike of cats."
+  translations:
+    de: ["die Abneigung"]
+  example_translations:
+    de: "Sie hat eine Abneigung gegen Katzen."
+
+- id: "dislike-verb"
+  lemma: "dislike"
+  pos: verb
+  level: B1
+  ipa: "/dɪˈslaɪk/"
+  example: "I dislike cold weather."
+  translations:
+    de: ["nicht mögen"]
+  example_translations:
+    de: "Ich mag kein kaltes Wetter."
+
+- id: "dream-noun"
+  lemma: "dream"
+  pos: noun
+  level: A2
+  ipa: "/driːm/"
+  example: "I had a strange dream last night."
+  translations:
+    de: ["der Traum"]
+  example_translations:
+    de: "Ich hatte letzte Nacht einen seltsamen Traum."
+
+- id: "dream-verb"
+  lemma: "dream"
+  pos: verb
+  level: A2
+  ipa: "/driːm/"
+  example: "I dreamed about you."
+  translations:
+    de: ["träumen"]
+  example_translations:
+    de: "Ich habe von dir geträumt."
+
+- id: "embarrassed"
+  lemma: "embarrassed"
+  pos: adjective
+  level: B1
+  ipa: "/ɪmˈbær.əst/"
+  example: "I felt embarrassed."
+  translations:
+    de: ["verlegen", "peinlich berührt"]
+  example_translations:
+    de: "Es war mir peinlich."
+
+- id: "embarrassing"
+  lemma: "embarrassing"
+  pos: adjective
+  level: B1
+  ipa: "/ɪmˈbær.ə.sɪŋ/"
+  example: "That was so embarrassing!"
+  translations:
+    de: ["peinlich"]
+  example_translations:
+    de: "Das war so peinlich!"
+
+- id: "emotion"
+  lemma: "emotion"
+  pos: noun
+  level: B1
+  ipa: "/ɪˈməʊ.ʃən/"
+  example: "He didn't show any emotion."
+  translations:
+    de: ["das Gefühl", "die Emotion"]
+  example_translations:
+    de: "Er zeigte keine Gefühle."
+
+- id: "emotional"
+  lemma: "emotional"
+  pos: adjective
+  level: B2
+  ipa: "/ɪˈməʊ.ʃən.əl/"
+  example: "It was a very emotional moment."
+  translations:
+    de: ["emotional", "gefühlvoll"]
+  example_translations:
+    de: "Es war ein sehr emotionaler Moment."
+
+- id: "enjoy"
+  lemma: "enjoy"
+  pos: verb
+  level: A1
+  ipa: "/ɪnˈdʒɔɪ/"
+  example: "Enjoy your meal!"
+  translations:
+    de: ["genießen", "Spaß haben an"]
+  example_translations:
+    de: "Guten Appetit!"
+
+- id: "enthusiasm"
+  lemma: "enthusiasm"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈθjuː.zi.æz.əm/"
+  example: "She showed great enthusiasm."
+  translations:
+    de: ["die Begeisterung"]
+  example_translations:
+    de: "Sie zeigte große Begeisterung."
+
+- id: "enthusiastic"
+  lemma: "enthusiastic"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˌθjuː.ziˈæs.tɪk/"
+  example: "He was enthusiastic about the idea."
+  translations:
+    de: ["begeistert"]
+  example_translations:
+    de: "Er war von der Idee begeistert."
+
+- id: "excited"
+  lemma: "excited"
+  pos: adjective
+  level: A1
+  ipa: "/ɪkˈsaɪ.tɪd/"
+  example: "The children are excited about Christmas."
+  translations:
+    de: ["aufgeregt", "gespannt"]
+  example_translations:
+    de: "Die Kinder freuen sich riesig auf Weihnachten."
+
+- id: "excitement"
+  lemma: "excitement"
+  pos: noun
+  level: B1
+  ipa: "/ɪkˈsaɪt.mənt/"
+  example: "I couldn't sleep from excitement."
+  translations:
+    de: ["die Aufregung", "die Begeisterung"]
+  example_translations:
+    de: "Ich konnte vor Aufregung nicht schlafen."
+
+- id: "fancy-verb"
+  lemma: "fancy"
+  pos: verb
+  level: B1
+  ipa: "/ˈfæn.si/"
+  example: "Do you fancy a coffee?"
+  translations:
+    de: ["Lust haben auf", "mögen"]
+  example_translations:
+    de: "Hast du Lust auf einen Kaffee?"
+
+- id: "favourite-adjective"
+  lemma: "favourite"
+  pos: adjective
+  level: A1
+  ipa: "/ˈfeɪ.vər.ɪt/"
+  example: "What's your favourite colour?"
+  translations:
+    de: ["Lieblings-"]
+  example_translations:
+    de: "Was ist deine Lieblingsfarbe?"
+
+- id: "favourite-noun"
+  lemma: "favourite"
+  pos: noun
+  level: A1
+  ipa: "/ˈfeɪ.vər.ɪt/"
+  example: "This song is my favourite."
+  translations:
+    de: ["der Liebling", "der Favorit"]
+  example_translations:
+    de: "Dieses Lied ist mein Lieblingslied."
+
+- id: "fear-noun"
+  lemma: "fear"
+  pos: noun
+  level: A2
+  ipa: "/fɪər/"
+  example: "She has a fear of spiders."
+  translations:
+    de: ["die Angst", "die Furcht"]
+  example_translations:
+    de: "Sie hat Angst vor Spinnen."
+
+- id: "fear-verb"
+  lemma: "fear"
+  pos: verb
+  level: B1
+  ipa: "/fɪər/"
+  example: "I fear that we are too late."
+  translations:
+    de: ["fürchten", "befürchten"]
+  example_translations:
+    de: "Ich fürchte, wir sind zu spät."
+
+- id: "feel-verb"
+  lemma: "feel"
+  pos: verb
+  level: A1
+  ipa: "/fiːl/"
+  example: "I feel tired."
+  translations:
+    de: ["fühlen", "sich fühlen"]
+  example_translations:
+    de: "Ich fühle mich müde."
+
+- id: "feeling"
+  lemma: "feeling"
+  pos: noun
+  level: A1
+  ipa: "/ˈfiː.lɪŋ/"
+  example: "I have a bad feeling about this."
+  translations:
+    de: ["das Gefühl"]
+  example_translations:
+    de: "Ich habe ein schlechtes Gefühl dabei."
+
+- id: "forgive"
+  lemma: "forgive"
+  pos: verb
+  level: B2
+  ipa: "/fəˈɡɪv/"
+  example: "Please forgive me."
+  translations:
+    de: ["vergeben", "verzeihen"]
+  example_translations:
+    de: "Bitte verzeih mir."
+
+- id: "fortunately"
+  lemma: "fortunately"
+  pos: adverb
+  level: A2
+  ipa: "/ˈfɔː.tʃən.ət.li/"
+  example: "Fortunately, nobody was hurt."
+  translations:
+    de: ["glücklicherweise", "zum Glück"]
+  example_translations:
+    de: "Zum Glück wurde niemand verletzt."
+
+- id: "frighten"
+  lemma: "frighten"
+  pos: verb
+  level: B1
+  ipa: "/ˈfraɪ.tən/"
+  example: "The noise frightened the children."
+  translations:
+    de: ["erschrecken", "Angst machen"]
+  example_translations:
+    de: "Das Geräusch erschreckte die Kinder."
+
+- id: "frightened"
+  lemma: "frightened"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfraɪ.tənd/"
+  example: "She is frightened of dogs."
+  translations:
+    de: ["verängstigt"]
+  example_translations:
+    de: "Sie hat Angst vor Hunden."
+
+- id: "frightening"
+  lemma: "frightening"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfraɪ.tən.ɪŋ/"
+  example: "It was a frightening experience."
+  translations:
+    de: ["beängstigend", "erschreckend"]
+  example_translations:
+    de: "Es war eine beängstigende Erfahrung."
+
+- id: "glad"
+  lemma: "glad"
+  pos: adjective
+  level: B1
+  ipa: "/ɡlæd/"
+  example: "I'm glad you came."
+  translations:
+    de: ["froh"]
+  example_translations:
+    de: "Ich bin froh, dass du gekommen bist."
+
+- id: "grateful"
+  lemma: "grateful"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɡreɪt.fəl/"
+  example: "I'm very grateful for your help."
+  translations:
+    de: ["dankbar"]
+  example_translations:
+    de: "Ich bin dir sehr dankbar für deine Hilfe."
+
+- id: "guilty"
+  lemma: "guilty"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɡɪl.ti/"
+  example: "I feel guilty about it."
+  translations:
+    de: ["schuldig", "schuldbewusst"]
+  example_translations:
+    de: "Ich habe deswegen ein schlechtes Gewissen."
+
+- id: "happily"
+  lemma: "happily"
+  pos: adverb
+  level: A2
+  ipa: "/ˈhæp.əl.i/"
+  example: "They lived happily ever after."
+  translations:
+    de: ["glücklich", "fröhlich"]
+  example_translations:
+    de: "Und sie lebten glücklich bis an ihr Lebensende."
+
+- id: "happiness"
+  lemma: "happiness"
+  pos: noun
+  level: B1
+  ipa: "/ˈhæp.i.nəs/"
+  example: "Money doesn't buy happiness."
+  translations:
+    de: ["das Glück", "die Freude"]
+  example_translations:
+    de: "Geld macht nicht glücklich."
+
+- id: "happy"
+  lemma: "happy"
+  pos: adjective
+  level: A1
+  ipa: "/ˈhæp.i/"
+  example: "I am very happy today."
+  translations:
+    de: ["glücklich", "froh"]
+  example_translations:
+    de: "Ich bin heute sehr glücklich."
+
+- id: "hate-noun"
+  lemma: "hate"
+  pos: noun
+  level: B1
+  ipa: "/heɪt/"
+  example: "There is too much hate in the world."
+  translations:
+    de: ["der Hass"]
+  example_translations:
+    de: "Es gibt zu viel Hass auf der Welt."
+
+- id: "hate-verb"
+  lemma: "hate"
+  pos: verb
+  level: A1
+  ipa: "/heɪt/"
+  example: "I hate getting up early."
+  translations:
+    de: ["hassen"]
+  example_translations:
+    de: "Ich hasse es, früh aufzustehen."
+
+- id: "hope"
+  lemma: "hope"
+  pos: verb
+  level: A2
+  ipa: "/həʊp/"
+  example: "I hope you feel better soon."
+  translations:
+    de: ["hoffen"]
+  example_translations:
+    de: "Ich hoffe, es geht dir bald besser."
+
+- id: "hope-noun"
+  lemma: "hope"
+  pos: noun
+  level: A2
+  ipa: "/həʊp/"
+  example: "Don't give up hope."
+  translations:
+    de: ["die Hoffnung"]
+  example_translations:
+    de: "Gib die Hoffnung nicht auf."
+
+- id: "impress"
+  lemma: "impress"
+  pos: verb
+  level: B2
+  ipa: "/ɪmˈpres/"
+  example: "He wanted to impress her."
+  translations:
+    de: ["beeindrucken"]
+  example_translations:
+    de: "Er wollte sie beeindrucken."
+
+- id: "impressed"
+  lemma: "impressed"
+  pos: adjective
+  level: B2
+  ipa: "/ɪmˈprest/"
+  example: "I was impressed by her English."
+  translations:
+    de: ["beeindruckt"]
+  example_translations:
+    de: "Ich war von ihrem Englisch beeindruckt."
+
+- id: "inspire"
+  lemma: "inspire"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈspaɪər/"
+  example: "Her story inspired me."
+  translations:
+    de: ["inspirieren", "anregen"]
+  example_translations:
+    de: "Ihre Geschichte hat mich inspiriert."
+
+- id: "interest-verb"
+  lemma: "interest"
+  pos: verb
+  level: A1
+  ipa: "/ˈɪn.trəst/"
+  example: "Politics doesn't interest me."
+  translations:
+    de: ["interessieren"]
+  example_translations:
+    de: "Politik interessiert mich nicht."
+
+- id: "interested"
+  lemma: "interested"
+  pos: adjective
+  level: A1
+  ipa: "/ˈɪn.trə.stɪd/"
+  example: "I'm interested in art."
+  translations:
+    de: ["interessiert"]
+  example_translations:
+    de: "Ich interessiere mich für Kunst."
+
+- id: "joy"
+  lemma: "joy"
+  pos: noun
+  level: B2
+  ipa: "/dʒɔɪ/"
+  example: "She cried with joy."
+  translations:
+    de: ["die Freude"]
+  example_translations:
+    de: "Sie weinte vor Freude."
+
+- id: "keen"
+  lemma: "keen"
+  pos: adjective
+  level: B1
+  ipa: "/kiːn/"
+  example: "He is keen on football."
+  translations:
+    de: ["begeistert", "eifrig"]
+  example_translations:
+    de: "Er ist begeisterter Fußballfan."
+
+- id: "laugh-noun"
+  lemma: "laugh"
+  pos: noun
+  level: A1
+  ipa: "/lɑːf/"
+  example: "She has a lovely laugh."
+  translations:
+    de: ["das Lachen"]
+  example_translations:
+    de: "Sie hat ein schönes Lachen."
+
+- id: "laugh-verb"
+  lemma: "laugh"
+  pos: verb
+  level: A1
+  ipa: "/lɑːf/"
+  example: "Why are you laughing?"
+  translations:
+    de: ["lachen"]
+  example_translations:
+    de: "Warum lachst du?"
+
+- id: "laughter"
+  lemma: "laughter"
+  pos: noun
+  level: A2
+  ipa: "/ˈlɑːf.tər/"
+  example: "We heard laughter from the garden."
+  translations:
+    de: ["das Gelächter", "das Lachen"]
+  example_translations:
+    de: "Wir hörten Gelächter aus dem Garten."
+
+- id: "like"
+  lemma: "like"
+  pos: verb
+  level: A1
+  ipa: "/laɪk/"
+  example: "I like chocolate."
+  translations:
+    de: ["mögen", "gernhaben"]
+  example_translations:
+    de: "Ich mag Schokolade."
+
+- id: "lonely"
+  lemma: "lonely"
+  pos: adjective
+  level: B1
+  ipa: "/ˈləʊn.li/"
+  example: "She feels lonely in the new city."
+  translations:
+    de: ["einsam"]
+  example_translations:
+    de: "Sie fühlt sich in der neuen Stadt einsam."
+
+- id: "love"
+  lemma: "love"
+  pos: verb
+  level: A1
+  ipa: "/lʌv/"
+  example: "I love my family."
+  translations:
+    de: ["lieben"]
+  example_translations:
+    de: "Ich liebe meine Familie."
+
+- id: "love-noun"
+  lemma: "love"
+  pos: noun
+  level: A1
+  ipa: "/lʌv/"
+  example: "Love is all you need."
+  translations:
+    de: ["die Liebe"]
+  example_translations:
+    de: "Liebe ist alles, was man braucht."
+
+- id: "luck"
+  lemma: "luck"
+  pos: noun
+  level: A2
+  ipa: "/lʌk/"
+  example: "Good luck!"
+  translations:
+    de: ["das Glück"]
+  example_translations:
+    de: "Viel Glück!"
+
+- id: "lucky"
+  lemma: "lucky"
+  pos: adjective
+  level: A2
+  ipa: "/ˈlʌk.i/"
+  example: "You're lucky!"
+  translations:
+    de: ["glücklich", "Glücks-"]
+  example_translations:
+    de: "Du hast Glück!"
+
+- id: "mad"
+  lemma: "mad"
+  pos: adjective
+  level: B1
+  ipa: "/mæd/"
+  example: "My mum will be mad at me."
+  translations:
+    de: ["verrückt", "wütend"]
+  example_translations:
+    de: "Meine Mutter wird sauer auf mich sein."
+
+- id: "mind-verb"
+  lemma: "mind"
+  pos: verb
+  level: A2
+  ipa: "/maɪnd/"
+  example: "Do you mind if I open the window?"
+  translations:
+    de: ["etwas dagegen haben", "aufpassen"]
+  example_translations:
+    de: "Stört es dich, wenn ich das Fenster öffne?"
+
+- id: "mood"
+  lemma: "mood"
+  pos: noun
+  level: B1
+  ipa: "/muːd/"
+  example: "She's in a good mood today."
+  translations:
+    de: ["die Laune", "die Stimmung"]
+  example_translations:
+    de: "Sie hat heute gute Laune."
+
+- id: "nervous"
+  lemma: "nervous"
+  pos: adjective
+  level: A2
+  ipa: "/ˈnɜː.vəs/"
+  example: "I'm nervous about the exam."
+  translations:
+    de: ["nervös"]
+  example_translations:
+    de: "Ich bin wegen der Prüfung nervös."
+
+- id: "nightmare"
+  lemma: "nightmare"
+  pos: noun
+  level: B2
+  ipa: "/ˈnaɪt.meər/"
+  example: "I had a nightmare last night."
+  translations:
+    de: ["der Albtraum"]
+  example_translations:
+    de: "Ich hatte letzte Nacht einen Albtraum."
+
+- id: "offend"
+  lemma: "offend"
+  pos: verb
+  level: B2
+  ipa: "/əˈfend/"
+  example: "I didn't mean to offend you."
+  translations:
+    de: ["beleidigen", "kränken"]
+  example_translations:
+    de: "Ich wollte dich nicht kränken."
+
+- id: "passion"
+  lemma: "passion"
+  pos: noun
+  level: B1
+  ipa: "/ˈpæʃ.ən/"
+  example: "Music is her passion."
+  translations:
+    de: ["die Leidenschaft"]
+  example_translations:
+    de: "Musik ist ihre Leidenschaft."
+
+- id: "please-verb"
+  lemma: "please"
+  pos: verb
+  level: A2
+  ipa: "/pliːz/"
+  example: "You can't please everyone."
+  translations:
+    de: ["gefallen", "zufriedenstellen"]
+  example_translations:
+    de: "Man kann es nicht allen recht machen."
+
+- id: "pleased"
+  lemma: "pleased"
+  pos: adjective
+  level: A2
+  ipa: "/pliːzd/"
+  example: "I'm pleased with the result."
+  translations:
+    de: ["zufrieden", "erfreut"]
+  example_translations:
+    de: "Ich bin mit dem Ergebnis zufrieden."
+
+- id: "pleasure"
+  lemma: "pleasure"
+  pos: noun
+  level: B1
+  ipa: "/ˈpleʒ.ər/"
+  example: "It's a pleasure to meet you."
+  translations:
+    de: ["das Vergnügen", "die Freude"]
+  example_translations:
+    de: "Es ist mir ein Vergnügen, Sie kennenzulernen."
+
+- id: "prefer"
+  lemma: "prefer"
+  pos: verb
+  level: A1
+  ipa: "/prɪˈfɜːr/"
+  example: "I prefer tea to coffee."
+  translations:
+    de: ["bevorzugen", "lieber mögen"]
+  example_translations:
+    de: "Ich trinke lieber Tee als Kaffee."
+
+- id: "proud"
+  lemma: "proud"
+  pos: adjective
+  level: A2
+  ipa: "/praʊd/"
+  example: "I'm proud of you."
+  translations:
+    de: ["stolz"]
+  example_translations:
+    de: "Ich bin stolz auf dich."
+
+- id: "regret-noun"
+  lemma: "regret"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈɡret/"
+  example: "I have no regrets."
+  translations:
+    de: ["das Bedauern", "die Reue"]
+  example_translations:
+    de: "Ich bereue nichts."
+
+- id: "regret-verb"
+  lemma: "regret"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈɡret/"
+  example: "I regret saying that."
+  translations:
+    de: ["bereuen", "bedauern"]
+  example_translations:
+    de: "Ich bereue, das gesagt zu haben."
+
+- id: "relaxed"
+  lemma: "relaxed"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈlækst/"
+  example: "She looks very relaxed."
+  translations:
+    de: ["entspannt"]
+  example_translations:
+    de: "Sie sieht sehr entspannt aus."
+
+- id: "relief"
+  lemma: "relief"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈliːf/"
+  example: "What a relief!"
+  translations:
+    de: ["die Erleichterung", "die Hilfe"]
+  example_translations:
+    de: "Was für eine Erleichterung!"
+
+- id: "romantic"
+  lemma: "romantic"
+  pos: adjective
+  level: B1
+  ipa: "/rəʊˈmæn.tɪk/"
+  example: "We had a romantic dinner."
+  translations:
+    de: ["romantisch"]
+  example_translations:
+    de: "Wir hatten ein romantisches Abendessen."
+
+- id: "sad"
+  lemma: "sad"
+  pos: adjective
+  level: A1
+  ipa: "/sæd/"
+  example: "Why are you sad?"
+  translations:
+    de: ["traurig"]
+  example_translations:
+    de: "Warum bist du traurig?"
+
+- id: "sadly"
+  lemma: "sadly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsæd.li/"
+  example: "Sadly, she died last year."
+  translations:
+    de: ["leider", "traurig"]
+  example_translations:
+    de: "Leider ist sie letztes Jahr gestorben."
+
+- id: "satisfied"
+  lemma: "satisfied"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsæt.ɪs.faɪd/"
+  example: "Are you satisfied with the service?"
+  translations:
+    de: ["zufrieden"]
+  example_translations:
+    de: "Sind Sie mit dem Service zufrieden?"
+
+- id: "satisfy"
+  lemma: "satisfy"
+  pos: verb
+  level: B2
+  ipa: "/ˈsæt.ɪs.faɪ/"
+  example: "Nothing satisfies him."
+  translations:
+    de: ["zufriedenstellen", "befriedigen"]
+  example_translations:
+    de: "Nichts stellt ihn zufrieden."
+
+- id: "scared"
+  lemma: "scared"
+  pos: adjective
+  level: A2
+  ipa: "/skeəd/"
+  example: "I'm scared of the dark."
+  translations:
+    de: ["ängstlich", "verängstigt"]
+  example_translations:
+    de: "Ich habe Angst im Dunkeln."
+
+- id: "scary"
+  lemma: "scary"
+  pos: adjective
+  level: A2
+  ipa: "/ˈskeə.ri/"
+  example: "That film was really scary."
+  translations:
+    de: ["gruselig", "unheimlich"]
+  example_translations:
+    de: "Der Film war wirklich gruselig."
+
+- id: "sense-verb"
+  lemma: "sense"
+  pos: verb
+  level: B2
+  ipa: "/sens/"
+  example: "I sensed that something was wrong."
+  translations:
+    de: ["spüren", "wahrnehmen"]
+  example_translations:
+    de: "Ich spürte, dass etwas nicht stimmte."
+
+- id: "shame"
+  lemma: "shame"
+  pos: noun
+  level: B2
+  ipa: "/ʃeɪm/"
+  example: "What a shame!"
+  translations:
+    de: ["die Schande", "die Scham"]
+  example_translations:
+    de: "Wie schade!"
+
+- id: "shock-noun"
+  lemma: "shock"
+  pos: noun
+  level: B2
+  ipa: "/ʃɒk/"
+  example: "The news was a shock."
+  translations:
+    de: ["der Schock"]
+  example_translations:
+    de: "Die Nachricht war ein Schock."
+
+- id: "shock-verb"
+  lemma: "shock"
+  pos: verb
+  level: B2
+  ipa: "/ʃɒk/"
+  example: "His words shocked everyone."
+  translations:
+    de: ["schockieren"]
+  example_translations:
+    de: "Seine Worte schockierten alle."
+
+- id: "shocked"
+  lemma: "shocked"
+  pos: adjective
+  level: B2
+  ipa: "/ʃɒkt/"
+  example: "I was shocked by the price."
+  translations:
+    de: ["schockiert"]
+  example_translations:
+    de: "Ich war vom Preis schockiert."
+
+- id: "smile-noun"
+  lemma: "smile"
+  pos: noun
+  level: A2
+  ipa: "/smaɪl/"
+  example: "She has a beautiful smile."
+  translations:
+    de: ["das Lächeln"]
+  example_translations:
+    de: "Sie hat ein schönes Lächeln."
+
+- id: "smile-verb"
+  lemma: "smile"
+  pos: verb
+  level: A2
+  ipa: "/smaɪl/"
+  example: "Smile for the camera!"
+  translations:
+    de: ["lächeln"]
+  example_translations:
+    de: "Lächeln für die Kamera!"
+
+- id: "stress-noun"
+  lemma: "stress"
+  pos: noun
+  level: A2
+  ipa: "/stres/"
+  example: "I'm under a lot of stress."
+  translations:
+    de: ["der Stress", "die Betonung"]
+  example_translations:
+    de: "Ich stehe unter großem Stress."
+
+- id: "surprise-noun"
+  lemma: "surprise"
+  pos: noun
+  level: A2
+  ipa: "/səˈpraɪz/"
+  example: "What a nice surprise!"
+  translations:
+    de: ["die Überraschung"]
+  example_translations:
+    de: "Was für eine schöne Überraschung!"
+
+- id: "surprise-verb"
+  lemma: "surprise"
+  pos: verb
+  level: A2
+  ipa: "/səˈpraɪz/"
+  example: "Her answer surprised me."
+  translations:
+    de: ["überraschen"]
+  example_translations:
+    de: "Ihre Antwort hat mich überrascht."
+
+- id: "surprised"
+  lemma: "surprised"
+  pos: adjective
+  level: A2
+  ipa: "/səˈpraɪzd/"
+  example: "I was surprised to see him."
+  translations:
+    de: ["überrascht"]
+  example_translations:
+    de: "Ich war überrascht, ihn zu sehen."
+
+- id: "sympathy"
+  lemma: "sympathy"
+  pos: noun
+  level: B2
+  ipa: "/ˈsɪm.pə.θi/"
+  example: "You have my sympathy."
+  translations:
+    de: ["das Mitgefühl", "das Verständnis"]
+  example_translations:
+    de: "Du hast mein Mitgefühl."
+
+- id: "tear-noun"
+  lemma: "tear"
+  pos: noun
+  level: B2
+  ipa: "/tɪər/"
+  example: "She had tears in her eyes."
+  translations:
+    de: ["die Träne"]
+  example_translations:
+    de: "Sie hatte Tränen in den Augen."
+
+- id: "tired"
+  lemma: "tired"
+  pos: adjective
+  level: A1
+  ipa: "/taɪəd/"
+  example: "I am tired after work."
+  translations:
+    de: ["müde"]
+  example_translations:
+    de: "Nach der Arbeit bin ich müde."
+
+- id: "trouble-verb"
+  lemma: "trouble"
+  pos: verb
+  level: B2
+  ipa: "/ˈtrʌb.əl/"
+  example: "What's troubling you?"
+  translations:
+    de: ["beunruhigen", "bemühen"]
+  example_translations:
+    de: "Was bedrückt dich?"
+
+- id: "trust-noun"
+  lemma: "trust"
+  pos: noun
+  level: B2
+  ipa: "/trʌst/"
+  example: "Trust is important in a relationship."
+  translations:
+    de: ["das Vertrauen"]
+  example_translations:
+    de: "Vertrauen ist in einer Beziehung wichtig."
+
+- id: "trust-verb"
+  lemma: "trust"
+  pos: verb
+  level: B2
+  ipa: "/trʌst/"
+  example: "I trust you."
+  translations:
+    de: ["vertrauen"]
+  example_translations:
+    de: "Ich vertraue dir."
+
+- id: "unfortunately"
+  lemma: "unfortunately"
+  pos: adverb
+  level: A2
+  ipa: "/ʌnˈfɔː.tʃən.ət.li/"
+  example: "Unfortunately, I can't come."
+  translations:
+    de: ["leider"]
+  example_translations:
+    de: "Leider kann ich nicht kommen."
+
+- id: "unhappy"
+  lemma: "unhappy"
+  pos: adjective
+  level: A2
+  ipa: "/ʌnˈhæp.i/"
+  example: "She looks unhappy."
+  translations:
+    de: ["unglücklich", "unzufrieden"]
+  example_translations:
+    de: "Sie sieht unglücklich aus."
+
+- id: "upset-adjective"
+  lemma: "upset"
+  pos: adjective
+  level: B1
+  ipa: "/ʌpˈset/"
+  example: "She was upset about the news."
+  translations:
+    de: ["aufgebracht", "traurig", "verärgert"]
+  example_translations:
+    de: "Sie war wegen der Nachricht traurig."
+
+- id: "upset-verb"
+  lemma: "upset"
+  pos: verb
+  level: B1
+  ipa: "/ʌpˈset/"
+  example: "I didn't want to upset you."
+  translations:
+    de: ["aufregen", "verärgern", "kränken"]
+  example_translations:
+    de: "Ich wollte dich nicht kränken."
+
+- id: "value-verb"
+  lemma: "value"
+  pos: verb
+  level: B2
+  ipa: "/ˈvæl.juː/"
+  example: "I value your opinion."
+  translations:
+    de: ["schätzen", "bewerten"]
+  example_translations:
+    de: "Ich schätze deine Meinung."
+
+- id: "want"
+  lemma: "want"
+  pos: verb
+  level: A1
+  ipa: "/wɒnt/"
+  example: "I want a new phone."
+  translations:
+    de: ["wollen", "möchten"]
+  example_translations:
+    de: "Ich will ein neues Handy."
+
+- id: "welcome-adjective"
+  lemma: "welcome"
+  pos: adjective
+  level: A1
+  ipa: "/ˈwel.kəm/"
+  example: "You're always welcome here."
+  translations:
+    de: ["willkommen"]
+  example_translations:
+    de: "Du bist hier immer willkommen."
+
+- id: "wish-noun"
+  lemma: "wish"
+  pos: noun
+  level: A2
+  ipa: "/wɪʃ/"
+  example: "Make a wish!"
+  translations:
+    de: ["der Wunsch"]
+  example_translations:
+    de: "Wünsch dir was!"
+
+- id: "wish-verb"
+  lemma: "wish"
+  pos: verb
+  level: A2
+  ipa: "/wɪʃ/"
+  example: "I wish you a happy birthday."
+  translations:
+    de: ["wünschen"]
+  example_translations:
+    de: "Ich wünsche dir alles Gute zum Geburtstag."
+
+- id: "worried"
+  lemma: "worried"
+  pos: adjective
+  level: A2
+  ipa: "/ˈwʌr.id/"
+  example: "I'm worried about the exam."
+  translations:
+    de: ["besorgt"]
+  example_translations:
+    de: "Ich mache mir Sorgen wegen der Prüfung."
+
+- id: "worry-noun"
+  lemma: "worry"
+  pos: noun
+  level: B1
+  ipa: "/ˈwʌr.i/"
+  example: "I have a lot of worries."
+  translations:
+    de: ["die Sorge"]
+  example_translations:
+    de: "Ich habe viele Sorgen."
+
+- id: "worry-verb"
+  lemma: "worry"
+  pos: verb
+  level: A2
+  ipa: "/ˈwʌr.i/"
+  example: "Don't worry!"
+  translations:
+    de: ["sich Sorgen machen"]
+  example_translations:
+    de: "Mach dir keine Sorgen!"
+
+- id: "wow"
+  lemma: "wow"
+  pos: interjection
+  level: A2
+  ipa: "/waʊ/"
+  example: "Wow, that's amazing!"
+  translations:
+    de: ["wow", "toll"]
+  example_translations:
+    de: "Wow, das ist ja toll!"

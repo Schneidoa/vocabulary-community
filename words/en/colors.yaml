@@ -1,0 +1,167 @@
+# 🎨 Farben – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "black"
+  lemma: "black"
+  pos: adjective
+  level: A1
+  ipa: "/blæk/"
+  example: "My cat is black."
+  translations:
+    de: ["schwarz"]
+  example_translations:
+    de: "Meine Katze ist schwarz."
+
+- id: "blue"
+  lemma: "blue"
+  pos: adjective
+  level: A1
+  ipa: "/bluː/"
+  example: "The sky is blue."
+  translations:
+    de: ["blau"]
+  example_translations:
+    de: "Der Himmel ist blau."
+
+- id: "brown"
+  lemma: "brown"
+  pos: adjective
+  level: A1
+  ipa: "/braʊn/"
+  example: "He has brown eyes."
+  translations:
+    de: ["braun"]
+  example_translations:
+    de: "Er hat braune Augen."
+
+- id: "colour"
+  lemma: "colour"
+  pos: noun
+  level: A1
+  ipa: "/ˈkʌl.ər/"
+  example: "What colour is your car?"
+  translations:
+    de: ["die Farbe"]
+  example_translations:
+    de: "Welche Farbe hat dein Auto?"
+
+- id: "coloured"
+  lemma: "coloured"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkʌl.əd/"
+  example: "She bought some coloured pencils."
+  translations:
+    de: ["farbig", "bunt"]
+  example_translations:
+    de: "Sie hat Buntstifte gekauft."
+
+- id: "cream-adjective"
+  lemma: "cream"
+  pos: adjective
+  level: B1
+  ipa: "/kriːm/"
+  example: "She wore a cream dress."
+  translations:
+    de: ["cremefarben"]
+  example_translations:
+    de: "Sie trug ein cremefarbenes Kleid."
+
+- id: "gold-adjective"
+  lemma: "gold"
+  pos: adjective
+  level: A2
+  ipa: "/ɡəʊld/"
+  example: "She has a gold watch."
+  translations:
+    de: ["golden", "Gold-"]
+  example_translations:
+    de: "Sie hat eine goldene Uhr."
+
+- id: "green"
+  lemma: "green"
+  pos: adjective
+  level: A1
+  ipa: "/ɡriːn/"
+  example: "The grass is green."
+  translations:
+    de: ["grün"]
+  example_translations:
+    de: "Das Gras ist grün."
+
+- id: "grey"
+  lemma: "grey"
+  pos: adjective
+  level: A1
+  ipa: "/ɡreɪ/"
+  example: "The sky is grey today."
+  translations:
+    de: ["grau"]
+  example_translations:
+    de: "Der Himmel ist heute grau."
+
+- id: "orange-adjective"
+  lemma: "orange"
+  pos: adjective
+  level: A1
+  ipa: "/ˈɒr.ɪndʒ/"
+  example: "She has an orange dress."
+  translations:
+    de: ["orange"]
+  example_translations:
+    de: "Sie hat ein orangefarbenes Kleid."
+
+- id: "pink"
+  lemma: "pink"
+  pos: adjective
+  level: A1
+  ipa: "/pɪŋk/"
+  example: "She has a pink bike."
+  translations:
+    de: ["rosa", "pink"]
+  example_translations:
+    de: "Sie hat ein rosa Fahrrad."
+
+- id: "purple"
+  lemma: "purple"
+  pos: adjective
+  level: A1
+  ipa: "/ˈpɜː.pəl/"
+  example: "She has purple hair."
+  translations:
+    de: ["lila", "violett"]
+  example_translations:
+    de: "Sie hat lila Haare."
+
+- id: "red"
+  lemma: "red"
+  pos: adjective
+  level: A1
+  ipa: "/red/"
+  example: "I have a red car."
+  translations:
+    de: ["rot"]
+  example_translations:
+    de: "Ich habe ein rotes Auto."
+
+- id: "white"
+  lemma: "white"
+  pos: adjective
+  level: A1
+  ipa: "/waɪt/"
+  example: "Snow is white."
+  translations:
+    de: ["weiß"]
+  example_translations:
+    de: "Schnee ist weiß."
+
+- id: "yellow"
+  lemma: "yellow"
+  pos: adjective
+  level: A1
+  ipa: "/ˈjel.əʊ/"
+  example: "The sun is yellow."
+  translations:
+    de: ["gelb"]
+  example_translations:
+    de: "Die Sonne ist gelb."

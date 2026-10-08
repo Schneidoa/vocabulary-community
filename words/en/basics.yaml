@@ -1,0 +1,255 @@
+# 👋 Grundlagen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "address-noun"
+  lemma: "address"
+  pos: noun
+  level: A1
+  ipa: "/əˈdres/"
+  example: "What is your address?"
+  translations:
+    de: ["die Adresse"]
+  example_translations:
+    de: "Wie ist deine Adresse?"
+
+- id: "ah"
+  lemma: "ah"
+  pos: interjection
+  level: A2
+  ipa: "/ɑː/"
+  example: "Ah, now I understand."
+  translations:
+    de: ["ah", "ach"]
+  example_translations:
+    de: "Ach, jetzt verstehe ich."
+
+- id: "all-right-adjective"
+  lemma: "all right"
+  pos: adjective
+  level: A2
+  ipa: "/ˌɔːl ˈraɪt/"
+  example: "Is everything all right?"
+  translations:
+    de: ["in Ordnung", "okay"]
+  example_translations:
+    de: "Ist alles in Ordnung?"
+
+- id: "all-right-interjection"
+  lemma: "all right"
+  pos: interjection
+  level: A2
+  ipa: "/ˌɔːl ˈraɪt/"
+  example: "All right, let's go."
+  translations:
+    de: ["in Ordnung", "einverstanden"]
+  example_translations:
+    de: "In Ordnung, lass uns gehen."
+
+- id: "bye"
+  lemma: "bye"
+  pos: interjection
+  level: A1
+  ipa: "/baɪ/"
+  example: "Bye, see you later!"
+  translations:
+    de: ["tschüss"]
+  example_translations:
+    de: "Tschüss, bis später!"
+
+- id: "excuse-me"
+  lemma: "excuse me"
+  pos: phrase
+  level: A1
+  ipa: "/ɪkˈskjuːz miː/"
+  example: "Excuse me, where is the station?"
+  translations:
+    de: ["Entschuldigung", "entschuldigen Sie"]
+  example_translations:
+    de: "Entschuldigung, wo ist der Bahnhof?"
+
+- id: "good-morning"
+  lemma: "good morning"
+  pos: phrase
+  level: A1
+  ipa: "/ɡʊd ˈmɔː.nɪŋ/"
+  example: "Good morning, how are you?"
+  translations:
+    de: ["guten Morgen"]
+  example_translations:
+    de: "Guten Morgen, wie geht es dir?"
+
+- id: "goodbye"
+  lemma: "goodbye"
+  pos: interjection
+  level: A1
+  ipa: "/ˌɡʊdˈbaɪ/"
+  example: "Goodbye, see you tomorrow!"
+  translations:
+    de: ["auf Wiedersehen", "tschüss"]
+  example_translations:
+    de: "Auf Wiedersehen, bis morgen!"
+
+- id: "hello"
+  lemma: "hello"
+  pos: interjection
+  level: A1
+  ipa: "/həˈləʊ/"
+  example: "Hello, my name is Tom."
+  translations:
+    de: ["hallo", "guten Tag"]
+  example_translations:
+    de: "Hallo, ich heiße Tom."
+
+- id: "hey"
+  lemma: "hey"
+  pos: interjection
+  level: A1
+  ipa: "/heɪ/"
+  example: "Hey, wait for me!"
+  translations:
+    de: ["hey", "he"]
+  example_translations:
+    de: "He, warte auf mich!"
+
+- id: "hi"
+  lemma: "hi"
+  pos: interjection
+  level: A1
+  ipa: "/haɪ/"
+  example: "Hi, how are you?"
+  translations:
+    de: ["hallo", "hi"]
+  example_translations:
+    de: "Hallo, wie geht's?"
+
+- id: "name"
+  lemma: "name"
+  pos: noun
+  level: A1
+  ipa: "/neɪm/"
+  example: "What is your name?"
+  translations:
+    de: ["der Name"]
+  example_translations:
+    de: "Wie ist dein Name?"
+
+- id: "no"
+  lemma: "no"
+  pos: adverb
+  level: A1
+  ipa: "/nəʊ/"
+  example: "No, I don't know."
+  translations:
+    de: ["nein"]
+  example_translations:
+    de: "Nein, ich weiß es nicht."
+
+- id: "oh"
+  lemma: "oh"
+  pos: interjection
+  level: A1
+  ipa: "/əʊ/"
+  example: "Oh, I didn't know that."
+  translations:
+    de: ["oh", "ach"]
+  example_translations:
+    de: "Ach, das wusste ich nicht."
+
+- id: "ok-adjective"
+  lemma: "OK"
+  pos: adjective
+  level: A1
+  ipa: "/ˌəʊˈkeɪ/"
+  example: "Is everything OK?"
+  translations:
+    de: ["okay", "in Ordnung"]
+  example_translations:
+    de: "Ist alles in Ordnung?"
+
+- id: "ok-interjection"
+  lemma: "OK"
+  pos: interjection
+  level: A1
+  ipa: "/ˌəʊˈkeɪ/"
+  example: "OK, let's go."
+  translations:
+    de: ["okay", "einverstanden"]
+  example_translations:
+    de: "Okay, los geht's."
+
+- id: "please"
+  lemma: "please"
+  pos: adverb
+  level: A1
+  ipa: "/pliːz/"
+  example: "Can I have some water, please?"
+  translations:
+    de: ["bitte"]
+  example_translations:
+    de: "Kann ich bitte etwas Wasser haben?"
+
+- id: "sorry"
+  lemma: "sorry"
+  pos: interjection
+  level: A1
+  ipa: "/ˈsɒr.i/"
+  example: "Sorry, I am late."
+  translations:
+    de: ["Entschuldigung", "tut mir leid"]
+  example_translations:
+    de: "Entschuldigung, ich bin spät dran."
+
+- id: "thank-you"
+  lemma: "thank you"
+  pos: phrase
+  level: A1
+  ipa: "/ˈθæŋk juː/"
+  example: "Thank you for your help."
+  translations:
+    de: ["danke", "danke schön", "vielen Dank"]
+  example_translations:
+    de: "Danke für deine Hilfe."
+
+- id: "thanks"
+  lemma: "thanks"
+  pos: interjection
+  level: A1
+  ipa: "/θæŋks/"
+  example: "Thanks for coming!"
+  translations:
+    de: ["danke"]
+  example_translations:
+    de: "Danke fürs Kommen!"
+
+- id: "welcome-interjection"
+  lemma: "welcome"
+  pos: interjection
+  level: A1
+  ipa: "/ˈwel.kəm/"
+  example: "Welcome to London!"
+  translations:
+    de: ["willkommen"]
+  example_translations:
+    de: "Willkommen in London!"
+
+- id: "yeah"
+  lemma: "yeah"
+  pos: interjection
+  level: A1
+  ipa: "/jeə/"
+  example: "Yeah, that's right."
+  translations:
+    de: ["ja", "jo"]
+  example_translations:
+    de: "Ja, das stimmt."
+
+- id: "yes"
+  lemma: "yes"
+  pos: adverb
+  level: A1
+  ipa: "/jes/"
+  example: "Yes, I am ready."
+  translations:
+    de: ["ja"]
+  example_translations:
+    de: "Ja, ich bin bereit."

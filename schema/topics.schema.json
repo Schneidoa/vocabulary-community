@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "topics.schema.json",
+  "title": "Themen (topics.yaml)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["slug", "icon", "names"],
+    "properties": {
+      "slug": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+      "icon": {"type": "string", "minLength": 1, "maxLength": 16},
+      "names": {
+        "type": "object",
+        "minProperties": 1,
+        "propertyNames": {"pattern": "^[a-z]{2,3}$"},
+        "additionalProperties": {"type": "string", "minLength": 1, "maxLength": 64}
+      }
+    }
+  }
+}

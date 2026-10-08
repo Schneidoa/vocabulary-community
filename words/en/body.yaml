@@ -1,0 +1,1091 @@
+# 🫀 Körper & Gesundheit – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "ankle"
+  lemma: "ankle"
+  pos: noun
+  level: A2
+  ipa: "/ˈæŋ.kəl/"
+  example: "I hurt my ankle."
+  translations:
+    de: ["der Knöchel"]
+  example_translations:
+    de: "Ich habe mir den Knöchel verletzt."
+
+- id: "arm"
+  lemma: "arm"
+  pos: noun
+  level: A1
+  ipa: "/ɑːm/"
+  example: "He broke his arm."
+  translations:
+    de: ["der Arm"]
+  example_translations:
+    de: "Er hat sich den Arm gebrochen."
+
+- id: "back"
+  lemma: "back"
+  pos: noun
+  level: A2
+  ipa: "/bæk/"
+  example: "My back hurts."
+  translations:
+    de: ["der Rücken"]
+  example_translations:
+    de: "Mein Rücken tut weh."
+
+- id: "blind"
+  lemma: "blind"
+  pos: adjective
+  level: B2
+  ipa: "/blaɪnd/"
+  example: "My grandfather is blind."
+  translations:
+    de: ["blind"]
+  example_translations:
+    de: "Mein Großvater ist blind."
+
+- id: "blood"
+  lemma: "blood"
+  pos: noun
+  level: A2
+  ipa: "/blʌd/"
+  example: "There was blood on his shirt."
+  translations:
+    de: ["das Blut"]
+  example_translations:
+    de: "Auf seinem Hemd war Blut."
+
+- id: "body"
+  lemma: "body"
+  pos: noun
+  level: A1
+  ipa: "/ˈbɒd.i/"
+  example: "Exercise is good for your body."
+  translations:
+    de: ["der Körper"]
+  example_translations:
+    de: "Sport ist gut für deinen Körper."
+
+- id: "bone"
+  lemma: "bone"
+  pos: noun
+  level: A2
+  ipa: "/bəʊn/"
+  example: "He broke a bone in his foot."
+  translations:
+    de: ["der Knochen"]
+  example_translations:
+    de: "Er hat sich einen Knochen im Fuß gebrochen."
+
+- id: "brain"
+  lemma: "brain"
+  pos: noun
+  level: A2
+  ipa: "/breɪn/"
+  example: "The brain controls the body."
+  translations:
+    de: ["das Gehirn"]
+  example_translations:
+    de: "Das Gehirn steuert den Körper."
+
+- id: "breast"
+  lemma: "breast"
+  pos: noun
+  level: B2
+  ipa: "/brest/"
+  example: "Chicken breast is healthy."
+  translations:
+    de: ["die Brust"]
+  example_translations:
+    de: "Hähnchenbrust ist gesund."
+
+- id: "breath"
+  lemma: "breath"
+  pos: noun
+  level: B2
+  ipa: "/breθ/"
+  example: "Take a deep breath."
+  translations:
+    de: ["der Atem", "der Atemzug"]
+  example_translations:
+    de: "Atme tief ein."
+
+- id: "breathe"
+  lemma: "breathe"
+  pos: verb
+  level: B1
+  ipa: "/briːð/"
+  example: "Breathe slowly."
+  translations:
+    de: ["atmen"]
+  example_translations:
+    de: "Atme langsam."
+
+- id: "breathing"
+  lemma: "breathing"
+  pos: noun
+  level: B1
+  ipa: "/ˈbriː.ðɪŋ/"
+  example: "His breathing was very fast."
+  translations:
+    de: ["die Atmung"]
+  example_translations:
+    de: "Seine Atmung war sehr schnell."
+
+- id: "burn-noun"
+  lemma: "burn"
+  pos: noun
+  level: B2
+  ipa: "/bɜːn/"
+  example: "She had burns on her arm."
+  translations:
+    de: ["die Verbrennung", "die Brandwunde"]
+  example_translations:
+    de: "Sie hatte Brandwunden am Arm."
+
+- id: "cancer"
+  lemma: "cancer"
+  pos: noun
+  level: B2
+  ipa: "/ˈkæn.sər/"
+  example: "Smoking causes cancer."
+  translations:
+    de: ["der Krebs"]
+  example_translations:
+    de: "Rauchen verursacht Krebs."
+
+- id: "chest"
+  lemma: "chest"
+  pos: noun
+  level: B1
+  ipa: "/tʃest/"
+  example: "I have a pain in my chest."
+  translations:
+    de: ["die Brust", "der Brustkorb"]
+  example_translations:
+    de: "Ich habe Schmerzen in der Brust."
+
+- id: "cold-noun"
+  lemma: "cold"
+  pos: noun
+  level: A1
+  ipa: "/kəʊld/"
+  example: "I've got a cold."
+  translations:
+    de: ["die Erkältung", "die Kälte"]
+  example_translations:
+    de: "Ich habe eine Erkältung."
+
+- id: "cure-noun"
+  lemma: "cure"
+  pos: noun
+  level: B2
+  ipa: "/kjʊər/"
+  example: "There is no cure for this disease."
+  translations:
+    de: ["das Heilmittel", "die Heilung"]
+  example_translations:
+    de: "Für diese Krankheit gibt es kein Heilmittel."
+
+- id: "cure-verb"
+  lemma: "cure"
+  pos: verb
+  level: B2
+  ipa: "/kjʊər/"
+  example: "The doctors cured her."
+  translations:
+    de: ["heilen"]
+  example_translations:
+    de: "Die Ärzte haben sie geheilt."
+
+- id: "cut-noun"
+  lemma: "cut"
+  pos: noun
+  level: B1
+  ipa: "/kʌt/"
+  example: "I have a cut on my finger."
+  translations:
+    de: ["der Schnitt", "die Schnittwunde", "die Kürzung"]
+  example_translations:
+    de: "Ich habe einen Schnitt am Finger."
+
+- id: "dentist"
+  lemma: "dentist"
+  pos: noun
+  level: A2
+  ipa: "/ˈden.tɪst/"
+  example: "I have to go to the dentist."
+  translations:
+    de: ["der Zahnarzt", "die Zahnärztin"]
+  example_translations:
+    de: "Ich muss zum Zahnarzt."
+
+- id: "disease"
+  lemma: "disease"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈziːz/"
+  example: "Heart disease is very common."
+  translations:
+    de: ["die Krankheit"]
+  example_translations:
+    de: "Herzkrankheiten sind sehr häufig."
+
+- id: "drug"
+  lemma: "drug"
+  pos: noun
+  level: A2
+  ipa: "/drʌɡ/"
+  example: "The doctor gave me a new drug."
+  translations:
+    de: ["die Droge", "das Medikament"]
+  example_translations:
+    de: "Der Arzt gab mir ein neues Medikament."
+
+- id: "ear"
+  lemma: "ear"
+  pos: noun
+  level: A2
+  ipa: "/ɪər/"
+  example: "The cat has small ears."
+  translations:
+    de: ["das Ohr"]
+  example_translations:
+    de: "Die Katze hat kleine Ohren."
+
+- id: "emergency"
+  lemma: "emergency"
+  pos: noun
+  level: B1
+  ipa: "/iˈmɜː.dʒən.si/"
+  example: "Call 112 in an emergency."
+  translations:
+    de: ["der Notfall"]
+  example_translations:
+    de: "Ruf im Notfall die 112 an."
+
+- id: "exercise-noun"
+  lemma: "exercise"
+  pos: noun
+  level: A1
+  ipa: "/ˈek.sə.saɪz/"
+  example: "Do exercise three on page ten."
+  translations:
+    de: ["die Übung", "die Bewegung", "der Sport"]
+  example_translations:
+    de: "Macht Übung drei auf Seite zehn."
+
+- id: "exercise-verb"
+  lemma: "exercise"
+  pos: verb
+  level: A1
+  ipa: "/ˈek.sə.saɪz/"
+  example: "I exercise every morning."
+  translations:
+    de: ["trainieren", "sich bewegen"]
+  example_translations:
+    de: "Ich trainiere jeden Morgen."
+
+- id: "eye"
+  lemma: "eye"
+  pos: noun
+  level: A1
+  ipa: "/aɪ/"
+  example: "She has blue eyes."
+  translations:
+    de: ["das Auge"]
+  example_translations:
+    de: "Sie hat blaue Augen."
+
+- id: "face-noun"
+  lemma: "face"
+  pos: noun
+  level: A1
+  ipa: "/feɪs/"
+  example: "She has a pretty face."
+  translations:
+    de: ["das Gesicht"]
+  example_translations:
+    de: "Sie hat ein hübsches Gesicht."
+
+- id: "finger"
+  lemma: "finger"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪŋ.ɡər/"
+  example: "I cut my finger."
+  translations:
+    de: ["der Finger"]
+  example_translations:
+    de: "Ich habe mir in den Finger geschnitten."
+
+- id: "fit-adjective"
+  lemma: "fit"
+  pos: adjective
+  level: A2
+  ipa: "/fɪt/"
+  example: "She keeps fit by swimming."
+  translations:
+    de: ["fit", "geeignet"]
+  example_translations:
+    de: "Sie hält sich mit Schwimmen fit."
+
+- id: "fitness"
+  lemma: "fitness"
+  pos: noun
+  level: B1
+  ipa: "/ˈfɪt.nəs/"
+  example: "Fitness is important to me."
+  translations:
+    de: ["die Fitness"]
+  example_translations:
+    de: "Fitness ist mir wichtig."
+
+- id: "flu"
+  lemma: "flu"
+  pos: noun
+  level: A2
+  ipa: "/fluː/"
+  example: "I've got the flu."
+  translations:
+    de: ["die Grippe"]
+  example_translations:
+    de: "Ich habe die Grippe."
+
+- id: "foot"
+  lemma: "foot"
+  pos: noun
+  level: A1
+  ipa: "/fʊt/"
+  example: "My foot is cold."
+  translations:
+    de: ["der Fuß"]
+  example_translations:
+    de: "Mein Fuß ist kalt."
+
+- id: "hair"
+  lemma: "hair"
+  pos: noun
+  level: A1
+  ipa: "/heər/"
+  example: "She has long hair."
+  translations:
+    de: ["die Haare", "das Haar"]
+  example_translations:
+    de: "Sie hat lange Haare."
+
+- id: "hand"
+  lemma: "hand"
+  pos: noun
+  level: A1
+  ipa: "/hænd/"
+  example: "Give me your hand."
+  translations:
+    de: ["die Hand"]
+  example_translations:
+    de: "Gib mir deine Hand."
+
+- id: "head"
+  lemma: "head"
+  pos: noun
+  level: A1
+  ipa: "/hed/"
+  example: "My head hurts."
+  translations:
+    de: ["der Kopf"]
+  example_translations:
+    de: "Mein Kopf tut weh."
+
+- id: "headache"
+  lemma: "headache"
+  pos: noun
+  level: A2
+  ipa: "/ˈhed.eɪk/"
+  example: "I have a headache."
+  translations:
+    de: ["die Kopfschmerzen"]
+  example_translations:
+    de: "Ich habe Kopfschmerzen."
+
+- id: "health"
+  lemma: "health"
+  pos: noun
+  level: A1
+  ipa: "/helθ/"
+  example: "Smoking is bad for your health."
+  translations:
+    de: ["die Gesundheit"]
+  example_translations:
+    de: "Rauchen schadet deiner Gesundheit."
+
+- id: "healthy"
+  lemma: "healthy"
+  pos: adjective
+  level: A1
+  ipa: "/ˈhel.θi/"
+  example: "Fruit is healthy."
+  translations:
+    de: ["gesund"]
+  example_translations:
+    de: "Obst ist gesund."
+
+- id: "hearing"
+  lemma: "hearing"
+  pos: noun
+  level: B2
+  ipa: "/ˈhɪə.rɪŋ/"
+  example: "My grandfather's hearing is bad."
+  translations:
+    de: ["das Gehör", "die Anhörung"]
+  example_translations:
+    de: "Mein Großvater hört schlecht."
+
+- id: "heart"
+  lemma: "heart"
+  pos: noun
+  level: A2
+  ipa: "/hɑːt/"
+  example: "My heart is beating fast."
+  translations:
+    de: ["das Herz"]
+  example_translations:
+    de: "Mein Herz schlägt schnell."
+
+- id: "heel"
+  lemma: "heel"
+  pos: noun
+  level: B2
+  ipa: "/hiːl/"
+  example: "She wore shoes with high heels."
+  translations:
+    de: ["die Ferse", "der Absatz"]
+  example_translations:
+    de: "Sie trug Schuhe mit hohen Absätzen."
+
+- id: "hurt-adjective"
+  lemma: "hurt"
+  pos: adjective
+  level: A2
+  ipa: "/hɜːt/"
+  example: "Was anyone hurt?"
+  translations:
+    de: ["verletzt", "gekränkt"]
+  example_translations:
+    de: "Wurde jemand verletzt?"
+
+- id: "hurt-verb"
+  lemma: "hurt"
+  pos: verb
+  level: A2
+  ipa: "/hɜːt/"
+  example: "My leg hurts."
+  translations:
+    de: ["wehtun", "verletzen"]
+  example_translations:
+    de: "Mein Bein tut weh."
+
+- id: "ill"
+  lemma: "ill"
+  pos: adjective
+  level: A2
+  ipa: "/ɪl/"
+  example: "She is ill and stays at home."
+  translations:
+    de: ["krank"]
+  example_translations:
+    de: "Sie ist krank und bleibt zu Hause."
+
+- id: "illness"
+  lemma: "illness"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪl.nəs/"
+  example: "She missed school because of illness."
+  translations:
+    de: ["die Krankheit"]
+  example_translations:
+    de: "Sie hat wegen Krankheit in der Schule gefehlt."
+
+- id: "infection"
+  lemma: "infection"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈfek.ʃən/"
+  example: "He has an ear infection."
+  translations:
+    de: ["die Infektion", "die Entzündung"]
+  example_translations:
+    de: "Er hat eine Ohrenentzündung."
+
+- id: "injure"
+  lemma: "injure"
+  pos: verb
+  level: B1
+  ipa: "/ˈɪn.dʒər/"
+  example: "He injured his knee playing football."
+  translations:
+    de: ["verletzen"]
+  example_translations:
+    de: "Er hat sich beim Fußball am Knie verletzt."
+
+- id: "injured"
+  lemma: "injured"
+  pos: adjective
+  level: B1
+  ipa: "/ˈɪn.dʒəd/"
+  example: "Two people were injured."
+  translations:
+    de: ["verletzt"]
+  example_translations:
+    de: "Zwei Menschen wurden verletzt."
+
+- id: "injury"
+  lemma: "injury"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.dʒər.i/"
+  example: "He can't play because of an injury."
+  translations:
+    de: ["die Verletzung"]
+  example_translations:
+    de: "Er kann wegen einer Verletzung nicht spielen."
+
+- id: "knee"
+  lemma: "knee"
+  pos: noun
+  level: A2
+  ipa: "/niː/"
+  example: "I hurt my knee."
+  translations:
+    de: ["das Knie"]
+  example_translations:
+    de: "Ich habe mir das Knie verletzt."
+
+- id: "leg"
+  lemma: "leg"
+  pos: noun
+  level: A2
+  ipa: "/leɡ/"
+  example: "He broke his leg skiing."
+  translations:
+    de: ["das Bein"]
+  example_translations:
+    de: "Er hat sich beim Skifahren das Bein gebrochen."
+
+- id: "lip"
+  lemma: "lip"
+  pos: noun
+  level: B1
+  ipa: "/lɪp/"
+  example: "She has red lips."
+  translations:
+    de: ["die Lippe"]
+  example_translations:
+    de: "Sie hat rote Lippen."
+
+- id: "lung"
+  lemma: "lung"
+  pos: noun
+  level: B2
+  ipa: "/lʌŋ/"
+  example: "Smoking damages your lungs."
+  translations:
+    de: ["die Lunge"]
+  example_translations:
+    de: "Rauchen schädigt die Lunge."
+
+- id: "medical"
+  lemma: "medical"
+  pos: adjective
+  level: A2
+  ipa: "/ˈmed.ɪ.kəl/"
+  example: "He needs medical help."
+  translations:
+    de: ["medizinisch", "ärztlich"]
+  example_translations:
+    de: "Er braucht ärztliche Hilfe."
+
+- id: "medicine"
+  lemma: "medicine"
+  pos: noun
+  level: A2
+  ipa: "/ˈmed.ɪ.sən/"
+  example: "Take this medicine twice a day."
+  translations:
+    de: ["das Medikament", "die Medizin"]
+  example_translations:
+    de: "Nimm dieses Medikament zweimal täglich."
+
+- id: "mouth"
+  lemma: "mouth"
+  pos: noun
+  level: A1
+  ipa: "/maʊθ/"
+  example: "Open your mouth."
+  translations:
+    de: ["der Mund"]
+  example_translations:
+    de: "Öffne deinen Mund."
+
+- id: "muscle"
+  lemma: "muscle"
+  pos: noun
+  level: B1
+  ipa: "/ˈmʌs.əl/"
+  example: "I have pain in my muscles."
+  translations:
+    de: ["der Muskel"]
+  example_translations:
+    de: "Ich habe Muskelschmerzen."
+
+- id: "nail"
+  lemma: "nail"
+  pos: noun
+  level: B1
+  ipa: "/neɪl/"
+  example: "She paints her nails red."
+  translations:
+    de: ["der Nagel", "der Fingernagel"]
+  example_translations:
+    de: "Sie lackiert ihre Nägel rot."
+
+- id: "neck"
+  lemma: "neck"
+  pos: noun
+  level: A2
+  ipa: "/nek/"
+  example: "My neck hurts."
+  translations:
+    de: ["der Hals", "der Nacken"]
+  example_translations:
+    de: "Mir tut der Hals weh."
+
+- id: "nerve"
+  lemma: "nerve"
+  pos: noun
+  level: B2
+  ipa: "/nɜːv/"
+  example: "You're getting on my nerves!"
+  translations:
+    de: ["der Nerv"]
+  example_translations:
+    de: "Du gehst mir auf die Nerven!"
+
+- id: "nose"
+  lemma: "nose"
+  pos: noun
+  level: A1
+  ipa: "/nəʊz/"
+  example: "The dog has a cold nose."
+  translations:
+    de: ["die Nase"]
+  example_translations:
+    de: "Der Hund hat eine kalte Nase."
+
+- id: "operation"
+  lemma: "operation"
+  pos: noun
+  level: B1
+  ipa: "/ˌɒp.ərˈeɪ.ʃən/"
+  example: "She needs an operation on her knee."
+  translations:
+    de: ["die Operation", "der Betrieb"]
+  example_translations:
+    de: "Sie muss am Knie operiert werden."
+
+- id: "organ"
+  lemma: "organ"
+  pos: noun
+  level: B2
+  ipa: "/ˈɔː.ɡən/"
+  example: "The heart is an organ."
+  translations:
+    de: ["das Organ", "die Orgel"]
+  example_translations:
+    de: "Das Herz ist ein Organ."
+
+- id: "pain"
+  lemma: "pain"
+  pos: noun
+  level: A2
+  ipa: "/peɪn/"
+  example: "I have a pain in my knee."
+  translations:
+    de: ["der Schmerz", "die Schmerzen"]
+  example_translations:
+    de: "Ich habe Schmerzen im Knie."
+
+- id: "painful"
+  lemma: "painful"
+  pos: adjective
+  level: B1
+  ipa: "/ˈpeɪn.fəl/"
+  example: "My knee is very painful."
+  translations:
+    de: ["schmerzhaft"]
+  example_translations:
+    de: "Mein Knie tut sehr weh."
+
+- id: "patient-noun"
+  lemma: "patient"
+  pos: noun
+  level: A2
+  ipa: "/ˈpeɪ.ʃənt/"
+  example: "The doctor has many patients."
+  translations:
+    de: ["der Patient", "die Patientin"]
+  example_translations:
+    de: "Der Arzt hat viele Patienten."
+
+- id: "physical"
+  lemma: "physical"
+  pos: adjective
+  level: A2
+  ipa: "/ˈfɪz.ɪ.kəl/"
+  example: "Physical activity is good for you."
+  translations:
+    de: ["körperlich", "physisch"]
+  example_translations:
+    de: "Körperliche Bewegung tut dir gut."
+
+- id: "pregnant"
+  lemma: "pregnant"
+  pos: adjective
+  level: B2
+  ipa: "/ˈpreɡ.nənt/"
+  example: "She is pregnant with twins."
+  translations:
+    de: ["schwanger"]
+  example_translations:
+    de: "Sie ist mit Zwillingen schwanger."
+
+- id: "recover"
+  lemma: "recover"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈkʌv.ər/"
+  example: "She is recovering from an operation."
+  translations:
+    de: ["sich erholen", "wiederbekommen"]
+  example_translations:
+    de: "Sie erholt sich von einer Operation."
+
+- id: "rest-verb"
+  lemma: "rest"
+  pos: verb
+  level: A2
+  ipa: "/rest/"
+  example: "Let's rest for a minute."
+  translations:
+    de: ["sich ausruhen"]
+  example_translations:
+    de: "Lass uns einen Moment ausruhen."
+
+- id: "shoulder"
+  lemma: "shoulder"
+  pos: noun
+  level: A2
+  ipa: "/ˈʃəʊl.dər/"
+  example: "My shoulder hurts."
+  translations:
+    de: ["die Schulter"]
+  example_translations:
+    de: "Meine Schulter tut weh."
+
+- id: "sick"
+  lemma: "sick"
+  pos: adjective
+  level: A1
+  ipa: "/sɪk/"
+  example: "I feel sick."
+  translations:
+    de: ["krank", "übel"]
+  example_translations:
+    de: "Mir ist schlecht."
+
+- id: "skin"
+  lemma: "skin"
+  pos: noun
+  level: A2
+  ipa: "/skɪn/"
+  example: "She has very soft skin."
+  translations:
+    de: ["die Haut", "die Schale"]
+  example_translations:
+    de: "Sie hat sehr weiche Haut."
+
+- id: "sleep-noun"
+  lemma: "sleep"
+  pos: noun
+  level: A2
+  ipa: "/sliːp/"
+  example: "I need more sleep."
+  translations:
+    de: ["der Schlaf"]
+  example_translations:
+    de: "Ich brauche mehr Schlaf."
+
+- id: "smell-noun"
+  lemma: "smell"
+  pos: noun
+  level: A2
+  ipa: "/smel/"
+  example: "I love the smell of fresh bread."
+  translations:
+    de: ["der Geruch", "der Duft"]
+  example_translations:
+    de: "Ich liebe den Duft von frischem Brot."
+
+- id: "smell-verb"
+  lemma: "smell"
+  pos: verb
+  level: A2
+  ipa: "/smel/"
+  example: "It smells good!"
+  translations:
+    de: ["riechen"]
+  example_translations:
+    de: "Das riecht gut!"
+
+- id: "smoke-verb"
+  lemma: "smoke"
+  pos: verb
+  level: A2
+  ipa: "/sməʊk/"
+  example: "Do you smoke?"
+  translations:
+    de: ["rauchen"]
+  example_translations:
+    de: "Rauchst du?"
+
+- id: "smoking"
+  lemma: "smoking"
+  pos: noun
+  level: A2
+  ipa: "/ˈsməʊ.kɪŋ/"
+  example: "Smoking is not allowed here."
+  translations:
+    de: ["das Rauchen"]
+  example_translations:
+    de: "Rauchen ist hier nicht erlaubt."
+
+- id: "stomach"
+  lemma: "stomach"
+  pos: noun
+  level: A2
+  ipa: "/ˈstʌm.ək/"
+  example: "I have a stomach ache."
+  translations:
+    de: ["der Magen", "der Bauch"]
+  example_translations:
+    de: "Ich habe Bauchschmerzen."
+
+- id: "strength"
+  lemma: "strength"
+  pos: noun
+  level: B1
+  ipa: "/streŋθ/"
+  example: "What are your strengths?"
+  translations:
+    de: ["die Kraft", "die Stärke"]
+  example_translations:
+    de: "Was sind deine Stärken?"
+
+- id: "suffer"
+  lemma: "suffer"
+  pos: verb
+  level: B1
+  ipa: "/ˈsʌf.ər/"
+  example: "She suffers from headaches."
+  translations:
+    de: ["leiden"]
+  example_translations:
+    de: "Sie leidet unter Kopfschmerzen."
+
+- id: "surgery"
+  lemma: "surgery"
+  pos: noun
+  level: B2
+  ipa: "/ˈsɜː.dʒər.i/"
+  example: "He needs surgery on his knee."
+  translations:
+    de: ["die Operation", "die Chirurgie", "die Arztpraxis"]
+  example_translations:
+    de: "Er muss am Knie operiert werden."
+
+- id: "symptom"
+  lemma: "symptom"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɪmp.təm/"
+  example: "What are your symptoms?"
+  translations:
+    de: ["das Symptom"]
+  example_translations:
+    de: "Was sind Ihre Symptome?"
+
+- id: "therapy"
+  lemma: "therapy"
+  pos: noun
+  level: B2
+  ipa: "/ˈθer.ə.pi/"
+  example: "He is in therapy."
+  translations:
+    de: ["die Therapie"]
+  example_translations:
+    de: "Er macht eine Therapie."
+
+- id: "throat"
+  lemma: "throat"
+  pos: noun
+  level: B1
+  ipa: "/θrəʊt/"
+  example: "I have a sore throat."
+  translations:
+    de: ["der Hals", "die Kehle"]
+  example_translations:
+    de: "Ich habe Halsschmerzen."
+
+- id: "toe"
+  lemma: "toe"
+  pos: noun
+  level: B1
+  ipa: "/təʊ/"
+  example: "I hurt my toe."
+  translations:
+    de: ["der Zeh"]
+  example_translations:
+    de: "Ich habe mir den Zeh verletzt."
+
+- id: "tongue"
+  lemma: "tongue"
+  pos: noun
+  level: B1
+  ipa: "/tʌŋ/"
+  example: "Show me your tongue."
+  translations:
+    de: ["die Zunge"]
+  example_translations:
+    de: "Zeig mir deine Zunge."
+
+- id: "tooth"
+  lemma: "tooth"
+  pos: noun
+  level: A2
+  ipa: "/tuːθ/"
+  example: "I have to brush my teeth."
+  translations:
+    de: ["der Zahn"]
+  example_translations:
+    de: "Ich muss mir die Zähne putzen."
+
+- id: "treatment"
+  lemma: "treatment"
+  pos: noun
+  level: B1
+  ipa: "/ˈtriːt.mənt/"
+  example: "She needs medical treatment."
+  translations:
+    de: ["die Behandlung"]
+  example_translations:
+    de: "Sie braucht ärztliche Behandlung."
+
+- id: "unconscious"
+  lemma: "unconscious"
+  pos: adjective
+  level: B2
+  ipa: "/ʌnˈkɒn.ʃəs/"
+  example: "He was unconscious after the accident."
+  translations:
+    de: ["bewusstlos", "unbewusst"]
+  example_translations:
+    de: "Nach dem Unfall war er bewusstlos."
+
+- id: "vaccine"
+  lemma: "vaccine"
+  pos: noun
+  level: B2
+  ipa: "/ˈvæk.siːn/"
+  example: "Scientists developed a new vaccine."
+  translations:
+    de: ["der Impfstoff"]
+  example_translations:
+    de: "Wissenschaftler haben einen neuen Impfstoff entwickelt."
+
+- id: "virus"
+  lemma: "virus"
+  pos: noun
+  level: A2
+  ipa: "/ˈvaɪə.rəs/"
+  example: "The flu is caused by a virus."
+  translations:
+    de: ["das Virus"]
+  example_translations:
+    de: "Die Grippe wird durch ein Virus verursacht."
+
+- id: "voice"
+  lemma: "voice"
+  pos: noun
+  level: A2
+  ipa: "/vɔɪs/"
+  example: "She has a beautiful voice."
+  translations:
+    de: ["die Stimme"]
+  example_translations:
+    de: "Sie hat eine schöne Stimme."
+
+- id: "weight"
+  lemma: "weight"
+  pos: noun
+  level: A2
+  ipa: "/weɪt/"
+  example: "I want to lose weight."
+  translations:
+    de: ["das Gewicht"]
+  example_translations:
+    de: "Ich möchte abnehmen."
+
+- id: "well-adjective"
+  lemma: "well"
+  pos: adjective
+  level: A1
+  ipa: "/wel/"
+  example: "I don't feel well."
+  translations:
+    de: ["gesund", "wohl"]
+  example_translations:
+    de: "Mir geht es nicht gut."
+
+- id: "well-being"
+  lemma: "well-being"
+  pos: noun
+  level: B2
+  ipa: "/ˌwelˈbiː.ɪŋ/"
+  example: "Exercise is good for your well-being."
+  translations:
+    de: ["das Wohlbefinden"]
+  example_translations:
+    de: "Sport ist gut für dein Wohlbefinden."
+
+- id: "wound-noun"
+  lemma: "wound"
+  pos: noun
+  level: B2
+  ipa: "/wuːnd/"
+  example: "Clean the wound carefully."
+  translations:
+    de: ["die Wunde"]
+  example_translations:
+    de: "Reinige die Wunde sorgfältig."
+
+- id: "wound-verb"
+  lemma: "wound"
+  pos: verb
+  level: B2
+  ipa: "/wuːnd/"
+  example: "Two soldiers were wounded."
+  translations:
+    de: ["verwunden", "verletzen"]
+  example_translations:
+    de: "Zwei Soldaten wurden verwundet."

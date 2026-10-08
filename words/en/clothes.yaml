@@ -1,0 +1,464 @@
+# 👕 Kleidung – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "belt"
+  lemma: "belt"
+  pos: noun
+  level: A2
+  ipa: "/belt/"
+  example: "He wears a black belt."
+  translations:
+    de: ["der Gürtel"]
+  example_translations:
+    de: "Er trägt einen schwarzen Gürtel."
+
+- id: "boot"
+  lemma: "boot"
+  pos: noun
+  level: A1
+  ipa: "/buːt/"
+  example: "I need new boots for winter."
+  translations:
+    de: ["der Stiefel"]
+  example_translations:
+    de: "Ich brauche neue Stiefel für den Winter."
+
+- id: "cap"
+  lemma: "cap"
+  pos: noun
+  level: B1
+  ipa: "/kæp/"
+  example: "He always wears a baseball cap."
+  translations:
+    de: ["die Mütze", "die Kappe", "der Deckel"]
+  example_translations:
+    de: "Er trägt immer eine Baseballkappe."
+
+- id: "clothes"
+  lemma: "clothes"
+  pos: noun
+  level: A1
+  ipa: "/kləʊðz/"
+  example: "I need new clothes."
+  translations:
+    de: ["die Kleidung", "die Kleider"]
+  example_translations:
+    de: "Ich brauche neue Kleidung."
+
+- id: "clothing"
+  lemma: "clothing"
+  pos: noun
+  level: A2
+  ipa: "/ˈkləʊ.ðɪŋ/"
+  example: "Bring warm clothing."
+  translations:
+    de: ["die Kleidung", "die Bekleidung"]
+  example_translations:
+    de: "Bring warme Kleidung mit."
+
+- id: "coat"
+  lemma: "coat"
+  pos: noun
+  level: A2
+  ipa: "/kəʊt/"
+  example: "Put on your coat, it's cold."
+  translations:
+    de: ["der Mantel"]
+  example_translations:
+    de: "Zieh deinen Mantel an, es ist kalt."
+
+- id: "costume"
+  lemma: "costume"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒs.tʃuːm/"
+  example: "She wore a pirate costume."
+  translations:
+    de: ["das Kostüm", "die Tracht"]
+  example_translations:
+    de: "Sie trug ein Piratenkostüm."
+
+- id: "cotton"
+  lemma: "cotton"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒt.ən/"
+  example: "This shirt is made of cotton."
+  translations:
+    de: ["die Baumwolle"]
+  example_translations:
+    de: "Dieses Hemd ist aus Baumwolle."
+
+- id: "dress"
+  lemma: "dress"
+  pos: noun
+  level: A1
+  ipa: "/dres/"
+  example: "She has a red dress."
+  translations:
+    de: ["das Kleid"]
+  example_translations:
+    de: "Sie hat ein rotes Kleid."
+
+- id: "dress-verb"
+  lemma: "dress"
+  pos: verb
+  level: A1
+  ipa: "/dres/"
+  example: "She dressed quickly."
+  translations:
+    de: ["sich anziehen", "anziehen"]
+  example_translations:
+    de: "Sie zog sich schnell an."
+
+- id: "dressed"
+  lemma: "dressed"
+  pos: adjective
+  level: B1
+  ipa: "/drest/"
+  example: "Are you dressed yet?"
+  translations:
+    de: ["angezogen", "gekleidet"]
+  example_translations:
+    de: "Bist du schon angezogen?"
+
+- id: "fashion"
+  lemma: "fashion"
+  pos: noun
+  level: A2
+  ipa: "/ˈfæʃ.ən/"
+  example: "She is interested in fashion."
+  translations:
+    de: ["die Mode"]
+  example_translations:
+    de: "Sie interessiert sich für Mode."
+
+- id: "fashionable"
+  lemma: "fashionable"
+  pos: adjective
+  level: B1
+  ipa: "/ˈfæʃ.ən.ə.bəl/"
+  example: "Short hair is fashionable this year."
+  translations:
+    de: ["modisch", "in Mode"]
+  example_translations:
+    de: "Kurze Haare sind dieses Jahr in Mode."
+
+- id: "fit-verb"
+  lemma: "fit"
+  pos: verb
+  level: A2
+  ipa: "/fɪt/"
+  example: "These shoes don't fit."
+  translations:
+    de: ["passen"]
+  example_translations:
+    de: "Diese Schuhe passen nicht."
+
+- id: "glove"
+  lemma: "glove"
+  pos: noun
+  level: A2
+  ipa: "/ɡlʌv/"
+  example: "Wear gloves in winter."
+  translations:
+    de: ["der Handschuh"]
+  example_translations:
+    de: "Trag im Winter Handschuhe."
+
+- id: "hat"
+  lemma: "hat"
+  pos: noun
+  level: A1
+  ipa: "/hæt/"
+  example: "It's cold, wear a hat."
+  translations:
+    de: ["der Hut", "die Mütze"]
+  example_translations:
+    de: "Es ist kalt, trag eine Mütze."
+
+- id: "jacket"
+  lemma: "jacket"
+  pos: noun
+  level: A1
+  ipa: "/ˈdʒæk.ɪt/"
+  example: "Take your jacket with you."
+  translations:
+    de: ["die Jacke"]
+  example_translations:
+    de: "Nimm deine Jacke mit."
+
+- id: "jeans"
+  lemma: "jeans"
+  pos: noun
+  level: A1
+  ipa: "/dʒiːnz/"
+  example: "She is wearing blue jeans."
+  translations:
+    de: ["die Jeans"]
+  example_translations:
+    de: "Sie trägt eine blaue Jeans."
+
+- id: "jewellery"
+  lemma: "jewellery"
+  pos: noun
+  level: A2
+  ipa: "/ˈdʒuː.əl.ri/"
+  example: "She doesn't wear much jewellery."
+  translations:
+    de: ["der Schmuck"]
+  example_translations:
+    de: "Sie trägt nicht viel Schmuck."
+
+- id: "leather"
+  lemma: "leather"
+  pos: noun
+  level: B1
+  ipa: "/ˈleð.ər/"
+  example: "He wears a leather jacket."
+  translations:
+    de: ["das Leder"]
+  example_translations:
+    de: "Er trägt eine Lederjacke."
+
+- id: "matching"
+  lemma: "matching"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmætʃ.ɪŋ/"
+  example: "She wore a dress with matching shoes."
+  translations:
+    de: ["passend"]
+  example_translations:
+    de: "Sie trug ein Kleid mit passenden Schuhen."
+
+- id: "pants"
+  lemma: "pants"
+  pos: noun
+  level: A2
+  ipa: "/pænts/"
+  example: "He's wearing black pants."
+  translations:
+    de: ["die Hose", "die Unterhose"]
+  example_translations:
+    de: "Er trägt eine schwarze Hose."
+
+- id: "pocket"
+  lemma: "pocket"
+  pos: noun
+  level: A2
+  ipa: "/ˈpɒk.ɪt/"
+  example: "My keys are in my pocket."
+  translations:
+    de: ["die Tasche (Kleidung)"]
+  example_translations:
+    de: "Meine Schlüssel sind in meiner Hosentasche."
+
+- id: "ring-noun"
+  lemma: "ring"
+  pos: noun
+  level: A2
+  ipa: "/rɪŋ/"
+  example: "She wears a gold ring."
+  translations:
+    de: ["der Ring"]
+  example_translations:
+    de: "Sie trägt einen goldenen Ring."
+
+- id: "shirt"
+  lemma: "shirt"
+  pos: noun
+  level: A1
+  ipa: "/ʃɜːt/"
+  example: "He wears a white shirt."
+  translations:
+    de: ["das Hemd"]
+  example_translations:
+    de: "Er trägt ein weißes Hemd."
+
+- id: "shoe"
+  lemma: "shoe"
+  pos: noun
+  level: A1
+  ipa: "/ʃuː/"
+  example: "These shoes are new."
+  translations:
+    de: ["der Schuh"]
+  example_translations:
+    de: "Diese Schuhe sind neu."
+
+- id: "silk"
+  lemma: "silk"
+  pos: noun
+  level: B2
+  ipa: "/sɪlk/"
+  example: "The dress is made of silk."
+  translations:
+    de: ["die Seide"]
+  example_translations:
+    de: "Das Kleid ist aus Seide."
+
+- id: "skirt"
+  lemma: "skirt"
+  pos: noun
+  level: A2
+  ipa: "/skɜːt/"
+  example: "She is wearing a long skirt."
+  translations:
+    de: ["der Rock"]
+  example_translations:
+    de: "Sie trägt einen langen Rock."
+
+- id: "sock"
+  lemma: "sock"
+  pos: noun
+  level: A2
+  ipa: "/sɒk/"
+  example: "I can't find my other sock."
+  translations:
+    de: ["die Socke"]
+  example_translations:
+    de: "Ich finde meine andere Socke nicht."
+
+- id: "style"
+  lemma: "style"
+  pos: noun
+  level: A1
+  ipa: "/staɪl/"
+  example: "I like your style."
+  translations:
+    de: ["der Stil"]
+  example_translations:
+    de: "Mir gefällt dein Stil."
+
+- id: "suit-noun"
+  lemma: "suit"
+  pos: noun
+  level: A2
+  ipa: "/suːt/"
+  example: "He wore a dark suit."
+  translations:
+    de: ["der Anzug", "das Kostüm"]
+  example_translations:
+    de: "Er trug einen dunklen Anzug."
+
+- id: "suit-verb"
+  lemma: "suit"
+  pos: verb
+  level: B1
+  ipa: "/suːt/"
+  example: "That colour suits you."
+  translations:
+    de: ["stehen", "passen"]
+  example_translations:
+    de: "Die Farbe steht dir."
+
+- id: "sweater"
+  lemma: "sweater"
+  pos: noun
+  level: A1
+  ipa: "/ˈswet.ər/"
+  example: "Put on a warm sweater."
+  translations:
+    de: ["der Pullover"]
+  example_translations:
+    de: "Zieh einen warmen Pullover an."
+
+- id: "t-shirt"
+  lemma: "T-shirt"
+  pos: noun
+  level: A1
+  ipa: "/ˈtiː.ʃɜːt/"
+  example: "He's wearing a white T-shirt."
+  translations:
+    de: ["das T-Shirt"]
+  example_translations:
+    de: "Er trägt ein weißes T-Shirt."
+
+- id: "tie-noun"
+  lemma: "tie"
+  pos: noun
+  level: A2
+  ipa: "/taɪ/"
+  example: "He wore a blue tie."
+  translations:
+    de: ["die Krawatte", "das Unentschieden"]
+  example_translations:
+    de: "Er trug eine blaue Krawatte."
+
+- id: "tight"
+  lemma: "tight"
+  pos: adjective
+  level: B1
+  ipa: "/taɪt/"
+  example: "These jeans are too tight."
+  translations:
+    de: ["eng", "fest", "knapp"]
+  example_translations:
+    de: "Diese Jeans ist zu eng."
+
+- id: "trousers"
+  lemma: "trousers"
+  pos: noun
+  level: A1
+  ipa: "/ˈtraʊ.zəz/"
+  example: "My trousers are too long."
+  translations:
+    de: ["die Hose"]
+  example_translations:
+    de: "Meine Hose ist zu lang."
+
+- id: "underwear"
+  lemma: "underwear"
+  pos: noun
+  level: B1
+  ipa: "/ˈʌn.də.weər/"
+  example: "Pack enough underwear."
+  translations:
+    de: ["die Unterwäsche"]
+  example_translations:
+    de: "Pack genug Unterwäsche ein."
+
+- id: "uniform"
+  lemma: "uniform"
+  pos: noun
+  level: A2
+  ipa: "/ˈjuː.nɪ.fɔːm/"
+  example: "We wear a uniform at school."
+  translations:
+    de: ["die Uniform"]
+  example_translations:
+    de: "Wir tragen in der Schule eine Uniform."
+
+- id: "watch-noun"
+  lemma: "watch"
+  pos: noun
+  level: A1
+  ipa: "/wɒtʃ/"
+  example: "My watch is slow."
+  translations:
+    de: ["die Armbanduhr"]
+  example_translations:
+    de: "Meine Uhr geht nach."
+
+- id: "wear"
+  lemma: "wear"
+  pos: verb
+  level: A2
+  ipa: "/weər/"
+  example: "He always wears jeans."
+  translations:
+    de: ["tragen", "anhaben"]
+  example_translations:
+    de: "Er trägt immer Jeans."
+
+- id: "wool"
+  lemma: "wool"
+  pos: noun
+  level: B1
+  ipa: "/wʊl/"
+  example: "This jumper is made of wool."
+  translations:
+    de: ["die Wolle"]
+  example_translations:
+    de: "Dieser Pullover ist aus Wolle."

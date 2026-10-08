@@ -1,0 +1,1157 @@
+# 🔢 Zahlen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "addition"
+  lemma: "addition"
+  pos: noun
+  level: B1
+  ipa: "/əˈdɪʃ.ən/"
+  example: "The new library is a great addition to the town."
+  translations:
+    de: ["die Ergänzung", "die Addition"]
+  example_translations:
+    de: "Die neue Bibliothek ist eine tolle Ergänzung für die Stadt."
+
+- id: "amount-noun"
+  lemma: "amount"
+  pos: noun
+  level: A2
+  ipa: "/əˈmaʊnt/"
+  example: "He spent a large amount of money."
+  translations:
+    de: ["die Menge", "der Betrag"]
+  example_translations:
+    de: "Er hat eine große Menge Geld ausgegeben."
+
+- id: "amount-verb"
+  lemma: "amount"
+  pos: verb
+  level: B2
+  ipa: "/əˈmaʊnt/"
+  example: "The bill amounts to 200 euros."
+  translations:
+    de: ["sich belaufen auf", "betragen"]
+  example_translations:
+    de: "Die Rechnung beläuft sich auf 200 Euro."
+
+- id: "approximately"
+  lemma: "approximately"
+  pos: adverb
+  level: B1
+  ipa: "/əˈprɒk.sɪ.mət.li/"
+  example: "The trip takes approximately two hours."
+  translations:
+    de: ["ungefähr", "etwa"]
+  example_translations:
+    de: "Die Fahrt dauert ungefähr zwei Stunden."
+
+- id: "average-adjective"
+  lemma: "average"
+  pos: adjective
+  level: A2
+  ipa: "/ˈæv.ər.ɪdʒ/"
+  example: "The average age is 35."
+  translations:
+    de: ["durchschnittlich"]
+  example_translations:
+    de: "Das Durchschnittsalter ist 35."
+
+- id: "average-noun"
+  lemma: "average"
+  pos: noun
+  level: A2
+  ipa: "/ˈæv.ər.ɪdʒ/"
+  example: "Her marks are above average."
+  translations:
+    de: ["der Durchschnitt"]
+  example_translations:
+    de: "Ihre Noten liegen über dem Durchschnitt."
+
+- id: "average-verb"
+  lemma: "average"
+  pos: verb
+  level: B1
+  ipa: "/ˈæv.ər.ɪdʒ/"
+  example: "We averaged 80 km an hour."
+  translations:
+    de: ["durchschnittlich betragen"]
+  example_translations:
+    de: "Wir fuhren durchschnittlich 80 km pro Stunde."
+
+- id: "billion"
+  lemma: "billion"
+  pos: numeral
+  level: A2
+  ipa: "/ˈbɪl.jən/"
+  example: "The project cost two billion dollars."
+  translations:
+    de: ["die Milliarde"]
+  example_translations:
+    de: "Das Projekt kostete zwei Milliarden Dollar."
+
+- id: "bit"
+  lemma: "bit"
+  pos: noun
+  level: A2
+  ipa: "/bɪt/"
+  example: "Can I have a bit of cake?"
+  translations:
+    de: ["das Stück", "das bisschen"]
+  example_translations:
+    de: "Kann ich ein Stück Kuchen haben?"
+
+- id: "bunch"
+  lemma: "bunch"
+  pos: noun
+  level: B2
+  ipa: "/bʌntʃ/"
+  example: "He bought her a bunch of flowers."
+  translations:
+    de: ["der Strauß", "das Bündel", "der Haufen"]
+  example_translations:
+    de: "Er kaufte ihr einen Blumenstrauß."
+
+- id: "calculate"
+  lemma: "calculate"
+  pos: verb
+  level: B2
+  ipa: "/ˈkæl.kjə.leɪt/"
+  example: "Can you calculate the total cost?"
+  translations:
+    de: ["berechnen", "ausrechnen"]
+  example_translations:
+    de: "Kannst du die Gesamtkosten berechnen?"
+
+- id: "capacity"
+  lemma: "capacity"
+  pos: noun
+  level: B2
+  ipa: "/kəˈpæs.ə.ti/"
+  example: "The stadium has a capacity of 50,000."
+  translations:
+    de: ["die Kapazität", "das Fassungsvermögen"]
+  example_translations:
+    de: "Das Stadion fasst 50.000 Menschen."
+
+- id: "chart-noun"
+  lemma: "chart"
+  pos: noun
+  level: A1
+  ipa: "/tʃɑːt/"
+  example: "Look at the chart on page five."
+  translations:
+    de: ["das Diagramm", "die Tabelle", "die Charts"]
+  example_translations:
+    de: "Schau dir das Diagramm auf Seite fünf an."
+
+- id: "count-noun"
+  lemma: "count"
+  pos: noun
+  level: B1
+  ipa: "/kaʊnt/"
+  example: "At the last count, 50 people were there."
+  translations:
+    de: ["die Zählung"]
+  example_translations:
+    de: "Bei der letzten Zählung waren 50 Leute da."
+
+- id: "count-verb"
+  lemma: "count"
+  pos: verb
+  level: A2
+  ipa: "/kaʊnt/"
+  example: "Can you count to ten in English?"
+  translations:
+    de: ["zählen"]
+  example_translations:
+    de: "Kannst du auf Englisch bis zehn zählen?"
+
+- id: "decrease-noun"
+  lemma: "decrease"
+  pos: noun
+  level: B2
+  ipa: "/ˈdiː.kriːs/"
+  example: "There was a decrease in crime."
+  translations:
+    de: ["der Rückgang", "die Abnahme"]
+  example_translations:
+    de: "Die Kriminalität ist zurückgegangen."
+
+- id: "decrease-verb"
+  lemma: "decrease"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈkriːs/"
+  example: "The price has decreased."
+  translations:
+    de: ["abnehmen", "sinken", "verringern"]
+  example_translations:
+    de: "Der Preis ist gesunken."
+
+- id: "depth"
+  lemma: "depth"
+  pos: noun
+  level: B2
+  ipa: "/depθ/"
+  example: "What is the depth of the pool?"
+  translations:
+    de: ["die Tiefe"]
+  example_translations:
+    de: "Wie tief ist das Becken?"
+
+- id: "divide-verb"
+  lemma: "divide"
+  pos: verb
+  level: B1
+  ipa: "/dɪˈvaɪd/"
+  example: "Divide the cake into eight pieces."
+  translations:
+    de: ["teilen", "aufteilen"]
+  example_translations:
+    de: "Teile den Kuchen in acht Stücke."
+
+- id: "division"
+  lemma: "division"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈvɪʒ.ən/"
+  example: "The division of the money was fair."
+  translations:
+    de: ["die Teilung", "die Division", "die Abteilung"]
+  example_translations:
+    de: "Die Aufteilung des Geldes war fair."
+
+- id: "double-adjective"
+  lemma: "double"
+  pos: adjective
+  level: A2
+  ipa: "/ˈdʌb.əl/"
+  example: "I'd like a double room."
+  translations:
+    de: ["doppelt", "Doppel-"]
+  example_translations:
+    de: "Ich hätte gern ein Doppelzimmer."
+
+- id: "double-verb"
+  lemma: "double"
+  pos: verb
+  level: A2
+  ipa: "/ˈdʌb.əl/"
+  example: "The price has doubled."
+  translations:
+    de: ["verdoppeln", "sich verdoppeln"]
+  example_translations:
+    de: "Der Preis hat sich verdoppelt."
+
+- id: "dozen"
+  lemma: "dozen"
+  pos: noun
+  level: B2
+  ipa: "/ˈdʌz.ən/"
+  example: "I bought a dozen eggs."
+  translations:
+    de: ["das Dutzend"]
+  example_translations:
+    de: "Ich habe ein Dutzend Eier gekauft."
+
+- id: "eight"
+  lemma: "eight"
+  pos: numeral
+  level: A1
+  ipa: "/eɪt/"
+  example: "I get up at eight."
+  translations:
+    de: ["acht"]
+  example_translations:
+    de: "Ich stehe um acht auf."
+
+- id: "eighteen"
+  lemma: "eighteen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌeɪˈtiːn/"
+  example: "She is eighteen years old."
+  translations:
+    de: ["achtzehn"]
+  example_translations:
+    de: "Sie ist achtzehn Jahre alt."
+
+- id: "eighty"
+  lemma: "eighty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈeɪ.ti/"
+  example: "My grandmother is eighty."
+  translations:
+    de: ["achtzig"]
+  example_translations:
+    de: "Meine Großmutter ist achtzig."
+
+- id: "eleven"
+  lemma: "eleven"
+  pos: numeral
+  level: A1
+  ipa: "/iˈlev.ən/"
+  example: "There are eleven players in a team."
+  translations:
+    de: ["elf"]
+  example_translations:
+    de: "In einer Mannschaft sind elf Spieler."
+
+- id: "equal-verb"
+  lemma: "equal"
+  pos: verb
+  level: B1
+  ipa: "/ˈiː.kwəl/"
+  example: "Two plus two equals four."
+  translations:
+    de: ["gleich sein", "ergeben"]
+  example_translations:
+    de: "Zwei plus zwei ist vier."
+
+- id: "estimate-noun"
+  lemma: "estimate"
+  pos: noun
+  level: B2
+  ipa: "/ˈes.tɪ.mət/"
+  example: "Can you give me an estimate?"
+  translations:
+    de: ["die Schätzung", "der Kostenvoranschlag"]
+  example_translations:
+    de: "Können Sie mir einen Kostenvoranschlag machen?"
+
+- id: "estimate-verb"
+  lemma: "estimate"
+  pos: verb
+  level: B2
+  ipa: "/ˈes.tɪ.meɪt/"
+  example: "We estimate that 100 people will come."
+  translations:
+    de: ["schätzen"]
+  example_translations:
+    de: "Wir schätzen, dass 100 Leute kommen."
+
+- id: "fifteen"
+  lemma: "fifteen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌfɪfˈtiːn/"
+  example: "The film starts in fifteen minutes."
+  translations:
+    de: ["fünfzehn"]
+  example_translations:
+    de: "Der Film beginnt in fünfzehn Minuten."
+
+- id: "fifth"
+  lemma: "fifth"
+  pos: numeral
+  level: A1
+  ipa: "/fɪfθ/"
+  example: "We live on the fifth floor."
+  translations:
+    de: ["fünfte"]
+  example_translations:
+    de: "Wir wohnen im fünften Stock."
+
+- id: "fifty"
+  lemma: "fifty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈfɪf.ti/"
+  example: "My father is fifty."
+  translations:
+    de: ["fünfzig"]
+  example_translations:
+    de: "Mein Vater ist fünfzig."
+
+- id: "figure-noun"
+  lemma: "figure"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɪɡ.ər/"
+  example: "Look at the figures in the table."
+  translations:
+    de: ["die Zahl", "die Figur", "die Gestalt"]
+  example_translations:
+    de: "Schau dir die Zahlen in der Tabelle an."
+
+- id: "first"
+  lemma: "first"
+  pos: numeral
+  level: A2
+  ipa: "/ˈfɜːst/"
+  example: "This is my first time in London."
+  translations:
+    de: ["erste", "erster", "erstes"]
+  example_translations:
+    de: "Das ist mein erstes Mal in London."
+
+- id: "five"
+  lemma: "five"
+  pos: numeral
+  level: A1
+  ipa: "/faɪv/"
+  example: "I have five cousins."
+  translations:
+    de: ["fünf"]
+  example_translations:
+    de: "Ich habe fünf Cousins."
+
+- id: "forty"
+  lemma: "forty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈfɔː.ti/"
+  example: "She is forty years old."
+  translations:
+    de: ["vierzig"]
+  example_translations:
+    de: "Sie ist vierzig Jahre alt."
+
+- id: "four"
+  lemma: "four"
+  pos: numeral
+  level: A1
+  ipa: "/fɔːr/"
+  example: "A car has four wheels."
+  translations:
+    de: ["vier"]
+  example_translations:
+    de: "Ein Auto hat vier Räder."
+
+- id: "fourteen"
+  lemma: "fourteen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌfɔːˈtiːn/"
+  example: "My sister is fourteen."
+  translations:
+    de: ["vierzehn"]
+  example_translations:
+    de: "Meine Schwester ist vierzehn."
+
+- id: "fourth"
+  lemma: "fourth"
+  pos: numeral
+  level: A1
+  ipa: "/fɔːθ/"
+  example: "It's on the fourth floor."
+  translations:
+    de: ["vierte"]
+  example_translations:
+    de: "Es ist im vierten Stock."
+
+- id: "frequency"
+  lemma: "frequency"
+  pos: noun
+  level: B2
+  ipa: "/ˈfriː.kwən.si/"
+  example: "The frequency of accidents has fallen."
+  translations:
+    de: ["die Häufigkeit", "die Frequenz"]
+  example_translations:
+    de: "Die Häufigkeit von Unfällen ist gesunken."
+
+- id: "half"
+  lemma: "half"
+  pos: noun
+  level: A2
+  ipa: "/hɑːf/"
+  example: "Half of the cake is gone."
+  translations:
+    de: ["die Hälfte", "halb"]
+  example_translations:
+    de: "Die Hälfte des Kuchens ist weg."
+
+- id: "height"
+  lemma: "height"
+  pos: noun
+  level: A2
+  ipa: "/haɪt/"
+  example: "What is your height?"
+  translations:
+    de: ["die Höhe", "die Größe"]
+  example_translations:
+    de: "Wie groß bist du?"
+
+- id: "hundred"
+  lemma: "hundred"
+  pos: numeral
+  level: A1
+  ipa: "/ˈhʌn.drəd/"
+  example: "The book has a hundred pages."
+  translations:
+    de: ["hundert"]
+  example_translations:
+    de: "Das Buch hat hundert Seiten."
+
+- id: "inch"
+  lemma: "inch"
+  pos: noun
+  level: B2
+  ipa: "/ɪntʃ/"
+  example: "The screen is 15 inches wide."
+  translations:
+    de: ["der Zoll (2,54 cm)"]
+  example_translations:
+    de: "Der Bildschirm ist 15 Zoll breit."
+
+- id: "increase-noun"
+  lemma: "increase"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.kriːs/"
+  example: "There was an increase in prices."
+  translations:
+    de: ["der Anstieg", "die Zunahme", "die Erhöhung"]
+  example_translations:
+    de: "Die Preise sind gestiegen."
+
+- id: "increase-verb"
+  lemma: "increase"
+  pos: verb
+  level: A2
+  ipa: "/ɪnˈkriːs/"
+  example: "The population has increased."
+  translations:
+    de: ["steigen", "erhöhen", "zunehmen"]
+  example_translations:
+    de: "Die Bevölkerung ist gewachsen."
+
+- id: "kilometre"
+  lemma: "kilometre"
+  pos: noun
+  level: A1
+  ipa: "/kɪˈlɒm.ɪ.tər/"
+  example: "I run five kilometres every day."
+  translations:
+    de: ["der Kilometer"]
+  example_translations:
+    de: "Ich laufe jeden Tag fünf Kilometer."
+
+- id: "length"
+  lemma: "length"
+  pos: noun
+  level: B1
+  ipa: "/leŋθ/"
+  example: "What is the length of the room?"
+  translations:
+    de: ["die Länge"]
+  example_translations:
+    de: "Wie lang ist das Zimmer?"
+
+- id: "maximum-adjective"
+  lemma: "maximum"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmæk.sɪ.məm/"
+  example: "The maximum speed is 120 km/h."
+  translations:
+    de: ["maximal", "Höchst-"]
+  example_translations:
+    de: "Die Höchstgeschwindigkeit ist 120 km/h."
+
+- id: "maximum-noun"
+  lemma: "maximum"
+  pos: noun
+  level: B2
+  ipa: "/ˈmæk.sɪ.məm/"
+  example: "The room holds a maximum of 50 people."
+  translations:
+    de: ["das Maximum"]
+  example_translations:
+    de: "Der Raum fasst maximal 50 Personen."
+
+- id: "measure-verb"
+  lemma: "measure"
+  pos: verb
+  level: B1
+  ipa: "/ˈmeʒ.ər/"
+  example: "Measure the room."
+  translations:
+    de: ["messen", "abmessen"]
+  example_translations:
+    de: "Miss das Zimmer aus."
+
+- id: "measurement"
+  lemma: "measurement"
+  pos: noun
+  level: B2
+  ipa: "/ˈmeʒ.ə.mənt/"
+  example: "Take the measurements of the window."
+  translations:
+    de: ["die Messung", "das Maß"]
+  example_translations:
+    de: "Nimm die Maße des Fensters."
+
+- id: "metre"
+  lemma: "metre"
+  pos: noun
+  level: A1
+  ipa: "/ˈmiː.tər/"
+  example: "The pool is 25 metres long."
+  translations:
+    de: ["der Meter"]
+  example_translations:
+    de: "Das Becken ist 25 Meter lang."
+
+- id: "mile"
+  lemma: "mile"
+  pos: noun
+  level: A1
+  ipa: "/maɪl/"
+  example: "We walked three miles."
+  translations:
+    de: ["die Meile"]
+  example_translations:
+    de: "Wir sind drei Meilen gelaufen."
+
+- id: "million"
+  lemma: "million"
+  pos: numeral
+  level: A1
+  ipa: "/ˈmɪl.jən/"
+  example: "The city has two million people."
+  translations:
+    de: ["die Million"]
+  example_translations:
+    de: "Die Stadt hat zwei Millionen Einwohner."
+
+- id: "minimum-adjective"
+  lemma: "minimum"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmɪn.ɪ.məm/"
+  example: "What is the minimum age?"
+  translations:
+    de: ["minimal", "Mindest-"]
+  example_translations:
+    de: "Was ist das Mindestalter?"
+
+- id: "minimum-noun"
+  lemma: "minimum"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɪn.ɪ.məm/"
+  example: "Keep costs to a minimum."
+  translations:
+    de: ["das Minimum"]
+  example_translations:
+    de: "Halte die Kosten so gering wie möglich."
+
+- id: "multiple"
+  lemma: "multiple"
+  pos: adjective
+  level: B2
+  ipa: "/ˈmʌl.tɪ.pəl/"
+  example: "This is a multiple choice test."
+  translations:
+    de: ["mehrfach", "vielfältig"]
+  example_translations:
+    de: "Das ist ein Multiple-Choice-Test."
+
+- id: "multiply"
+  lemma: "multiply"
+  pos: verb
+  level: B2
+  ipa: "/ˈmʌl.tɪ.plaɪ/"
+  example: "Multiply three by four."
+  translations:
+    de: ["multiplizieren", "sich vermehren"]
+  example_translations:
+    de: "Multipliziere drei mit vier."
+
+- id: "nine"
+  lemma: "nine"
+  pos: numeral
+  level: A1
+  ipa: "/naɪn/"
+  example: "The shop opens at nine."
+  translations:
+    de: ["neun"]
+  example_translations:
+    de: "Der Laden öffnet um neun."
+
+- id: "nineteen"
+  lemma: "nineteen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌnaɪnˈtiːn/"
+  example: "He is nineteen."
+  translations:
+    de: ["neunzehn"]
+  example_translations:
+    de: "Er ist neunzehn."
+
+- id: "ninety"
+  lemma: "ninety"
+  pos: numeral
+  level: A1
+  ipa: "/ˈnaɪn.ti/"
+  example: "My grandmother is ninety."
+  translations:
+    de: ["neunzig"]
+  example_translations:
+    de: "Meine Großmutter ist neunzig."
+
+- id: "number-noun"
+  lemma: "number"
+  pos: noun
+  level: A1
+  ipa: "/ˈnʌm.bər/"
+  example: "What's your phone number?"
+  translations:
+    de: ["die Nummer", "die Zahl", "die Anzahl"]
+  example_translations:
+    de: "Wie ist deine Telefonnummer?"
+
+- id: "number-verb"
+  lemma: "number"
+  pos: verb
+  level: A2
+  ipa: "/ˈnʌm.bər/"
+  example: "Number the pages, please."
+  translations:
+    de: ["nummerieren"]
+  example_translations:
+    de: "Nummeriere bitte die Seiten."
+
+- id: "numerous"
+  lemma: "numerous"
+  pos: adjective
+  level: B2
+  ipa: "/ˈnjuː.mər.əs/"
+  example: "I have told you numerous times."
+  translations:
+    de: ["zahlreich"]
+  example_translations:
+    de: "Ich habe es dir schon zahllose Male gesagt."
+
+- id: "one"
+  lemma: "one"
+  pos: numeral
+  level: A1
+  ipa: "/wʌn/"
+  example: "I have one sister."
+  translations:
+    de: ["eins", "ein"]
+  example_translations:
+    de: "Ich habe eine Schwester."
+
+- id: "pair"
+  lemma: "pair"
+  pos: noun
+  level: A1
+  ipa: "/peər/"
+  example: "I need a new pair of shoes."
+  translations:
+    de: ["das Paar"]
+  example_translations:
+    de: "Ich brauche ein neues Paar Schuhe."
+
+- id: "per-cent"
+  lemma: "per cent"
+  pos: noun
+  level: A2
+  ipa: "/pə ˈsent/"
+  example: "Fifty per cent of the students are girls."
+  translations:
+    de: ["das Prozent"]
+  example_translations:
+    de: "Fünfzig Prozent der Schüler sind Mädchen."
+
+- id: "percentage"
+  lemma: "percentage"
+  pos: noun
+  level: B1
+  ipa: "/pəˈsen.tɪdʒ/"
+  example: "What percentage of people agree?"
+  translations:
+    de: ["der Prozentsatz", "der Anteil"]
+  example_translations:
+    de: "Wie viel Prozent der Menschen stimmen zu?"
+
+- id: "piece"
+  lemma: "piece"
+  pos: noun
+  level: A1
+  ipa: "/piːs/"
+  example: "Can I have a piece of cake?"
+  translations:
+    de: ["das Stück", "das Teil"]
+  example_translations:
+    de: "Kann ich ein Stück Kuchen haben?"
+
+- id: "plus"
+  lemma: "plus"
+  pos: preposition
+  level: B1
+  ipa: "/plʌs/"
+  example: "Two plus two is four."
+  translations:
+    de: ["plus", "und"]
+  example_translations:
+    de: "Zwei plus zwei ist vier."
+
+- id: "project-verb"
+  lemma: "project"
+  pos: verb
+  level: B2
+  ipa: "/prəˈdʒekt/"
+  example: "Sales are projected to rise."
+  translations:
+    de: ["hochrechnen", "projizieren"]
+  example_translations:
+    de: "Die Verkaufszahlen sollen laut Prognose steigen."
+
+- id: "quantity"
+  lemma: "quantity"
+  pos: noun
+  level: A2
+  ipa: "/ˈkwɒn.tə.ti/"
+  example: "We bought a large quantity of food."
+  translations:
+    de: ["die Menge", "die Anzahl"]
+  example_translations:
+    de: "Wir haben eine große Menge Essen gekauft."
+
+- id: "range-verb"
+  lemma: "range"
+  pos: verb
+  level: B2
+  ipa: "/reɪndʒ/"
+  example: "Prices range from 10 to 50 euros."
+  translations:
+    de: ["reichen", "sich bewegen zwischen"]
+  example_translations:
+    de: "Die Preise liegen zwischen 10 und 50 Euro."
+
+- id: "rate-noun"
+  lemma: "rate"
+  pos: noun
+  level: A2
+  ipa: "/reɪt/"
+  example: "What is the exchange rate?"
+  translations:
+    de: ["die Rate", "der Satz", "der Kurs"]
+  example_translations:
+    de: "Wie ist der Wechselkurs?"
+
+- id: "reduce"
+  lemma: "reduce"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈdʒuːs/"
+  example: "We must reduce costs."
+  translations:
+    de: ["reduzieren", "verringern", "senken"]
+  example_translations:
+    de: "Wir müssen die Kosten senken."
+
+- id: "reduction"
+  lemma: "reduction"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈdʌk.ʃən/"
+  example: "There is a price reduction on all shoes."
+  translations:
+    de: ["die Reduzierung", "die Senkung", "der Rabatt"]
+  example_translations:
+    de: "Alle Schuhe sind reduziert."
+
+- id: "rise-noun"
+  lemma: "rise"
+  pos: noun
+  level: B1
+  ipa: "/raɪz/"
+  example: "There was a rise in temperature."
+  translations:
+    de: ["der Anstieg", "die Erhöhung"]
+  example_translations:
+    de: "Die Temperatur ist gestiegen."
+
+- id: "rise-verb"
+  lemma: "rise"
+  pos: verb
+  level: A2
+  ipa: "/raɪz/"
+  example: "Prices are rising."
+  translations:
+    de: ["steigen", "aufgehen"]
+  example_translations:
+    de: "Die Preise steigen."
+
+- id: "scale"
+  lemma: "scale"
+  pos: noun
+  level: B2
+  ipa: "/skeɪl/"
+  example: "On a scale of 1 to 10, how happy are you?"
+  translations:
+    de: ["die Skala", "der Maßstab", "das Ausmaß"]
+  example_translations:
+    de: "Wie glücklich bist du auf einer Skala von 1 bis 10?"
+
+- id: "second-numeral"
+  lemma: "second"
+  pos: numeral
+  level: A1
+  ipa: "/ˈsek.ənd/"
+  example: "This is my second visit."
+  translations:
+    de: ["zweite"]
+  example_translations:
+    de: "Das ist mein zweiter Besuch."
+
+- id: "seven"
+  lemma: "seven"
+  pos: numeral
+  level: A1
+  ipa: "/ˈsev.ən/"
+  example: "There are seven days in a week."
+  translations:
+    de: ["sieben"]
+  example_translations:
+    de: "Eine Woche hat sieben Tage."
+
+- id: "seventeen"
+  lemma: "seventeen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌsev.ənˈtiːn/"
+  example: "She is seventeen."
+  translations:
+    de: ["siebzehn"]
+  example_translations:
+    de: "Sie ist siebzehn."
+
+- id: "seventy"
+  lemma: "seventy"
+  pos: numeral
+  level: A1
+  ipa: "/ˈsev.ən.ti/"
+  example: "My grandfather is seventy."
+  translations:
+    de: ["siebzig"]
+  example_translations:
+    de: "Mein Großvater ist siebzig."
+
+- id: "six"
+  lemma: "six"
+  pos: numeral
+  level: A1
+  ipa: "/sɪks/"
+  example: "I get up at six."
+  translations:
+    de: ["sechs"]
+  example_translations:
+    de: "Ich stehe um sechs auf."
+
+- id: "sixteen"
+  lemma: "sixteen"
+  pos: numeral
+  level: A1
+  ipa: "/ˌsɪkˈstiːn/"
+  example: "He is sixteen years old."
+  translations:
+    de: ["sechzehn"]
+  example_translations:
+    de: "Er ist sechzehn Jahre alt."
+
+- id: "sixty"
+  lemma: "sixty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈsɪk.sti/"
+  example: "There are sixty minutes in an hour."
+  translations:
+    de: ["sechzig"]
+  example_translations:
+    de: "Eine Stunde hat sechzig Minuten."
+
+- id: "statistic"
+  lemma: "statistic"
+  pos: noun
+  level: B1
+  ipa: "/stəˈtɪs.tɪk/"
+  example: "The statistics show a rise in crime."
+  translations:
+    de: ["die Statistik"]
+  example_translations:
+    de: "Die Statistiken zeigen einen Anstieg der Kriminalität."
+
+- id: "sum-noun"
+  lemma: "sum"
+  pos: noun
+  level: B2
+  ipa: "/sʌm/"
+  example: "It's a large sum of money."
+  translations:
+    de: ["die Summe", "der Betrag"]
+  example_translations:
+    de: "Das ist eine große Geldsumme."
+
+- id: "ten"
+  lemma: "ten"
+  pos: numeral
+  level: A1
+  ipa: "/ten/"
+  example: "The shop opens at ten."
+  translations:
+    de: ["zehn"]
+  example_translations:
+    de: "Der Laden öffnet um zehn."
+
+- id: "third-noun"
+  lemma: "third"
+  pos: noun
+  level: A2
+  ipa: "/θɜːd/"
+  example: "A third of the students are from abroad."
+  translations:
+    de: ["das Drittel"]
+  example_translations:
+    de: "Ein Drittel der Studenten kommt aus dem Ausland."
+
+- id: "third-numeral"
+  lemma: "third"
+  pos: numeral
+  level: A1
+  ipa: "/θɜːd/"
+  example: "This is my third time in Paris."
+  translations:
+    de: ["dritte"]
+  example_translations:
+    de: "Ich bin zum dritten Mal in Paris."
+
+- id: "thirteen"
+  lemma: "thirteen"
+  pos: numeral
+  level: A1
+  ipa: "/θɜːˈtiːn/"
+  example: "She is thirteen years old."
+  translations:
+    de: ["dreizehn"]
+  example_translations:
+    de: "Sie ist dreizehn Jahre alt."
+
+- id: "thirty"
+  lemma: "thirty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈθɜː.ti/"
+  example: "The lesson lasts thirty minutes."
+  translations:
+    de: ["dreißig"]
+  example_translations:
+    de: "Die Stunde dauert dreißig Minuten."
+
+- id: "thousand"
+  lemma: "thousand"
+  pos: numeral
+  level: A2
+  ipa: "/ˈθaʊ.zənd/"
+  example: "The city has fifty thousand people."
+  translations:
+    de: ["tausend"]
+  example_translations:
+    de: "Die Stadt hat fünfzigtausend Einwohner."
+
+- id: "three"
+  lemma: "three"
+  pos: numeral
+  level: A1
+  ipa: "/θriː/"
+  example: "We have three cats."
+  translations:
+    de: ["drei"]
+  example_translations:
+    de: "Wir haben drei Katzen."
+
+- id: "total-adjective"
+  lemma: "total"
+  pos: adjective
+  level: B1
+  ipa: "/ˈtəʊ.təl/"
+  example: "The total cost is 500 euros."
+  translations:
+    de: ["gesamt", "völlig"]
+  example_translations:
+    de: "Die Gesamtkosten betragen 500 Euro."
+
+- id: "total-noun"
+  lemma: "total"
+  pos: noun
+  level: B1
+  ipa: "/ˈtəʊ.təl/"
+  example: "That makes a total of 50 euros."
+  translations:
+    de: ["die Gesamtsumme"]
+  example_translations:
+    de: "Das macht insgesamt 50 Euro."
+
+- id: "twelve"
+  lemma: "twelve"
+  pos: numeral
+  level: A1
+  ipa: "/twelv/"
+  example: "There are twelve months in a year."
+  translations:
+    de: ["zwölf"]
+  example_translations:
+    de: "Ein Jahr hat zwölf Monate."
+
+- id: "twenty"
+  lemma: "twenty"
+  pos: numeral
+  level: A1
+  ipa: "/ˈtwen.ti/"
+  example: "I'm twenty years old."
+  translations:
+    de: ["zwanzig"]
+  example_translations:
+    de: "Ich bin zwanzig Jahre alt."
+
+- id: "twice"
+  lemma: "twice"
+  pos: adverb
+  level: A1
+  ipa: "/twaɪs/"
+  example: "I go swimming twice a week."
+  translations:
+    de: ["zweimal", "doppelt"]
+  example_translations:
+    de: "Ich gehe zweimal pro Woche schwimmen."
+
+- id: "two"
+  lemma: "two"
+  pos: numeral
+  level: A1
+  ipa: "/tuː/"
+  example: "Two coffees, please."
+  translations:
+    de: ["zwei"]
+  example_translations:
+    de: "Zwei Kaffee, bitte."
+
+- id: "weigh"
+  lemma: "weigh"
+  pos: verb
+  level: B1
+  ipa: "/weɪ/"
+  example: "How much do you weigh?"
+  translations:
+    de: ["wiegen"]
+  example_translations:
+    de: "Wie viel wiegst du?"
+
+- id: "zero"
+  lemma: "zero"
+  pos: numeral
+  level: A2
+  ipa: "/ˈzɪə.rəʊ/"
+  example: "It's zero degrees outside."
+  translations:
+    de: ["null"]
+  example_translations:
+    de: "Draußen sind es null Grad."

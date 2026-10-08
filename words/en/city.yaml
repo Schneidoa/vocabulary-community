@@ -1,0 +1,365 @@
+# 🏙️ Stadt & Orte – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "area"
+  lemma: "area"
+  pos: noun
+  level: A1
+  ipa: "/ˈeə.ri.ə/"
+  example: "We live in a quiet area."
+  translations:
+    de: ["die Gegend", "der Bereich", "die Fläche"]
+  example_translations:
+    de: "Wir wohnen in einer ruhigen Gegend."
+
+- id: "bank"
+  lemma: "bank"
+  pos: noun
+  level: A1
+  ipa: "/bæŋk/"
+  example: "The bank opens at nine."
+  translations:
+    de: ["die Bank"]
+  example_translations:
+    de: "Die Bank öffnet um neun."
+
+- id: "block-noun"
+  lemma: "block"
+  pos: noun
+  level: B1
+  ipa: "/blɒk/"
+  example: "She lives in a block of flats."
+  translations:
+    de: ["der Block", "das Häuserblock"]
+  example_translations:
+    de: "Sie wohnt in einem Wohnblock."
+
+- id: "bridge"
+  lemma: "bridge"
+  pos: noun
+  level: A2
+  ipa: "/brɪdʒ/"
+  example: "Walk across the bridge."
+  translations:
+    de: ["die Brücke"]
+  example_translations:
+    de: "Geh über die Brücke."
+
+- id: "building"
+  lemma: "building"
+  pos: noun
+  level: A1
+  ipa: "/ˈbɪl.dɪŋ/"
+  example: "The building has ten floors."
+  translations:
+    de: ["das Gebäude"]
+  example_translations:
+    de: "Das Gebäude hat zehn Stockwerke."
+
+- id: "cafe"
+  lemma: "cafe"
+  pos: noun
+  level: A1
+  ipa: "/ˈkæf.eɪ/"
+  example: "Let's meet in the cafe."
+  translations:
+    de: ["das Café"]
+  example_translations:
+    de: "Treffen wir uns im Café."
+
+- id: "central"
+  lemma: "central"
+  pos: adjective
+  level: B1
+  ipa: "/ˈsen.trəl/"
+  example: "The hotel is in a central location."
+  translations:
+    de: ["zentral"]
+  example_translations:
+    de: "Das Hotel liegt zentral."
+
+- id: "centre-noun"
+  lemma: "centre"
+  pos: noun
+  level: A1
+  ipa: "/ˈsen.tər/"
+  example: "We live in the city centre."
+  translations:
+    de: ["das Zentrum", "die Mitte"]
+  example_translations:
+    de: "Wir wohnen im Stadtzentrum."
+
+- id: "church"
+  lemma: "church"
+  pos: noun
+  level: A2
+  ipa: "/tʃɜːtʃ/"
+  example: "The church is very old."
+  translations:
+    de: ["die Kirche"]
+  example_translations:
+    de: "Die Kirche ist sehr alt."
+
+- id: "cinema"
+  lemma: "cinema"
+  pos: noun
+  level: A1
+  ipa: "/ˈsɪn.ə.mə/"
+  example: "Let's go to the cinema tonight."
+  translations:
+    de: ["das Kino"]
+  example_translations:
+    de: "Lass uns heute Abend ins Kino gehen."
+
+- id: "city"
+  lemma: "city"
+  pos: noun
+  level: A1
+  ipa: "/ˈsɪt.i/"
+  example: "London is a big city."
+  translations:
+    de: ["die Stadt"]
+  example_translations:
+    de: "London ist eine große Stadt."
+
+- id: "complex-noun"
+  lemma: "complex"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒm.pleks/"
+  example: "There is a new sports complex in town."
+  translations:
+    de: ["der Komplex", "die Anlage"]
+  example_translations:
+    de: "In der Stadt gibt es eine neue Sportanlage."
+
+- id: "corner"
+  lemma: "corner"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɔː.nər/"
+  example: "The café is on the corner."
+  translations:
+    de: ["die Ecke"]
+  example_translations:
+    de: "Das Café ist an der Ecke."
+
+- id: "district"
+  lemma: "district"
+  pos: noun
+  level: B2
+  ipa: "/ˈdɪs.trɪkt/"
+  example: "We live in a quiet district."
+  translations:
+    de: ["der Bezirk", "das Viertel"]
+  example_translations:
+    de: "Wir wohnen in einem ruhigen Viertel."
+
+- id: "entrance"
+  lemma: "entrance"
+  pos: noun
+  level: B1
+  ipa: "/ˈen.trəns/"
+  example: "Meet me at the main entrance."
+  translations:
+    de: ["der Eingang", "die Einfahrt"]
+  example_translations:
+    de: "Triff mich am Haupteingang."
+
+- id: "facility"
+  lemma: "facility"
+  pos: noun
+  level: B2
+  ipa: "/fəˈsɪl.ə.ti/"
+  example: "The hotel has great sports facilities."
+  translations:
+    de: ["die Einrichtung", "die Anlage"]
+  example_translations:
+    de: "Das Hotel hat tolle Sportanlagen."
+
+- id: "hospital"
+  lemma: "hospital"
+  pos: noun
+  level: A1
+  ipa: "/ˈhɒs.pɪ.təl/"
+  example: "She works in a hospital."
+  translations:
+    de: ["das Krankenhaus"]
+  example_translations:
+    de: "Sie arbeitet in einem Krankenhaus."
+
+- id: "library"
+  lemma: "library"
+  pos: noun
+  level: A2
+  ipa: "/ˈlaɪ.brər.i/"
+  example: "I borrowed this book from the library."
+  translations:
+    de: ["die Bibliothek", "die Bücherei"]
+  example_translations:
+    de: "Ich habe dieses Buch aus der Bibliothek ausgeliehen."
+
+- id: "local-adjective"
+  lemma: "local"
+  pos: adjective
+  level: A1
+  ipa: "/ˈləʊ.kəl/"
+  example: "We buy vegetables at the local market."
+  translations:
+    de: ["örtlich", "lokal", "hiesig"]
+  example_translations:
+    de: "Wir kaufen Gemüse auf dem örtlichen Markt."
+
+- id: "market"
+  lemma: "market"
+  pos: noun
+  level: A2
+  ipa: "/ˈmɑː.kɪt/"
+  example: "We buy vegetables at the market."
+  translations:
+    de: ["der Markt"]
+  example_translations:
+    de: "Wir kaufen Gemüse auf dem Markt."
+
+- id: "museum"
+  lemma: "museum"
+  pos: noun
+  level: A2
+  ipa: "/mjuːˈziː.əm/"
+  example: "The museum is closed on Mondays."
+  translations:
+    de: ["das Museum"]
+  example_translations:
+    de: "Das Museum ist montags geschlossen."
+
+- id: "neighbourhood"
+  lemma: "neighbourhood"
+  pos: noun
+  level: B1
+  ipa: "/ˈneɪ.bə.hʊd/"
+  example: "We live in a nice neighbourhood."
+  translations:
+    de: ["die Nachbarschaft", "das Viertel"]
+  example_translations:
+    de: "Wir wohnen in einer schönen Gegend."
+
+- id: "park"
+  lemma: "park"
+  pos: noun
+  level: A1
+  ipa: "/pɑːk/"
+  example: "We walk in the park."
+  translations:
+    de: ["der Park"]
+  example_translations:
+    de: "Wir gehen im Park spazieren."
+
+- id: "place-noun"
+  lemma: "place"
+  pos: noun
+  level: A1
+  ipa: "/pleɪs/"
+  example: "This is a nice place."
+  translations:
+    de: ["der Ort", "der Platz", "die Stelle"]
+  example_translations:
+    de: "Das ist ein schöner Ort."
+
+- id: "post-office"
+  lemma: "post office"
+  pos: noun
+  level: A2
+  ipa: "/ˈpəʊst ˌɒf.ɪs/"
+  example: "Where is the post office?"
+  translations:
+    de: ["die Post", "das Postamt"]
+  example_translations:
+    de: "Wo ist die Post?"
+
+- id: "restaurant"
+  lemma: "restaurant"
+  pos: noun
+  level: A1
+  ipa: "/ˈres.tər.ɒnt/"
+  example: "Let's go to a restaurant."
+  translations:
+    de: ["das Restaurant"]
+  example_translations:
+    de: "Lass uns in ein Restaurant gehen."
+
+- id: "shop"
+  lemma: "shop"
+  pos: noun
+  level: A1
+  ipa: "/ʃɒp/"
+  example: "The shop is closed."
+  translations:
+    de: ["der Laden", "das Geschäft"]
+  example_translations:
+    de: "Der Laden ist geschlossen."
+
+- id: "sign-noun"
+  lemma: "sign"
+  pos: noun
+  level: A2
+  ipa: "/saɪn/"
+  example: "Read the sign."
+  translations:
+    de: ["das Schild", "das Zeichen"]
+  example_translations:
+    de: "Lies das Schild."
+
+- id: "square"
+  lemma: "square"
+  pos: noun
+  level: A2
+  ipa: "/skweər/"
+  example: "There is a market in the square."
+  translations:
+    de: ["der Platz"]
+  example_translations:
+    de: "Auf dem Platz ist ein Markt."
+
+- id: "tower"
+  lemma: "tower"
+  pos: noun
+  level: A2
+  ipa: "/taʊər/"
+  example: "We climbed the church tower."
+  translations:
+    de: ["der Turm"]
+  example_translations:
+    de: "Wir sind auf den Kirchturm gestiegen."
+
+- id: "town"
+  lemma: "town"
+  pos: noun
+  level: A1
+  ipa: "/taʊn/"
+  example: "I live in a small town."
+  translations:
+    de: ["die Stadt", "die Kleinstadt"]
+  example_translations:
+    de: "Ich wohne in einer kleinen Stadt."
+
+- id: "urban"
+  lemma: "urban"
+  pos: adjective
+  level: B2
+  ipa: "/ˈɜː.bən/"
+  example: "Most people live in urban areas."
+  translations:
+    de: ["städtisch", "Stadt-"]
+  example_translations:
+    de: "Die meisten Menschen leben in Städten."
+
+- id: "village"
+  lemma: "village"
+  pos: noun
+  level: A1
+  ipa: "/ˈvɪl.ɪdʒ/"
+  example: "My grandparents live in a small village."
+  translations:
+    de: ["das Dorf"]
+  example_translations:
+    de: "Meine Großeltern wohnen in einem kleinen Dorf."

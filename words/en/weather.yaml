@@ -1,0 +1,816 @@
+# 🌦️ Wetter & Natur – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "air"
+  lemma: "air"
+  pos: noun
+  level: A1
+  ipa: "/eər/"
+  example: "The air is fresh in the mountains."
+  translations:
+    de: ["die Luft"]
+  example_translations:
+    de: "Die Luft in den Bergen ist frisch."
+
+- id: "blow"
+  lemma: "blow"
+  pos: verb
+  level: A2
+  ipa: "/bləʊ/"
+  example: "The wind is blowing hard."
+  translations:
+    de: ["wehen", "blasen"]
+  example_translations:
+    de: "Der Wind weht stark."
+
+- id: "branch"
+  lemma: "branch"
+  pos: noun
+  level: B1
+  ipa: "/brɑːntʃ/"
+  example: "A bird sat on the branch."
+  translations:
+    de: ["der Ast", "die Filiale"]
+  example_translations:
+    de: "Ein Vogel saß auf dem Ast."
+
+- id: "bush"
+  lemma: "bush"
+  pos: noun
+  level: B2
+  ipa: "/bʊʃ/"
+  example: "The cat is hiding in the bush."
+  translations:
+    de: ["der Busch", "der Strauch"]
+  example_translations:
+    de: "Die Katze versteckt sich im Busch."
+
+- id: "climate"
+  lemma: "climate"
+  pos: noun
+  level: A2
+  ipa: "/ˈklaɪ.mət/"
+  example: "The climate here is mild."
+  translations:
+    de: ["das Klima"]
+  example_translations:
+    de: "Das Klima hier ist mild."
+
+- id: "cloud"
+  lemma: "cloud"
+  pos: noun
+  level: A2
+  ipa: "/klaʊd/"
+  example: "There are dark clouds in the sky."
+  translations:
+    de: ["die Wolke"]
+  example_translations:
+    de: "Am Himmel sind dunkle Wolken."
+
+- id: "cold"
+  lemma: "cold"
+  pos: adjective
+  level: A1
+  ipa: "/kəʊld/"
+  example: "It is cold today."
+  translations:
+    de: ["kalt"]
+  example_translations:
+    de: "Heute ist es kalt."
+
+- id: "countryside"
+  lemma: "countryside"
+  pos: noun
+  level: B1
+  ipa: "/ˈkʌn.tri.saɪd/"
+  example: "We live in the countryside."
+  translations:
+    de: ["die Landschaft", "das Land"]
+  example_translations:
+    de: "Wir wohnen auf dem Land."
+
+- id: "crop"
+  lemma: "crop"
+  pos: noun
+  level: B2
+  ipa: "/krɒp/"
+  example: "The farmers grow different crops."
+  translations:
+    de: ["die Ernte", "das Getreide", "die Feldfrucht"]
+  example_translations:
+    de: "Die Bauern bauen verschiedene Feldfrüchte an."
+
+- id: "current-noun"
+  lemma: "current"
+  pos: noun
+  level: B2
+  ipa: "/ˈkʌr.ənt/"
+  example: "The current in the river is strong."
+  translations:
+    de: ["die Strömung", "der Strom"]
+  example_translations:
+    de: "Die Strömung im Fluss ist stark."
+
+- id: "desert-noun"
+  lemma: "desert"
+  pos: noun
+  level: A2
+  ipa: "/ˈdez.ət/"
+  example: "The Sahara is a huge desert."
+  translations:
+    de: ["die Wüste"]
+  example_translations:
+    de: "Die Sahara ist eine riesige Wüste."
+
+- id: "earthquake"
+  lemma: "earthquake"
+  pos: noun
+  level: B1
+  ipa: "/ˈɜːθ.kweɪk/"
+  example: "There was an earthquake in Japan."
+  translations:
+    de: ["das Erdbeben"]
+  example_translations:
+    de: "In Japan gab es ein Erdbeben."
+
+- id: "environment"
+  lemma: "environment"
+  pos: noun
+  level: A2
+  ipa: "/ɪnˈvaɪ.rən.mənt/"
+  example: "We must protect the environment."
+  translations:
+    de: ["die Umwelt", "die Umgebung"]
+  example_translations:
+    de: "Wir müssen die Umwelt schützen."
+
+- id: "environmental"
+  lemma: "environmental"
+  pos: adjective
+  level: B1
+  ipa: "/ɪnˌvaɪ.rənˈmen.təl/"
+  example: "Pollution is an environmental problem."
+  translations:
+    de: ["Umwelt-", "ökologisch"]
+  example_translations:
+    de: "Verschmutzung ist ein Umweltproblem."
+
+- id: "field"
+  lemma: "field"
+  pos: noun
+  level: A2
+  ipa: "/fiːld/"
+  example: "The cows are in the field."
+  translations:
+    de: ["das Feld", "die Wiese", "das Fachgebiet"]
+  example_translations:
+    de: "Die Kühe sind auf der Weide."
+
+- id: "flood-noun"
+  lemma: "flood"
+  pos: noun
+  level: B1
+  ipa: "/flʌd/"
+  example: "The flood destroyed many houses."
+  translations:
+    de: ["die Überschwemmung", "das Hochwasser"]
+  example_translations:
+    de: "Das Hochwasser zerstörte viele Häuser."
+
+- id: "flood-verb"
+  lemma: "flood"
+  pos: verb
+  level: B1
+  ipa: "/flʌd/"
+  example: "The river flooded the town."
+  translations:
+    de: ["überschwemmen", "überfluten"]
+  example_translations:
+    de: "Der Fluss überschwemmte die Stadt."
+
+- id: "flow-verb"
+  lemma: "flow"
+  pos: verb
+  level: B1
+  ipa: "/fləʊ/"
+  example: "The river flows into the sea."
+  translations:
+    de: ["fließen", "strömen"]
+  example_translations:
+    de: "Der Fluss fließt ins Meer."
+
+- id: "flower"
+  lemma: "flower"
+  pos: noun
+  level: A1
+  ipa: "/ˈflaʊ.ər/"
+  example: "These flowers are for you."
+  translations:
+    de: ["die Blume"]
+  example_translations:
+    de: "Diese Blumen sind für dich."
+
+- id: "forest"
+  lemma: "forest"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɒr.ɪst/"
+  example: "We went for a walk in the forest."
+  translations:
+    de: ["der Wald"]
+  example_translations:
+    de: "Wir sind im Wald spazieren gegangen."
+
+- id: "freeze"
+  lemma: "freeze"
+  pos: verb
+  level: B1
+  ipa: "/friːz/"
+  example: "Water freezes at zero degrees."
+  translations:
+    de: ["frieren", "gefrieren", "einfrieren"]
+  example_translations:
+    de: "Wasser gefriert bei null Grad."
+
+- id: "grass"
+  lemma: "grass"
+  pos: noun
+  level: A2
+  ipa: "/ɡrɑːs/"
+  example: "The children are playing on the grass."
+  translations:
+    de: ["das Gras", "der Rasen"]
+  example_translations:
+    de: "Die Kinder spielen auf dem Rasen."
+
+- id: "ground"
+  lemma: "ground"
+  pos: noun
+  level: A2
+  ipa: "/ɡraʊnd/"
+  example: "Sit on the ground."
+  translations:
+    de: ["der Boden", "die Erde"]
+  example_translations:
+    de: "Setz dich auf den Boden."
+
+- id: "heat-noun"
+  lemma: "heat"
+  pos: noun
+  level: A2
+  ipa: "/hiːt/"
+  example: "I can't stand the heat."
+  translations:
+    de: ["die Hitze", "die Wärme"]
+  example_translations:
+    de: "Ich halte die Hitze nicht aus."
+
+- id: "hill"
+  lemma: "hill"
+  pos: noun
+  level: A2
+  ipa: "/hɪl/"
+  example: "The house is on a hill."
+  translations:
+    de: ["der Hügel"]
+  example_translations:
+    de: "Das Haus steht auf einem Hügel."
+
+- id: "hot"
+  lemma: "hot"
+  pos: adjective
+  level: A1
+  ipa: "/hɒt/"
+  example: "The soup is hot."
+  translations:
+    de: ["heiß"]
+  example_translations:
+    de: "Die Suppe ist heiß."
+
+- id: "hurricane"
+  lemma: "hurricane"
+  pos: noun
+  level: B1
+  ipa: "/ˈhʌr.ɪ.kən/"
+  example: "The hurricane destroyed many homes."
+  translations:
+    de: ["der Hurrikan", "der Orkan"]
+  example_translations:
+    de: "Der Hurrikan zerstörte viele Häuser."
+
+- id: "ice"
+  lemma: "ice"
+  pos: noun
+  level: A1
+  ipa: "/aɪs/"
+  example: "The lake is covered with ice."
+  translations:
+    de: ["das Eis"]
+  example_translations:
+    de: "Der See ist mit Eis bedeckt."
+
+- id: "lake"
+  lemma: "lake"
+  pos: noun
+  level: A2
+  ipa: "/leɪk/"
+  example: "We swam in the lake."
+  translations:
+    de: ["der See"]
+  example_translations:
+    de: "Wir sind im See geschwommen."
+
+- id: "land-noun"
+  lemma: "land"
+  pos: noun
+  level: A1
+  ipa: "/lænd/"
+  example: "They bought some land."
+  translations:
+    de: ["das Land", "der Boden"]
+  example_translations:
+    de: "Sie haben ein Stück Land gekauft."
+
+- id: "landscape"
+  lemma: "landscape"
+  pos: noun
+  level: B2
+  ipa: "/ˈlænd.skeɪp/"
+  example: "The landscape is beautiful."
+  translations:
+    de: ["die Landschaft"]
+  example_translations:
+    de: "Die Landschaft ist wunderschön."
+
+- id: "leaf"
+  lemma: "leaf"
+  pos: noun
+  level: B1
+  ipa: "/liːf/"
+  example: "The leaves are turning red."
+  translations:
+    de: ["das Blatt"]
+  example_translations:
+    de: "Die Blätter werden rot."
+
+- id: "melt"
+  lemma: "melt"
+  pos: verb
+  level: B2
+  ipa: "/melt/"
+  example: "The snow is melting."
+  translations:
+    de: ["schmelzen"]
+  example_translations:
+    de: "Der Schnee schmilzt."
+
+- id: "mild"
+  lemma: "mild"
+  pos: adjective
+  level: B1
+  ipa: "/maɪld/"
+  example: "The winter was very mild."
+  translations:
+    de: ["mild"]
+  example_translations:
+    de: "Der Winter war sehr mild."
+
+- id: "mountain"
+  lemma: "mountain"
+  pos: noun
+  level: A2
+  ipa: "/ˈmaʊn.tɪn/"
+  example: "We climbed a high mountain."
+  translations:
+    de: ["der Berg"]
+  example_translations:
+    de: "Wir haben einen hohen Berg bestiegen."
+
+- id: "mud"
+  lemma: "mud"
+  pos: noun
+  level: B1
+  ipa: "/mʌd/"
+  example: "My shoes are covered in mud."
+  translations:
+    de: ["der Schlamm", "der Matsch"]
+  example_translations:
+    de: "Meine Schuhe sind voller Schlamm."
+
+- id: "nature"
+  lemma: "nature"
+  pos: noun
+  level: A2
+  ipa: "/ˈneɪ.tʃər/"
+  example: "I love being in nature."
+  translations:
+    de: ["die Natur", "das Wesen"]
+  example_translations:
+    de: "Ich bin gern in der Natur."
+
+- id: "ocean"
+  lemma: "ocean"
+  pos: noun
+  level: A2
+  ipa: "/ˈəʊ.ʃən/"
+  example: "The Pacific is the largest ocean."
+  translations:
+    de: ["der Ozean", "das Meer"]
+  example_translations:
+    de: "Der Pazifik ist der größte Ozean."
+
+- id: "plant-noun"
+  lemma: "plant"
+  pos: noun
+  level: A1
+  ipa: "/plɑːnt/"
+  example: "Water the plants, please."
+  translations:
+    de: ["die Pflanze", "das Werk"]
+  example_translations:
+    de: "Gieß bitte die Pflanzen."
+
+- id: "plant-verb"
+  lemma: "plant"
+  pos: verb
+  level: A2
+  ipa: "/plɑːnt/"
+  example: "We planted a tree in the garden."
+  translations:
+    de: ["pflanzen"]
+  example_translations:
+    de: "Wir haben einen Baum im Garten gepflanzt."
+
+- id: "pollution"
+  lemma: "pollution"
+  pos: noun
+  level: A2
+  ipa: "/pəˈluː.ʃən/"
+  example: "Air pollution is a big problem."
+  translations:
+    de: ["die Verschmutzung", "die Umweltverschmutzung"]
+  example_translations:
+    de: "Luftverschmutzung ist ein großes Problem."
+
+- id: "rain"
+  lemma: "rain"
+  pos: noun
+  level: A1
+  ipa: "/reɪn/"
+  example: "I like the rain."
+  translations:
+    de: ["der Regen"]
+  example_translations:
+    de: "Ich mag den Regen."
+
+- id: "rain-verb"
+  lemma: "rain"
+  pos: verb
+  level: A1
+  ipa: "/reɪn/"
+  example: "It's raining."
+  translations:
+    de: ["regnen"]
+  example_translations:
+    de: "Es regnet."
+
+- id: "recycle"
+  lemma: "recycle"
+  pos: verb
+  level: A2
+  ipa: "/ˌriːˈsaɪ.kəl/"
+  example: "We recycle paper and glass."
+  translations:
+    de: ["recyceln", "wiederverwerten"]
+  example_translations:
+    de: "Wir recyceln Papier und Glas."
+
+- id: "river"
+  lemma: "river"
+  pos: noun
+  level: A2
+  ipa: "/ˈrɪv.ər/"
+  example: "The river is very wide here."
+  translations:
+    de: ["der Fluss"]
+  example_translations:
+    de: "Der Fluss ist hier sehr breit."
+
+- id: "rock"
+  lemma: "rock"
+  pos: noun
+  level: A2
+  ipa: "/rɒk/"
+  example: "We sat on a big rock."
+  translations:
+    de: ["der Fels", "der Stein", "der Rock (Musik)"]
+  example_translations:
+    de: "Wir saßen auf einem großen Felsen."
+
+- id: "root"
+  lemma: "root"
+  pos: noun
+  level: B2
+  ipa: "/ruːt/"
+  example: "The tree has deep roots."
+  translations:
+    de: ["die Wurzel"]
+  example_translations:
+    de: "Der Baum hat tiefe Wurzeln."
+
+- id: "rural"
+  lemma: "rural"
+  pos: adjective
+  level: B2
+  ipa: "/ˈrʊə.rəl/"
+  example: "They live in a rural area."
+  translations:
+    de: ["ländlich"]
+  example_translations:
+    de: "Sie wohnen in einer ländlichen Gegend."
+
+- id: "sea"
+  lemma: "sea"
+  pos: noun
+  level: A2
+  ipa: "/siː/"
+  example: "We swam in the sea."
+  translations:
+    de: ["das Meer", "die See"]
+  example_translations:
+    de: "Wir sind im Meer geschwommen."
+
+- id: "seed"
+  lemma: "seed"
+  pos: noun
+  level: B1
+  ipa: "/siːd/"
+  example: "Plant the seeds in spring."
+  translations:
+    de: ["der Samen", "das Saatgut"]
+  example_translations:
+    de: "Säe die Samen im Frühling aus."
+
+- id: "shade"
+  lemma: "shade"
+  pos: noun
+  level: B2
+  ipa: "/ʃeɪd/"
+  example: "Let's sit in the shade."
+  translations:
+    de: ["der Schatten", "der Farbton"]
+  example_translations:
+    de: "Setzen wir uns in den Schatten."
+
+- id: "shine"
+  lemma: "shine"
+  pos: verb
+  level: B1
+  ipa: "/ʃaɪn/"
+  example: "The sun is shining."
+  translations:
+    de: ["scheinen", "glänzen"]
+  example_translations:
+    de: "Die Sonne scheint."
+
+- id: "sky"
+  lemma: "sky"
+  pos: noun
+  level: A2
+  ipa: "/skaɪ/"
+  example: "The sky is clear tonight."
+  translations:
+    de: ["der Himmel"]
+  example_translations:
+    de: "Der Himmel ist heute Nacht klar."
+
+- id: "slope-noun"
+  lemma: "slope"
+  pos: noun
+  level: B2
+  ipa: "/sləʊp/"
+  example: "We skied down the slope."
+  translations:
+    de: ["der Hang", "die Piste", "die Steigung"]
+  example_translations:
+    de: "Wir fuhren den Hang hinunter."
+
+- id: "snow"
+  lemma: "snow"
+  pos: noun
+  level: A1
+  ipa: "/snəʊ/"
+  example: "The children love snow."
+  translations:
+    de: ["der Schnee"]
+  example_translations:
+    de: "Die Kinder lieben Schnee."
+
+- id: "snow-verb"
+  lemma: "snow"
+  pos: verb
+  level: A1
+  ipa: "/snəʊ/"
+  example: "It's snowing!"
+  translations:
+    de: ["schneien"]
+  example_translations:
+    de: "Es schneit!"
+
+- id: "soil"
+  lemma: "soil"
+  pos: noun
+  level: B1
+  ipa: "/sɔɪl/"
+  example: "The soil here is very good."
+  translations:
+    de: ["der Boden", "die Erde"]
+  example_translations:
+    de: "Der Boden ist hier sehr gut."
+
+- id: "stone"
+  lemma: "stone"
+  pos: noun
+  level: A2
+  ipa: "/stəʊn/"
+  example: "The house is made of stone."
+  translations:
+    de: ["der Stein"]
+  example_translations:
+    de: "Das Haus ist aus Stein."
+
+- id: "storm"
+  lemma: "storm"
+  pos: noun
+  level: A2
+  ipa: "/stɔːm/"
+  example: "There was a storm last night."
+  translations:
+    de: ["der Sturm", "das Gewitter"]
+  example_translations:
+    de: "Letzte Nacht gab es einen Sturm."
+
+- id: "stream"
+  lemma: "stream"
+  pos: noun
+  level: B2
+  ipa: "/striːm/"
+  example: "There's a small stream behind the house."
+  translations:
+    de: ["der Bach", "der Strom"]
+  example_translations:
+    de: "Hinter dem Haus fließt ein kleiner Bach."
+
+- id: "sun"
+  lemma: "sun"
+  pos: noun
+  level: A1
+  ipa: "/sʌn/"
+  example: "The sun is shining."
+  translations:
+    de: ["die Sonne"]
+  example_translations:
+    de: "Die Sonne scheint."
+
+- id: "sunny"
+  lemma: "sunny"
+  pos: adjective
+  level: A1
+  ipa: "/ˈsʌn.i/"
+  example: "It's a sunny day."
+  translations:
+    de: ["sonnig"]
+  example_translations:
+    de: "Es ist ein sonniger Tag."
+
+- id: "temperature"
+  lemma: "temperature"
+  pos: noun
+  level: A2
+  ipa: "/ˈtem.prə.tʃər/"
+  example: "The temperature is 25 degrees."
+  translations:
+    de: ["die Temperatur", "das Fieber"]
+  example_translations:
+    de: "Die Temperatur beträgt 25 Grad."
+
+- id: "tree"
+  lemma: "tree"
+  pos: noun
+  level: A1
+  ipa: "/triː/"
+  example: "There is a big tree in the park."
+  translations:
+    de: ["der Baum"]
+  example_translations:
+    de: "Im Park steht ein großer Baum."
+
+- id: "tropical"
+  lemma: "tropical"
+  pos: adjective
+  level: B2
+  ipa: "/ˈtrɒp.ɪ.kəl/"
+  example: "They live on a tropical island."
+  translations:
+    de: ["tropisch"]
+  example_translations:
+    de: "Sie leben auf einer tropischen Insel."
+
+- id: "umbrella"
+  lemma: "umbrella"
+  pos: noun
+  level: A2
+  ipa: "/ʌmˈbrel.ə/"
+  example: "Don't forget your umbrella."
+  translations:
+    de: ["der Regenschirm", "der Schirm"]
+  example_translations:
+    de: "Vergiss deinen Regenschirm nicht."
+
+- id: "valley"
+  lemma: "valley"
+  pos: noun
+  level: A2
+  ipa: "/ˈvæl.i/"
+  example: "The village is in a green valley."
+  translations:
+    de: ["das Tal"]
+  example_translations:
+    de: "Das Dorf liegt in einem grünen Tal."
+
+- id: "warm"
+  lemma: "warm"
+  pos: adjective
+  level: A2
+  ipa: "/wɔːm/"
+  example: "It's warm in the sun."
+  translations:
+    de: ["warm"]
+  example_translations:
+    de: "In der Sonne ist es warm."
+
+- id: "waste-noun"
+  lemma: "waste"
+  pos: noun
+  level: B1
+  ipa: "/weɪst/"
+  example: "It's a waste of time."
+  translations:
+    de: ["die Verschwendung", "der Abfall"]
+  example_translations:
+    de: "Das ist Zeitverschwendung."
+
+- id: "wave-noun"
+  lemma: "wave"
+  pos: noun
+  level: A2
+  ipa: "/weɪv/"
+  example: "The waves are very high today."
+  translations:
+    de: ["die Welle"]
+  example_translations:
+    de: "Die Wellen sind heute sehr hoch."
+
+- id: "weather"
+  lemma: "weather"
+  pos: noun
+  level: A1
+  ipa: "/ˈweð.ər/"
+  example: "What's the weather like today?"
+  translations:
+    de: ["das Wetter"]
+  example_translations:
+    de: "Wie ist das Wetter heute?"
+
+- id: "wet"
+  lemma: "wet"
+  pos: adjective
+  level: A2
+  ipa: "/wet/"
+  example: "My shoes are wet."
+  translations:
+    de: ["nass", "feucht"]
+  example_translations:
+    de: "Meine Schuhe sind nass."
+
+- id: "wind"
+  lemma: "wind"
+  pos: noun
+  level: A2
+  ipa: "/wɪnd/"
+  example: "The wind is very strong today."
+  translations:
+    de: ["der Wind"]
+  example_translations:
+    de: "Der Wind ist heute sehr stark."
+
+- id: "wood"
+  lemma: "wood"
+  pos: noun
+  level: A2
+  ipa: "/wʊd/"
+  example: "The table is made of wood."
+  translations:
+    de: ["das Holz", "der Wald"]
+  example_translations:
+    de: "Der Tisch ist aus Holz."

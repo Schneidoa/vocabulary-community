@@ -1,0 +1,2994 @@
+# 🧩 Allgemeine Begriffe – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "ability"
+  lemma: "ability"
+  pos: noun
+  level: A2
+  ipa: "/əˈbɪl.ə.ti/"
+  example: "She has the ability to learn fast."
+  translations:
+    de: ["die Fähigkeit"]
+  example_translations:
+    de: "Sie hat die Fähigkeit, schnell zu lernen."
+
+- id: "account-verb"
+  lemma: "account"
+  pos: verb
+  level: B2
+  ipa: "/əˈkaʊnt/"
+  example: "Tourism accounts for half of the income."
+  translations:
+    de: ["ausmachen", "erklären"]
+  example_translations:
+    de: "Der Tourismus macht die Hälfte des Einkommens aus."
+
+- id: "act-noun"
+  lemma: "act"
+  pos: noun
+  level: B1
+  ipa: "/ækt/"
+  example: "It was an act of kindness."
+  translations:
+    de: ["die Tat", "die Handlung", "der Akt"]
+  example_translations:
+    de: "Es war eine freundliche Tat."
+
+- id: "action"
+  lemma: "action"
+  pos: noun
+  level: A1
+  ipa: "/ˈæk.ʃən/"
+  example: "We need action, not words."
+  translations:
+    de: ["die Handlung", "die Aktion"]
+  example_translations:
+    de: "Wir brauchen Taten, keine Worte."
+
+- id: "advance-noun"
+  lemma: "advance"
+  pos: noun
+  level: B2
+  ipa: "/ədˈvɑːns/"
+  example: "There have been great advances in medicine."
+  translations:
+    de: ["der Fortschritt", "der Vorschuss"]
+  example_translations:
+    de: "In der Medizin gab es große Fortschritte."
+
+- id: "advantage"
+  lemma: "advantage"
+  pos: noun
+  level: A2
+  ipa: "/ədˈvɑːn.tɪdʒ/"
+  example: "Living in the city has many advantages."
+  translations:
+    de: ["der Vorteil"]
+  example_translations:
+    de: "Das Leben in der Stadt hat viele Vorteile."
+
+- id: "aim-noun"
+  lemma: "aim"
+  pos: noun
+  level: B1
+  ipa: "/eɪm/"
+  example: "Our aim is to help people."
+  translations:
+    de: ["das Ziel"]
+  example_translations:
+    de: "Unser Ziel ist es, Menschen zu helfen."
+
+- id: "alternative-noun"
+  lemma: "alternative"
+  pos: noun
+  level: A2
+  ipa: "/ɒlˈtɜː.nə.tɪv/"
+  example: "Is there an alternative?"
+  translations:
+    de: ["die Alternative"]
+  example_translations:
+    de: "Gibt es eine Alternative?"
+
+- id: "approach-noun"
+  lemma: "approach"
+  pos: noun
+  level: B2
+  ipa: "/əˈprəʊtʃ/"
+  example: "We need a new approach."
+  translations:
+    de: ["der Ansatz", "die Herangehensweise"]
+  example_translations:
+    de: "Wir brauchen einen neuen Ansatz."
+
+- id: "arise"
+  lemma: "arise"
+  pos: verb
+  level: B2
+  ipa: "/əˈraɪz/"
+  example: "Problems may arise later."
+  translations:
+    de: ["entstehen", "auftreten"]
+  example_translations:
+    de: "Später können Probleme auftreten."
+
+- id: "arrangement"
+  lemma: "arrangement"
+  pos: noun
+  level: A2
+  ipa: "/əˈreɪndʒ.mənt/"
+  example: "We made arrangements for the party."
+  translations:
+    de: ["die Vereinbarung", "die Vorbereitung"]
+  example_translations:
+    de: "Wir haben Vorbereitungen für die Feier getroffen."
+
+- id: "aspect"
+  lemma: "aspect"
+  pos: noun
+  level: B2
+  ipa: "/ˈæs.pekt/"
+  example: "We discussed every aspect of the plan."
+  translations:
+    de: ["der Aspekt", "die Seite"]
+  example_translations:
+    de: "Wir haben jeden Aspekt des Plans besprochen."
+
+- id: "atmosphere"
+  lemma: "atmosphere"
+  pos: noun
+  level: B1
+  ipa: "/ˈæt.məs.fɪər/"
+  example: "The restaurant has a nice atmosphere."
+  translations:
+    de: ["die Atmosphäre", "die Stimmung"]
+  example_translations:
+    de: "Das Restaurant hat eine schöne Atmosphäre."
+
+- id: "attempt-noun"
+  lemma: "attempt"
+  pos: noun
+  level: B2
+  ipa: "/əˈtempt/"
+  example: "He passed the test at the first attempt."
+  translations:
+    de: ["der Versuch"]
+  example_translations:
+    de: "Er hat den Test beim ersten Versuch bestanden."
+
+- id: "background"
+  lemma: "background"
+  pos: noun
+  level: A2
+  ipa: "/ˈbæk.ɡraʊnd/"
+  example: "There are mountains in the background."
+  translations:
+    de: ["der Hintergrund", "die Herkunft"]
+  example_translations:
+    de: "Im Hintergrund sind Berge."
+
+- id: "balance-noun"
+  lemma: "balance"
+  pos: noun
+  level: B1
+  ipa: "/ˈbæl.əns/"
+  example: "I lost my balance and fell."
+  translations:
+    de: ["das Gleichgewicht", "der Kontostand"]
+  example_translations:
+    de: "Ich verlor das Gleichgewicht und fiel hin."
+
+- id: "barrier"
+  lemma: "barrier"
+  pos: noun
+  level: B2
+  ipa: "/ˈbær.i.ər/"
+  example: "Language can be a barrier."
+  translations:
+    de: ["die Barriere", "die Schranke", "das Hindernis"]
+  example_translations:
+    de: "Sprache kann ein Hindernis sein."
+
+- id: "base-noun"
+  lemma: "base"
+  pos: noun
+  level: B1
+  ipa: "/beɪs/"
+  example: "The lamp has a heavy base."
+  translations:
+    de: ["die Basis", "der Sockel", "der Stützpunkt"]
+  example_translations:
+    de: "Die Lampe hat einen schweren Sockel."
+
+- id: "basis"
+  lemma: "basis"
+  pos: noun
+  level: B1
+  ipa: "/ˈbeɪ.sɪs/"
+  example: "We meet on a regular basis."
+  translations:
+    de: ["die Grundlage", "die Basis"]
+  example_translations:
+    de: "Wir treffen uns regelmäßig."
+
+- id: "being"
+  lemma: "being"
+  pos: noun
+  level: B2
+  ipa: "/ˈbiː.ɪŋ/"
+  example: "Humans are social beings."
+  translations:
+    de: ["das Wesen", "das Dasein"]
+  example_translations:
+    de: "Menschen sind soziale Wesen."
+
+- id: "benefit-noun"
+  lemma: "benefit"
+  pos: noun
+  level: A2
+  ipa: "/ˈben.ɪ.fɪt/"
+  example: "Exercise has many benefits."
+  translations:
+    de: ["der Vorteil", "der Nutzen"]
+  example_translations:
+    de: "Sport hat viele Vorteile."
+
+- id: "bottom-noun"
+  lemma: "bottom"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɒt.əm/"
+  example: "Read the note at the bottom of the page."
+  translations:
+    de: ["der Boden", "das untere Ende", "der Hintern"]
+  example_translations:
+    de: "Lies die Anmerkung unten auf der Seite."
+
+- id: "bubble"
+  lemma: "bubble"
+  pos: noun
+  level: B1
+  ipa: "/ˈbʌb.əl/"
+  example: "The children are blowing bubbles."
+  translations:
+    de: ["die Blase"]
+  example_translations:
+    de: "Die Kinder machen Seifenblasen."
+
+- id: "case"
+  lemma: "case"
+  pos: noun
+  level: A2
+  ipa: "/keɪs/"
+  example: "In that case, I'll stay at home."
+  translations:
+    de: ["der Fall", "der Koffer", "die Hülle"]
+  example_translations:
+    de: "In diesem Fall bleibe ich zu Hause."
+
+- id: "category"
+  lemma: "category"
+  pos: noun
+  level: B1
+  ipa: "/ˈkæt.ə.ɡər.i/"
+  example: "Which category does this belong to?"
+  translations:
+    de: ["die Kategorie"]
+  example_translations:
+    de: "Zu welcher Kategorie gehört das?"
+
+- id: "cause-noun"
+  lemma: "cause"
+  pos: noun
+  level: A2
+  ipa: "/kɔːz/"
+  example: "What was the cause of the accident?"
+  translations:
+    de: ["die Ursache", "der Grund"]
+  example_translations:
+    de: "Was war die Ursache des Unfalls?"
+
+- id: "chain-noun"
+  lemma: "chain"
+  pos: noun
+  level: B1
+  ipa: "/tʃeɪn/"
+  example: "She wears a gold chain."
+  translations:
+    de: ["die Kette"]
+  example_translations:
+    de: "Sie trägt eine Goldkette."
+
+- id: "challenge-noun"
+  lemma: "challenge"
+  pos: noun
+  level: B1
+  ipa: "/ˈtʃæl.ɪndʒ/"
+  example: "The new job is a big challenge."
+  translations:
+    de: ["die Herausforderung"]
+  example_translations:
+    de: "Der neue Job ist eine große Herausforderung."
+
+- id: "chance"
+  lemma: "chance"
+  pos: noun
+  level: A2
+  ipa: "/tʃɑːns/"
+  example: "Give me another chance."
+  translations:
+    de: ["die Chance", "die Gelegenheit", "der Zufall"]
+  example_translations:
+    de: "Gib mir noch eine Chance."
+
+- id: "change-noun"
+  lemma: "change"
+  pos: noun
+  level: A1
+  ipa: "/tʃeɪndʒ/"
+  example: "Keep the change."
+  translations:
+    de: ["die Änderung", "das Wechselgeld"]
+  example_translations:
+    de: "Behalten Sie das Wechselgeld."
+
+- id: "characteristic-noun"
+  lemma: "characteristic"
+  pos: noun
+  level: B2
+  ipa: "/ˌkær.ək.təˈrɪs.tɪk/"
+  example: "Honesty is his best characteristic."
+  translations:
+    de: ["das Merkmal", "die Eigenschaft"]
+  example_translations:
+    de: "Ehrlichkeit ist seine beste Eigenschaft."
+
+- id: "check-noun"
+  lemma: "check"
+  pos: noun
+  level: A2
+  ipa: "/tʃek/"
+  example: "There is a security check at the airport."
+  translations:
+    de: ["die Kontrolle", "die Überprüfung"]
+  example_translations:
+    de: "Am Flughafen gibt es eine Sicherheitskontrolle."
+
+- id: "choice"
+  lemma: "choice"
+  pos: noun
+  level: A2
+  ipa: "/tʃɔɪs/"
+  example: "You have no choice."
+  translations:
+    de: ["die Wahl", "die Auswahl"]
+  example_translations:
+    de: "Du hast keine Wahl."
+
+- id: "circle-noun"
+  lemma: "circle"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɜː.kəl/"
+  example: "Draw a circle."
+  translations:
+    de: ["der Kreis"]
+  example_translations:
+    de: "Zeichne einen Kreis."
+
+- id: "circumstance"
+  lemma: "circumstance"
+  pos: noun
+  level: B2
+  ipa: "/ˈsɜː.kəm.stæns/"
+  example: "Under these circumstances, we must wait."
+  translations:
+    de: ["der Umstand"]
+  example_translations:
+    de: "Unter diesen Umständen müssen wir warten."
+
+- id: "clue"
+  lemma: "clue"
+  pos: noun
+  level: B1
+  ipa: "/kluː/"
+  example: "The police found a clue."
+  translations:
+    de: ["der Hinweis", "die Spur"]
+  example_translations:
+    de: "Die Polizei fand einen Hinweis."
+
+- id: "collapse-noun"
+  lemma: "collapse"
+  pos: noun
+  level: B2
+  ipa: "/kəˈlæps/"
+  example: "The collapse of the company was a shock."
+  translations:
+    de: ["der Einsturz", "der Zusammenbruch"]
+  example_translations:
+    de: "Der Zusammenbruch der Firma war ein Schock."
+
+- id: "combination"
+  lemma: "combination"
+  pos: noun
+  level: B2
+  ipa: "/ˌkɒm.bɪˈneɪ.ʃən/"
+  example: "It's a great combination of colours."
+  translations:
+    de: ["die Kombination"]
+  example_translations:
+    de: "Das ist eine tolle Farbkombination."
+
+- id: "concern-verb"
+  lemma: "concern"
+  pos: verb
+  level: B2
+  ipa: "/kənˈsɜːn/"
+  example: "This problem concerns all of us."
+  translations:
+    de: ["betreffen", "beunruhigen"]
+  example_translations:
+    de: "Dieses Problem betrifft uns alle."
+
+- id: "condition"
+  lemma: "condition"
+  pos: noun
+  level: A2
+  ipa: "/kənˈdɪʃ.ən/"
+  example: "The car is in good condition."
+  translations:
+    de: ["der Zustand", "die Bedingung"]
+  example_translations:
+    de: "Das Auto ist in gutem Zustand."
+
+- id: "conflict-verb"
+  lemma: "conflict"
+  pos: verb
+  level: B2
+  ipa: "/kənˈflɪkt/"
+  example: "The two stories conflict with each other."
+  translations:
+    de: ["im Widerspruch stehen", "kollidieren"]
+  example_translations:
+    de: "Die beiden Geschichten widersprechen sich."
+
+- id: "consequence"
+  lemma: "consequence"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒn.sɪ.kwəns/"
+  example: "Think about the consequences."
+  translations:
+    de: ["die Folge", "die Konsequenz"]
+  example_translations:
+    de: "Denk an die Folgen."
+
+- id: "consist"
+  lemma: "consist"
+  pos: verb
+  level: B1
+  ipa: "/kənˈsɪst/"
+  example: "The team consists of five people."
+  translations:
+    de: ["bestehen aus"]
+  example_translations:
+    de: "Das Team besteht aus fünf Personen."
+
+- id: "contain"
+  lemma: "contain"
+  pos: verb
+  level: A2
+  ipa: "/kənˈteɪn/"
+  example: "This drink contains a lot of sugar."
+  translations:
+    de: ["enthalten"]
+  example_translations:
+    de: "Dieses Getränk enthält viel Zucker."
+
+- id: "content"
+  lemma: "content"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒn.tent/"
+  example: "The content of the letter was a secret."
+  translations:
+    de: ["der Inhalt"]
+  example_translations:
+    de: "Der Inhalt des Briefes war geheim."
+
+- id: "contrast-noun"
+  lemma: "contrast"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒn.trɑːst/"
+  example: "In contrast to his brother, he is very quiet."
+  translations:
+    de: ["der Kontrast", "der Gegensatz"]
+  example_translations:
+    de: "Im Gegensatz zu seinem Bruder ist er sehr ruhig."
+
+- id: "contribution"
+  lemma: "contribution"
+  pos: noun
+  level: B2
+  ipa: "/ˌkɒn.trɪˈbjuː.ʃən/"
+  example: "Thank you for your contribution."
+  translations:
+    de: ["der Beitrag", "die Spende"]
+  example_translations:
+    de: "Danke für deinen Beitrag."
+
+- id: "control-noun"
+  lemma: "control"
+  pos: noun
+  level: A2
+  ipa: "/kənˈtrəʊl/"
+  example: "He lost control of the car."
+  translations:
+    de: ["die Kontrolle", "die Steuerung"]
+  example_translations:
+    de: "Er verlor die Kontrolle über das Auto."
+
+- id: "copy-noun"
+  lemma: "copy"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒp.i/"
+  example: "Can I have a copy of the letter?"
+  translations:
+    de: ["die Kopie", "das Exemplar"]
+  example_translations:
+    de: "Kann ich eine Kopie des Briefes haben?"
+
+- id: "core-noun"
+  lemma: "core"
+  pos: noun
+  level: B2
+  ipa: "/kɔːr/"
+  example: "The core of the problem is money."
+  translations:
+    de: ["der Kern", "das Kerngehäuse"]
+  example_translations:
+    de: "Der Kern des Problems ist Geld."
+
+- id: "cover-noun"
+  lemma: "cover"
+  pos: noun
+  level: B1
+  ipa: "/ˈkʌv.ər/"
+  example: "I like the cover of this book."
+  translations:
+    de: ["die Hülle", "der Deckel", "das Titelbild"]
+  example_translations:
+    de: "Mir gefällt der Umschlag dieses Buches."
+
+- id: "creation"
+  lemma: "creation"
+  pos: noun
+  level: B2
+  ipa: "/kriˈeɪ.ʃən/"
+  example: "The creation of new jobs is important."
+  translations:
+    de: ["die Schaffung", "die Kreation"]
+  example_translations:
+    de: "Die Schaffung neuer Arbeitsplätze ist wichtig."
+
+- id: "criterion"
+  lemma: "criterion"
+  pos: noun
+  level: B2
+  ipa: "/kraɪˈtɪə.ri.ən/"
+  example: "What criteria do you use?"
+  translations:
+    de: ["das Kriterium"]
+  example_translations:
+    de: "Welche Kriterien verwendest du?"
+
+- id: "cross-noun"
+  lemma: "cross"
+  pos: noun
+  level: A2
+  ipa: "/krɒs/"
+  example: "Put a cross next to the right answer."
+  translations:
+    de: ["das Kreuz"]
+  example_translations:
+    de: "Mach ein Kreuz neben die richtige Antwort."
+
+- id: "curve-noun"
+  lemma: "curve"
+  pos: noun
+  level: B2
+  ipa: "/kɜːv/"
+  example: "The road follows the curve of the river."
+  translations:
+    de: ["die Kurve", "die Krümmung"]
+  example_translations:
+    de: "Die Straße folgt der Biegung des Flusses."
+
+- id: "cycle-noun"
+  lemma: "cycle"
+  pos: noun
+  level: A2
+  ipa: "/ˈsaɪ.kəl/"
+  example: "The life cycle of a butterfly is short."
+  translations:
+    de: ["der Zyklus", "der Kreislauf"]
+  example_translations:
+    de: "Der Lebenszyklus eines Schmetterlings ist kurz."
+
+- id: "damage-noun"
+  lemma: "damage"
+  pos: noun
+  level: B1
+  ipa: "/ˈdæm.ɪdʒ/"
+  example: "The storm caused a lot of damage."
+  translations:
+    de: ["der Schaden"]
+  example_translations:
+    de: "Der Sturm richtete großen Schaden an."
+
+- id: "danger"
+  lemma: "danger"
+  pos: noun
+  level: A2
+  ipa: "/ˈdeɪn.dʒər/"
+  example: "Danger! Do not enter."
+  translations:
+    de: ["die Gefahr"]
+  example_translations:
+    de: "Gefahr! Nicht betreten."
+
+- id: "decline-noun"
+  lemma: "decline"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈklaɪn/"
+  example: "There has been a decline in sales."
+  translations:
+    de: ["der Rückgang", "der Niedergang"]
+  example_translations:
+    de: "Die Verkaufszahlen sind zurückgegangen."
+
+- id: "decline-verb"
+  lemma: "decline"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈklaɪn/"
+  example: "The number of visitors has declined."
+  translations:
+    de: ["sinken", "zurückgehen", "ablehnen"]
+  example_translations:
+    de: "Die Zahl der Besucher ist gesunken."
+
+- id: "depend"
+  lemma: "depend"
+  pos: verb
+  level: A2
+  ipa: "/dɪˈpend/"
+  example: "It depends on the weather."
+  translations:
+    de: ["abhängen", "sich verlassen"]
+  example_translations:
+    de: "Das hängt vom Wetter ab."
+
+- id: "deserve"
+  lemma: "deserve"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈzɜːv/"
+  example: "You deserve a holiday."
+  translations:
+    de: ["verdienen"]
+  example_translations:
+    de: "Du hast einen Urlaub verdient."
+
+- id: "detail-noun"
+  lemma: "detail"
+  pos: noun
+  level: A1
+  ipa: "/ˈdiː.teɪl/"
+  example: "Tell me all the details."
+  translations:
+    de: ["die Einzelheit", "das Detail"]
+  example_translations:
+    de: "Erzähl mir alle Einzelheiten."
+
+- id: "development"
+  lemma: "development"
+  pos: noun
+  level: B1
+  ipa: "/dɪˈvel.əp.mənt/"
+  example: "This is an important development."
+  translations:
+    de: ["die Entwicklung"]
+  example_translations:
+    de: "Das ist eine wichtige Entwicklung."
+
+- id: "difference"
+  lemma: "difference"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɪf.ər.əns/"
+  example: "What's the difference between them?"
+  translations:
+    de: ["der Unterschied"]
+  example_translations:
+    de: "Was ist der Unterschied zwischen ihnen?"
+
+- id: "difficulty"
+  lemma: "difficulty"
+  pos: noun
+  level: B1
+  ipa: "/ˈdɪf.ɪ.kəl.ti/"
+  example: "I had difficulty finding the house."
+  translations:
+    de: ["die Schwierigkeit"]
+  example_translations:
+    de: "Ich hatte Schwierigkeiten, das Haus zu finden."
+
+- id: "disadvantage"
+  lemma: "disadvantage"
+  pos: noun
+  level: B1
+  ipa: "/ˌdɪs.ədˈvɑːn.tɪdʒ/"
+  example: "What are the disadvantages of living alone?"
+  translations:
+    de: ["der Nachteil"]
+  example_translations:
+    de: "Was sind die Nachteile, wenn man allein lebt?"
+
+- id: "disaster"
+  lemma: "disaster"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈzɑː.stər/"
+  example: "The party was a disaster."
+  translations:
+    de: ["die Katastrophe"]
+  example_translations:
+    de: "Die Party war eine Katastrophe."
+
+- id: "drop-noun"
+  lemma: "drop"
+  pos: noun
+  level: B1
+  ipa: "/drɒp/"
+  example: "A drop of rain fell on my face."
+  translations:
+    de: ["der Tropfen", "der Rückgang"]
+  example_translations:
+    de: "Ein Regentropfen fiel mir aufs Gesicht."
+
+- id: "edge"
+  lemma: "edge"
+  pos: noun
+  level: B1
+  ipa: "/edʒ/"
+  example: "Don't stand so close to the edge."
+  translations:
+    de: ["der Rand", "die Kante"]
+  example_translations:
+    de: "Stell dich nicht so nah an den Rand."
+
+- id: "effect"
+  lemma: "effect"
+  pos: noun
+  level: A2
+  ipa: "/ɪˈfekt/"
+  example: "The medicine had no effect."
+  translations:
+    de: ["die Wirkung", "der Effekt"]
+  example_translations:
+    de: "Das Medikament zeigte keine Wirkung."
+
+- id: "enable"
+  lemma: "enable"
+  pos: verb
+  level: B2
+  ipa: "/ɪˈneɪ.bəl/"
+  example: "The money enabled us to buy a house."
+  translations:
+    de: ["ermöglichen"]
+  example_translations:
+    de: "Das Geld ermöglichte uns, ein Haus zu kaufen."
+
+- id: "entry"
+  lemma: "entry"
+  pos: noun
+  level: B1
+  ipa: "/ˈen.tri/"
+  example: "Entry is free for children."
+  translations:
+    de: ["der Eintritt", "der Eintrag", "die Einreise"]
+  example_translations:
+    de: "Der Eintritt ist für Kinder frei."
+
+- id: "escape-noun"
+  lemma: "escape"
+  pos: noun
+  level: B1
+  ipa: "/ɪˈskeɪp/"
+  example: "They planned their escape."
+  translations:
+    de: ["die Flucht"]
+  example_translations:
+    de: "Sie planten ihre Flucht."
+
+- id: "event"
+  lemma: "event"
+  pos: noun
+  level: A1
+  ipa: "/ɪˈvent/"
+  example: "The concert was a big event."
+  translations:
+    de: ["das Ereignis", "die Veranstaltung"]
+  example_translations:
+    de: "Das Konzert war ein großes Ereignis."
+
+- id: "exist"
+  lemma: "exist"
+  pos: verb
+  level: A2
+  ipa: "/ɪɡˈzɪst/"
+  example: "Do ghosts exist?"
+  translations:
+    de: ["existieren", "bestehen"]
+  example_translations:
+    de: "Gibt es Gespenster?"
+
+- id: "existence"
+  lemma: "existence"
+  pos: noun
+  level: B2
+  ipa: "/ɪɡˈzɪs.təns/"
+  example: "I didn't know about the existence of this place."
+  translations:
+    de: ["die Existenz", "das Bestehen"]
+  example_translations:
+    de: "Ich wusste nicht, dass es diesen Ort gibt."
+
+- id: "expand"
+  lemma: "expand"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈspænd/"
+  example: "The company is expanding."
+  translations:
+    de: ["erweitern", "sich ausdehnen", "wachsen"]
+  example_translations:
+    de: "Die Firma wächst."
+
+- id: "explosion"
+  lemma: "explosion"
+  pos: noun
+  level: B1
+  ipa: "/ɪkˈspləʊ.ʒən/"
+  example: "We heard a loud explosion."
+  translations:
+    de: ["die Explosion"]
+  example_translations:
+    de: "Wir hörten eine laute Explosion."
+
+- id: "extent"
+  lemma: "extent"
+  pos: noun
+  level: B2
+  ipa: "/ɪkˈstent/"
+  example: "To some extent, you are right."
+  translations:
+    de: ["das Ausmaß", "der Umfang"]
+  example_translations:
+    de: "Bis zu einem gewissen Grad hast du recht."
+
+- id: "extreme-noun"
+  lemma: "extreme"
+  pos: noun
+  level: B2
+  ipa: "/ɪkˈstriːm/"
+  example: "He goes from one extreme to the other."
+  translations:
+    de: ["das Extrem"]
+  example_translations:
+    de: "Er fällt von einem Extrem ins andere."
+
+- id: "fact"
+  lemma: "fact"
+  pos: noun
+  level: A1
+  ipa: "/fækt/"
+  example: "In fact, I don't like tea."
+  translations:
+    de: ["die Tatsache", "der Fakt"]
+  example_translations:
+    de: "Tatsächlich mag ich keinen Tee."
+
+- id: "factor"
+  lemma: "factor"
+  pos: noun
+  level: A2
+  ipa: "/ˈfæk.tər/"
+  example: "Price is an important factor."
+  translations:
+    de: ["der Faktor"]
+  example_translations:
+    de: "Der Preis ist ein wichtiger Faktor."
+
+- id: "failure"
+  lemma: "failure"
+  pos: noun
+  level: B2
+  ipa: "/ˈfeɪ.ljər/"
+  example: "The plan was a complete failure."
+  translations:
+    de: ["das Scheitern", "der Misserfolg", "der Ausfall"]
+  example_translations:
+    de: "Der Plan war ein völliger Misserfolg."
+
+- id: "fall-noun"
+  lemma: "fall"
+  pos: noun
+  level: A2
+  ipa: "/fɔːl/"
+  example: "He had a bad fall."
+  translations:
+    de: ["der Sturz", "der Fall", "der Rückgang"]
+  example_translations:
+    de: "Er ist schwer gestürzt."
+
+- id: "fault"
+  lemma: "fault"
+  pos: noun
+  level: B2
+  ipa: "/fɔːlt/"
+  example: "It's not my fault!"
+  translations:
+    de: ["die Schuld", "der Fehler", "der Defekt"]
+  example_translations:
+    de: "Das ist nicht meine Schuld!"
+
+- id: "feature-noun"
+  lemma: "feature"
+  pos: noun
+  level: A2
+  ipa: "/ˈfiː.tʃər/"
+  example: "The phone has some great features."
+  translations:
+    de: ["das Merkmal", "die Funktion"]
+  example_translations:
+    de: "Das Handy hat ein paar tolle Funktionen."
+
+- id: "feel-noun"
+  lemma: "feel"
+  pos: noun
+  level: B2
+  ipa: "/fiːl/"
+  example: "The house has a cosy feel."
+  translations:
+    de: ["das Gefühl", "die Atmosphäre"]
+  example_translations:
+    de: "Das Haus hat eine gemütliche Atmosphäre."
+
+- id: "fight-noun"
+  lemma: "fight"
+  pos: noun
+  level: A2
+  ipa: "/faɪt/"
+  example: "They had a fight about money."
+  translations:
+    de: ["der Kampf", "der Streit"]
+  example_translations:
+    de: "Sie hatten einen Streit wegen Geld."
+
+- id: "fire-noun"
+  lemma: "fire"
+  pos: noun
+  level: A1
+  ipa: "/faɪər/"
+  example: "We sat around the fire."
+  translations:
+    de: ["das Feuer", "der Brand"]
+  example_translations:
+    de: "Wir saßen um das Feuer."
+
+- id: "fix-noun"
+  lemma: "fix"
+  pos: noun
+  level: B2
+  ipa: "/fɪks/"
+  example: "It's only a quick fix."
+  translations:
+    de: ["die Lösung", "die Notlösung"]
+  example_translations:
+    de: "Das ist nur eine Notlösung."
+
+- id: "flame"
+  lemma: "flame"
+  pos: noun
+  level: B2
+  ipa: "/fleɪm/"
+  example: "The house was in flames."
+  translations:
+    de: ["die Flamme"]
+  example_translations:
+    de: "Das Haus stand in Flammen."
+
+- id: "flash-noun"
+  lemma: "flash"
+  pos: noun
+  level: B2
+  ipa: "/flæʃ/"
+  example: "There was a flash of light."
+  translations:
+    de: ["der Blitz", "das Aufblitzen"]
+  example_translations:
+    de: "Es gab einen Lichtblitz."
+
+- id: "flow-noun"
+  lemma: "flow"
+  pos: noun
+  level: B1
+  ipa: "/fləʊ/"
+  example: "The flow of traffic was slow."
+  translations:
+    de: ["der Fluss", "der Strom"]
+  example_translations:
+    de: "Der Verkehr floss langsam."
+
+- id: "focus-noun"
+  lemma: "focus"
+  pos: noun
+  level: A2
+  ipa: "/ˈfəʊ.kəs/"
+  example: "The focus of the course is grammar."
+  translations:
+    de: ["der Fokus", "der Schwerpunkt"]
+  example_translations:
+    de: "Der Schwerpunkt des Kurses ist Grammatik."
+
+- id: "fold-noun"
+  lemma: "fold"
+  pos: noun
+  level: B2
+  ipa: "/fəʊld/"
+  example: "There are folds in the curtain."
+  translations:
+    de: ["die Falte"]
+  example_translations:
+    de: "Der Vorhang hat Falten."
+
+- id: "form-noun"
+  lemma: "form"
+  pos: noun
+  level: A1
+  ipa: "/fɔːm/"
+  example: "Please fill in this form."
+  translations:
+    de: ["das Formular", "die Form"]
+  example_translations:
+    de: "Bitte füllen Sie dieses Formular aus."
+
+- id: "front-noun"
+  lemma: "front"
+  pos: noun
+  level: A1
+  ipa: "/frʌnt/"
+  example: "Let's sit at the front."
+  translations:
+    de: ["die Vorderseite", "vorne"]
+  example_translations:
+    de: "Setzen wir uns nach vorne."
+
+- id: "fuel-verb"
+  lemma: "fuel"
+  pos: verb
+  level: B2
+  ipa: "/ˈfjuː.əl/"
+  example: "The news fuelled fears."
+  translations:
+    de: ["anheizen", "antreiben"]
+  example_translations:
+    de: "Die Nachricht schürte Ängste."
+
+- id: "function-noun"
+  lemma: "function"
+  pos: noun
+  level: B1
+  ipa: "/ˈfʌŋk.ʃən/"
+  example: "What is the function of this button?"
+  translations:
+    de: ["die Funktion", "die Aufgabe"]
+  example_translations:
+    de: "Welche Funktion hat diese Taste?"
+
+- id: "gain-noun"
+  lemma: "gain"
+  pos: noun
+  level: B2
+  ipa: "/ɡeɪn/"
+  example: "There was a gain in profits."
+  translations:
+    de: ["der Gewinn", "die Zunahme"]
+  example_translations:
+    de: "Die Gewinne sind gestiegen."
+
+- id: "gap"
+  lemma: "gap"
+  pos: noun
+  level: A2
+  ipa: "/ɡæp/"
+  example: "Fill in the gaps."
+  translations:
+    de: ["die Lücke", "der Abstand"]
+  example_translations:
+    de: "Füll die Lücken aus."
+
+- id: "growth"
+  lemma: "growth"
+  pos: noun
+  level: B1
+  ipa: "/ɡrəʊθ/"
+  example: "The economy shows strong growth."
+  translations:
+    de: ["das Wachstum"]
+  example_translations:
+    de: "Die Wirtschaft zeigt starkes Wachstum."
+
+- id: "happen"
+  lemma: "happen"
+  pos: verb
+  level: A1
+  ipa: "/ˈhæp.ən/"
+  example: "What happened?"
+  translations:
+    de: ["passieren", "geschehen"]
+  example_translations:
+    de: "Was ist passiert?"
+
+- id: "harm-noun"
+  lemma: "harm"
+  pos: noun
+  level: B2
+  ipa: "/hɑːm/"
+  example: "A little sugar does no harm."
+  translations:
+    de: ["der Schaden"]
+  example_translations:
+    de: "Ein bisschen Zucker schadet nicht."
+
+- id: "highlight-noun"
+  lemma: "highlight"
+  pos: noun
+  level: B1
+  ipa: "/ˈhaɪ.laɪt/"
+  example: "The highlight of the trip was the safari."
+  translations:
+    de: ["der Höhepunkt"]
+  example_translations:
+    de: "Der Höhepunkt der Reise war die Safari."
+
+- id: "hold-noun"
+  lemma: "hold"
+  pos: noun
+  level: B2
+  ipa: "/həʊld/"
+  example: "Keep a hold on the rope."
+  translations:
+    de: ["der Halt", "der Griff"]
+  example_translations:
+    de: "Halt dich am Seil fest."
+
+- id: "hole"
+  lemma: "hole"
+  pos: noun
+  level: A2
+  ipa: "/həʊl/"
+  example: "There's a hole in my sock."
+  translations:
+    de: ["das Loch"]
+  example_translations:
+    de: "In meiner Socke ist ein Loch."
+
+- id: "hunt-noun"
+  lemma: "hunt"
+  pos: noun
+  level: B2
+  ipa: "/hʌnt/"
+  example: "The hunt for the killer continues."
+  translations:
+    de: ["die Jagd", "die Suche"]
+  example_translations:
+    de: "Die Jagd nach dem Mörder geht weiter."
+
+- id: "impact-noun"
+  lemma: "impact"
+  pos: noun
+  level: B1
+  ipa: "/ˈɪm.pækt/"
+  example: "The new law will have a big impact."
+  translations:
+    de: ["die Auswirkung", "der Aufprall"]
+  example_translations:
+    de: "Das neue Gesetz wird große Auswirkungen haben."
+
+- id: "impact-verb"
+  lemma: "impact"
+  pos: verb
+  level: B1
+  ipa: "/ɪmˈpækt/"
+  example: "The rain impacted the harvest."
+  translations:
+    de: ["sich auswirken auf", "beeinflussen"]
+  example_translations:
+    de: "Der Regen wirkte sich auf die Ernte aus."
+
+- id: "importance"
+  lemma: "importance"
+  pos: noun
+  level: B1
+  ipa: "/ɪmˈpɔː.təns/"
+  example: "Never forget the importance of sleep."
+  translations:
+    de: ["die Bedeutung", "die Wichtigkeit"]
+  example_translations:
+    de: "Vergiss nie, wie wichtig Schlaf ist."
+
+- id: "improvement"
+  lemma: "improvement"
+  pos: noun
+  level: B1
+  ipa: "/ɪmˈpruːv.mənt/"
+  example: "There is a big improvement in your work."
+  translations:
+    de: ["die Verbesserung"]
+  example_translations:
+    de: "Deine Arbeit hat sich sehr verbessert."
+
+- id: "incident"
+  lemma: "incident"
+  pos: noun
+  level: B2
+  ipa: "/ˈɪn.sɪ.dənt/"
+  example: "The police are investigating the incident."
+  translations:
+    de: ["der Vorfall", "der Zwischenfall"]
+  example_translations:
+    de: "Die Polizei untersucht den Vorfall."
+
+- id: "include"
+  lemma: "include"
+  pos: verb
+  level: A1
+  ipa: "/ɪnˈkluːd/"
+  example: "The price includes breakfast."
+  translations:
+    de: ["einschließen", "enthalten"]
+  example_translations:
+    de: "Der Preis beinhaltet das Frühstück."
+
+- id: "influence-noun"
+  lemma: "influence"
+  pos: noun
+  level: B1
+  ipa: "/ˈɪn.flu.əns/"
+  example: "He had a big influence on me."
+  translations:
+    de: ["der Einfluss"]
+  example_translations:
+    de: "Er hatte großen Einfluss auf mich."
+
+- id: "inside-noun"
+  lemma: "inside"
+  pos: noun
+  level: A2
+  ipa: "/ɪnˈsaɪd/"
+  example: "The inside of the house is beautiful."
+  translations:
+    de: ["das Innere", "die Innenseite"]
+  example_translations:
+    de: "Das Innere des Hauses ist wunderschön."
+
+- id: "instance"
+  lemma: "instance"
+  pos: noun
+  level: B2
+  ipa: "/ˈɪn.stəns/"
+  example: "For instance, you could take the bus."
+  translations:
+    de: ["das Beispiel", "der Fall"]
+  example_translations:
+    de: "Zum Beispiel könntest du den Bus nehmen."
+
+- id: "involve"
+  lemma: "involve"
+  pos: verb
+  level: A2
+  ipa: "/ɪnˈvɒlv/"
+  example: "The job involves a lot of travel."
+  translations:
+    de: ["beinhalten", "einbeziehen", "beteiligen"]
+  example_translations:
+    de: "Der Job ist mit vielen Reisen verbunden."
+
+- id: "involved"
+  lemma: "involved"
+  pos: adjective
+  level: B1
+  ipa: "/ɪnˈvɒlvd/"
+  example: "She is involved in many projects."
+  translations:
+    de: ["beteiligt", "engagiert"]
+  example_translations:
+    de: "Sie ist an vielen Projekten beteiligt."
+
+- id: "issue-noun"
+  lemma: "issue"
+  pos: noun
+  level: B1
+  ipa: "/ˈɪʃ.uː/"
+  example: "Climate change is an important issue."
+  translations:
+    de: ["das Thema", "das Problem", "die Ausgabe"]
+  example_translations:
+    de: "Der Klimawandel ist ein wichtiges Thema."
+
+- id: "kind-noun"
+  lemma: "kind"
+  pos: noun
+  level: A1
+  ipa: "/kaɪnd/"
+  example: "What kind of music do you like?"
+  translations:
+    de: ["die Art", "die Sorte"]
+  example_translations:
+    de: "Welche Art von Musik magst du?"
+
+- id: "knock-noun"
+  lemma: "knock"
+  pos: noun
+  level: B1
+  ipa: "/nɒk/"
+  example: "There was a knock at the door."
+  translations:
+    de: ["das Klopfen", "der Schlag"]
+  example_translations:
+    de: "Es klopfte an der Tür."
+
+- id: "lack-noun"
+  lemma: "lack"
+  pos: noun
+  level: B1
+  ipa: "/læk/"
+  example: "The plants died from lack of water."
+  translations:
+    de: ["der Mangel"]
+  example_translations:
+    de: "Die Pflanzen starben aus Wassermangel."
+
+- id: "lack-verb"
+  lemma: "lack"
+  pos: verb
+  level: B1
+  ipa: "/læk/"
+  example: "He lacks confidence."
+  translations:
+    de: ["fehlen", "mangeln an"]
+  example_translations:
+    de: "Ihm fehlt es an Selbstvertrauen."
+
+- id: "layer"
+  lemma: "layer"
+  pos: noun
+  level: B1
+  ipa: "/ˈleɪ.ər/"
+  example: "The cake has three layers."
+  translations:
+    de: ["die Schicht"]
+  example_translations:
+    de: "Der Kuchen hat drei Schichten."
+
+- id: "level-noun"
+  lemma: "level"
+  pos: noun
+  level: A2
+  ipa: "/ˈlev.əl/"
+  example: "What level is your English?"
+  translations:
+    de: ["das Niveau", "die Ebene", "der Stand"]
+  example_translations:
+    de: "Welches Niveau hat dein Englisch?"
+
+- id: "limit-noun"
+  lemma: "limit"
+  pos: noun
+  level: B1
+  ipa: "/ˈlɪm.ɪt/"
+  example: "The speed limit is 50 km/h."
+  translations:
+    de: ["die Grenze", "das Limit"]
+  example_translations:
+    de: "Die Geschwindigkeitsbegrenzung ist 50 km/h."
+
+- id: "line-noun"
+  lemma: "line"
+  pos: noun
+  level: A1
+  ipa: "/laɪn/"
+  example: "Read the first line."
+  translations:
+    de: ["die Linie", "die Zeile", "die Schlange"]
+  example_translations:
+    de: "Lies die erste Zeile."
+
+- id: "list-noun"
+  lemma: "list"
+  pos: noun
+  level: A1
+  ipa: "/lɪst/"
+  example: "Make a shopping list."
+  translations:
+    de: ["die Liste"]
+  example_translations:
+    de: "Mach eine Einkaufsliste."
+
+- id: "load-noun"
+  lemma: "load"
+  pos: noun
+  level: B2
+  ipa: "/ləʊd/"
+  example: "The truck carried a heavy load."
+  translations:
+    de: ["die Ladung", "die Last"]
+  example_translations:
+    de: "Der Lastwagen hatte eine schwere Ladung."
+
+- id: "look-noun"
+  lemma: "look"
+  pos: noun
+  level: A2
+  ipa: "/lʊk/"
+  example: "Have a look at this."
+  translations:
+    de: ["der Blick", "das Aussehen"]
+  example_translations:
+    de: "Schau dir das mal an."
+
+- id: "loss"
+  lemma: "loss"
+  pos: noun
+  level: B1
+  ipa: "/lɒs/"
+  example: "The company made a loss."
+  translations:
+    de: ["der Verlust"]
+  example_translations:
+    de: "Die Firma hat Verlust gemacht."
+
+- id: "mass-noun"
+  lemma: "mass"
+  pos: noun
+  level: B2
+  ipa: "/mæs/"
+  example: "There was a mass of people in the square."
+  translations:
+    de: ["die Masse", "die Menge"]
+  example_translations:
+    de: "Auf dem Platz war eine Menschenmasse."
+
+- id: "material-noun"
+  lemma: "material"
+  pos: noun
+  level: A2
+  ipa: "/məˈtɪə.ri.əl/"
+  example: "What material is this made of?"
+  translations:
+    de: ["das Material", "der Stoff"]
+  example_translations:
+    de: "Aus welchem Material ist das?"
+
+- id: "matter-noun"
+  lemma: "matter"
+  pos: noun
+  level: A2
+  ipa: "/ˈmæt.ər/"
+  example: "What's the matter?"
+  translations:
+    de: ["die Angelegenheit", "die Sache"]
+  example_translations:
+    de: "Was ist los?"
+
+- id: "matter-verb"
+  lemma: "matter"
+  pos: verb
+  level: A2
+  ipa: "/ˈmæt.ər/"
+  example: "It doesn't matter."
+  translations:
+    de: ["wichtig sein", "eine Rolle spielen"]
+  example_translations:
+    de: "Das macht nichts."
+
+- id: "means"
+  lemma: "means"
+  pos: noun
+  level: B2
+  ipa: "/miːnz/"
+  example: "The bike is my main means of transport."
+  translations:
+    de: ["das Mittel", "die Möglichkeit"]
+  example_translations:
+    de: "Das Fahrrad ist mein wichtigstes Verkehrsmittel."
+
+- id: "method"
+  lemma: "method"
+  pos: noun
+  level: A2
+  ipa: "/ˈmeθ.əd/"
+  example: "This is a good method of learning."
+  translations:
+    de: ["die Methode"]
+  example_translations:
+    de: "Das ist eine gute Lernmethode."
+
+- id: "middle-noun"
+  lemma: "middle"
+  pos: noun
+  level: A2
+  ipa: "/ˈmɪd.əl/"
+  example: "There's a table in the middle of the room."
+  translations:
+    de: ["die Mitte"]
+  example_translations:
+    de: "In der Mitte des Zimmers steht ein Tisch."
+
+- id: "mix-noun"
+  lemma: "mix"
+  pos: noun
+  level: B1
+  ipa: "/mɪks/"
+  example: "The city has a mix of old and new."
+  translations:
+    de: ["die Mischung"]
+  example_translations:
+    de: "Die Stadt ist eine Mischung aus Alt und Neu."
+
+- id: "mixture"
+  lemma: "mixture"
+  pos: noun
+  level: B1
+  ipa: "/ˈmɪks.tʃər/"
+  example: "Pour the mixture into a bowl."
+  translations:
+    de: ["die Mischung"]
+  example_translations:
+    de: "Gieß die Mischung in eine Schüssel."
+
+- id: "model-noun"
+  lemma: "model"
+  pos: noun
+  level: A1
+  ipa: "/ˈmɒd.əl/"
+  example: "He builds model planes."
+  translations:
+    de: ["das Modell", "das Model", "das Vorbild"]
+  example_translations:
+    de: "Er baut Modellflugzeuge."
+
+- id: "move-noun"
+  lemma: "move"
+  pos: noun
+  level: B1
+  ipa: "/muːv/"
+  example: "It's your move."
+  translations:
+    de: ["der Umzug", "der Zug", "die Bewegung"]
+  example_translations:
+    de: "Du bist am Zug."
+
+- id: "movement"
+  lemma: "movement"
+  pos: noun
+  level: A2
+  ipa: "/ˈmuːv.mənt/"
+  example: "Don't make any sudden movements."
+  translations:
+    de: ["die Bewegung"]
+  example_translations:
+    de: "Mach keine plötzlichen Bewegungen."
+
+- id: "mystery"
+  lemma: "mystery"
+  pos: noun
+  level: B1
+  ipa: "/ˈmɪs.tər.i/"
+  example: "It's a mystery to me."
+  translations:
+    de: ["das Rätsel", "das Geheimnis"]
+  example_translations:
+    de: "Das ist mir ein Rätsel."
+
+- id: "need-noun"
+  lemma: "need"
+  pos: noun
+  level: A2
+  ipa: "/niːd/"
+  example: "There's no need to hurry."
+  translations:
+    de: ["der Bedarf", "das Bedürfnis"]
+  example_translations:
+    de: "Es gibt keinen Grund zur Eile."
+
+- id: "negative-noun"
+  lemma: "negative"
+  pos: noun
+  level: B2
+  ipa: "/ˈneɡ.ə.tɪv/"
+  example: "There are positives and negatives."
+  translations:
+    de: ["das Negative", "die Verneinung"]
+  example_translations:
+    de: "Es gibt Vor- und Nachteile."
+
+- id: "noise"
+  lemma: "noise"
+  pos: noun
+  level: A2
+  ipa: "/nɔɪz/"
+  example: "What's that noise?"
+  translations:
+    de: ["der Lärm", "das Geräusch"]
+  example_translations:
+    de: "Was ist das für ein Geräusch?"
+
+- id: "object-noun"
+  lemma: "object"
+  pos: noun
+  level: A1
+  ipa: "/ˈɒb.dʒɪkt/"
+  example: "There is a strange object on the table."
+  translations:
+    de: ["der Gegenstand", "das Objekt"]
+  example_translations:
+    de: "Auf dem Tisch liegt ein seltsamer Gegenstand."
+
+- id: "occur"
+  lemma: "occur"
+  pos: verb
+  level: B1
+  ipa: "/əˈkɜːr/"
+  example: "The accident occurred at 6 p.m."
+  translations:
+    de: ["vorkommen", "geschehen", "einfallen"]
+  example_translations:
+    de: "Der Unfall geschah um 18 Uhr."
+
+- id: "opening"
+  lemma: "opening"
+  pos: noun
+  level: B2
+  ipa: "/ˈəʊ.pən.ɪŋ/"
+  example: "We went to the opening of the new museum."
+  translations:
+    de: ["die Eröffnung", "die Öffnung"]
+  example_translations:
+    de: "Wir waren bei der Eröffnung des neuen Museums."
+
+- id: "opportunity"
+  lemma: "opportunity"
+  pos: noun
+  level: A2
+  ipa: "/ˌɒp.əˈtʃuː.nə.ti/"
+  example: "It's a great opportunity."
+  translations:
+    de: ["die Gelegenheit", "die Chance"]
+  example_translations:
+    de: "Das ist eine tolle Gelegenheit."
+
+- id: "opposite-noun"
+  lemma: "opposite"
+  pos: noun
+  level: A1
+  ipa: "/ˈɒp.ə.zɪt/"
+  example: "What's the opposite of \"hot\"?"
+  translations:
+    de: ["das Gegenteil"]
+  example_translations:
+    de: "Was ist das Gegenteil von „heiß“?"
+
+- id: "option"
+  lemma: "option"
+  pos: noun
+  level: A2
+  ipa: "/ˈɒp.ʃən/"
+  example: "We have two options."
+  translations:
+    de: ["die Option", "die Möglichkeit"]
+  example_translations:
+    de: "Wir haben zwei Möglichkeiten."
+
+- id: "order-noun"
+  lemma: "order"
+  pos: noun
+  level: A1
+  ipa: "/ˈɔː.dər/"
+  example: "Put the words in the correct order."
+  translations:
+    de: ["die Reihenfolge", "die Bestellung", "der Befehl"]
+  example_translations:
+    de: "Bring die Wörter in die richtige Reihenfolge."
+
+- id: "origin"
+  lemma: "origin"
+  pos: noun
+  level: B2
+  ipa: "/ˈɒr.ɪ.dʒɪn/"
+  example: "What is the origin of this word?"
+  translations:
+    de: ["der Ursprung", "die Herkunft"]
+  example_translations:
+    de: "Was ist der Ursprung dieses Wortes?"
+
+- id: "outcome"
+  lemma: "outcome"
+  pos: noun
+  level: B2
+  ipa: "/ˈaʊt.kʌm/"
+  example: "We are waiting for the outcome."
+  translations:
+    de: ["das Ergebnis", "der Ausgang"]
+  example_translations:
+    de: "Wir warten auf das Ergebnis."
+
+- id: "outline-noun"
+  lemma: "outline"
+  pos: noun
+  level: B2
+  ipa: "/ˈaʊt.laɪn/"
+  example: "Write an outline of your essay."
+  translations:
+    de: ["der Umriss", "der Überblick", "die Gliederung"]
+  example_translations:
+    de: "Schreib eine Gliederung für deinen Aufsatz."
+
+- id: "outside-noun"
+  lemma: "outside"
+  pos: noun
+  level: A2
+  ipa: "/ˌaʊtˈsaɪd/"
+  example: "The outside of the house is white."
+  translations:
+    de: ["die Außenseite", "das Äußere"]
+  example_translations:
+    de: "Das Haus ist außen weiß."
+
+- id: "pace-noun"
+  lemma: "pace"
+  pos: noun
+  level: B2
+  ipa: "/peɪs/"
+  example: "He walked at a fast pace."
+  translations:
+    de: ["das Tempo", "der Schritt"]
+  example_translations:
+    de: "Er ging in schnellem Tempo."
+
+- id: "panel"
+  lemma: "panel"
+  pos: noun
+  level: B2
+  ipa: "/ˈpæn.əl/"
+  example: "A panel of experts discussed the problem."
+  translations:
+    de: ["das Gremium", "die Platte", "die Tafel"]
+  example_translations:
+    de: "Eine Expertenrunde diskutierte das Problem."
+
+- id: "part"
+  lemma: "part"
+  pos: noun
+  level: A1
+  ipa: "/pɑːt/"
+  example: "This is the best part of the film."
+  translations:
+    de: ["der Teil", "die Rolle"]
+  example_translations:
+    de: "Das ist der beste Teil des Films."
+
+- id: "pattern"
+  lemma: "pattern"
+  pos: noun
+  level: A2
+  ipa: "/ˈpæt.ən/"
+  example: "I like the pattern on your shirt."
+  translations:
+    de: ["das Muster"]
+  example_translations:
+    de: "Mir gefällt das Muster auf deinem Hemd."
+
+- id: "pick-noun"
+  lemma: "pick"
+  pos: noun
+  level: B2
+  ipa: "/pɪk/"
+  example: "Take your pick."
+  translations:
+    de: ["die Wahl", "die Auswahl"]
+  example_translations:
+    de: "Such dir was aus."
+
+- id: "pile-noun"
+  lemma: "pile"
+  pos: noun
+  level: B2
+  ipa: "/paɪl/"
+  example: "There's a pile of books on the floor."
+  translations:
+    de: ["der Haufen", "der Stapel"]
+  example_translations:
+    de: "Auf dem Boden liegt ein Stapel Bücher."
+
+- id: "plan-noun"
+  lemma: "plan"
+  pos: noun
+  level: A1
+  ipa: "/plæn/"
+  example: "What are your plans for the weekend?"
+  translations:
+    de: ["der Plan"]
+  example_translations:
+    de: "Was hast du am Wochenende vor?"
+
+- id: "point-noun"
+  lemma: "point"
+  pos: noun
+  level: A1
+  ipa: "/pɔɪnt/"
+  example: "That's a good point."
+  translations:
+    de: ["der Punkt", "die Spitze", "der Sinn"]
+  example_translations:
+    de: "Das ist ein gutes Argument."
+
+- id: "popularity"
+  lemma: "popularity"
+  pos: noun
+  level: B2
+  ipa: "/ˌpɒp.jəˈlær.ə.ti/"
+  example: "The popularity of cycling is growing."
+  translations:
+    de: ["die Beliebtheit"]
+  example_translations:
+    de: "Radfahren wird immer beliebter."
+
+- id: "position-noun"
+  lemma: "position"
+  pos: noun
+  level: A2
+  ipa: "/pəˈzɪʃ.ən/"
+  example: "Change your position."
+  translations:
+    de: ["die Position", "die Stelle", "die Lage"]
+  example_translations:
+    de: "Ändere deine Position."
+
+- id: "possibility"
+  lemma: "possibility"
+  pos: noun
+  level: A2
+  ipa: "/ˌpɒs.əˈbɪl.ə.ti/"
+  example: "Is there a possibility of rain?"
+  translations:
+    de: ["die Möglichkeit"]
+  example_translations:
+    de: "Besteht die Möglichkeit, dass es regnet?"
+
+- id: "potential-noun"
+  lemma: "potential"
+  pos: noun
+  level: B2
+  ipa: "/pəˈten.ʃəl/"
+  example: "She has great potential."
+  translations:
+    de: ["das Potenzial"]
+  example_translations:
+    de: "Sie hat großes Potenzial."
+
+- id: "preparation"
+  lemma: "preparation"
+  pos: noun
+  level: B2
+  ipa: "/ˌprep.ərˈeɪ.ʃən/"
+  example: "The preparations for the wedding took months."
+  translations:
+    de: ["die Vorbereitung"]
+  example_translations:
+    de: "Die Vorbereitungen für die Hochzeit dauerten Monate."
+
+- id: "presence"
+  lemma: "presence"
+  pos: noun
+  level: B2
+  ipa: "/ˈprez.əns/"
+  example: "Your presence is required."
+  translations:
+    de: ["die Anwesenheit", "die Gegenwart"]
+  example_translations:
+    de: "Ihre Anwesenheit ist erforderlich."
+
+- id: "pressure"
+  lemma: "pressure"
+  pos: noun
+  level: B1
+  ipa: "/ˈpreʃ.ər/"
+  example: "I'm under a lot of pressure at work."
+  translations:
+    de: ["der Druck"]
+  example_translations:
+    de: "Ich stehe bei der Arbeit unter großem Druck."
+
+- id: "priority"
+  lemma: "priority"
+  pos: noun
+  level: B2
+  ipa: "/praɪˈɒr.ə.ti/"
+  example: "Safety is our top priority."
+  translations:
+    de: ["die Priorität", "der Vorrang"]
+  example_translations:
+    de: "Sicherheit hat für uns oberste Priorität."
+
+- id: "problem"
+  lemma: "problem"
+  pos: noun
+  level: A1
+  ipa: "/ˈprɒb.ləm/"
+  example: "No problem!"
+  translations:
+    de: ["das Problem"]
+  example_translations:
+    de: "Kein Problem!"
+
+- id: "process-noun"
+  lemma: "process"
+  pos: noun
+  level: A2
+  ipa: "/ˈprəʊ.ses/"
+  example: "Learning is a slow process."
+  translations:
+    de: ["der Prozess", "das Verfahren", "der Vorgang"]
+  example_translations:
+    de: "Lernen ist ein langsamer Prozess."
+
+- id: "progress-noun"
+  lemma: "progress"
+  pos: noun
+  level: A2
+  ipa: "/ˈprəʊ.ɡres/"
+  example: "You've made good progress."
+  translations:
+    de: ["der Fortschritt"]
+  example_translations:
+    de: "Du hast gute Fortschritte gemacht."
+
+- id: "progress-verb"
+  lemma: "progress"
+  pos: verb
+  level: B2
+  ipa: "/prəˈɡres/"
+  example: "Work is progressing well."
+  translations:
+    de: ["vorankommen", "fortschreiten"]
+  example_translations:
+    de: "Die Arbeit kommt gut voran."
+
+- id: "prospect"
+  lemma: "prospect"
+  pos: noun
+  level: B2
+  ipa: "/ˈprɒs.pekt/"
+  example: "The job has good prospects."
+  translations:
+    de: ["die Aussicht", "die Perspektive"]
+  example_translations:
+    de: "Der Job bietet gute Aussichten."
+
+- id: "protection"
+  lemma: "protection"
+  pos: noun
+  level: B2
+  ipa: "/prəˈtek.ʃən/"
+  example: "Wear a helmet for protection."
+  translations:
+    de: ["der Schutz"]
+  example_translations:
+    de: "Trag zum Schutz einen Helm."
+
+- id: "pull-noun"
+  lemma: "pull"
+  pos: noun
+  level: B1
+  ipa: "/pʊl/"
+  example: "Give the rope a pull."
+  translations:
+    de: ["der Zug", "das Ziehen"]
+  example_translations:
+    de: "Zieh mal am Seil."
+
+- id: "purpose"
+  lemma: "purpose"
+  pos: noun
+  level: A2
+  ipa: "/ˈpɜː.pəs/"
+  example: "What is the purpose of your visit?"
+  translations:
+    de: ["der Zweck", "die Absicht"]
+  example_translations:
+    de: "Was ist der Zweck Ihres Besuchs?"
+
+- id: "push-noun"
+  lemma: "push"
+  pos: noun
+  level: B1
+  ipa: "/pʊʃ/"
+  example: "Give the car a push."
+  translations:
+    de: ["der Stoß", "der Schubs"]
+  example_translations:
+    de: "Schieb das Auto mal an."
+
+- id: "quality"
+  lemma: "quality"
+  pos: noun
+  level: A2
+  ipa: "/ˈkwɒl.ə.ti/"
+  example: "The quality of the food is excellent."
+  translations:
+    de: ["die Qualität", "die Eigenschaft"]
+  example_translations:
+    de: "Die Qualität des Essens ist ausgezeichnet."
+
+- id: "range-noun"
+  lemma: "range"
+  pos: noun
+  level: B1
+  ipa: "/reɪndʒ/"
+  example: "The shop has a wide range of shoes."
+  translations:
+    de: ["die Auswahl", "die Reichweite", "das Spektrum"]
+  example_translations:
+    de: "Der Laden hat eine große Auswahl an Schuhen."
+
+- id: "rank-verb"
+  lemma: "rank"
+  pos: verb
+  level: B2
+  ipa: "/ræŋk/"
+  example: "The city ranks among the best in the world."
+  translations:
+    de: ["einstufen", "rangieren"]
+  example_translations:
+    de: "Die Stadt zählt zu den besten der Welt."
+
+- id: "reach-noun"
+  lemma: "reach"
+  pos: noun
+  level: B2
+  ipa: "/riːtʃ/"
+  example: "Keep medicine out of the reach of children."
+  translations:
+    de: ["die Reichweite"]
+  example_translations:
+    de: "Bewahre Medikamente außerhalb der Reichweite von Kindern auf."
+
+- id: "reaction"
+  lemma: "reaction"
+  pos: noun
+  level: B1
+  ipa: "/riˈæk.ʃən/"
+  example: "What was his reaction?"
+  translations:
+    de: ["die Reaktion"]
+  example_translations:
+    de: "Wie hat er reagiert?"
+
+- id: "reality"
+  lemma: "reality"
+  pos: noun
+  level: B1
+  ipa: "/riˈæl.ə.ti/"
+  example: "In reality, it was very difficult."
+  translations:
+    de: ["die Wirklichkeit", "die Realität"]
+  example_translations:
+    de: "In Wirklichkeit war es sehr schwierig."
+
+- id: "reason"
+  lemma: "reason"
+  pos: noun
+  level: A1
+  ipa: "/ˈriː.zən/"
+  example: "What's the reason for your visit?"
+  translations:
+    de: ["der Grund"]
+  example_translations:
+    de: "Was ist der Grund für deinen Besuch?"
+
+- id: "record-noun"
+  lemma: "record"
+  pos: noun
+  level: A2
+  ipa: "/ˈrek.ɔːd/"
+  example: "She broke the world record."
+  translations:
+    de: ["der Rekord", "die Aufzeichnung", "die Schallplatte"]
+  example_translations:
+    de: "Sie hat den Weltrekord gebrochen."
+
+- id: "relate"
+  lemma: "relate"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈleɪt/"
+  example: "I can relate to that."
+  translations:
+    de: ["sich beziehen", "in Verbindung bringen", "nachvollziehen"]
+  example_translations:
+    de: "Das kann ich nachvollziehen."
+
+- id: "repair-noun"
+  lemma: "repair"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈpeər/"
+  example: "The car needs repairs."
+  translations:
+    de: ["die Reparatur"]
+  example_translations:
+    de: "Das Auto muss repariert werden."
+
+- id: "reputation"
+  lemma: "reputation"
+  pos: noun
+  level: B2
+  ipa: "/ˌrep.jəˈteɪ.ʃən/"
+  example: "The hotel has a good reputation."
+  translations:
+    de: ["der Ruf"]
+  example_translations:
+    de: "Das Hotel hat einen guten Ruf."
+
+- id: "require"
+  lemma: "require"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈkwaɪər/"
+  example: "This job requires patience."
+  translations:
+    de: ["benötigen", "erfordern"]
+  example_translations:
+    de: "Diese Arbeit erfordert Geduld."
+
+- id: "requirement"
+  lemma: "requirement"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈkwaɪə.mənt/"
+  example: "What are the requirements for the job?"
+  translations:
+    de: ["die Anforderung", "die Voraussetzung"]
+  example_translations:
+    de: "Was sind die Voraussetzungen für die Stelle?"
+
+- id: "rescue-noun"
+  lemma: "rescue"
+  pos: noun
+  level: B2
+  ipa: "/ˈres.kjuː/"
+  example: "A rescue team arrived."
+  translations:
+    de: ["die Rettung"]
+  example_translations:
+    de: "Ein Rettungsteam traf ein."
+
+- id: "reserve-noun"
+  lemma: "reserve"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈzɜːv/"
+  example: "We keep some money in reserve."
+  translations:
+    de: ["die Reserve", "das Schutzgebiet"]
+  example_translations:
+    de: "Wir haben etwas Geld in Reserve."
+
+- id: "resource"
+  lemma: "resource"
+  pos: noun
+  level: B1
+  ipa: "/rɪˈzɔːs/"
+  example: "The country is rich in natural resources."
+  translations:
+    de: ["die Ressource", "das Hilfsmittel"]
+  example_translations:
+    de: "Das Land ist reich an Bodenschätzen."
+
+- id: "rest-noun"
+  lemma: "rest"
+  pos: noun
+  level: A2
+  ipa: "/rest/"
+  example: "You need some rest."
+  translations:
+    de: ["die Ruhe", "die Pause", "der Rest"]
+  example_translations:
+    de: "Du brauchst etwas Ruhe."
+
+- id: "result-noun"
+  lemma: "result"
+  pos: noun
+  level: A1
+  ipa: "/rɪˈzʌlt/"
+  example: "What was the result of the game?"
+  translations:
+    de: ["das Ergebnis", "die Folge"]
+  example_translations:
+    de: "Wie ist das Spiel ausgegangen?"
+
+- id: "result-verb"
+  lemma: "result"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈzʌlt/"
+  example: "The storm resulted in flooding."
+  translations:
+    de: ["zur Folge haben", "sich ergeben"]
+  example_translations:
+    de: "Der Sturm führte zu Überschwemmungen."
+
+- id: "reward-noun"
+  lemma: "reward"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈwɔːd/"
+  example: "There is a reward for finding the dog."
+  translations:
+    de: ["die Belohnung"]
+  example_translations:
+    de: "Für den gefundenen Hund gibt es eine Belohnung."
+
+- id: "risk-noun"
+  lemma: "risk"
+  pos: noun
+  level: B1
+  ipa: "/rɪsk/"
+  example: "It's a big risk."
+  translations:
+    de: ["das Risiko", "die Gefahr"]
+  example_translations:
+    de: "Das ist ein großes Risiko."
+
+- id: "role"
+  lemma: "role"
+  pos: noun
+  level: A2
+  ipa: "/rəʊl/"
+  example: "She plays the main role."
+  translations:
+    de: ["die Rolle"]
+  example_translations:
+    de: "Sie spielt die Hauptrolle."
+
+- id: "rope"
+  lemma: "rope"
+  pos: noun
+  level: B1
+  ipa: "/rəʊp/"
+  example: "Hold on to the rope."
+  translations:
+    de: ["das Seil"]
+  example_translations:
+    de: "Halt dich am Seil fest."
+
+- id: "row"
+  lemma: "row"
+  pos: noun
+  level: B1
+  ipa: "/rəʊ/"
+  example: "We sat in the front row."
+  translations:
+    de: ["die Reihe"]
+  example_translations:
+    de: "Wir saßen in der ersten Reihe."
+
+- id: "rule-noun"
+  lemma: "rule"
+  pos: noun
+  level: A1
+  ipa: "/ruːl/"
+  example: "You must follow the rules."
+  translations:
+    de: ["die Regel"]
+  example_translations:
+    de: "Du musst dich an die Regeln halten."
+
+- id: "safety"
+  lemma: "safety"
+  pos: noun
+  level: B1
+  ipa: "/ˈseɪf.ti/"
+  example: "Safety comes first."
+  translations:
+    de: ["die Sicherheit"]
+  example_translations:
+    de: "Sicherheit geht vor."
+
+- id: "secret-noun"
+  lemma: "secret"
+  pos: noun
+  level: A2
+  ipa: "/ˈsiː.krət/"
+  example: "Can you keep a secret?"
+  translations:
+    de: ["das Geheimnis"]
+  example_translations:
+    de: "Kannst du ein Geheimnis bewahren?"
+
+- id: "section"
+  lemma: "section"
+  pos: noun
+  level: A1
+  ipa: "/ˈsek.ʃən/"
+  example: "Read section two."
+  translations:
+    de: ["der Abschnitt", "der Teil", "die Abteilung"]
+  example_translations:
+    de: "Lies Abschnitt zwei."
+
+- id: "seem"
+  lemma: "seem"
+  pos: verb
+  level: A2
+  ipa: "/siːm/"
+  example: "You seem tired."
+  translations:
+    de: ["scheinen", "wirken"]
+  example_translations:
+    de: "Du wirkst müde."
+
+- id: "sequence"
+  lemma: "sequence"
+  pos: noun
+  level: B2
+  ipa: "/ˈsiː.kwəns/"
+  example: "Put the pictures in the right sequence."
+  translations:
+    de: ["die Reihenfolge", "die Folge"]
+  example_translations:
+    de: "Bring die Bilder in die richtige Reihenfolge."
+
+- id: "set-noun"
+  lemma: "set"
+  pos: noun
+  level: B1
+  ipa: "/set/"
+  example: "I bought a set of glasses."
+  translations:
+    de: ["das Set", "der Satz", "die Kulisse"]
+  example_translations:
+    de: "Ich habe ein Gläserset gekauft."
+
+- id: "setting"
+  lemma: "setting"
+  pos: noun
+  level: B1
+  ipa: "/ˈset.ɪŋ/"
+  example: "The hotel is in a beautiful setting."
+  translations:
+    de: ["die Umgebung", "der Schauplatz", "die Einstellung"]
+  example_translations:
+    de: "Das Hotel liegt in einer wunderschönen Umgebung."
+
+- id: "shadow"
+  lemma: "shadow"
+  pos: noun
+  level: B2
+  ipa: "/ˈʃæd.əʊ/"
+  example: "I saw a shadow on the wall."
+  translations:
+    de: ["der Schatten"]
+  example_translations:
+    de: "Ich sah einen Schatten an der Wand."
+
+- id: "shape-noun"
+  lemma: "shape"
+  pos: noun
+  level: A2
+  ipa: "/ʃeɪp/"
+  example: "The cake is in the shape of a heart."
+  translations:
+    de: ["die Form", "die Gestalt"]
+  example_translations:
+    de: "Der Kuchen hat die Form eines Herzens."
+
+- id: "shelter-noun"
+  lemma: "shelter"
+  pos: noun
+  level: B2
+  ipa: "/ˈʃel.tər/"
+  example: "We found shelter from the rain."
+  translations:
+    de: ["der Schutz", "die Unterkunft", "das Tierheim"]
+  example_translations:
+    de: "Wir fanden Schutz vor dem Regen."
+
+- id: "shot"
+  lemma: "shot"
+  pos: noun
+  level: B2
+  ipa: "/ʃɒt/"
+  example: "I heard a shot."
+  translations:
+    de: ["der Schuss", "die Aufnahme", "der Versuch"]
+  example_translations:
+    de: "Ich hörte einen Schuss."
+
+- id: "side"
+  lemma: "side"
+  pos: noun
+  level: A2
+  ipa: "/saɪd/"
+  example: "Write on one side of the paper."
+  translations:
+    de: ["die Seite"]
+  example_translations:
+    de: "Schreib nur auf eine Seite des Papiers."
+
+- id: "silence"
+  lemma: "silence"
+  pos: noun
+  level: B2
+  ipa: "/ˈsaɪ.ləns/"
+  example: "There was a long silence."
+  translations:
+    de: ["die Stille", "das Schweigen"]
+  example_translations:
+    de: "Es herrschte langes Schweigen."
+
+- id: "similarity"
+  lemma: "similarity"
+  pos: noun
+  level: B1
+  ipa: "/ˌsɪm.ɪˈlær.ə.ti/"
+  example: "There are many similarities between them."
+  translations:
+    de: ["die Ähnlichkeit"]
+  example_translations:
+    de: "Es gibt viele Ähnlichkeiten zwischen ihnen."
+
+- id: "situation"
+  lemma: "situation"
+  pos: noun
+  level: A1
+  ipa: "/ˌsɪtʃ.uˈeɪ.ʃən/"
+  example: "It's a difficult situation."
+  translations:
+    de: ["die Situation", "die Lage"]
+  example_translations:
+    de: "Es ist eine schwierige Situation."
+
+- id: "smoke-noun"
+  lemma: "smoke"
+  pos: noun
+  level: A2
+  ipa: "/sməʊk/"
+  example: "There was smoke everywhere."
+  translations:
+    de: ["der Rauch"]
+  example_translations:
+    de: "Überall war Rauch."
+
+- id: "solution"
+  lemma: "solution"
+  pos: noun
+  level: A2
+  ipa: "/səˈluː.ʃən/"
+  example: "We found a solution."
+  translations:
+    de: ["die Lösung"]
+  example_translations:
+    de: "Wir haben eine Lösung gefunden."
+
+- id: "sort-noun"
+  lemma: "sort"
+  pos: noun
+  level: A2
+  ipa: "/sɔːt/"
+  example: "What sort of music do you like?"
+  translations:
+    de: ["die Art", "die Sorte"]
+  example_translations:
+    de: "Welche Art Musik magst du?"
+
+- id: "sound-noun"
+  lemma: "sound"
+  pos: noun
+  level: A1
+  ipa: "/saʊnd/"
+  example: "What's that sound?"
+  translations:
+    de: ["das Geräusch", "der Klang", "der Ton"]
+  example_translations:
+    de: "Was ist das für ein Geräusch?"
+
+- id: "sound-verb"
+  lemma: "sound"
+  pos: verb
+  level: A1
+  ipa: "/saʊnd/"
+  example: "That sounds great!"
+  translations:
+    de: ["klingen"]
+  example_translations:
+    de: "Das klingt toll!"
+
+- id: "source"
+  lemma: "source"
+  pos: noun
+  level: A2
+  ipa: "/sɔːs/"
+  example: "What is the source of this information?"
+  translations:
+    de: ["die Quelle", "der Ursprung"]
+  example_translations:
+    de: "Was ist die Quelle dieser Information?"
+
+- id: "split-noun"
+  lemma: "split"
+  pos: noun
+  level: B2
+  ipa: "/splɪt/"
+  example: "There was a split in the party."
+  translations:
+    de: ["die Spaltung", "der Riss", "die Trennung"]
+  example_translations:
+    de: "Es gab eine Spaltung in der Partei."
+
+- id: "spot-noun"
+  lemma: "spot"
+  pos: noun
+  level: B1
+  ipa: "/spɒt/"
+  example: "This is a nice spot for a picnic."
+  translations:
+    de: ["der Fleck", "der Punkt", "die Stelle"]
+  example_translations:
+    de: "Das ist ein schönes Plätzchen für ein Picknick."
+
+- id: "spread-noun"
+  lemma: "spread"
+  pos: noun
+  level: B2
+  ipa: "/spred/"
+  example: "We must stop the spread of the disease."
+  translations:
+    de: ["die Verbreitung", "die Ausbreitung"]
+  example_translations:
+    de: "Wir müssen die Ausbreitung der Krankheit stoppen."
+
+- id: "standard-noun"
+  lemma: "standard"
+  pos: noun
+  level: B1
+  ipa: "/ˈstæn.dəd/"
+  example: "The standard of living is high."
+  translations:
+    de: ["der Standard", "das Niveau"]
+  example_translations:
+    de: "Der Lebensstandard ist hoch."
+
+- id: "step-noun"
+  lemma: "step"
+  pos: noun
+  level: A2
+  ipa: "/step/"
+  example: "Take one step forward."
+  translations:
+    de: ["der Schritt", "die Stufe"]
+  example_translations:
+    de: "Mach einen Schritt nach vorn."
+
+- id: "stick-noun"
+  lemma: "stick"
+  pos: noun
+  level: B1
+  ipa: "/stɪk/"
+  example: "The dog brought back the stick."
+  translations:
+    de: ["der Stock", "der Stab"]
+  example_translations:
+    de: "Der Hund brachte den Stock zurück."
+
+- id: "stretch-noun"
+  lemma: "stretch"
+  pos: noun
+  level: B2
+  ipa: "/stretʃ/"
+  example: "It's a dangerous stretch of road."
+  translations:
+    de: ["die Strecke", "der Abschnitt", "das Dehnen"]
+  example_translations:
+    de: "Das ist ein gefährlicher Straßenabschnitt."
+
+- id: "string"
+  lemma: "string"
+  pos: noun
+  level: B1
+  ipa: "/strɪŋ/"
+  example: "Tie it with a piece of string."
+  translations:
+    de: ["die Schnur", "die Saite"]
+  example_translations:
+    de: "Bind es mit einer Schnur zusammen."
+
+- id: "structure-noun"
+  lemma: "structure"
+  pos: noun
+  level: A2
+  ipa: "/ˈstrʌk.tʃər/"
+  example: "The structure of the text is clear."
+  translations:
+    de: ["die Struktur", "der Aufbau", "das Bauwerk"]
+  example_translations:
+    de: "Der Aufbau des Textes ist klar."
+
+- id: "struggle-noun"
+  lemma: "struggle"
+  pos: noun
+  level: B2
+  ipa: "/ˈstrʌɡ.əl/"
+  example: "Life was a struggle."
+  translations:
+    de: ["der Kampf", "die Mühe"]
+  example_translations:
+    de: "Das Leben war ein Kampf."
+
+- id: "stuff-noun"
+  lemma: "stuff"
+  pos: noun
+  level: B1
+  ipa: "/stʌf/"
+  example: "Where is all my stuff?"
+  translations:
+    de: ["das Zeug", "die Sachen"]
+  example_translations:
+    de: "Wo sind all meine Sachen?"
+
+- id: "supply-noun"
+  lemma: "supply"
+  pos: noun
+  level: B1
+  ipa: "/səˈplaɪ/"
+  example: "We have a supply of food for a week."
+  translations:
+    de: ["die Versorgung", "der Vorrat", "das Angebot"]
+  example_translations:
+    de: "Wir haben Lebensmittel für eine Woche."
+
+- id: "support-noun"
+  lemma: "support"
+  pos: noun
+  level: A2
+  ipa: "/səˈpɔːt/"
+  example: "Thank you for your support."
+  translations:
+    de: ["die Unterstützung", "der Halt"]
+  example_translations:
+    de: "Danke für deine Unterstützung."
+
+- id: "surface"
+  lemma: "surface"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɜː.fɪs/"
+  example: "The surface of the table is smooth."
+  translations:
+    de: ["die Oberfläche"]
+  example_translations:
+    de: "Die Oberfläche des Tisches ist glatt."
+
+- id: "symbol"
+  lemma: "symbol"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪm.bəl/"
+  example: "The dove is a symbol of peace."
+  translations:
+    de: ["das Symbol", "das Zeichen"]
+  example_translations:
+    de: "Die Taube ist ein Symbol des Friedens."
+
+- id: "system"
+  lemma: "system"
+  pos: noun
+  level: A2
+  ipa: "/ˈsɪs.təm/"
+  example: "The school system is different here."
+  translations:
+    de: ["das System"]
+  example_translations:
+    de: "Das Schulsystem ist hier anders."
+
+- id: "tank"
+  lemma: "tank"
+  pos: noun
+  level: B2
+  ipa: "/tæŋk/"
+  example: "The fish live in a big tank."
+  translations:
+    de: ["der Tank", "der Panzer", "das Becken"]
+  example_translations:
+    de: "Die Fische leben in einem großen Becken."
+
+- id: "technique"
+  lemma: "technique"
+  pos: noun
+  level: B1
+  ipa: "/tekˈniːk/"
+  example: "She has a good technique."
+  translations:
+    de: ["die Technik", "die Methode"]
+  example_translations:
+    de: "Sie hat eine gute Technik."
+
+- id: "tend"
+  lemma: "tend"
+  pos: verb
+  level: B1
+  ipa: "/tend/"
+  example: "I tend to get up late on Sundays."
+  translations:
+    de: ["neigen", "dazu tendieren"]
+  example_translations:
+    de: "Sonntags stehe ich meistens spät auf."
+
+- id: "thing"
+  lemma: "thing"
+  pos: noun
+  level: A1
+  ipa: "/θɪŋ/"
+  example: "What's that thing?"
+  translations:
+    de: ["das Ding", "die Sache"]
+  example_translations:
+    de: "Was ist das für ein Ding?"
+
+- id: "threat"
+  lemma: "threat"
+  pos: noun
+  level: B2
+  ipa: "/θret/"
+  example: "Climate change is a threat to us all."
+  translations:
+    de: ["die Bedrohung", "die Drohung"]
+  example_translations:
+    de: "Der Klimawandel ist eine Bedrohung für uns alle."
+
+- id: "tip-noun"
+  lemma: "tip"
+  pos: noun
+  level: A2
+  ipa: "/tɪp/"
+  example: "Can you give me a tip?"
+  translations:
+    de: ["der Tipp", "das Trinkgeld", "die Spitze"]
+  example_translations:
+    de: "Kannst du mir einen Tipp geben?"
+
+- id: "top-noun"
+  lemma: "top"
+  pos: noun
+  level: A2
+  ipa: "/tɒp/"
+  example: "We climbed to the top of the hill."
+  translations:
+    de: ["die Spitze", "das Oberteil", "der Gipfel"]
+  example_translations:
+    de: "Wir sind auf den Gipfel des Hügels gestiegen."
+
+- id: "touch-noun"
+  lemma: "touch"
+  pos: noun
+  level: B1
+  ipa: "/tʌtʃ/"
+  example: "Let's keep in touch."
+  translations:
+    de: ["die Berührung", "der Kontakt"]
+  example_translations:
+    de: "Lass uns in Kontakt bleiben."
+
+- id: "transition"
+  lemma: "transition"
+  pos: noun
+  level: B2
+  ipa: "/trænˈzɪʃ.ən/"
+  example: "The transition to a new school can be hard."
+  translations:
+    de: ["der Übergang", "der Wandel"]
+  example_translations:
+    de: "Der Wechsel auf eine neue Schule kann schwer sein."
+
+- id: "trend"
+  lemma: "trend"
+  pos: noun
+  level: B1
+  ipa: "/trend/"
+  example: "It's the latest fashion trend."
+  translations:
+    de: ["der Trend"]
+  example_translations:
+    de: "Das ist der neueste Modetrend."
+
+- id: "trick-noun"
+  lemma: "trick"
+  pos: noun
+  level: B1
+  ipa: "/trɪk/"
+  example: "He showed us a card trick."
+  translations:
+    de: ["der Trick", "der Streich"]
+  example_translations:
+    de: "Er zeigte uns einen Kartentrick."
+
+- id: "trouble-noun"
+  lemma: "trouble"
+  pos: noun
+  level: A2
+  ipa: "/ˈtrʌb.əl/"
+  example: "He's in trouble again."
+  translations:
+    de: ["der Ärger", "die Schwierigkeiten", "die Mühe"]
+  example_translations:
+    de: "Er steckt wieder in Schwierigkeiten."
+
+- id: "truth"
+  lemma: "truth"
+  pos: noun
+  level: B1
+  ipa: "/truːθ/"
+  example: "Tell me the truth."
+  translations:
+    de: ["die Wahrheit"]
+  example_translations:
+    de: "Sag mir die Wahrheit."
+
+- id: "try-noun"
+  lemma: "try"
+  pos: noun
+  level: B2
+  ipa: "/traɪ/"
+  example: "Give it a try!"
+  translations:
+    de: ["der Versuch"]
+  example_translations:
+    de: "Probier es mal!"
+
+- id: "turn-noun"
+  lemma: "turn"
+  pos: noun
+  level: A1
+  ipa: "/tɜːn/"
+  example: "It's your turn."
+  translations:
+    de: ["die Reihe", "die Abzweigung", "die Drehung"]
+  example_translations:
+    de: "Du bist dran."
+
+- id: "type-noun"
+  lemma: "type"
+  pos: noun
+  level: A1
+  ipa: "/taɪp/"
+  example: "What type of music do you like?"
+  translations:
+    de: ["die Art", "der Typ", "die Sorte"]
+  example_translations:
+    de: "Welche Art Musik magst du?"
+
+- id: "unit"
+  lemma: "unit"
+  pos: noun
+  level: A2
+  ipa: "/ˈjuː.nɪt/"
+  example: "Let's start unit five."
+  translations:
+    de: ["die Einheit", "die Lektion"]
+  example_translations:
+    de: "Fangen wir mit Lektion fünf an."
+
+- id: "use-noun"
+  lemma: "use"
+  pos: noun
+  level: A2
+  ipa: "/juːs/"
+  example: "It's no use."
+  translations:
+    de: ["die Benutzung", "der Gebrauch", "der Nutzen"]
+  example_translations:
+    de: "Es hat keinen Zweck."
+
+- id: "variety"
+  lemma: "variety"
+  pos: noun
+  level: A2
+  ipa: "/vəˈraɪə.ti/"
+  example: "The shop sells a variety of cheeses."
+  translations:
+    de: ["die Vielfalt", "die Auswahl", "die Sorte"]
+  example_translations:
+    de: "Der Laden verkauft verschiedene Käsesorten."
+
+- id: "vary"
+  lemma: "vary"
+  pos: verb
+  level: B2
+  ipa: "/ˈveə.ri/"
+  example: "Prices vary from shop to shop."
+  translations:
+    de: ["variieren", "sich unterscheiden"]
+  example_translations:
+    de: "Die Preise sind von Laden zu Laden unterschiedlich."
+
+- id: "version"
+  lemma: "version"
+  pos: noun
+  level: B1
+  ipa: "/ˈvɜː.ʃən/"
+  example: "I prefer the original version."
+  translations:
+    de: ["die Version", "die Fassung"]
+  example_translations:
+    de: "Ich mag die Originalfassung lieber."
+
+- id: "way"
+  lemma: "way"
+  pos: noun
+  level: A1
+  ipa: "/weɪ/"
+  example: "Can you tell me the way to the station?"
+  translations:
+    de: ["der Weg", "die Art und Weise"]
+  example_translations:
+    de: "Können Sie mir den Weg zum Bahnhof sagen?"
+
+- id: "whole-noun"
+  lemma: "whole"
+  pos: noun
+  level: B1
+  ipa: "/həʊl/"
+  example: "On the whole, it was a good day."
+  translations:
+    de: ["das Ganze"]
+  example_translations:
+    de: "Im Großen und Ganzen war es ein guter Tag."
+
+- id: "wonder-noun"
+  lemma: "wonder"
+  pos: noun
+  level: B1
+  ipa: "/ˈwʌn.dər/"
+  example: "No wonder you're tired!"
+  translations:
+    de: ["das Wunder", "das Staunen"]
+  example_translations:
+    de: "Kein Wunder, dass du müde bist!"
+
+- id: "zone"
+  lemma: "zone"
+  pos: noun
+  level: B2
+  ipa: "/zəʊn/"
+  example: "This is a no-parking zone."
+  translations:
+    de: ["die Zone", "das Gebiet"]
+  example_translations:
+    de: "Das ist eine Parkverbotszone."

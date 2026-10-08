@@ -1,0 +1,1850 @@
+# 💼 Arbeit & Berufe – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "achieve"
+  lemma: "achieve"
+  pos: verb
+  level: A2
+  ipa: "/əˈtʃiːv/"
+  example: "She achieved all her goals."
+  translations:
+    de: ["erreichen", "schaffen"]
+  example_translations:
+    de: "Sie hat alle ihre Ziele erreicht."
+
+- id: "achievement"
+  lemma: "achievement"
+  pos: noun
+  level: B1
+  ipa: "/əˈtʃiːv.mənt/"
+  example: "Winning the prize was a great achievement."
+  translations:
+    de: ["die Leistung", "der Erfolg"]
+  example_translations:
+    de: "Den Preis zu gewinnen war eine große Leistung."
+
+- id: "administration"
+  lemma: "administration"
+  pos: noun
+  level: B2
+  ipa: "/ədˌmɪn.ɪˈstreɪ.ʃən/"
+  example: "She works in administration."
+  translations:
+    de: ["die Verwaltung"]
+  example_translations:
+    de: "Sie arbeitet in der Verwaltung."
+
+- id: "agency"
+  lemma: "agency"
+  pos: noun
+  level: B2
+  ipa: "/ˈeɪ.dʒən.si/"
+  example: "She works for a travel agency."
+  translations:
+    de: ["die Agentur", "die Behörde"]
+  example_translations:
+    de: "Sie arbeitet für ein Reisebüro."
+
+- id: "agenda"
+  lemma: "agenda"
+  pos: noun
+  level: B2
+  ipa: "/əˈdʒen.də/"
+  example: "What is on the agenda today?"
+  translations:
+    de: ["die Tagesordnung", "die Agenda"]
+  example_translations:
+    de: "Was steht heute auf der Tagesordnung?"
+
+- id: "agent"
+  lemma: "agent"
+  pos: noun
+  level: B1
+  ipa: "/ˈeɪ.dʒənt/"
+  example: "We bought the house through an agent."
+  translations:
+    de: ["der Vertreter", "der Makler", "der Agent"]
+  example_translations:
+    de: "Wir haben das Haus über einen Makler gekauft."
+
+- id: "ambition"
+  lemma: "ambition"
+  pos: noun
+  level: B1
+  ipa: "/æmˈbɪʃ.ən/"
+  example: "Her ambition is to become a doctor."
+  translations:
+    de: ["der Ehrgeiz", "das Ziel"]
+  example_translations:
+    de: "Ihr Ziel ist es, Ärztin zu werden."
+
+- id: "application"
+  lemma: "application"
+  pos: noun
+  level: B1
+  ipa: "/ˌæp.lɪˈkeɪ.ʃən/"
+  example: "I sent my application yesterday."
+  translations:
+    de: ["die Bewerbung", "der Antrag", "die Anwendung"]
+  example_translations:
+    de: "Ich habe gestern meine Bewerbung abgeschickt."
+
+- id: "apply"
+  lemma: "apply"
+  pos: verb
+  level: A2
+  ipa: "/əˈplaɪ/"
+  example: "She applied for the job."
+  translations:
+    de: ["sich bewerben", "beantragen", "gelten"]
+  example_translations:
+    de: "Sie hat sich um die Stelle beworben."
+
+- id: "architect"
+  lemma: "architect"
+  pos: noun
+  level: A2
+  ipa: "/ˈɑː.kɪ.tekt/"
+  example: "My sister is an architect."
+  translations:
+    de: ["der Architekt", "die Architektin"]
+  example_translations:
+    de: "Meine Schwester ist Architektin."
+
+- id: "assistant"
+  lemma: "assistant"
+  pos: noun
+  level: A2
+  ipa: "/əˈsɪs.tənt/"
+  example: "The shop assistant was very friendly."
+  translations:
+    de: ["der Assistent", "die Assistentin"]
+  example_translations:
+    de: "Der Verkäufer war sehr freundlich."
+
+- id: "boss"
+  lemma: "boss"
+  pos: noun
+  level: A2
+  ipa: "/bɒs/"
+  example: "My boss is on holiday."
+  translations:
+    de: ["der Chef", "die Chefin"]
+  example_translations:
+    de: "Mein Chef ist im Urlaub."
+
+- id: "business"
+  lemma: "business"
+  pos: noun
+  level: A1
+  ipa: "/ˈbɪz.nɪs/"
+  example: "He runs a small business."
+  translations:
+    de: ["das Geschäft", "das Unternehmen"]
+  example_translations:
+    de: "Er führt ein kleines Unternehmen."
+
+- id: "businessman"
+  lemma: "businessman"
+  pos: noun
+  level: A2
+  ipa: "/ˈbɪz.nɪs.mæn/"
+  example: "He is a successful businessman."
+  translations:
+    de: ["der Geschäftsmann"]
+  example_translations:
+    de: "Er ist ein erfolgreicher Geschäftsmann."
+
+- id: "career"
+  lemma: "career"
+  pos: noun
+  level: A1
+  ipa: "/kəˈrɪər/"
+  example: "She started her career as a nurse."
+  translations:
+    de: ["die Karriere", "die Laufbahn"]
+  example_translations:
+    de: "Sie begann ihre Laufbahn als Krankenschwester."
+
+- id: "chair-verb"
+  lemma: "chair"
+  pos: verb
+  level: B2
+  ipa: "/tʃeər/"
+  example: "Who will chair the meeting?"
+  translations:
+    de: ["leiten", "den Vorsitz führen"]
+  example_translations:
+    de: "Wer leitet die Besprechung?"
+
+- id: "chef"
+  lemma: "chef"
+  pos: noun
+  level: A2
+  ipa: "/ʃef/"
+  example: "The chef cooked a wonderful meal."
+  translations:
+    de: ["der Koch", "die Köchin", "der Küchenchef"]
+  example_translations:
+    de: "Der Koch hat ein wunderbares Essen gekocht."
+
+- id: "chief-noun"
+  lemma: "chief"
+  pos: noun
+  level: B2
+  ipa: "/tʃiːf/"
+  example: "He is the chief of police."
+  translations:
+    de: ["der Chef", "der Leiter"]
+  example_translations:
+    de: "Er ist der Polizeichef."
+
+- id: "client"
+  lemma: "client"
+  pos: noun
+  level: B1
+  ipa: "/ˈklaɪ.ənt/"
+  example: "I have a meeting with a client."
+  translations:
+    de: ["der Kunde", "die Kundin", "der Klient"]
+  example_translations:
+    de: "Ich habe ein Treffen mit einem Kunden."
+
+- id: "colleague"
+  lemma: "colleague"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒl.iːɡ/"
+  example: "My colleagues are very nice."
+  translations:
+    de: ["der Kollege", "die Kollegin"]
+  example_translations:
+    de: "Meine Kollegen sind sehr nett."
+
+- id: "commercial-adjective"
+  lemma: "commercial"
+  pos: adjective
+  level: B1
+  ipa: "/kəˈmɜː.ʃəl/"
+  example: "The film was a commercial success."
+  translations:
+    de: ["kommerziell", "geschäftlich"]
+  example_translations:
+    de: "Der Film war ein kommerzieller Erfolg."
+
+- id: "commission-noun"
+  lemma: "commission"
+  pos: noun
+  level: B2
+  ipa: "/kəˈmɪʃ.ən/"
+  example: "He gets a commission on every sale."
+  translations:
+    de: ["die Kommission", "die Provision", "der Auftrag"]
+  example_translations:
+    de: "Er bekommt für jeden Verkauf eine Provision."
+
+- id: "commission-verb"
+  lemma: "commission"
+  pos: verb
+  level: B2
+  ipa: "/kəˈmɪʃ.ən/"
+  example: "The city commissioned a new statue."
+  translations:
+    de: ["in Auftrag geben"]
+  example_translations:
+    de: "Die Stadt gab eine neue Statue in Auftrag."
+
+- id: "commitment"
+  lemma: "commitment"
+  pos: noun
+  level: B2
+  ipa: "/kəˈmɪt.mənt/"
+  example: "Thank you for your commitment."
+  translations:
+    de: ["die Verpflichtung", "das Engagement"]
+  example_translations:
+    de: "Danke für dein Engagement."
+
+- id: "company"
+  lemma: "company"
+  pos: noun
+  level: A2
+  ipa: "/ˈkʌm.pə.ni/"
+  example: "She works for a big company."
+  translations:
+    de: ["die Firma", "das Unternehmen"]
+  example_translations:
+    de: "Sie arbeitet für eine große Firma."
+
+- id: "competitor"
+  lemma: "competitor"
+  pos: noun
+  level: B1
+  ipa: "/kəmˈpet.ɪ.tər/"
+  example: "Our main competitor is in Munich."
+  translations:
+    de: ["der Konkurrent", "der Teilnehmer"]
+  example_translations:
+    de: "Unser Hauptkonkurrent sitzt in München."
+
+- id: "conference"
+  lemma: "conference"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒn.fər.əns/"
+  example: "She is at a conference in Paris."
+  translations:
+    de: ["die Konferenz", "die Tagung"]
+  example_translations:
+    de: "Sie ist auf einer Konferenz in Paris."
+
+- id: "construct"
+  lemma: "construct"
+  pos: verb
+  level: B2
+  ipa: "/kənˈstrʌkt/"
+  example: "They constructed a new bridge."
+  translations:
+    de: ["bauen", "konstruieren"]
+  example_translations:
+    de: "Sie bauten eine neue Brücke."
+
+- id: "construction"
+  lemma: "construction"
+  pos: noun
+  level: B2
+  ipa: "/kənˈstrʌk.ʃən/"
+  example: "The hotel is still under construction."
+  translations:
+    de: ["der Bau", "die Konstruktion"]
+  example_translations:
+    de: "Das Hotel ist noch im Bau."
+
+- id: "contract-noun"
+  lemma: "contract"
+  pos: noun
+  level: B2
+  ipa: "/ˈkɒn.trækt/"
+  example: "I signed the contract yesterday."
+  translations:
+    de: ["der Vertrag"]
+  example_translations:
+    de: "Ich habe gestern den Vertrag unterschrieben."
+
+- id: "contract-verb"
+  lemma: "contract"
+  pos: verb
+  level: B2
+  ipa: "/kənˈtrækt/"
+  example: "Metal contracts when it gets cold."
+  translations:
+    de: ["vertraglich vereinbaren", "sich zusammenziehen"]
+  example_translations:
+    de: "Metall zieht sich zusammen, wenn es kalt wird."
+
+- id: "cook-noun"
+  lemma: "cook"
+  pos: noun
+  level: A2
+  ipa: "/kʊk/"
+  example: "My dad is a good cook."
+  translations:
+    de: ["der Koch", "die Köchin"]
+  example_translations:
+    de: "Mein Vater ist ein guter Koch."
+
+- id: "corporate"
+  lemma: "corporate"
+  pos: adjective
+  level: B2
+  ipa: "/ˈkɔː.pər.ət/"
+  example: "She works in corporate finance."
+  translations:
+    de: ["Unternehmens-", "Firmen-"]
+  example_translations:
+    de: "Sie arbeitet in der Unternehmensfinanzierung."
+
+- id: "deal-noun"
+  lemma: "deal"
+  pos: noun
+  level: B1
+  ipa: "/diːl/"
+  example: "It's a deal!"
+  translations:
+    de: ["das Geschäft", "der Deal", "die Abmachung"]
+  example_translations:
+    de: "Abgemacht!"
+
+- id: "demand-noun"
+  lemma: "demand"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈmɑːnd/"
+  example: "There is a high demand for nurses."
+  translations:
+    de: ["die Nachfrage", "die Forderung"]
+  example_translations:
+    de: "Es gibt eine große Nachfrage nach Pflegekräften."
+
+- id: "department"
+  lemma: "department"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈpɑːt.mənt/"
+  example: "She works in the sales department."
+  translations:
+    de: ["die Abteilung"]
+  example_translations:
+    de: "Sie arbeitet in der Verkaufsabteilung."
+
+- id: "designer"
+  lemma: "designer"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈzaɪ.nər/"
+  example: "He is a fashion designer."
+  translations:
+    de: ["der Designer", "die Designerin"]
+  example_translations:
+    de: "Er ist Modedesigner."
+
+- id: "director"
+  lemma: "director"
+  pos: noun
+  level: A2
+  ipa: "/daɪˈrek.tər/"
+  example: "She is the director of the company."
+  translations:
+    de: ["der Direktor", "der Regisseur"]
+  example_translations:
+    de: "Sie ist die Direktorin der Firma."
+
+- id: "dismiss"
+  lemma: "dismiss"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈsmɪs/"
+  example: "He was dismissed from his job."
+  translations:
+    de: ["entlassen", "abtun"]
+  example_translations:
+    de: "Er wurde entlassen."
+
+- id: "distribution"
+  lemma: "distribution"
+  pos: noun
+  level: B2
+  ipa: "/ˌdɪs.trɪˈbjuː.ʃən/"
+  example: "The distribution of wealth is unfair."
+  translations:
+    de: ["die Verteilung", "der Vertrieb"]
+  example_translations:
+    de: "Die Verteilung des Reichtums ist ungerecht."
+
+- id: "doctor"
+  lemma: "doctor"
+  pos: noun
+  level: A1
+  ipa: "/ˈdɒk.tər/"
+  example: "I need to see a doctor."
+  translations:
+    de: ["der Arzt", "die Ärztin"]
+  example_translations:
+    de: "Ich muss zum Arzt gehen."
+
+- id: "document-noun"
+  lemma: "document"
+  pos: noun
+  level: A2
+  ipa: "/ˈdɒk.jə.mənt/"
+  example: "Please sign this document."
+  translations:
+    de: ["das Dokument"]
+  example_translations:
+    de: "Bitte unterschreiben Sie dieses Dokument."
+
+- id: "document-verb"
+  lemma: "document"
+  pos: verb
+  level: B2
+  ipa: "/ˈdɒk.jə.ment/"
+  example: "The film documents his life."
+  translations:
+    de: ["dokumentieren"]
+  example_translations:
+    de: "Der Film dokumentiert sein Leben."
+
+- id: "draft-noun"
+  lemma: "draft"
+  pos: noun
+  level: B2
+  ipa: "/drɑːft/"
+  example: "This is only the first draft."
+  translations:
+    de: ["der Entwurf"]
+  example_translations:
+    de: "Das ist nur der erste Entwurf."
+
+- id: "draft-verb"
+  lemma: "draft"
+  pos: verb
+  level: B2
+  ipa: "/drɑːft/"
+  example: "She drafted a letter to the manager."
+  translations:
+    de: ["entwerfen"]
+  example_translations:
+    de: "Sie entwarf einen Brief an den Geschäftsführer."
+
+- id: "duty"
+  lemma: "duty"
+  pos: noun
+  level: B1
+  ipa: "/ˈdjuː.ti/"
+  example: "It's your duty to help."
+  translations:
+    de: ["die Pflicht", "der Dienst", "der Zoll"]
+  example_translations:
+    de: "Es ist deine Pflicht zu helfen."
+
+- id: "earn"
+  lemma: "earn"
+  pos: verb
+  level: A2
+  ipa: "/ɜːn/"
+  example: "How much do you earn?"
+  translations:
+    de: ["verdienen"]
+  example_translations:
+    de: "Wie viel verdienst du?"
+
+- id: "editor"
+  lemma: "editor"
+  pos: noun
+  level: B1
+  ipa: "/ˈed.ɪ.tər/"
+  example: "She is the editor of a magazine."
+  translations:
+    de: ["der Redakteur", "der Herausgeber"]
+  example_translations:
+    de: "Sie ist Redakteurin bei einer Zeitschrift."
+
+- id: "effort"
+  lemma: "effort"
+  pos: noun
+  level: B1
+  ipa: "/ˈef.ət/"
+  example: "Thank you for your effort."
+  translations:
+    de: ["die Mühe", "die Anstrengung"]
+  example_translations:
+    de: "Danke für deine Mühe."
+
+- id: "employ"
+  lemma: "employ"
+  pos: verb
+  level: A2
+  ipa: "/ɪmˈplɔɪ/"
+  example: "The company employs 200 people."
+  translations:
+    de: ["beschäftigen", "einstellen"]
+  example_translations:
+    de: "Die Firma beschäftigt 200 Menschen."
+
+- id: "employee"
+  lemma: "employee"
+  pos: noun
+  level: A2
+  ipa: "/ɪmˈplɔɪ.iː/"
+  example: "All employees get a bonus."
+  translations:
+    de: ["der Angestellte", "die Angestellte", "der Mitarbeiter"]
+  example_translations:
+    de: "Alle Mitarbeiter bekommen einen Bonus."
+
+- id: "employer"
+  lemma: "employer"
+  pos: noun
+  level: A2
+  ipa: "/ɪmˈplɔɪ.ər/"
+  example: "My employer pays well."
+  translations:
+    de: ["der Arbeitgeber", "die Arbeitgeberin"]
+  example_translations:
+    de: "Mein Arbeitgeber zahlt gut."
+
+- id: "employment"
+  lemma: "employment"
+  pos: noun
+  level: B1
+  ipa: "/ɪmˈplɔɪ.mənt/"
+  example: "She is looking for employment."
+  translations:
+    de: ["die Beschäftigung", "die Anstellung"]
+  example_translations:
+    de: "Sie sucht eine Anstellung."
+
+- id: "engineer"
+  lemma: "engineer"
+  pos: noun
+  level: A2
+  ipa: "/ˌen.dʒɪˈnɪər/"
+  example: "My father is an engineer."
+  translations:
+    de: ["der Ingenieur", "die Ingenieurin", "der Techniker"]
+  example_translations:
+    de: "Mein Vater ist Ingenieur."
+
+- id: "equipment"
+  lemma: "equipment"
+  pos: noun
+  level: A2
+  ipa: "/ɪˈkwɪp.mənt/"
+  example: "You need special equipment for diving."
+  translations:
+    de: ["die Ausrüstung", "die Geräte"]
+  example_translations:
+    de: "Zum Tauchen braucht man eine spezielle Ausrüstung."
+
+- id: "establish"
+  lemma: "establish"
+  pos: verb
+  level: B2
+  ipa: "/ɪˈstæb.lɪʃ/"
+  example: "The company was established in 1950."
+  translations:
+    de: ["gründen", "herstellen", "feststellen"]
+  example_translations:
+    de: "Die Firma wurde 1950 gegründet."
+
+- id: "executive-adjective"
+  lemma: "executive"
+  pos: adjective
+  level: B2
+  ipa: "/ɪɡˈzek.jə.tɪv/"
+  example: "He has an executive position."
+  translations:
+    de: ["leitend", "Führungs-"]
+  example_translations:
+    de: "Er hat eine Führungsposition."
+
+- id: "executive-noun"
+  lemma: "executive"
+  pos: noun
+  level: B2
+  ipa: "/ɪɡˈzek.jə.tɪv/"
+  example: "She is a senior executive at the bank."
+  translations:
+    de: ["die Führungskraft", "der leitende Angestellte"]
+  example_translations:
+    de: "Sie ist eine leitende Angestellte der Bank."
+
+- id: "experience-noun"
+  lemma: "experience"
+  pos: noun
+  level: A2
+  ipa: "/ɪkˈspɪə.ri.əns/"
+  example: "Do you have any experience with children?"
+  translations:
+    de: ["die Erfahrung", "das Erlebnis"]
+  example_translations:
+    de: "Hast du Erfahrung mit Kindern?"
+
+- id: "experienced"
+  lemma: "experienced"
+  pos: adjective
+  level: B1
+  ipa: "/ɪkˈspɪə.ri.ənst/"
+  example: "She is an experienced teacher."
+  translations:
+    de: ["erfahren"]
+  example_translations:
+    de: "Sie ist eine erfahrene Lehrerin."
+
+- id: "expert-noun"
+  lemma: "expert"
+  pos: noun
+  level: A2
+  ipa: "/ˈek.spɜːt/"
+  example: "He is an expert on birds."
+  translations:
+    de: ["der Experte", "die Expertin", "der Fachmann"]
+  example_translations:
+    de: "Er ist Vogelexperte."
+
+- id: "export-noun"
+  lemma: "export"
+  pos: noun
+  level: B1
+  ipa: "/ˈek.spɔːt/"
+  example: "Cars are Germany's main export."
+  translations:
+    de: ["der Export", "die Ausfuhr"]
+  example_translations:
+    de: "Autos sind Deutschlands wichtigstes Exportgut."
+
+- id: "export-verb"
+  lemma: "export"
+  pos: verb
+  level: B1
+  ipa: "/ɪkˈspɔːt/"
+  example: "The country exports coffee."
+  translations:
+    de: ["exportieren", "ausführen"]
+  example_translations:
+    de: "Das Land exportiert Kaffee."
+
+- id: "factory"
+  lemma: "factory"
+  pos: noun
+  level: A2
+  ipa: "/ˈfæk.tər.i/"
+  example: "He works in a car factory."
+  translations:
+    de: ["die Fabrik"]
+  example_translations:
+    de: "Er arbeitet in einer Autofabrik."
+
+- id: "farm-verb"
+  lemma: "farm"
+  pos: verb
+  level: A2
+  ipa: "/fɑːm/"
+  example: "His family has farmed this land for years."
+  translations:
+    de: ["Landwirtschaft betreiben", "bewirtschaften"]
+  example_translations:
+    de: "Seine Familie bewirtschaftet dieses Land seit Jahren."
+
+- id: "farmer"
+  lemma: "farmer"
+  pos: noun
+  level: A1
+  ipa: "/ˈfɑː.mər/"
+  example: "The farmer has fifty cows."
+  translations:
+    de: ["der Bauer", "die Bäuerin", "der Landwirt"]
+  example_translations:
+    de: "Der Bauer hat fünfzig Kühe."
+
+- id: "farming"
+  lemma: "farming"
+  pos: noun
+  level: A2
+  ipa: "/ˈfɑː.mɪŋ/"
+  example: "Farming is hard work."
+  translations:
+    de: ["die Landwirtschaft"]
+  example_translations:
+    de: "Landwirtschaft ist harte Arbeit."
+
+- id: "file-verb"
+  lemma: "file"
+  pos: verb
+  level: B2
+  ipa: "/faɪl/"
+  example: "Please file these documents."
+  translations:
+    de: ["ablegen", "einreichen"]
+  example_translations:
+    de: "Bitte legen Sie diese Unterlagen ab."
+
+- id: "fire-verb"
+  lemma: "fire"
+  pos: verb
+  level: B1
+  ipa: "/faɪər/"
+  example: "He was fired from his job."
+  translations:
+    de: ["feuern", "entlassen", "schießen"]
+  example_translations:
+    de: "Er wurde gefeuert."
+
+- id: "firm"
+  lemma: "firm"
+  pos: noun
+  level: B2
+  ipa: "/fɜːm/"
+  example: "She works for a law firm."
+  translations:
+    de: ["die Firma"]
+  example_translations:
+    de: "Sie arbeitet für eine Anwaltskanzlei."
+
+- id: "found"
+  lemma: "found"
+  pos: verb
+  level: B2
+  ipa: "/faʊnd/"
+  example: "The company was founded in 1990."
+  translations:
+    de: ["gründen"]
+  example_translations:
+    de: "Die Firma wurde 1990 gegründet."
+
+- id: "guard-noun"
+  lemma: "guard"
+  pos: noun
+  level: B1
+  ipa: "/ɡɑːd/"
+  example: "The guard stopped us at the gate."
+  translations:
+    de: ["der Wächter", "die Wache"]
+  example_translations:
+    de: "Der Wachmann hielt uns am Tor an."
+
+- id: "import-noun"
+  lemma: "import"
+  pos: noun
+  level: B1
+  ipa: "/ˈɪm.pɔːt/"
+  example: "Imports from China have increased."
+  translations:
+    de: ["der Import", "die Einfuhr"]
+  example_translations:
+    de: "Die Importe aus China sind gestiegen."
+
+- id: "import-verb"
+  lemma: "import"
+  pos: verb
+  level: B1
+  ipa: "/ɪmˈpɔːt/"
+  example: "We import oil from abroad."
+  translations:
+    de: ["importieren", "einführen"]
+  example_translations:
+    de: "Wir importieren Öl aus dem Ausland."
+
+- id: "income"
+  lemma: "income"
+  pos: noun
+  level: B2
+  ipa: "/ˈɪŋ.kʌm/"
+  example: "They have a low income."
+  translations:
+    de: ["das Einkommen"]
+  example_translations:
+    de: "Sie haben ein niedriges Einkommen."
+
+- id: "industrial"
+  lemma: "industrial"
+  pos: adjective
+  level: B2
+  ipa: "/ɪnˈdʌs.tri.əl/"
+  example: "It's an industrial city."
+  translations:
+    de: ["industriell", "Industrie-"]
+  example_translations:
+    de: "Es ist eine Industriestadt."
+
+- id: "industry"
+  lemma: "industry"
+  pos: noun
+  level: A2
+  ipa: "/ˈɪn.də.stri/"
+  example: "She works in the car industry."
+  translations:
+    de: ["die Industrie", "die Branche"]
+  example_translations:
+    de: "Sie arbeitet in der Autoindustrie."
+
+- id: "initiative"
+  lemma: "initiative"
+  pos: noun
+  level: B2
+  ipa: "/ɪˈnɪʃ.ə.tɪv/"
+  example: "She showed a lot of initiative."
+  translations:
+    de: ["die Initiative"]
+  example_translations:
+    de: "Sie zeigte viel Eigeninitiative."
+
+- id: "instructor"
+  lemma: "instructor"
+  pos: noun
+  level: A2
+  ipa: "/ɪnˈstrʌk.tər/"
+  example: "My ski instructor is very patient."
+  translations:
+    de: ["der Lehrer", "der Ausbilder", "der Trainer"]
+  example_translations:
+    de: "Mein Skilehrer ist sehr geduldig."
+
+- id: "interview-noun"
+  lemma: "interview"
+  pos: noun
+  level: A1
+  ipa: "/ˈɪn.tə.vjuː/"
+  example: "I have a job interview tomorrow."
+  translations:
+    de: ["das Vorstellungsgespräch", "das Interview"]
+  example_translations:
+    de: "Ich habe morgen ein Vorstellungsgespräch."
+
+- id: "interview-verb"
+  lemma: "interview"
+  pos: verb
+  level: A1
+  ipa: "/ˈɪn.tə.vjuː/"
+  example: "They interviewed five candidates."
+  translations:
+    de: ["interviewen", "befragen"]
+  example_translations:
+    de: "Sie haben fünf Bewerber befragt."
+
+- id: "job"
+  lemma: "job"
+  pos: noun
+  level: A1
+  ipa: "/dʒɒb/"
+  example: "She has a new job."
+  translations:
+    de: ["der Job", "die Arbeit", "die Stelle"]
+  example_translations:
+    de: "Sie hat einen neuen Job."
+
+- id: "journalist"
+  lemma: "journalist"
+  pos: noun
+  level: A2
+  ipa: "/ˈdʒɜː.nə.lɪst/"
+  example: "She works as a journalist."
+  translations:
+    de: ["der Journalist", "die Journalistin"]
+  example_translations:
+    de: "Sie arbeitet als Journalistin."
+
+- id: "junior"
+  lemma: "junior"
+  pos: adjective
+  level: B2
+  ipa: "/ˈdʒuː.ni.ər/"
+  example: "She is a junior doctor."
+  translations:
+    de: ["untergeordnet", "Junior-", "jünger"]
+  example_translations:
+    de: "Sie ist Assistenzärztin."
+
+- id: "labour"
+  lemma: "labour"
+  pos: noun
+  level: B2
+  ipa: "/ˈleɪ.bər/"
+  example: "Labour costs are high."
+  translations:
+    de: ["die Arbeit", "die Arbeitskräfte"]
+  example_translations:
+    de: "Die Arbeitskosten sind hoch."
+
+- id: "launch-noun"
+  lemma: "launch"
+  pos: noun
+  level: B2
+  ipa: "/lɔːntʃ/"
+  example: "The launch of the product was a success."
+  translations:
+    de: ["der Start", "die Einführung"]
+  example_translations:
+    de: "Die Markteinführung des Produkts war ein Erfolg."
+
+- id: "launch-verb"
+  lemma: "launch"
+  pos: verb
+  level: B2
+  ipa: "/lɔːntʃ/"
+  example: "The company launched a new phone."
+  translations:
+    de: ["starten", "einführen", "auf den Markt bringen"]
+  example_translations:
+    de: "Die Firma brachte ein neues Handy auf den Markt."
+
+- id: "lawyer"
+  lemma: "lawyer"
+  pos: noun
+  level: A2
+  ipa: "/ˈlɔɪ.ər/"
+  example: "You should talk to a lawyer."
+  translations:
+    de: ["der Anwalt", "die Anwältin"]
+  example_translations:
+    de: "Du solltest mit einem Anwalt sprechen."
+
+- id: "leadership"
+  lemma: "leadership"
+  pos: noun
+  level: B2
+  ipa: "/ˈliː.də.ʃɪp/"
+  example: "The team needs strong leadership."
+  translations:
+    de: ["die Führung", "die Leitung"]
+  example_translations:
+    de: "Das Team braucht eine starke Führung."
+
+- id: "leave-noun"
+  lemma: "leave"
+  pos: noun
+  level: B2
+  ipa: "/liːv/"
+  example: "She is on maternity leave."
+  translations:
+    de: ["der Urlaub", "die Beurlaubung"]
+  example_translations:
+    de: "Sie ist im Mutterschutz."
+
+- id: "living-noun"
+  lemma: "living"
+  pos: noun
+  level: B1
+  ipa: "/ˈlɪv.ɪŋ/"
+  example: "What do you do for a living?"
+  translations:
+    de: ["der Lebensunterhalt"]
+  example_translations:
+    de: "Was machst du beruflich?"
+
+- id: "manage"
+  lemma: "manage"
+  pos: verb
+  level: A2
+  ipa: "/ˈmæn.ɪdʒ/"
+  example: "Did you manage to find it?"
+  translations:
+    de: ["schaffen", "leiten", "verwalten"]
+  example_translations:
+    de: "Hast du es geschafft, es zu finden?"
+
+- id: "management"
+  lemma: "management"
+  pos: noun
+  level: B1
+  ipa: "/ˈmæn.ɪdʒ.mənt/"
+  example: "The hotel is under new management."
+  translations:
+    de: ["die Leitung", "das Management"]
+  example_translations:
+    de: "Das Hotel hat eine neue Leitung."
+
+- id: "manager"
+  lemma: "manager"
+  pos: noun
+  level: A2
+  ipa: "/ˈmæn.ɪ.dʒər/"
+  example: "I want to speak to the manager."
+  translations:
+    de: ["der Manager", "der Leiter", "der Geschäftsführer"]
+  example_translations:
+    de: "Ich möchte mit dem Geschäftsführer sprechen."
+
+- id: "market-verb"
+  lemma: "market"
+  pos: verb
+  level: B1
+  ipa: "/ˈmɑː.kɪt/"
+  example: "The product is marketed as healthy."
+  translations:
+    de: ["vermarkten"]
+  example_translations:
+    de: "Das Produkt wird als gesund vermarktet."
+
+- id: "marketing"
+  lemma: "marketing"
+  pos: noun
+  level: B1
+  ipa: "/ˈmɑː.kɪ.tɪŋ/"
+  example: "She works in marketing."
+  translations:
+    de: ["das Marketing"]
+  example_translations:
+    de: "Sie arbeitet im Marketing."
+
+- id: "master-noun"
+  lemma: "master"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɑː.stər/"
+  example: "He is a master of his craft."
+  translations:
+    de: ["der Meister", "der Herr"]
+  example_translations:
+    de: "Er ist ein Meister seines Fachs."
+
+- id: "meeting"
+  lemma: "meeting"
+  pos: noun
+  level: A2
+  ipa: "/ˈmiː.tɪŋ/"
+  example: "The meeting is at ten."
+  translations:
+    de: ["die Besprechung", "das Treffen", "das Meeting"]
+  example_translations:
+    de: "Die Besprechung ist um zehn."
+
+- id: "mine-noun"
+  lemma: "mine"
+  pos: noun
+  level: B1
+  ipa: "/maɪn/"
+  example: "He worked in a coal mine."
+  translations:
+    de: ["das Bergwerk", "die Mine"]
+  example_translations:
+    de: "Er arbeitete in einem Kohlebergwerk."
+
+- id: "mission"
+  lemma: "mission"
+  pos: noun
+  level: B2
+  ipa: "/ˈmɪʃ.ən/"
+  example: "The mission was a success."
+  translations:
+    de: ["die Mission", "der Auftrag"]
+  example_translations:
+    de: "Die Mission war ein Erfolg."
+
+- id: "nurse"
+  lemma: "nurse"
+  pos: noun
+  level: A2
+  ipa: "/nɜːs/"
+  example: "The nurse is very friendly."
+  translations:
+    de: ["die Krankenschwester", "der Krankenpfleger", "die Pflegekraft"]
+  example_translations:
+    de: "Die Krankenschwester ist sehr freundlich."
+
+- id: "objective-noun"
+  lemma: "objective"
+  pos: noun
+  level: B2
+  ipa: "/əbˈdʒek.tɪv/"
+  example: "Our main objective is to grow."
+  translations:
+    de: ["das Ziel"]
+  example_translations:
+    de: "Unser Hauptziel ist es zu wachsen."
+
+- id: "office"
+  lemma: "office"
+  pos: noun
+  level: A1
+  ipa: "/ˈɒf.ɪs/"
+  example: "The office is on the second floor."
+  translations:
+    de: ["das Büro"]
+  example_translations:
+    de: "Das Büro ist im zweiten Stock."
+
+- id: "officer"
+  lemma: "officer"
+  pos: noun
+  level: A2
+  ipa: "/ˈɒf.ɪ.sər/"
+  example: "A police officer helped us."
+  translations:
+    de: ["der Beamte", "der Offizier", "der Polizist"]
+  example_translations:
+    de: "Ein Polizist hat uns geholfen."
+
+- id: "organization"
+  lemma: "organization"
+  pos: noun
+  level: A2
+  ipa: "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/"
+  example: "She works for a charity organization."
+  translations:
+    de: ["die Organisation"]
+  example_translations:
+    de: "Sie arbeitet für eine Hilfsorganisation."
+
+- id: "organizer"
+  lemma: "organizer"
+  pos: noun
+  level: B1
+  ipa: "/ˈɔː.ɡən.aɪ.zər/"
+  example: "The organizers cancelled the event."
+  translations:
+    de: ["der Organisator", "der Veranstalter"]
+  example_translations:
+    de: "Die Veranstalter sagten die Veranstaltung ab."
+
+- id: "pay-noun"
+  lemma: "pay"
+  pos: noun
+  level: A2
+  ipa: "/peɪ/"
+  example: "The pay is good."
+  translations:
+    de: ["die Bezahlung", "der Lohn"]
+  example_translations:
+    de: "Die Bezahlung ist gut."
+
+- id: "pension"
+  lemma: "pension"
+  pos: noun
+  level: B2
+  ipa: "/ˈpen.ʃən/"
+  example: "My grandparents live on a pension."
+  translations:
+    de: ["die Rente", "die Pension"]
+  example_translations:
+    de: "Meine Großeltern leben von ihrer Rente."
+
+- id: "photographer"
+  lemma: "photographer"
+  pos: noun
+  level: B1
+  ipa: "/fəˈtɒɡ.rə.fər/"
+  example: "She is a wedding photographer."
+  translations:
+    de: ["der Fotograf", "die Fotografin"]
+  example_translations:
+    de: "Sie ist Hochzeitsfotografin."
+
+- id: "pilot"
+  lemma: "pilot"
+  pos: noun
+  level: A2
+  ipa: "/ˈpaɪ.lət/"
+  example: "He wants to be a pilot."
+  translations:
+    de: ["der Pilot", "die Pilotin"]
+  example_translations:
+    de: "Er möchte Pilot werden."
+
+- id: "planning"
+  lemma: "planning"
+  pos: noun
+  level: B1
+  ipa: "/ˈplæn.ɪŋ/"
+  example: "The project needs careful planning."
+  translations:
+    de: ["die Planung"]
+  example_translations:
+    de: "Das Projekt braucht sorgfältige Planung."
+
+- id: "presentation"
+  lemma: "presentation"
+  pos: noun
+  level: B1
+  ipa: "/ˌprez.ənˈteɪ.ʃən/"
+  example: "I have to give a presentation."
+  translations:
+    de: ["die Präsentation", "der Vortrag"]
+  example_translations:
+    de: "Ich muss einen Vortrag halten."
+
+- id: "procedure"
+  lemma: "procedure"
+  pos: noun
+  level: B2
+  ipa: "/prəˈsiː.dʒər/"
+  example: "Follow the correct procedure."
+  translations:
+    de: ["das Verfahren", "der Ablauf"]
+  example_translations:
+    de: "Halte dich an das richtige Verfahren."
+
+- id: "produce-verb"
+  lemma: "produce"
+  pos: verb
+  level: A2
+  ipa: "/prəˈdʒuːs/"
+  example: "The factory produces cars."
+  translations:
+    de: ["produzieren", "herstellen"]
+  example_translations:
+    de: "Die Fabrik stellt Autos her."
+
+- id: "producer"
+  lemma: "producer"
+  pos: noun
+  level: B1
+  ipa: "/prəˈdʒuː.sər/"
+  example: "He is a film producer."
+  translations:
+    de: ["der Produzent", "der Hersteller"]
+  example_translations:
+    de: "Er ist Filmproduzent."
+
+- id: "production"
+  lemma: "production"
+  pos: noun
+  level: B1
+  ipa: "/prəˈdʌk.ʃən/"
+  example: "Production has increased."
+  translations:
+    de: ["die Produktion", "die Herstellung", "die Inszenierung"]
+  example_translations:
+    de: "Die Produktion ist gestiegen."
+
+- id: "profession"
+  lemma: "profession"
+  pos: noun
+  level: B1
+  ipa: "/prəˈfeʃ.ən/"
+  example: "What is your profession?"
+  translations:
+    de: ["der Beruf"]
+  example_translations:
+    de: "Was ist Ihr Beruf?"
+
+- id: "professional-adjective"
+  lemma: "professional"
+  pos: adjective
+  level: A2
+  ipa: "/prəˈfeʃ.ən.əl/"
+  example: "He is a professional footballer."
+  translations:
+    de: ["professionell", "beruflich", "Profi-"]
+  example_translations:
+    de: "Er ist Profifußballer."
+
+- id: "professional-noun"
+  lemma: "professional"
+  pos: noun
+  level: B2
+  ipa: "/prəˈfeʃ.ən.əl/"
+  example: "This job is for professionals."
+  translations:
+    de: ["der Profi", "die Fachkraft"]
+  example_translations:
+    de: "Diese Arbeit ist etwas für Profis."
+
+- id: "profit"
+  lemma: "profit"
+  pos: noun
+  level: B1
+  ipa: "/ˈprɒf.ɪt/"
+  example: "The company made a big profit."
+  translations:
+    de: ["der Gewinn", "der Profit"]
+  example_translations:
+    de: "Die Firma hat einen großen Gewinn gemacht."
+
+- id: "project-noun"
+  lemma: "project"
+  pos: noun
+  level: A1
+  ipa: "/ˈprɒdʒ.ekt/"
+  example: "We're working on a new project."
+  translations:
+    de: ["das Projekt"]
+  example_translations:
+    de: "Wir arbeiten an einem neuen Projekt."
+
+- id: "promote"
+  lemma: "promote"
+  pos: verb
+  level: B1
+  ipa: "/prəˈməʊt/"
+  example: "She was promoted to manager."
+  translations:
+    de: ["befördern", "fördern", "werben für"]
+  example_translations:
+    de: "Sie wurde zur Managerin befördert."
+
+- id: "psychologist"
+  lemma: "psychologist"
+  pos: noun
+  level: B2
+  ipa: "/saɪˈkɒl.ə.dʒɪst/"
+  example: "She works as a psychologist."
+  translations:
+    de: ["der Psychologe", "die Psychologin"]
+  example_translations:
+    de: "Sie arbeitet als Psychologin."
+
+- id: "qualification"
+  lemma: "qualification"
+  pos: noun
+  level: B1
+  ipa: "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/"
+  example: "What qualifications do you have?"
+  translations:
+    de: ["die Qualifikation", "der Abschluss"]
+  example_translations:
+    de: "Welche Abschlüsse hast du?"
+
+- id: "qualified"
+  lemma: "qualified"
+  pos: adjective
+  level: B1
+  ipa: "/ˈkwɒl.ɪ.faɪd/"
+  example: "She is a qualified nurse."
+  translations:
+    de: ["qualifiziert", "ausgebildet"]
+  example_translations:
+    de: "Sie ist ausgebildete Krankenschwester."
+
+- id: "qualify"
+  lemma: "qualify"
+  pos: verb
+  level: B1
+  ipa: "/ˈkwɒl.ɪ.faɪ/"
+  example: "Our team qualified for the final."
+  translations:
+    de: ["sich qualifizieren", "berechtigt sein"]
+  example_translations:
+    de: "Unsere Mannschaft hat sich für das Finale qualifiziert."
+
+- id: "quit"
+  lemma: "quit"
+  pos: verb
+  level: B1
+  ipa: "/kwɪt/"
+  example: "He quit his job."
+  translations:
+    de: ["kündigen", "aufhören"]
+  example_translations:
+    de: "Er hat seinen Job gekündigt."
+
+- id: "rank-noun"
+  lemma: "rank"
+  pos: noun
+  level: B2
+  ipa: "/ræŋk/"
+  example: "He has the rank of captain."
+  translations:
+    de: ["der Rang"]
+  example_translations:
+    de: "Er hat den Rang eines Hauptmanns."
+
+- id: "reporter"
+  lemma: "reporter"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈpɔː.tər/"
+  example: "A reporter asked him some questions."
+  translations:
+    de: ["der Reporter", "die Reporterin"]
+  example_translations:
+    de: "Ein Reporter stellte ihm einige Fragen."
+
+- id: "representative-noun"
+  lemma: "representative"
+  pos: noun
+  level: B2
+  ipa: "/ˌrep.rɪˈzen.tə.tɪv/"
+  example: "A company representative called me."
+  translations:
+    de: ["der Vertreter", "die Vertreterin"]
+  example_translations:
+    de: "Ein Vertreter der Firma rief mich an."
+
+- id: "responsibility"
+  lemma: "responsibility"
+  pos: noun
+  level: B1
+  ipa: "/rɪˌspɒn.səˈbɪl.ə.ti/"
+  example: "It's your responsibility."
+  translations:
+    de: ["die Verantwortung"]
+  example_translations:
+    de: "Das ist deine Verantwortung."
+
+- id: "responsible"
+  lemma: "responsible"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈspɒn.sə.bəl/"
+  example: "Who is responsible for this?"
+  translations:
+    de: ["verantwortlich", "zuständig"]
+  example_translations:
+    de: "Wer ist dafür verantwortlich?"
+
+- id: "retire"
+  lemma: "retire"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈtaɪər/"
+  example: "My father retired last year."
+  translations:
+    de: ["in Rente gehen", "sich zurückziehen"]
+  example_translations:
+    de: "Mein Vater ist letztes Jahr in Rente gegangen."
+
+- id: "retired"
+  lemma: "retired"
+  pos: adjective
+  level: B1
+  ipa: "/rɪˈtaɪəd/"
+  example: "My grandparents are retired."
+  translations:
+    de: ["im Ruhestand", "pensioniert"]
+  example_translations:
+    de: "Meine Großeltern sind in Rente."
+
+- id: "sailor"
+  lemma: "sailor"
+  pos: noun
+  level: B1
+  ipa: "/ˈseɪ.lər/"
+  example: "My grandfather was a sailor."
+  translations:
+    de: ["der Seemann", "der Matrose", "der Segler"]
+  example_translations:
+    de: "Mein Großvater war Seemann."
+
+- id: "salary"
+  lemma: "salary"
+  pos: noun
+  level: A2
+  ipa: "/ˈsæl.ər.i/"
+  example: "The salary is good."
+  translations:
+    de: ["das Gehalt"]
+  example_translations:
+    de: "Das Gehalt ist gut."
+
+- id: "secretary"
+  lemma: "secretary"
+  pos: noun
+  level: A2
+  ipa: "/ˈsek.rə.tər.i/"
+  example: "Ask the secretary."
+  translations:
+    de: ["der Sekretär", "die Sekretärin"]
+  example_translations:
+    de: "Frag die Sekretärin."
+
+- id: "sector"
+  lemma: "sector"
+  pos: noun
+  level: B2
+  ipa: "/ˈsek.tər/"
+  example: "She works in the public sector."
+  translations:
+    de: ["der Sektor", "der Bereich"]
+  example_translations:
+    de: "Sie arbeitet im öffentlichen Dienst."
+
+- id: "senior"
+  lemma: "senior"
+  pos: adjective
+  level: B2
+  ipa: "/ˈsiː.ni.ər/"
+  example: "She is a senior manager."
+  translations:
+    de: ["leitend", "älter", "Senior-"]
+  example_translations:
+    de: "Sie ist leitende Managerin."
+
+- id: "servant"
+  lemma: "servant"
+  pos: noun
+  level: B1
+  ipa: "/ˈsɜː.vənt/"
+  example: "The family had many servants."
+  translations:
+    de: ["der Diener", "die Dienerin"]
+  example_translations:
+    de: "Die Familie hatte viele Diener."
+
+- id: "shift-noun"
+  lemma: "shift"
+  pos: noun
+  level: B1
+  ipa: "/ʃɪft/"
+  example: "He works the night shift."
+  translations:
+    de: ["die Schicht", "die Verschiebung"]
+  example_translations:
+    de: "Er arbeitet in der Nachtschicht."
+
+- id: "sign-verb"
+  lemma: "sign"
+  pos: verb
+  level: A2
+  ipa: "/saɪn/"
+  example: "Sign here, please."
+  translations:
+    de: ["unterschreiben"]
+  example_translations:
+    de: "Unterschreiben Sie bitte hier."
+
+- id: "skill"
+  lemma: "skill"
+  pos: noun
+  level: A1
+  ipa: "/skɪl/"
+  example: "You need good computer skills."
+  translations:
+    de: ["die Fähigkeit", "die Fertigkeit"]
+  example_translations:
+    de: "Du brauchst gute Computerkenntnisse."
+
+- id: "specialist"
+  lemma: "specialist"
+  pos: noun
+  level: B2
+  ipa: "/ˈspeʃ.əl.ɪst/"
+  example: "You should see a specialist."
+  translations:
+    de: ["der Spezialist", "der Facharzt", "die Fachfrau"]
+  example_translations:
+    de: "Du solltest zu einem Facharzt gehen."
+
+- id: "sponsor-noun"
+  lemma: "sponsor"
+  pos: noun
+  level: B2
+  ipa: "/ˈspɒn.sər/"
+  example: "The team has a new sponsor."
+  translations:
+    de: ["der Sponsor", "die Sponsorin"]
+  example_translations:
+    de: "Die Mannschaft hat einen neuen Sponsor."
+
+- id: "sponsor-verb"
+  lemma: "sponsor"
+  pos: verb
+  level: B2
+  ipa: "/ˈspɒn.sər/"
+  example: "A bank sponsors the event."
+  translations:
+    de: ["sponsern", "fördern"]
+  example_translations:
+    de: "Eine Bank sponsert die Veranstaltung."
+
+- id: "staff"
+  lemma: "staff"
+  pos: noun
+  level: B1
+  ipa: "/stɑːf/"
+  example: "The staff are very friendly."
+  translations:
+    de: ["das Personal", "die Mitarbeiter"]
+  example_translations:
+    de: "Das Personal ist sehr freundlich."
+
+- id: "strategy"
+  lemma: "strategy"
+  pos: noun
+  level: A2
+  ipa: "/ˈstræt.ə.dʒi/"
+  example: "We need a new strategy."
+  translations:
+    de: ["die Strategie"]
+  example_translations:
+    de: "Wir brauchen eine neue Strategie."
+
+- id: "strike-noun"
+  lemma: "strike"
+  pos: noun
+  level: B2
+  ipa: "/straɪk/"
+  example: "The workers are on strike."
+  translations:
+    de: ["der Streik", "der Schlag"]
+  example_translations:
+    de: "Die Arbeiter streiken."
+
+- id: "succeed"
+  lemma: "succeed"
+  pos: verb
+  level: A2
+  ipa: "/səkˈsiːd/"
+  example: "She succeeded in passing the exam."
+  translations:
+    de: ["Erfolg haben", "gelingen"]
+  example_translations:
+    de: "Es gelang ihr, die Prüfung zu bestehen."
+
+- id: "success"
+  lemma: "success"
+  pos: noun
+  level: A1
+  ipa: "/səkˈses/"
+  example: "The party was a great success."
+  translations:
+    de: ["der Erfolg"]
+  example_translations:
+    de: "Die Party war ein großer Erfolg."
+
+- id: "successful"
+  lemma: "successful"
+  pos: adjective
+  level: A2
+  ipa: "/səkˈses.fəl/"
+  example: "He is a successful businessman."
+  translations:
+    de: ["erfolgreich"]
+  example_translations:
+    de: "Er ist ein erfolgreicher Geschäftsmann."
+
+- id: "successfully"
+  lemma: "successfully"
+  pos: adverb
+  level: B1
+  ipa: "/səkˈses.fəl.i/"
+  example: "She successfully finished the course."
+  translations:
+    de: ["erfolgreich"]
+  example_translations:
+    de: "Sie hat den Kurs erfolgreich abgeschlossen."
+
+- id: "target-noun"
+  lemma: "target"
+  pos: noun
+  level: A2
+  ipa: "/ˈtɑː.ɡɪt/"
+  example: "We met our sales target."
+  translations:
+    de: ["das Ziel", "die Zielscheibe"]
+  example_translations:
+    de: "Wir haben unser Verkaufsziel erreicht."
+
+- id: "target-verb"
+  lemma: "target"
+  pos: verb
+  level: B2
+  ipa: "/ˈtɑː.ɡɪt/"
+  example: "The advert targets young people."
+  translations:
+    de: ["abzielen auf", "ins Visier nehmen"]
+  example_translations:
+    de: "Die Werbung richtet sich an junge Leute."
+
+- id: "task"
+  lemma: "task"
+  pos: noun
+  level: A2
+  ipa: "/tɑːsk/"
+  example: "Your first task is to read the text."
+  translations:
+    de: ["die Aufgabe"]
+  example_translations:
+    de: "Deine erste Aufgabe ist, den Text zu lesen."
+
+- id: "tool"
+  lemma: "tool"
+  pos: noun
+  level: A2
+  ipa: "/tuːl/"
+  example: "I need the right tools."
+  translations:
+    de: ["das Werkzeug"]
+  example_translations:
+    de: "Ich brauche das richtige Werkzeug."
+
+- id: "trade-noun"
+  lemma: "trade"
+  pos: noun
+  level: B1
+  ipa: "/treɪd/"
+  example: "Trade between the countries is growing."
+  translations:
+    de: ["der Handel", "das Gewerbe"]
+  example_translations:
+    de: "Der Handel zwischen den Ländern wächst."
+
+- id: "trade-verb"
+  lemma: "trade"
+  pos: verb
+  level: B1
+  ipa: "/treɪd/"
+  example: "They trade with China."
+  translations:
+    de: ["handeln", "tauschen"]
+  example_translations:
+    de: "Sie handeln mit China."
+
+- id: "training"
+  lemma: "training"
+  pos: noun
+  level: A2
+  ipa: "/ˈtreɪ.nɪŋ/"
+  example: "The job includes training."
+  translations:
+    de: ["das Training", "die Ausbildung", "die Schulung"]
+  example_translations:
+    de: "Der Job beinhaltet eine Schulung."
+
+- id: "unemployed"
+  lemma: "unemployed"
+  pos: adjective
+  level: B1
+  ipa: "/ˌʌn.ɪmˈplɔɪd/"
+  example: "He has been unemployed for a year."
+  translations:
+    de: ["arbeitslos"]
+  example_translations:
+    de: "Er ist seit einem Jahr arbeitslos."
+
+- id: "unemployment"
+  lemma: "unemployment"
+  pos: noun
+  level: B1
+  ipa: "/ˌʌn.ɪmˈplɔɪ.mənt/"
+  example: "Unemployment is rising."
+  translations:
+    de: ["die Arbeitslosigkeit"]
+  example_translations:
+    de: "Die Arbeitslosigkeit steigt."
+
+- id: "wage"
+  lemma: "wage"
+  pos: noun
+  level: B2
+  ipa: "/weɪdʒ/"
+  example: "The wages are low."
+  translations:
+    de: ["der Lohn"]
+  example_translations:
+    de: "Die Löhne sind niedrig."
+
+- id: "waiter"
+  lemma: "waiter"
+  pos: noun
+  level: A1
+  ipa: "/ˈweɪ.tər/"
+  example: "The waiter brought our food."
+  translations:
+    de: ["der Kellner", "die Kellnerin"]
+  example_translations:
+    de: "Der Kellner brachte unser Essen."
+
+- id: "work"
+  lemma: "work"
+  pos: verb
+  level: A1
+  ipa: "/wɜːk/"
+  example: "I work in an office."
+  translations:
+    de: ["arbeiten"]
+  example_translations:
+    de: "Ich arbeite in einem Büro."
+
+- id: "work-noun"
+  lemma: "work"
+  pos: noun
+  level: A1
+  ipa: "/wɜːk/"
+  example: "I go to work by bus."
+  translations:
+    de: ["die Arbeit", "das Werk"]
+  example_translations:
+    de: "Ich fahre mit dem Bus zur Arbeit."
+
+- id: "worker"
+  lemma: "worker"
+  pos: noun
+  level: A1
+  ipa: "/ˈwɜː.kər/"
+  example: "The factory has 500 workers."
+  translations:
+    de: ["der Arbeiter", "die Arbeiterin", "der Mitarbeiter"]
+  example_translations:
+    de: "Die Fabrik hat 500 Arbeiter."
+
+- id: "working"
+  lemma: "working"
+  pos: adjective
+  level: A2
+  ipa: "/ˈwɜː.kɪŋ/"
+  example: "What are your working hours?"
+  translations:
+    de: ["arbeitend", "Arbeits-"]
+  example_translations:
+    de: "Was sind deine Arbeitszeiten?"

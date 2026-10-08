@@ -1,0 +1,2191 @@
+# 💬 Sprache & Kommunikation – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "acknowledge"
+  lemma: "acknowledge"
+  pos: verb
+  level: B2
+  ipa: "/əkˈnɒl.ɪdʒ/"
+  example: "He acknowledged his mistake."
+  translations:
+    de: ["anerkennen", "zugeben"]
+  example_translations:
+    de: "Er hat seinen Fehler zugegeben."
+
+- id: "actually"
+  lemma: "actually"
+  pos: adverb
+  level: A2
+  ipa: "/ˈæk.tʃu.ə.li/"
+  example: "Actually, I don't like coffee."
+  translations:
+    de: ["eigentlich", "tatsächlich"]
+  example_translations:
+    de: "Eigentlich mag ich keinen Kaffee."
+
+- id: "address-verb"
+  lemma: "address"
+  pos: verb
+  level: B2
+  ipa: "/əˈdres/"
+  example: "We need to address this problem."
+  translations:
+    de: ["ansprechen", "sich befassen mit"]
+  example_translations:
+    de: "Wir müssen uns mit diesem Problem befassen."
+
+- id: "admit"
+  lemma: "admit"
+  pos: verb
+  level: B1
+  ipa: "/ədˈmɪt/"
+  example: "He admitted that he was wrong."
+  translations:
+    de: ["zugeben", "eingestehen"]
+  example_translations:
+    de: "Er gab zu, dass er sich geirrt hatte."
+
+- id: "advice"
+  lemma: "advice"
+  pos: noun
+  level: A1
+  ipa: "/ədˈvaɪs/"
+  example: "Can you give me some advice?"
+  translations:
+    de: ["der Rat", "der Ratschlag"]
+  example_translations:
+    de: "Kannst du mir einen Rat geben?"
+
+- id: "advise"
+  lemma: "advise"
+  pos: verb
+  level: B1
+  ipa: "/ədˈvaɪz/"
+  example: "The doctor advised me to rest."
+  translations:
+    de: ["raten", "beraten"]
+  example_translations:
+    de: "Der Arzt riet mir, mich auszuruhen."
+
+- id: "agree"
+  lemma: "agree"
+  pos: verb
+  level: A1
+  ipa: "/əˈɡriː/"
+  example: "I agree with you."
+  translations:
+    de: ["zustimmen", "einverstanden sein"]
+  example_translations:
+    de: "Ich stimme dir zu."
+
+- id: "agreement"
+  lemma: "agreement"
+  pos: noun
+  level: B1
+  ipa: "/əˈɡriː.mənt/"
+  example: "We reached an agreement."
+  translations:
+    de: ["die Vereinbarung", "die Übereinstimmung"]
+  example_translations:
+    de: "Wir haben eine Vereinbarung getroffen."
+
+- id: "announce"
+  lemma: "announce"
+  pos: verb
+  level: B1
+  ipa: "/əˈnaʊns/"
+  example: "They announced their engagement."
+  translations:
+    de: ["ankündigen", "bekannt geben"]
+  example_translations:
+    de: "Sie gaben ihre Verlobung bekannt."
+
+- id: "announcement"
+  lemma: "announcement"
+  pos: noun
+  level: B1
+  ipa: "/əˈnaʊns.mənt/"
+  example: "Please listen to the announcement."
+  translations:
+    de: ["die Ankündigung", "die Durchsage"]
+  example_translations:
+    de: "Bitte hören Sie auf die Durchsage."
+
+- id: "answer-verb"
+  lemma: "answer"
+  pos: verb
+  level: A1
+  ipa: "/ˈɑːn.sər/"
+  example: "Please answer the question."
+  translations:
+    de: ["antworten", "beantworten"]
+  example_translations:
+    de: "Bitte beantworte die Frage."
+
+- id: "anyway"
+  lemma: "anyway"
+  pos: adverb
+  level: A2
+  ipa: "/ˈen.i.weɪ/"
+  example: "It was expensive, but I bought it anyway."
+  translations:
+    de: ["trotzdem", "sowieso", "jedenfalls"]
+  example_translations:
+    de: "Es war teuer, aber ich habe es trotzdem gekauft."
+
+- id: "apologize"
+  lemma: "apologize"
+  pos: verb
+  level: B1
+  ipa: "/əˈpɒl.ə.dʒaɪz/"
+  example: "I apologize for being late."
+  translations:
+    de: ["sich entschuldigen"]
+  example_translations:
+    de: "Ich entschuldige mich für die Verspätung."
+
+- id: "apparently"
+  lemma: "apparently"
+  pos: adverb
+  level: B2
+  ipa: "/əˈpær.ənt.li/"
+  example: "Apparently, the shop is closed today."
+  translations:
+    de: ["anscheinend", "offenbar"]
+  example_translations:
+    de: "Anscheinend ist der Laden heute geschlossen."
+
+- id: "appeal-verb"
+  lemma: "appeal"
+  pos: verb
+  level: B2
+  ipa: "/əˈpiːl/"
+  example: "The idea doesn't appeal to me."
+  translations:
+    de: ["appellieren", "gefallen"]
+  example_translations:
+    de: "Die Idee gefällt mir nicht."
+
+- id: "argue"
+  lemma: "argue"
+  pos: verb
+  level: A2
+  ipa: "/ˈɑːɡ.juː/"
+  example: "My parents never argue."
+  translations:
+    de: ["streiten", "argumentieren"]
+  example_translations:
+    de: "Meine Eltern streiten nie."
+
+- id: "argument"
+  lemma: "argument"
+  pos: noun
+  level: A2
+  ipa: "/ˈɑːɡ.jə.mənt/"
+  example: "They had an argument about money."
+  translations:
+    de: ["der Streit", "das Argument"]
+  example_translations:
+    de: "Sie hatten einen Streit wegen Geld."
+
+- id: "ask"
+  lemma: "ask"
+  pos: verb
+  level: A1
+  ipa: "/ɑːsk/"
+  example: "Can I ask you a question?"
+  translations:
+    de: ["fragen", "bitten"]
+  example_translations:
+    de: "Darf ich dich etwas fragen?"
+
+- id: "basically"
+  lemma: "basically"
+  pos: adverb
+  level: B2
+  ipa: "/ˈbeɪ.sɪ.kəl.i/"
+  example: "Basically, I agree with you."
+  translations:
+    de: ["im Grunde", "grundsätzlich"]
+  example_translations:
+    de: "Im Grunde stimme ich dir zu."
+
+- id: "beg"
+  lemma: "beg"
+  pos: verb
+  level: B2
+  ipa: "/beɡ/"
+  example: "He begged me to stay."
+  translations:
+    de: ["betteln", "anflehen"]
+  example_translations:
+    de: "Er flehte mich an zu bleiben."
+
+- id: "blame-noun"
+  lemma: "blame"
+  pos: noun
+  level: B2
+  ipa: "/bleɪm/"
+  example: "He took the blame for the mistake."
+  translations:
+    de: ["die Schuld"]
+  example_translations:
+    de: "Er nahm die Schuld für den Fehler auf sich."
+
+- id: "blame-verb"
+  lemma: "blame"
+  pos: verb
+  level: B2
+  ipa: "/bleɪm/"
+  example: "Don't blame me!"
+  translations:
+    de: ["die Schuld geben", "beschuldigen"]
+  example_translations:
+    de: "Gib nicht mir die Schuld!"
+
+- id: "call-noun"
+  lemma: "call"
+  pos: noun
+  level: A1
+  ipa: "/kɔːl/"
+  example: "I got a call from my boss."
+  translations:
+    de: ["der Anruf", "der Ruf"]
+  example_translations:
+    de: "Ich habe einen Anruf von meinem Chef bekommen."
+
+- id: "call-verb"
+  lemma: "call"
+  pos: verb
+  level: A1
+  ipa: "/kɔːl/"
+  example: "I'll call you tomorrow."
+  translations:
+    de: ["anrufen", "rufen", "nennen"]
+  example_translations:
+    de: "Ich rufe dich morgen an."
+
+- id: "certainly"
+  lemma: "certainly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsɜː.tən.li/"
+  example: "Certainly, you can sit here."
+  translations:
+    de: ["sicherlich", "bestimmt", "natürlich"]
+  example_translations:
+    de: "Natürlich, Sie können hier sitzen."
+
+- id: "chat-noun"
+  lemma: "chat"
+  pos: noun
+  level: A2
+  ipa: "/tʃæt/"
+  example: "We had a nice chat."
+  translations:
+    de: ["das Gespräch", "der Plausch", "der Chat"]
+  example_translations:
+    de: "Wir hatten ein nettes Gespräch."
+
+- id: "chat-verb"
+  lemma: "chat"
+  pos: verb
+  level: A2
+  ipa: "/tʃæt/"
+  example: "We chatted for hours."
+  translations:
+    de: ["plaudern", "chatten"]
+  example_translations:
+    de: "Wir haben stundenlang geplaudert."
+
+- id: "claim-noun"
+  lemma: "claim"
+  pos: noun
+  level: B1
+  ipa: "/kleɪm/"
+  example: "Nobody believed his claims."
+  translations:
+    de: ["die Behauptung", "der Anspruch"]
+  example_translations:
+    de: "Niemand glaubte seinen Behauptungen."
+
+- id: "claim-verb"
+  lemma: "claim"
+  pos: verb
+  level: B1
+  ipa: "/kleɪm/"
+  example: "He claims that he saw a ghost."
+  translations:
+    de: ["behaupten", "beanspruchen"]
+  example_translations:
+    de: "Er behauptet, einen Geist gesehen zu haben."
+
+- id: "command-noun"
+  lemma: "command"
+  pos: noun
+  level: B2
+  ipa: "/kəˈmɑːnd/"
+  example: "The soldier followed the command."
+  translations:
+    de: ["der Befehl", "das Kommando"]
+  example_translations:
+    de: "Der Soldat befolgte den Befehl."
+
+- id: "command-verb"
+  lemma: "command"
+  pos: verb
+  level: B2
+  ipa: "/kəˈmɑːnd/"
+  example: "He commanded them to stop."
+  translations:
+    de: ["befehlen", "kommandieren"]
+  example_translations:
+    de: "Er befahl ihnen anzuhalten."
+
+- id: "comment-noun"
+  lemma: "comment"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒm.ent/"
+  example: "Please leave a comment below."
+  translations:
+    de: ["der Kommentar", "die Bemerkung"]
+  example_translations:
+    de: "Bitte hinterlasse unten einen Kommentar."
+
+- id: "comment-verb"
+  lemma: "comment"
+  pos: verb
+  level: B1
+  ipa: "/ˈkɒm.ent/"
+  example: "He refused to comment on the news."
+  translations:
+    de: ["kommentieren", "sich äußern"]
+  example_translations:
+    de: "Er wollte sich zu den Nachrichten nicht äußern."
+
+- id: "communicate"
+  lemma: "communicate"
+  pos: verb
+  level: A2
+  ipa: "/kəˈmjuː.nɪ.keɪt/"
+  example: "We communicate by email."
+  translations:
+    de: ["kommunizieren", "sich verständigen"]
+  example_translations:
+    de: "Wir kommunizieren per E-Mail."
+
+- id: "communication"
+  lemma: "communication"
+  pos: noun
+  level: B1
+  ipa: "/kəˌmjuː.nɪˈkeɪ.ʃən/"
+  example: "Good communication is important."
+  translations:
+    de: ["die Kommunikation"]
+  example_translations:
+    de: "Gute Kommunikation ist wichtig."
+
+- id: "complain"
+  lemma: "complain"
+  pos: verb
+  level: A2
+  ipa: "/kəmˈpleɪn/"
+  example: "She complained about the food."
+  translations:
+    de: ["sich beschweren", "klagen"]
+  example_translations:
+    de: "Sie hat sich über das Essen beschwert."
+
+- id: "complaint"
+  lemma: "complaint"
+  pos: noun
+  level: B1
+  ipa: "/kəmˈpleɪnt/"
+  example: "I want to make a complaint."
+  translations:
+    de: ["die Beschwerde", "die Reklamation"]
+  example_translations:
+    de: "Ich möchte mich beschweren."
+
+- id: "confirm"
+  lemma: "confirm"
+  pos: verb
+  level: B1
+  ipa: "/kənˈfɜːm/"
+  example: "Please confirm your booking."
+  translations:
+    de: ["bestätigen"]
+  example_translations:
+    de: "Bitte bestätigen Sie Ihre Buchung."
+
+- id: "contact-noun"
+  lemma: "contact"
+  pos: noun
+  level: B1
+  ipa: "/ˈkɒn.tækt/"
+  example: "We lost contact after school."
+  translations:
+    de: ["der Kontakt"]
+  example_translations:
+    de: "Nach der Schule haben wir den Kontakt verloren."
+
+- id: "contact-verb"
+  lemma: "contact"
+  pos: verb
+  level: B1
+  ipa: "/ˈkɒn.tækt/"
+  example: "Please contact us by email."
+  translations:
+    de: ["kontaktieren", "sich in Verbindung setzen"]
+  example_translations:
+    de: "Bitte kontaktieren Sie uns per E-Mail."
+
+- id: "context"
+  lemma: "context"
+  pos: noun
+  level: A2
+  ipa: "/ˈkɒn.tekst/"
+  example: "Guess the meaning from the context."
+  translations:
+    de: ["der Zusammenhang", "der Kontext"]
+  example_translations:
+    de: "Errate die Bedeutung aus dem Zusammenhang."
+
+- id: "conversation"
+  lemma: "conversation"
+  pos: noun
+  level: A1
+  ipa: "/ˌkɒn.vəˈseɪ.ʃən/"
+  example: "We had a long conversation."
+  translations:
+    de: ["das Gespräch", "die Unterhaltung"]
+  example_translations:
+    de: "Wir hatten ein langes Gespräch."
+
+- id: "convince"
+  lemma: "convince"
+  pos: verb
+  level: B1
+  ipa: "/kənˈvɪns/"
+  example: "You have convinced me."
+  translations:
+    de: ["überzeugen"]
+  example_translations:
+    de: "Du hast mich überzeugt."
+
+- id: "criticism"
+  lemma: "criticism"
+  pos: noun
+  level: B2
+  ipa: "/ˈkrɪt.ɪ.sɪ.zəm/"
+  example: "He can't take criticism."
+  translations:
+    de: ["die Kritik"]
+  example_translations:
+    de: "Er kann keine Kritik vertragen."
+
+- id: "criticize"
+  lemma: "criticize"
+  pos: verb
+  level: B2
+  ipa: "/ˈkrɪt.ɪ.saɪz/"
+  example: "Don't criticize me all the time."
+  translations:
+    de: ["kritisieren"]
+  example_translations:
+    de: "Kritisier mich nicht ständig."
+
+- id: "cry-noun"
+  lemma: "cry"
+  pos: noun
+  level: B2
+  ipa: "/kraɪ/"
+  example: "We heard a cry for help."
+  translations:
+    de: ["der Schrei", "der Ruf"]
+  example_translations:
+    de: "Wir hörten einen Hilfeschrei."
+
+- id: "dear-adjective"
+  lemma: "dear"
+  pos: adjective
+  level: A1
+  ipa: "/dɪər/"
+  example: "Dear Anna, thank you for your letter."
+  translations:
+    de: ["liebe", "lieber", "teuer"]
+  example_translations:
+    de: "Liebe Anna, danke für deinen Brief."
+
+- id: "debate-noun"
+  lemma: "debate"
+  pos: noun
+  level: B2
+  ipa: "/dɪˈbeɪt/"
+  example: "There was a long debate about the new law."
+  translations:
+    de: ["die Debatte", "die Diskussion"]
+  example_translations:
+    de: "Es gab eine lange Debatte über das neue Gesetz."
+
+- id: "debate-verb"
+  lemma: "debate"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈbeɪt/"
+  example: "We debated the question for hours."
+  translations:
+    de: ["debattieren", "diskutieren"]
+  example_translations:
+    de: "Wir haben stundenlang über die Frage diskutiert."
+
+- id: "declare"
+  lemma: "declare"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈkleər/"
+  example: "Do you have anything to declare?"
+  translations:
+    de: ["erklären", "verkünden", "verzollen"]
+  example_translations:
+    de: "Haben Sie etwas zu verzollen?"
+
+- id: "define"
+  lemma: "define"
+  pos: verb
+  level: B1
+  ipa: "/dɪˈfaɪn/"
+  example: "How would you define success?"
+  translations:
+    de: ["definieren", "festlegen"]
+  example_translations:
+    de: "Wie würdest du Erfolg definieren?"
+
+- id: "definitely"
+  lemma: "definitely"
+  pos: adverb
+  level: A2
+  ipa: "/ˈdef.ɪ.nət.li/"
+  example: "I'll definitely come."
+  translations:
+    de: ["auf jeden Fall", "definitiv"]
+  example_translations:
+    de: "Ich komme auf jeden Fall."
+
+- id: "definition"
+  lemma: "definition"
+  pos: noun
+  level: B1
+  ipa: "/ˌdef.ɪˈnɪʃ.ən/"
+  example: "Look up the definition in a dictionary."
+  translations:
+    de: ["die Definition"]
+  example_translations:
+    de: "Schlag die Definition in einem Wörterbuch nach."
+
+- id: "demand-verb"
+  lemma: "demand"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈmɑːnd/"
+  example: "He demanded an explanation."
+  translations:
+    de: ["fordern", "verlangen"]
+  example_translations:
+    de: "Er verlangte eine Erklärung."
+
+- id: "demonstrate"
+  lemma: "demonstrate"
+  pos: verb
+  level: B2
+  ipa: "/ˈdem.ən.streɪt/"
+  example: "She demonstrated how the machine works."
+  translations:
+    de: ["zeigen", "vorführen", "demonstrieren"]
+  example_translations:
+    de: "Sie führte vor, wie die Maschine funktioniert."
+
+- id: "deny"
+  lemma: "deny"
+  pos: verb
+  level: B2
+  ipa: "/dɪˈnaɪ/"
+  example: "He denied stealing the money."
+  translations:
+    de: ["leugnen", "bestreiten", "verweigern"]
+  example_translations:
+    de: "Er bestritt, das Geld gestohlen zu haben."
+
+- id: "describe"
+  lemma: "describe"
+  pos: verb
+  level: A1
+  ipa: "/dɪˈskraɪb/"
+  example: "Can you describe the man?"
+  translations:
+    de: ["beschreiben"]
+  example_translations:
+    de: "Können Sie den Mann beschreiben?"
+
+- id: "description"
+  lemma: "description"
+  pos: noun
+  level: A1
+  ipa: "/dɪˈskrɪp.ʃən/"
+  example: "Read the description of the hotel."
+  translations:
+    de: ["die Beschreibung"]
+  example_translations:
+    de: "Lies die Beschreibung des Hotels."
+
+- id: "detail-verb"
+  lemma: "detail"
+  pos: verb
+  level: B2
+  ipa: "/ˈdiː.teɪl/"
+  example: "The report details all the costs."
+  translations:
+    de: ["ausführlich darlegen", "auflisten"]
+  example_translations:
+    de: "Der Bericht listet alle Kosten auf."
+
+- id: "dialogue"
+  lemma: "dialogue"
+  pos: noun
+  level: A1
+  ipa: "/ˈdaɪ.ə.lɒɡ/"
+  example: "Read the dialogue with a partner."
+  translations:
+    de: ["der Dialog"]
+  example_translations:
+    de: "Lies den Dialog mit einem Partner."
+
+- id: "disagree"
+  lemma: "disagree"
+  pos: verb
+  level: A2
+  ipa: "/ˌdɪs.əˈɡriː/"
+  example: "I disagree with you."
+  translations:
+    de: ["nicht zustimmen", "anderer Meinung sein"]
+  example_translations:
+    de: "Ich bin anderer Meinung als du."
+
+- id: "discuss"
+  lemma: "discuss"
+  pos: verb
+  level: A1
+  ipa: "/dɪˈskʌs/"
+  example: "Let's discuss it tomorrow."
+  translations:
+    de: ["besprechen", "diskutieren"]
+  example_translations:
+    de: "Lass uns das morgen besprechen."
+
+- id: "discussion"
+  lemma: "discussion"
+  pos: noun
+  level: A2
+  ipa: "/dɪˈskʌʃ.ən/"
+  example: "We had a long discussion."
+  translations:
+    de: ["die Diskussion", "das Gespräch"]
+  example_translations:
+    de: "Wir hatten eine lange Diskussion."
+
+- id: "emphasis"
+  lemma: "emphasis"
+  pos: noun
+  level: B2
+  ipa: "/ˈem.fə.sɪs/"
+  example: "The school puts emphasis on languages."
+  translations:
+    de: ["die Betonung", "der Schwerpunkt"]
+  example_translations:
+    de: "Die Schule legt den Schwerpunkt auf Sprachen."
+
+- id: "emphasize"
+  lemma: "emphasize"
+  pos: verb
+  level: B2
+  ipa: "/ˈem.fə.saɪz/"
+  example: "He emphasized the importance of sleep."
+  translations:
+    de: ["betonen", "hervorheben"]
+  example_translations:
+    de: "Er betonte, wie wichtig Schlaf ist."
+
+- id: "encourage"
+  lemma: "encourage"
+  pos: verb
+  level: B1
+  ipa: "/ɪnˈkʌr.ɪdʒ/"
+  example: "My parents encouraged me to study."
+  translations:
+    de: ["ermutigen", "fördern"]
+  example_translations:
+    de: "Meine Eltern ermutigten mich zu studieren."
+
+- id: "enquiry"
+  lemma: "enquiry"
+  pos: noun
+  level: B2
+  ipa: "/ɪnˈkwaɪə.ri/"
+  example: "Thank you for your enquiry."
+  translations:
+    de: ["die Anfrage", "die Erkundigung"]
+  example_translations:
+    de: "Danke für Ihre Anfrage."
+
+- id: "excuse-noun"
+  lemma: "excuse"
+  pos: noun
+  level: B2
+  ipa: "/ɪkˈskjuːs/"
+  example: "That's not a good excuse."
+  translations:
+    de: ["die Ausrede", "die Entschuldigung"]
+  example_translations:
+    de: "Das ist keine gute Ausrede."
+
+- id: "excuse-verb"
+  lemma: "excuse"
+  pos: verb
+  level: B2
+  ipa: "/ɪkˈskjuːz/"
+  example: "Please excuse my bad handwriting."
+  translations:
+    de: ["entschuldigen", "verzeihen"]
+  example_translations:
+    de: "Bitte entschuldige meine schlechte Handschrift."
+
+- id: "explanation"
+  lemma: "explanation"
+  pos: noun
+  level: A2
+  ipa: "/ˌek.spləˈneɪ.ʃən/"
+  example: "Is there an explanation for this?"
+  translations:
+    de: ["die Erklärung"]
+  example_translations:
+    de: "Gibt es dafür eine Erklärung?"
+
+- id: "express"
+  lemma: "express"
+  pos: verb
+  level: A2
+  ipa: "/ɪkˈspres/"
+  example: "It's hard to express my feelings."
+  translations:
+    de: ["ausdrücken", "äußern"]
+  example_translations:
+    de: "Es ist schwer, meine Gefühle auszudrücken."
+
+- id: "expression"
+  lemma: "expression"
+  pos: noun
+  level: A2
+  ipa: "/ɪkˈspreʃ.ən/"
+  example: "I don't know this expression."
+  translations:
+    de: ["der Ausdruck", "die Redewendung"]
+  example_translations:
+    de: "Ich kenne diesen Ausdruck nicht."
+
+- id: "favour-noun"
+  lemma: "favour"
+  pos: noun
+  level: B1
+  ipa: "/ˈfeɪ.vər/"
+  example: "Can you do me a favour?"
+  translations:
+    de: ["der Gefallen", "die Gunst"]
+  example_translations:
+    de: "Kannst du mir einen Gefallen tun?"
+
+- id: "feedback"
+  lemma: "feedback"
+  pos: noun
+  level: B2
+  ipa: "/ˈfiːd.bæk/"
+  example: "Thanks for your feedback."
+  translations:
+    de: ["die Rückmeldung", "das Feedback"]
+  example_translations:
+    de: "Danke für deine Rückmeldung."
+
+- id: "firstly"
+  lemma: "firstly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈfɜːst.li/"
+  example: "Firstly, I want to thank you."
+  translations:
+    de: ["erstens"]
+  example_translations:
+    de: "Erstens möchte ich euch danken."
+
+- id: "furthermore"
+  lemma: "furthermore"
+  pos: adverb
+  level: B2
+  ipa: "/ˌfɜː.ðəˈmɔːr/"
+  example: "Furthermore, the hotel is very cheap."
+  translations:
+    de: ["außerdem", "darüber hinaus"]
+  example_translations:
+    de: "Außerdem ist das Hotel sehr günstig."
+
+- id: "greet"
+  lemma: "greet"
+  pos: verb
+  level: A2
+  ipa: "/ɡriːt/"
+  example: "She greeted us at the door."
+  translations:
+    de: ["begrüßen", "grüßen"]
+  example_translations:
+    de: "Sie begrüßte uns an der Tür."
+
+- id: "guarantee-verb"
+  lemma: "guarantee"
+  pos: verb
+  level: B2
+  ipa: "/ˌɡær.ənˈtiː/"
+  example: "I can't guarantee that it will work."
+  translations:
+    de: ["garantieren"]
+  example_translations:
+    de: "Ich kann nicht garantieren, dass es funktioniert."
+
+- id: "however"
+  lemma: "however"
+  pos: adverb
+  level: A1
+  ipa: "/haʊˈev.ər/"
+  example: "It was cold. However, we went out."
+  translations:
+    de: ["jedoch", "aber"]
+  example_translations:
+    de: "Es war kalt. Trotzdem gingen wir hinaus."
+
+- id: "imply"
+  lemma: "imply"
+  pos: verb
+  level: B2
+  ipa: "/ɪmˈplaɪ/"
+  example: "Are you implying that I'm lying?"
+  translations:
+    de: ["andeuten", "implizieren"]
+  example_translations:
+    de: "Willst du damit sagen, dass ich lüge?"
+
+- id: "indeed"
+  lemma: "indeed"
+  pos: adverb
+  level: B1
+  ipa: "/ɪnˈdiːd/"
+  example: "It was indeed a great day."
+  translations:
+    de: ["tatsächlich", "in der Tat"]
+  example_translations:
+    de: "Es war in der Tat ein toller Tag."
+
+- id: "indicate"
+  lemma: "indicate"
+  pos: verb
+  level: B1
+  ipa: "/ˈɪn.dɪ.keɪt/"
+  example: "Studies indicate that sleep is important."
+  translations:
+    de: ["anzeigen", "hinweisen", "blinken"]
+  example_translations:
+    de: "Studien weisen darauf hin, dass Schlaf wichtig ist."
+
+- id: "inform"
+  lemma: "inform"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈfɔːm/"
+  example: "Please inform us of any changes."
+  translations:
+    de: ["informieren", "benachrichtigen"]
+  example_translations:
+    de: "Bitte informieren Sie uns über Änderungen."
+
+- id: "information"
+  lemma: "information"
+  pos: noun
+  level: A1
+  ipa: "/ˌɪn.fəˈmeɪ.ʃən/"
+  example: "I need more information."
+  translations:
+    de: ["die Information", "die Auskunft"]
+  example_translations:
+    de: "Ich brauche mehr Informationen."
+
+- id: "insist"
+  lemma: "insist"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈsɪst/"
+  example: "She insisted on paying."
+  translations:
+    de: ["bestehen auf", "darauf bestehen"]
+  example_translations:
+    de: "Sie bestand darauf zu bezahlen."
+
+- id: "instruction"
+  lemma: "instruction"
+  pos: noun
+  level: A2
+  ipa: "/ɪnˈstrʌk.ʃən/"
+  example: "Read the instructions carefully."
+  translations:
+    de: ["die Anweisung", "die Anleitung"]
+  example_translations:
+    de: "Lies die Anleitung sorgfältig."
+
+- id: "interpret"
+  lemma: "interpret"
+  pos: verb
+  level: B2
+  ipa: "/ɪnˈtɜː.prɪt/"
+  example: "How do you interpret this poem?"
+  translations:
+    de: ["interpretieren", "dolmetschen"]
+  example_translations:
+    de: "Wie interpretierst du dieses Gedicht?"
+
+- id: "interrupt"
+  lemma: "interrupt"
+  pos: verb
+  level: B2
+  ipa: "/ˌɪn.təˈrʌpt/"
+  example: "Sorry to interrupt you."
+  translations:
+    de: ["unterbrechen"]
+  example_translations:
+    de: "Entschuldige, dass ich dich unterbreche."
+
+- id: "introduce"
+  lemma: "introduce"
+  pos: verb
+  level: A1
+  ipa: "/ˌɪn.trəˈdʒuːs/"
+  example: "Let me introduce my wife."
+  translations:
+    de: ["vorstellen", "einführen"]
+  example_translations:
+    de: "Darf ich meine Frau vorstellen?"
+
+- id: "introduction"
+  lemma: "introduction"
+  pos: noun
+  level: A2
+  ipa: "/ˌɪn.trəˈdʌk.ʃən/"
+  example: "Read the introduction first."
+  translations:
+    de: ["die Einleitung", "die Vorstellung", "die Einführung"]
+  example_translations:
+    de: "Lies zuerst die Einleitung."
+
+- id: "invitation"
+  lemma: "invitation"
+  pos: noun
+  level: A2
+  ipa: "/ˌɪn.vɪˈteɪ.ʃən/"
+  example: "Thanks for the invitation."
+  translations:
+    de: ["die Einladung"]
+  example_translations:
+    de: "Danke für die Einladung."
+
+- id: "invite"
+  lemma: "invite"
+  pos: verb
+  level: A2
+  ipa: "/ɪnˈvaɪt/"
+  example: "I invited ten friends to my party."
+  translations:
+    de: ["einladen"]
+  example_translations:
+    de: "Ich habe zehn Freunde zu meiner Party eingeladen."
+
+- id: "joke-noun"
+  lemma: "joke"
+  pos: noun
+  level: A2
+  ipa: "/dʒəʊk/"
+  example: "He told a funny joke."
+  translations:
+    de: ["der Witz"]
+  example_translations:
+    de: "Er erzählte einen lustigen Witz."
+
+- id: "joke-verb"
+  lemma: "joke"
+  pos: verb
+  level: A2
+  ipa: "/dʒəʊk/"
+  example: "Don't worry, I'm only joking."
+  translations:
+    de: ["scherzen", "Witze machen"]
+  example_translations:
+    de: "Keine Sorge, ich mache nur Spaß."
+
+- id: "justify"
+  lemma: "justify"
+  pos: verb
+  level: B2
+  ipa: "/ˈdʒʌs.tɪ.faɪ/"
+  example: "How can you justify the cost?"
+  translations:
+    de: ["rechtfertigen"]
+  example_translations:
+    de: "Wie kannst du die Kosten rechtfertigen?"
+
+- id: "language"
+  lemma: "language"
+  pos: noun
+  level: A1
+  ipa: "/ˈlæŋ.ɡwɪdʒ/"
+  example: "How many languages do you speak?"
+  translations:
+    de: ["die Sprache"]
+  example_translations:
+    de: "Wie viele Sprachen sprichst du?"
+
+- id: "letter"
+  lemma: "letter"
+  pos: noun
+  level: A1
+  ipa: "/ˈlet.ər/"
+  example: "I wrote a letter to my grandmother."
+  translations:
+    de: ["der Brief", "der Buchstabe"]
+  example_translations:
+    de: "Ich habe meiner Großmutter einen Brief geschrieben."
+
+- id: "lie-noun"
+  lemma: "lie"
+  pos: noun
+  level: B1
+  ipa: "/laɪ/"
+  example: "Don't tell lies."
+  translations:
+    de: ["die Lüge"]
+  example_translations:
+    de: "Erzähl keine Lügen."
+
+- id: "mail-noun"
+  lemma: "mail"
+  pos: noun
+  level: A2
+  ipa: "/meɪl/"
+  example: "Is there any mail for me?"
+  translations:
+    de: ["die Post"]
+  example_translations:
+    de: "Ist Post für mich da?"
+
+- id: "mail-verb"
+  lemma: "mail"
+  pos: verb
+  level: A2
+  ipa: "/meɪl/"
+  example: "I'll mail you the details."
+  translations:
+    de: ["schicken", "mailen"]
+  example_translations:
+    de: "Ich schicke dir die Einzelheiten."
+
+- id: "maybe"
+  lemma: "maybe"
+  pos: adverb
+  level: A1
+  ipa: "/ˈmeɪ.bi/"
+  example: "Maybe it will rain."
+  translations:
+    de: ["vielleicht"]
+  example_translations:
+    de: "Vielleicht regnet es."
+
+- id: "mean"
+  lemma: "mean"
+  pos: verb
+  level: A1
+  ipa: "/miːn/"
+  example: "What does this word mean?"
+  translations:
+    de: ["bedeuten", "meinen"]
+  example_translations:
+    de: "Was bedeutet dieses Wort?"
+
+- id: "meaning"
+  lemma: "meaning"
+  pos: noun
+  level: A1
+  ipa: "/ˈmiː.nɪŋ/"
+  example: "What's the meaning of this word?"
+  translations:
+    de: ["die Bedeutung"]
+  example_translations:
+    de: "Was ist die Bedeutung dieses Wortes?"
+
+- id: "mention-noun"
+  lemma: "mention"
+  pos: noun
+  level: B1
+  ipa: "/ˈmen.ʃən/"
+  example: "There was no mention of the accident."
+  translations:
+    de: ["die Erwähnung"]
+  example_translations:
+    de: "Der Unfall wurde nicht erwähnt."
+
+- id: "mention-verb"
+  lemma: "mention"
+  pos: verb
+  level: A2
+  ipa: "/ˈmen.ʃən/"
+  example: "Did she mention me?"
+  translations:
+    de: ["erwähnen"]
+  example_translations:
+    de: "Hat sie mich erwähnt?"
+
+- id: "name-verb"
+  lemma: "name"
+  pos: verb
+  level: A1
+  ipa: "/neɪm/"
+  example: "They named their son Paul."
+  translations:
+    de: ["nennen", "benennen"]
+  example_translations:
+    de: "Sie nannten ihren Sohn Paul."
+
+- id: "nevertheless"
+  lemma: "nevertheless"
+  pos: adverb
+  level: B2
+  ipa: "/ˌnev.ə.ðəˈles/"
+  example: "It was hard. Nevertheless, we finished."
+  translations:
+    de: ["trotzdem", "dennoch"]
+  example_translations:
+    de: "Es war schwer. Trotzdem sind wir fertig geworden."
+
+- id: "note-verb"
+  lemma: "note"
+  pos: verb
+  level: B1
+  ipa: "/nəʊt/"
+  example: "Please note that the shop is closed."
+  translations:
+    de: ["bemerken", "notieren"]
+  example_translations:
+    de: "Bitte beachten Sie, dass das Geschäft geschlossen ist."
+
+- id: "notice-noun"
+  lemma: "notice"
+  pos: noun
+  level: A2
+  ipa: "/ˈnəʊ.tɪs/"
+  example: "There's a notice on the door."
+  translations:
+    de: ["der Aushang", "die Notiz", "die Kündigung"]
+  example_translations:
+    de: "An der Tür hängt ein Aushang."
+
+- id: "object-verb"
+  lemma: "object"
+  pos: verb
+  level: B2
+  ipa: "/əbˈdʒekt/"
+  example: "Nobody objected to the plan."
+  translations:
+    de: ["widersprechen", "Einwände haben"]
+  example_translations:
+    de: "Niemand hatte Einwände gegen den Plan."
+
+- id: "obviously"
+  lemma: "obviously"
+  pos: adverb
+  level: B1
+  ipa: "/ˈɒb.vi.əs.li/"
+  example: "Obviously, I was angry."
+  translations:
+    de: ["offensichtlich", "natürlich"]
+  example_translations:
+    de: "Natürlich war ich wütend."
+
+- id: "offer-verb"
+  lemma: "offer"
+  pos: verb
+  level: A2
+  ipa: "/ˈɒf.ər/"
+  example: "Can I offer you a drink?"
+  translations:
+    de: ["anbieten"]
+  example_translations:
+    de: "Darf ich Ihnen etwas zu trinken anbieten?"
+
+- id: "outline-verb"
+  lemma: "outline"
+  pos: verb
+  level: B2
+  ipa: "/ˈaʊt.laɪn/"
+  example: "She outlined her plans."
+  translations:
+    de: ["skizzieren", "umreißen"]
+  example_translations:
+    de: "Sie skizzierte ihre Pläne."
+
+- id: "perhaps"
+  lemma: "perhaps"
+  pos: adverb
+  level: A2
+  ipa: "/pəˈhæps/"
+  example: "Perhaps she is ill."
+  translations:
+    de: ["vielleicht"]
+  example_translations:
+    de: "Vielleicht ist sie krank."
+
+- id: "permission"
+  lemma: "permission"
+  pos: noun
+  level: A2
+  ipa: "/pəˈmɪʃ.ən/"
+  example: "You need permission to leave."
+  translations:
+    de: ["die Erlaubnis", "die Genehmigung"]
+  example_translations:
+    de: "Du brauchst eine Erlaubnis, um zu gehen."
+
+- id: "personally"
+  lemma: "personally"
+  pos: adverb
+  level: B1
+  ipa: "/ˈpɜː.sən.əl.i/"
+  example: "Personally, I prefer tea."
+  translations:
+    de: ["persönlich"]
+  example_translations:
+    de: "Ich persönlich trinke lieber Tee."
+
+- id: "persuade"
+  lemma: "persuade"
+  pos: verb
+  level: B1
+  ipa: "/pəˈsweɪd/"
+  example: "She persuaded me to come."
+  translations:
+    de: ["überreden", "überzeugen"]
+  example_translations:
+    de: "Sie hat mich überredet mitzukommen."
+
+- id: "phone-verb"
+  lemma: "phone"
+  pos: verb
+  level: A1
+  ipa: "/fəʊn/"
+  example: "Phone me when you arrive."
+  translations:
+    de: ["anrufen", "telefonieren"]
+  example_translations:
+    de: "Ruf mich an, wenn du ankommst."
+
+- id: "phrase"
+  lemma: "phrase"
+  pos: noun
+  level: A1
+  ipa: "/freɪz/"
+  example: "Learn these useful phrases."
+  translations:
+    de: ["der Ausdruck", "die Wendung"]
+  example_translations:
+    de: "Lerne diese nützlichen Ausdrücke."
+
+- id: "possibly"
+  lemma: "possibly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈpɒs.ə.bli/"
+  example: "Could you possibly help me?"
+  translations:
+    de: ["möglicherweise", "vielleicht"]
+  example_translations:
+    de: "Könnten Sie mir vielleicht helfen?"
+
+- id: "post-noun"
+  lemma: "post"
+  pos: noun
+  level: A1
+  ipa: "/pəʊst/"
+  example: "I sent it by post."
+  translations:
+    de: ["die Post", "der Beitrag", "der Pfosten"]
+  example_translations:
+    de: "Ich habe es mit der Post geschickt."
+
+- id: "post-verb"
+  lemma: "post"
+  pos: verb
+  level: A1
+  ipa: "/pəʊst/"
+  example: "I posted a photo online."
+  translations:
+    de: ["abschicken", "posten"]
+  example_translations:
+    de: "Ich habe ein Foto online gepostet."
+
+- id: "praise-noun"
+  lemma: "praise"
+  pos: noun
+  level: B2
+  ipa: "/preɪz/"
+  example: "The teacher gave her a lot of praise."
+  translations:
+    de: ["das Lob"]
+  example_translations:
+    de: "Die Lehrerin lobte sie sehr."
+
+- id: "praise-verb"
+  lemma: "praise"
+  pos: verb
+  level: B2
+  ipa: "/preɪz/"
+  example: "He praised her work."
+  translations:
+    de: ["loben"]
+  example_translations:
+    de: "Er lobte ihre Arbeit."
+
+- id: "present-verb"
+  lemma: "present"
+  pos: verb
+  level: A2
+  ipa: "/prɪˈzent/"
+  example: "She presented her project to the class."
+  translations:
+    de: ["präsentieren", "überreichen", "vorstellen"]
+  example_translations:
+    de: "Sie präsentierte ihr Projekt der Klasse."
+
+- id: "probably"
+  lemma: "probably"
+  pos: adverb
+  level: A1
+  ipa: "/ˈprɒb.ə.bli/"
+  example: "It will probably rain."
+  translations:
+    de: ["wahrscheinlich"]
+  example_translations:
+    de: "Es wird wahrscheinlich regnen."
+
+- id: "promise-noun"
+  lemma: "promise"
+  pos: noun
+  level: A2
+  ipa: "/ˈprɒm.ɪs/"
+  example: "You broke your promise."
+  translations:
+    de: ["das Versprechen"]
+  example_translations:
+    de: "Du hast dein Versprechen gebrochen."
+
+- id: "promise-verb"
+  lemma: "promise"
+  pos: verb
+  level: A2
+  ipa: "/ˈprɒm.ɪs/"
+  example: "I promise I'll be on time."
+  translations:
+    de: ["versprechen"]
+  example_translations:
+    de: "Ich verspreche, pünktlich zu sein."
+
+- id: "pronounce"
+  lemma: "pronounce"
+  pos: verb
+  level: A2
+  ipa: "/prəˈnaʊns/"
+  example: "How do you pronounce this word?"
+  translations:
+    de: ["aussprechen"]
+  example_translations:
+    de: "Wie spricht man dieses Wort aus?"
+
+- id: "proposal"
+  lemma: "proposal"
+  pos: noun
+  level: B2
+  ipa: "/prəˈpəʊ.zəl/"
+  example: "They accepted our proposal."
+  translations:
+    de: ["der Vorschlag", "der Heiratsantrag"]
+  example_translations:
+    de: "Sie nahmen unseren Vorschlag an."
+
+- id: "propose"
+  lemma: "propose"
+  pos: verb
+  level: B2
+  ipa: "/prəˈpəʊz/"
+  example: "He proposed to her in Paris."
+  translations:
+    de: ["vorschlagen", "einen Heiratsantrag machen"]
+  example_translations:
+    de: "Er machte ihr in Paris einen Heiratsantrag."
+
+- id: "question-verb"
+  lemma: "question"
+  pos: verb
+  level: A2
+  ipa: "/ˈkwes.tʃən/"
+  example: "The police questioned two men."
+  translations:
+    de: ["befragen", "infrage stellen"]
+  example_translations:
+    de: "Die Polizei befragte zwei Männer."
+
+- id: "quotation"
+  lemma: "quotation"
+  pos: noun
+  level: B1
+  ipa: "/kwəʊˈteɪ.ʃən/"
+  example: "This is a famous quotation from Shakespeare."
+  translations:
+    de: ["das Zitat", "der Kostenvoranschlag"]
+  example_translations:
+    de: "Das ist ein berühmtes Zitat von Shakespeare."
+
+- id: "quote-noun"
+  lemma: "quote"
+  pos: noun
+  level: B1
+  ipa: "/kwəʊt/"
+  example: "I like this quote."
+  translations:
+    de: ["das Zitat", "das Angebot"]
+  example_translations:
+    de: "Mir gefällt dieses Zitat."
+
+- id: "quote-verb"
+  lemma: "quote"
+  pos: verb
+  level: B1
+  ipa: "/kwəʊt/"
+  example: "He quoted a line from the poem."
+  translations:
+    de: ["zitieren"]
+  example_translations:
+    de: "Er zitierte eine Zeile aus dem Gedicht."
+
+- id: "recommend"
+  lemma: "recommend"
+  pos: verb
+  level: A2
+  ipa: "/ˌrek.əˈmend/"
+  example: "Can you recommend a good restaurant?"
+  translations:
+    de: ["empfehlen"]
+  example_translations:
+    de: "Kannst du ein gutes Restaurant empfehlen?"
+
+- id: "recommendation"
+  lemma: "recommendation"
+  pos: noun
+  level: B1
+  ipa: "/ˌrek.ə.menˈdeɪ.ʃən/"
+  example: "We went there on his recommendation."
+  translations:
+    de: ["die Empfehlung"]
+  example_translations:
+    de: "Wir sind auf seine Empfehlung hin dorthin gegangen."
+
+- id: "refer"
+  lemma: "refer"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈfɜːr/"
+  example: "What are you referring to?"
+  translations:
+    de: ["sich beziehen", "verweisen"]
+  example_translations:
+    de: "Worauf beziehst du dich?"
+
+- id: "reference"
+  lemma: "reference"
+  pos: noun
+  level: B1
+  ipa: "/ˈref.ər.əns/"
+  example: "Can you give me a reference?"
+  translations:
+    de: ["der Verweis", "die Referenz", "das Zeugnis"]
+  example_translations:
+    de: "Kannst du mir ein Empfehlungsschreiben geben?"
+
+- id: "refuse"
+  lemma: "refuse"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈfjuːz/"
+  example: "He refused to help me."
+  translations:
+    de: ["ablehnen", "sich weigern"]
+  example_translations:
+    de: "Er weigerte sich, mir zu helfen."
+
+- id: "regard-noun"
+  lemma: "regard"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈɡɑːd/"
+  example: "Give my regards to your parents."
+  translations:
+    de: ["die Hinsicht", "der Gruß", "die Rücksicht"]
+  example_translations:
+    de: "Grüß deine Eltern von mir."
+
+- id: "reject"
+  lemma: "reject"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈdʒekt/"
+  example: "They rejected my application."
+  translations:
+    de: ["ablehnen", "zurückweisen"]
+  example_translations:
+    de: "Sie lehnten meine Bewerbung ab."
+
+- id: "remark-noun"
+  lemma: "remark"
+  pos: noun
+  level: B2
+  ipa: "/rɪˈmɑːk/"
+  example: "He made a rude remark."
+  translations:
+    de: ["die Bemerkung"]
+  example_translations:
+    de: "Er machte eine unhöfliche Bemerkung."
+
+- id: "remark-verb"
+  lemma: "remark"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈmɑːk/"
+  example: "She remarked that it was late."
+  translations:
+    de: ["bemerken", "anmerken"]
+  example_translations:
+    de: "Sie bemerkte, dass es spät war."
+
+- id: "repeat-verb"
+  lemma: "repeat"
+  pos: verb
+  level: A1
+  ipa: "/rɪˈpiːt/"
+  example: "Can you repeat that, please?"
+  translations:
+    de: ["wiederholen"]
+  example_translations:
+    de: "Kannst du das bitte wiederholen?"
+
+- id: "reply-noun"
+  lemma: "reply"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈplaɪ/"
+  example: "I'm waiting for a reply."
+  translations:
+    de: ["die Antwort"]
+  example_translations:
+    de: "Ich warte auf eine Antwort."
+
+- id: "reply-verb"
+  lemma: "reply"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈplaɪ/"
+  example: "Please reply to my email."
+  translations:
+    de: ["antworten", "erwidern"]
+  example_translations:
+    de: "Bitte antworte auf meine E-Mail."
+
+- id: "report-noun"
+  lemma: "report"
+  pos: noun
+  level: A1
+  ipa: "/rɪˈpɔːt/"
+  example: "I have to write a report."
+  translations:
+    de: ["der Bericht", "das Zeugnis"]
+  example_translations:
+    de: "Ich muss einen Bericht schreiben."
+
+- id: "report-verb"
+  lemma: "report"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈpɔːt/"
+  example: "Report the accident to the police."
+  translations:
+    de: ["berichten", "melden"]
+  example_translations:
+    de: "Melde den Unfall der Polizei."
+
+- id: "request-noun"
+  lemma: "request"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈkwest/"
+  example: "I have a request."
+  translations:
+    de: ["die Bitte", "die Anfrage"]
+  example_translations:
+    de: "Ich habe eine Bitte."
+
+- id: "request-verb"
+  lemma: "request"
+  pos: verb
+  level: B1
+  ipa: "/rɪˈkwest/"
+  example: "You can request a room with a view."
+  translations:
+    de: ["bitten um", "anfordern"]
+  example_translations:
+    de: "Sie können ein Zimmer mit Aussicht anfragen."
+
+- id: "respond"
+  lemma: "respond"
+  pos: verb
+  level: A2
+  ipa: "/rɪˈspɒnd/"
+  example: "He didn't respond to my message."
+  translations:
+    de: ["antworten", "reagieren"]
+  example_translations:
+    de: "Er hat auf meine Nachricht nicht reagiert."
+
+- id: "response"
+  lemma: "response"
+  pos: noun
+  level: A2
+  ipa: "/rɪˈspɒns/"
+  example: "We got a positive response."
+  translations:
+    de: ["die Antwort", "die Reaktion"]
+  example_translations:
+    de: "Wir haben eine positive Rückmeldung bekommen."
+
+- id: "reveal"
+  lemma: "reveal"
+  pos: verb
+  level: B2
+  ipa: "/rɪˈviːl/"
+  example: "She revealed her secret."
+  translations:
+    de: ["enthüllen", "verraten", "zeigen"]
+  example_translations:
+    de: "Sie verriet ihr Geheimnis."
+
+- id: "ring-verb"
+  lemma: "ring"
+  pos: verb
+  level: A2
+  ipa: "/rɪŋ/"
+  example: "The phone is ringing."
+  translations:
+    de: ["klingeln", "anrufen"]
+  example_translations:
+    de: "Das Telefon klingelt."
+
+- id: "scream-noun"
+  lemma: "scream"
+  pos: noun
+  level: B2
+  ipa: "/skriːm/"
+  example: "We heard a scream."
+  translations:
+    de: ["der Schrei"]
+  example_translations:
+    de: "Wir hörten einen Schrei."
+
+- id: "scream-verb"
+  lemma: "scream"
+  pos: verb
+  level: B2
+  ipa: "/skriːm/"
+  example: "She screamed when she saw the spider."
+  translations:
+    de: ["schreien"]
+  example_translations:
+    de: "Sie schrie, als sie die Spinne sah."
+
+- id: "secondly"
+  lemma: "secondly"
+  pos: adverb
+  level: A2
+  ipa: "/ˈsek.ənd.li/"
+  example: "Secondly, it's too expensive."
+  translations:
+    de: ["zweitens"]
+  example_translations:
+    de: "Zweitens ist es zu teuer."
+
+- id: "shout-noun"
+  lemma: "shout"
+  pos: noun
+  level: A2
+  ipa: "/ʃaʊt/"
+  example: "We heard a shout."
+  translations:
+    de: ["der Schrei", "der Ruf"]
+  example_translations:
+    de: "Wir hörten einen Schrei."
+
+- id: "shout-verb"
+  lemma: "shout"
+  pos: verb
+  level: A2
+  ipa: "/ʃaʊt/"
+  example: "Don't shout at me!"
+  translations:
+    de: ["schreien", "rufen"]
+  example_translations:
+    de: "Schrei mich nicht an!"
+
+- id: "signal-verb"
+  lemma: "signal"
+  pos: verb
+  level: B1
+  ipa: "/ˈsɪɡ.nəl/"
+  example: "He signalled to me to stop."
+  translations:
+    de: ["signalisieren", "ein Zeichen geben"]
+  example_translations:
+    de: "Er gab mir ein Zeichen anzuhalten."
+
+- id: "similarly"
+  lemma: "similarly"
+  pos: adverb
+  level: B1
+  ipa: "/ˈsɪm.ɪ.lə.li/"
+  example: "Similarly, prices have gone up."
+  translations:
+    de: ["ähnlich", "ebenso"]
+  example_translations:
+    de: "Ebenso sind die Preise gestiegen."
+
+- id: "speaker"
+  lemma: "speaker"
+  pos: noun
+  level: A2
+  ipa: "/ˈspiː.kər/"
+  example: "She is a native speaker of English."
+  translations:
+    de: ["der Sprecher", "der Redner", "der Lautsprecher"]
+  example_translations:
+    de: "Sie ist englische Muttersprachlerin."
+
+- id: "speech"
+  lemma: "speech"
+  pos: noun
+  level: A2
+  ipa: "/spiːtʃ/"
+  example: "He gave a speech at the wedding."
+  translations:
+    de: ["die Rede", "die Sprache"]
+  example_translations:
+    de: "Er hielt eine Rede auf der Hochzeit."
+
+- id: "spell"
+  lemma: "spell"
+  pos: verb
+  level: A1
+  ipa: "/spel/"
+  example: "How do you spell your name?"
+  translations:
+    de: ["buchstabieren", "schreiben"]
+  example_translations:
+    de: "Wie buchstabiert man deinen Namen?"
+
+- id: "spoken"
+  lemma: "spoken"
+  pos: adjective
+  level: B1
+  ipa: "/ˈspəʊ.kən/"
+  example: "My spoken English is good."
+  translations:
+    de: ["gesprochen"]
+  example_translations:
+    de: "Mein gesprochenes Englisch ist gut."
+
+- id: "stamp"
+  lemma: "stamp"
+  pos: noun
+  level: A2
+  ipa: "/stæmp/"
+  example: "I need a stamp for this letter."
+  translations:
+    de: ["die Briefmarke", "der Stempel"]
+  example_translations:
+    de: "Ich brauche eine Briefmarke für diesen Brief."
+
+- id: "state-verb"
+  lemma: "state"
+  pos: verb
+  level: B1
+  ipa: "/steɪt/"
+  example: "Please state your name."
+  translations:
+    de: ["angeben", "erklären", "feststellen"]
+  example_translations:
+    de: "Bitte nennen Sie Ihren Namen."
+
+- id: "statement"
+  lemma: "statement"
+  pos: noun
+  level: A1
+  ipa: "/ˈsteɪt.mənt/"
+  example: "Are these statements true or false?"
+  translations:
+    de: ["die Aussage", "die Erklärung", "der Kontoauszug"]
+  example_translations:
+    de: "Sind diese Aussagen richtig oder falsch?"
+
+- id: "stress-verb"
+  lemma: "stress"
+  pos: verb
+  level: A2
+  ipa: "/stres/"
+  example: "He stressed the importance of safety."
+  translations:
+    de: ["betonen", "stressen"]
+  example_translations:
+    de: "Er betonte, wie wichtig Sicherheit ist."
+
+- id: "suggest"
+  lemma: "suggest"
+  pos: verb
+  level: A2
+  ipa: "/səˈdʒest/"
+  example: "I suggest we take a taxi."
+  translations:
+    de: ["vorschlagen", "andeuten"]
+  example_translations:
+    de: "Ich schlage vor, dass wir ein Taxi nehmen."
+
+- id: "suggestion"
+  lemma: "suggestion"
+  pos: noun
+  level: A2
+  ipa: "/səˈdʒes.tʃən/"
+  example: "Do you have any suggestions?"
+  translations:
+    de: ["der Vorschlag"]
+  example_translations:
+    de: "Hast du Vorschläge?"
+
+- id: "sum-verb"
+  lemma: "sum"
+  pos: verb
+  level: B2
+  ipa: "/sʌm/"
+  example: "To sum up, it was a great year."
+  translations:
+    de: ["zusammenfassen"]
+  example_translations:
+    de: "Zusammenfassend war es ein tolles Jahr."
+
+- id: "summarize"
+  lemma: "summarize"
+  pos: verb
+  level: B1
+  ipa: "/ˈsʌm.ər.aɪz/"
+  example: "Summarize the text in five sentences."
+  translations:
+    de: ["zusammenfassen"]
+  example_translations:
+    de: "Fasse den Text in fünf Sätzen zusammen."
+
+- id: "summary"
+  lemma: "summary"
+  pos: noun
+  level: B1
+  ipa: "/ˈsʌm.ər.i/"
+  example: "Write a summary of the article."
+  translations:
+    de: ["die Zusammenfassung"]
+  example_translations:
+    de: "Schreib eine Zusammenfassung des Artikels."
+
+- id: "sure-adverb"
+  lemma: "sure"
+  pos: adverb
+  level: A2
+  ipa: "/ʃɔːr/"
+  example: "Sure, I can help you."
+  translations:
+    de: ["klar", "sicher"]
+  example_translations:
+    de: "Klar, ich kann dir helfen."
+
+- id: "surely"
+  lemma: "surely"
+  pos: adverb
+  level: B1
+  ipa: "/ˈʃɔː.li/"
+  example: "Surely you don't believe that?"
+  translations:
+    de: ["sicherlich", "doch wohl"]
+  example_translations:
+    de: "Das glaubst du doch wohl nicht?"
+
+- id: "swear"
+  lemma: "swear"
+  pos: verb
+  level: B2
+  ipa: "/sweər/"
+  example: "I swear I didn't do it."
+  translations:
+    de: ["schwören", "fluchen"]
+  example_translations:
+    de: "Ich schwöre, ich war es nicht."
+
+- id: "talk-noun"
+  lemma: "talk"
+  pos: noun
+  level: A2
+  ipa: "/tɔːk/"
+  example: "We had a long talk."
+  translations:
+    de: ["das Gespräch", "der Vortrag"]
+  example_translations:
+    de: "Wir hatten ein langes Gespräch."
+
+- id: "talk-verb"
+  lemma: "talk"
+  pos: verb
+  level: A1
+  ipa: "/tɔːk/"
+  example: "We talked for hours."
+  translations:
+    de: ["sprechen", "reden"]
+  example_translations:
+    de: "Wir haben stundenlang geredet."
+
+- id: "telephone-verb"
+  lemma: "telephone"
+  pos: verb
+  level: A1
+  ipa: "/ˈtel.ɪ.fəʊn/"
+  example: "Please telephone before you come."
+  translations:
+    de: ["anrufen", "telefonieren"]
+  example_translations:
+    de: "Bitte rufen Sie an, bevor Sie kommen."
+
+- id: "tell"
+  lemma: "tell"
+  pos: verb
+  level: A1
+  ipa: "/tel/"
+  example: "Tell me about your holiday."
+  translations:
+    de: ["erzählen", "sagen"]
+  example_translations:
+    de: "Erzähl mir von deinem Urlaub."
+
+- id: "term-verb"
+  lemma: "term"
+  pos: verb
+  level: B2
+  ipa: "/tɜːm/"
+  example: "This is termed \"global warming\"."
+  translations:
+    de: ["bezeichnen", "nennen"]
+  example_translations:
+    de: "Das nennt man „globale Erwärmung“."
+
+- id: "thank"
+  lemma: "thank"
+  pos: verb
+  level: A1
+  ipa: "/θæŋk/"
+  example: "I want to thank you for your help."
+  translations:
+    de: ["danken", "sich bedanken"]
+  example_translations:
+    de: "Ich möchte dir für deine Hilfe danken."
+
+- id: "therefore"
+  lemma: "therefore"
+  pos: adverb
+  level: B1
+  ipa: "/ˈðeə.fɔːr/"
+  example: "It was late; therefore, we went home."
+  translations:
+    de: ["deshalb", "daher"]
+  example_translations:
+    de: "Es war spät, deshalb gingen wir nach Hause."
+
+- id: "though-adverb"
+  lemma: "though"
+  pos: adverb
+  level: B1
+  ipa: "/ðəʊ/"
+  example: "It was a good film. Too long, though."
+  translations:
+    de: ["aber", "trotzdem", "allerdings"]
+  example_translations:
+    de: "Es war ein guter Film. Allerdings zu lang."
+
+- id: "threaten"
+  lemma: "threaten"
+  pos: verb
+  level: B2
+  ipa: "/ˈθret.ən/"
+  example: "He threatened to call the police."
+  translations:
+    de: ["drohen", "bedrohen"]
+  example_translations:
+    de: "Er drohte, die Polizei zu rufen."
+
+- id: "thus"
+  lemma: "thus"
+  pos: adverb
+  level: B2
+  ipa: "/ðʌs/"
+  example: "The train was late, thus we missed the meeting."
+  translations:
+    de: ["so", "somit", "folglich"]
+  example_translations:
+    de: "Der Zug hatte Verspätung, somit verpassten wir das Treffen."
+
+- id: "tone"
+  lemma: "tone"
+  pos: noun
+  level: B2
+  ipa: "/təʊn/"
+  example: "I don't like your tone."
+  translations:
+    de: ["der Ton", "der Tonfall"]
+  example_translations:
+    de: "Mir gefällt dein Ton nicht."
+
+- id: "translate"
+  lemma: "translate"
+  pos: verb
+  level: B1
+  ipa: "/trænsˈleɪt/"
+  example: "Can you translate this letter?"
+  translations:
+    de: ["übersetzen"]
+  example_translations:
+    de: "Kannst du diesen Brief übersetzen?"
+
+- id: "translation"
+  lemma: "translation"
+  pos: noun
+  level: B1
+  ipa: "/trænsˈleɪ.ʃən/"
+  example: "I read the book in translation."
+  translations:
+    de: ["die Übersetzung"]
+  example_translations:
+    de: "Ich habe das Buch in Übersetzung gelesen."
+
+- id: "ultimately"
+  lemma: "ultimately"
+  pos: adverb
+  level: B2
+  ipa: "/ˈʌl.tɪ.mət.li/"
+  example: "Ultimately, it's your decision."
+  translations:
+    de: ["letztendlich", "schließlich"]
+  example_translations:
+    de: "Letztendlich ist es deine Entscheidung."
+
+- id: "urge"
+  lemma: "urge"
+  pos: verb
+  level: B2
+  ipa: "/ɜːdʒ/"
+  example: "I urge you to see a doctor."
+  translations:
+    de: ["drängen", "dringend raten"]
+  example_translations:
+    de: "Ich rate dir dringend, zum Arzt zu gehen."
+
+- id: "warn"
+  lemma: "warn"
+  pos: verb
+  level: B1
+  ipa: "/wɔːn/"
+  example: "I warned you!"
+  translations:
+    de: ["warnen"]
+  example_translations:
+    de: "Ich habe dich gewarnt!"
+
+- id: "warning"
+  lemma: "warning"
+  pos: noun
+  level: B1
+  ipa: "/ˈwɔː.nɪŋ/"
+  example: "There is a storm warning."
+  translations:
+    de: ["die Warnung"]
+  example_translations:
+    de: "Es gibt eine Sturmwarnung."
+
+- id: "wave-verb"
+  lemma: "wave"
+  pos: verb
+  level: B1
+  ipa: "/weɪv/"
+  example: "She waved goodbye."
+  translations:
+    de: ["winken"]
+  example_translations:
+    de: "Sie winkte zum Abschied."
+
+- id: "welcome-verb"
+  lemma: "welcome"
+  pos: verb
+  level: A1
+  ipa: "/ˈwel.kəm/"
+  example: "They welcomed us warmly."
+  translations:
+    de: ["begrüßen", "willkommen heißen"]
+  example_translations:
+    de: "Sie haben uns herzlich begrüßt."
+
+- id: "well-interjection"
+  lemma: "well"
+  pos: interjection
+  level: A1
+  ipa: "/wel/"
+  example: "Well, I'm not sure."
+  translations:
+    de: ["na ja", "also"]
+  example_translations:
+    de: "Na ja, ich bin mir nicht sicher."
+
+- id: "written"
+  lemma: "written"
+  pos: adjective
+  level: B1
+  ipa: "/ˈrɪt.ən/"
+  example: "We have a written exam tomorrow."
+  translations:
+    de: ["schriftlich"]
+  example_translations:
+    de: "Morgen haben wir eine schriftliche Prüfung."
