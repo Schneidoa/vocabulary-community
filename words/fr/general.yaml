@@ -1,0 +1,332 @@
+# 🧩 Allgemeine Begriffe – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "affaires"
+  lemma: "les affaires (f. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/a.fɛʁ/"
+  example: "Range tes affaires."
+  translations:
+    de: ["die Sachen", "die Geschäfte"]
+  example_translations:
+    de: "Räum deine Sachen auf."
+
+- id: "aide"
+  lemma: "l'aide (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛd/"
+  example: "Merci pour ton aide."
+  translations:
+    de: ["die Hilfe"]
+  example_translations:
+    de: "Danke für deine Hilfe."
+
+- id: "besoin"
+  lemma: "le besoin"
+  pos: noun
+  level: A2
+  ipa: "/bə.zwɛ̃/"
+  example: "J'ai besoin de repos."
+  translations:
+    de: ["das Bedürfnis", "der Bedarf"]
+  example_translations:
+    de: "Ich brauche Ruhe."
+
+- id: "bout"
+  lemma: "le bout"
+  pos: noun
+  level: A2
+  ipa: "/bu/"
+  example: "Au bout de la rue, tournez à gauche."
+  translations:
+    de: ["das Ende", "das Stück"]
+  example_translations:
+    de: "Am Ende der Straße links abbiegen."
+
+- id: "bruit"
+  lemma: "le bruit"
+  pos: noun
+  level: A2
+  ipa: "/bʁɥi/"
+  example: "Il y a trop de bruit."
+  translations:
+    de: ["der Lärm", "das Geräusch"]
+  example_translations:
+    de: "Es ist zu laut."
+
+- id: "but"
+  lemma: "le but"
+  pos: noun
+  level: A2
+  ipa: "/byt/"
+  example: "Quel est le but du jeu ?"
+  translations:
+    de: ["das Ziel", "das Tor"]
+  example_translations:
+    de: "Was ist das Ziel des Spiels?"
+
+- id: "cause"
+  lemma: "la cause"
+  pos: noun
+  level: A2
+  ipa: "/koz/"
+  example: "Quelle est la cause de l'accident ?"
+  translations:
+    de: ["die Ursache", "der Grund"]
+  example_translations:
+    de: "Was ist die Ursache des Unfalls?"
+
+- id: "chose"
+  lemma: "la chose"
+  pos: noun
+  level: A1
+  ipa: "/ʃoz/"
+  example: "J'ai beaucoup de choses à faire."
+  translations:
+    de: ["die Sache", "das Ding"]
+  example_translations:
+    de: "Ich habe viel zu tun."
+
+- id: "cote"
+  lemma: "le côté"
+  pos: noun
+  level: A2
+  ipa: "/ko.te/"
+  example: "De l'autre côté de la rue."
+  translations:
+    de: ["die Seite"]
+  example_translations:
+    de: "Auf der anderen Straßenseite."
+
+- id: "danger"
+  lemma: "le danger"
+  pos: noun
+  level: A2
+  ipa: "/dɑ̃.ʒe/"
+  example: "Attention, danger !"
+  translations:
+    de: ["die Gefahr"]
+  example_translations:
+    de: "Achtung, Gefahr!"
+
+- id: "difference"
+  lemma: "la différence"
+  pos: noun
+  level: A2
+  ipa: "/di.fe.ʁɑ̃s/"
+  example: "Quelle est la différence ?"
+  translations:
+    de: ["der Unterschied"]
+  example_translations:
+    de: "Was ist der Unterschied?"
+
+- id: "facon"
+  lemma: "la façon"
+  pos: noun
+  level: A2
+  ipa: "/fa.sɔ̃/"
+  example: "C'est une façon de parler."
+  translations:
+    de: ["die Art", "die Weise"]
+  example_translations:
+    de: "Das ist eine Redensart."
+
+- id: "forme"
+  lemma: "la forme"
+  pos: noun
+  level: A2
+  ipa: "/fɔʁm/"
+  example: "Je suis en forme aujourd'hui."
+  translations:
+    de: ["die Form", "die Fitness"]
+  example_translations:
+    de: "Ich bin heute fit."
+
+- id: "genre"
+  lemma: "le genre"
+  pos: noun
+  level: A2
+  ipa: "/ʒɑ̃ʁ/"
+  example: "Quel genre de film préfères-tu ?"
+  translations:
+    de: ["die Art", "das Genre", "das Geschlecht"]
+  example_translations:
+    de: "Welches Filmgenre magst du lieber?"
+
+- id: "maniere"
+  lemma: "la manière"
+  pos: noun
+  level: A2
+  ipa: "/ma.njɛʁ/"
+  example: "Il a une drôle de manière de parler."
+  translations:
+    de: ["die Art", "die Weise"]
+  example_translations:
+    de: "Er hat eine seltsame Art zu sprechen."
+
+- id: "milieu"
+  lemma: "le milieu"
+  pos: noun
+  level: A2
+  ipa: "/mi.ljø/"
+  example: "La table est au milieu de la pièce."
+  translations:
+    de: ["die Mitte"]
+  example_translations:
+    de: "Der Tisch steht in der Mitte des Zimmers."
+
+- id: "monde"
+  lemma: "le monde"
+  pos: noun
+  level: A1
+  ipa: "/mɔ̃d/"
+  example: "Je veux faire le tour du monde."
+  translations:
+    de: ["die Welt", "die Leute"]
+  example_translations:
+    de: "Ich möchte eine Weltreise machen."
+
+- id: "objet"
+  lemma: "l'objet (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔb.ʒɛ/"
+  example: "J'ai trouvé un objet bizarre."
+  translations:
+    de: ["der Gegenstand"]
+  example_translations:
+    de: "Ich habe einen seltsamen Gegenstand gefunden."
+
+- id: "occasion"
+  lemma: "l'occasion (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔ.ka.zjɔ̃/"
+  example: "C'est une bonne occasion."
+  translations:
+    de: ["die Gelegenheit"]
+  example_translations:
+    de: "Das ist eine gute Gelegenheit."
+
+- id: "partie"
+  lemma: "la partie"
+  pos: noun
+  level: A2
+  ipa: "/paʁ.ti/"
+  example: "La première partie du film est longue."
+  translations:
+    de: ["der Teil", "die Partie"]
+  example_translations:
+    de: "Der erste Teil des Films ist lang."
+
+- id: "possibilite"
+  lemma: "la possibilité"
+  pos: noun
+  level: A2
+  ipa: "/pɔ.si.bi.li.te/"
+  example: "Il y a plusieurs possibilités."
+  translations:
+    de: ["die Möglichkeit"]
+  example_translations:
+    de: "Es gibt mehrere Möglichkeiten."
+
+- id: "probleme"
+  lemma: "le problème"
+  pos: noun
+  level: A1
+  ipa: "/pʁɔ.blɛm/"
+  example: "Pas de problème !"
+  translations:
+    de: ["das Problem"]
+  example_translations:
+    de: "Kein Problem!"
+
+- id: "resultat"
+  lemma: "le résultat"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.zyl.ta/"
+  example: "Quel est le résultat du match ?"
+  translations:
+    de: ["das Ergebnis"]
+  example_translations:
+    de: "Wie ist das Spiel ausgegangen?"
+
+- id: "se-passer"
+  lemma: "se passer"
+  pos: verb
+  level: A2
+  ipa: "/sə pa.se/"
+  example: "Qu'est-ce qui se passe ?"
+  translations:
+    de: ["passieren", "geschehen"]
+  example_translations:
+    de: "Was ist los?"
+
+- id: "secret"
+  lemma: "le secret"
+  pos: noun
+  level: A2
+  ipa: "/sə.kʁɛ/"
+  example: "C'est un secret."
+  translations:
+    de: ["das Geheimnis"]
+  example_translations:
+    de: "Das ist ein Geheimnis."
+
+- id: "silence"
+  lemma: "le silence"
+  pos: noun
+  level: A2
+  ipa: "/si.lɑ̃s/"
+  example: "Silence, s'il vous plaît !"
+  translations:
+    de: ["die Stille", "das Schweigen"]
+  example_translations:
+    de: "Ruhe, bitte!"
+
+- id: "solution"
+  lemma: "la solution"
+  pos: noun
+  level: A2
+  ipa: "/sɔ.ly.sjɔ̃/"
+  example: "Nous avons trouvé une solution."
+  translations:
+    de: ["die Lösung"]
+  example_translations:
+    de: "Wir haben eine Lösung gefunden."
+
+- id: "sorte"
+  lemma: "la sorte"
+  pos: noun
+  level: A2
+  ipa: "/sɔʁt/"
+  example: "Quelle sorte de musique aimes-tu ?"
+  translations:
+    de: ["die Sorte", "die Art"]
+  example_translations:
+    de: "Welche Art Musik magst du?"
+
+- id: "truc"
+  lemma: "le truc"
+  pos: noun
+  level: A2
+  ipa: "/tʁyk/"
+  example: "C'est quoi, ce truc ?"
+  translations:
+    de: ["das Ding", "die Sache (umgangssprachlich)"]
+  example_translations:
+    de: "Was ist das für ein Ding?"
+
+- id: "verite"
+  lemma: "la vérité"
+  pos: noun
+  level: A2
+  ipa: "/ve.ʁi.te/"
+  example: "Dis-moi la vérité."
+  translations:
+    de: ["die Wahrheit"]
+  example_translations:
+    de: "Sag mir die Wahrheit."

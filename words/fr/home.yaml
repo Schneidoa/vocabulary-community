@@ -1,0 +1,849 @@
+# 🏠 Zuhause – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a-la-maison"
+  lemma: "à la maison"
+  pos: phrase
+  level: A1
+  ipa: "/a la mɛ.zɔ̃/"
+  example: "Je reste à la maison ce soir."
+  translations:
+    de: ["zu Hause", "nach Hause"]
+  example_translations:
+    de: "Ich bleibe heute Abend zu Hause."
+
+- id: "appartement"
+  lemma: "l'appartement (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.paʁ.tə.mɑ̃/"
+  example: "J'habite dans un petit appartement."
+  translations:
+    de: ["die Wohnung"]
+  example_translations:
+    de: "Ich wohne in einer kleinen Wohnung."
+
+- id: "armoire"
+  lemma: "l'armoire (f.)"
+  pos: noun
+  level: A1
+  ipa: "/aʁ.mwaʁ/"
+  example: "Mes vêtements sont dans l'armoire."
+  translations:
+    de: ["der Schrank", "der Kleiderschrank"]
+  example_translations:
+    de: "Meine Kleidung ist im Schrank."
+
+- id: "ascenseur"
+  lemma: "l'ascenseur (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.sɑ̃.sœʁ/"
+  example: "Prenons l'ascenseur."
+  translations:
+    de: ["der Aufzug"]
+  example_translations:
+    de: "Nehmen wir den Aufzug."
+
+- id: "assiette"
+  lemma: "l'assiette (f.)"
+  pos: noun
+  level: A1
+  ipa: "/a.sjɛt/"
+  example: "Mets les assiettes sur la table."
+  translations:
+    de: ["der Teller"]
+  example_translations:
+    de: "Stell die Teller auf den Tisch."
+
+- id: "baignoire"
+  lemma: "la baignoire"
+  pos: noun
+  level: A2
+  ipa: "/bɛ.ɲwaʁ/"
+  example: "Les enfants jouent dans la baignoire."
+  translations:
+    de: ["die Badewanne"]
+  example_translations:
+    de: "Die Kinder spielen in der Badewanne."
+
+- id: "balcon"
+  lemma: "le balcon"
+  pos: noun
+  level: A2
+  ipa: "/bal.kɔ̃/"
+  example: "Nous prenons le café sur le balcon."
+  translations:
+    de: ["der Balkon"]
+  example_translations:
+    de: "Wir trinken den Kaffee auf dem Balkon."
+
+- id: "bol"
+  lemma: "le bol"
+  pos: noun
+  level: A2
+  ipa: "/bɔl/"
+  example: "Je bois mon café dans un bol."
+  translations:
+    de: ["die Schüssel", "die Schale"]
+  example_translations:
+    de: "Ich trinke meinen Kaffee aus einer Schale."
+
+- id: "brosse-a-dents"
+  lemma: "la brosse à dents"
+  pos: noun
+  level: A2
+  ipa: "/bʁɔs a dɑ̃/"
+  example: "J'ai oublié ma brosse à dents."
+  translations:
+    de: ["die Zahnbürste"]
+  example_translations:
+    de: "Ich habe meine Zahnbürste vergessen."
+
+- id: "canape"
+  lemma: "le canapé"
+  pos: noun
+  level: A1
+  ipa: "/ka.na.pe/"
+  example: "Le chat dort sur le canapé."
+  translations:
+    de: ["das Sofa"]
+  example_translations:
+    de: "Die Katze schläft auf dem Sofa."
+
+- id: "casserole"
+  lemma: "la casserole"
+  pos: noun
+  level: A2
+  ipa: "/kas.ʁɔl/"
+  example: "Mets l'eau dans la casserole."
+  translations:
+    de: ["der Kochtopf"]
+  example_translations:
+    de: "Gib das Wasser in den Topf."
+
+- id: "cave"
+  lemma: "la cave"
+  pos: noun
+  level: A2
+  ipa: "/kav/"
+  example: "Le vin est dans la cave."
+  translations:
+    de: ["der Keller"]
+  example_translations:
+    de: "Der Wein ist im Keller."
+
+- id: "chaise"
+  lemma: "la chaise"
+  pos: noun
+  level: A1
+  ipa: "/ʃɛz/"
+  example: "Prends une chaise."
+  translations:
+    de: ["der Stuhl"]
+  example_translations:
+    de: "Nimm dir einen Stuhl."
+
+- id: "chambre"
+  lemma: "la chambre"
+  pos: noun
+  level: A1
+  ipa: "/ʃɑ̃bʁ/"
+  example: "Ma chambre est au premier étage."
+  translations:
+    de: ["das Schlafzimmer", "das Zimmer"]
+  example_translations:
+    de: "Mein Zimmer ist im ersten Stock."
+
+- id: "chauffage"
+  lemma: "le chauffage"
+  pos: noun
+  level: A2
+  ipa: "/ʃo.faʒ/"
+  example: "Le chauffage ne marche pas."
+  translations:
+    de: ["die Heizung"]
+  example_translations:
+    de: "Die Heizung funktioniert nicht."
+
+- id: "cle"
+  lemma: "la clé"
+  pos: noun
+  level: A1
+  ipa: "/kle/"
+  example: "J'ai perdu mes clés."
+  translations:
+    de: ["der Schlüssel"]
+  example_translations:
+    de: "Ich habe meine Schlüssel verloren."
+
+- id: "couteau"
+  lemma: "le couteau"
+  pos: noun
+  level: A1
+  ipa: "/ku.to/"
+  example: "Ce couteau ne coupe pas."
+  translations:
+    de: ["das Messer"]
+  example_translations:
+    de: "Dieses Messer schneidet nicht."
+
+- id: "cuillere"
+  lemma: "la cuillère"
+  pos: noun
+  level: A1
+  ipa: "/kɥi.jɛʁ/"
+  example: "Il faut une cuillère pour la soupe."
+  translations:
+    de: ["der Löffel"]
+  example_translations:
+    de: "Für die Suppe braucht man einen Löffel."
+
+- id: "cuisine"
+  lemma: "la cuisine"
+  pos: noun
+  level: A1
+  ipa: "/kɥi.zin/"
+  example: "La cuisine est petite."
+  translations:
+    de: ["die Küche", "das Kochen"]
+  example_translations:
+    de: "Die Küche ist klein."
+
+- id: "cuisiniere"
+  lemma: "la cuisinière"
+  pos: noun
+  level: A2
+  ipa: "/kɥi.zi.njɛʁ/"
+  example: "La cuisinière est électrique."
+  translations:
+    de: ["der Herd", "die Köchin"]
+  example_translations:
+    de: "Der Herd ist elektrisch."
+
+- id: "demenager"
+  lemma: "déménager"
+  pos: verb
+  level: A2
+  ipa: "/de.me.na.ʒe/"
+  example: "Nous déménageons le mois prochain."
+  translations:
+    de: ["umziehen"]
+  example_translations:
+    de: "Wir ziehen nächsten Monat um."
+
+- id: "dormir"
+  lemma: "dormir"
+  pos: verb
+  level: A1
+  ipa: "/dɔʁ.miʁ/"
+  example: "Le bébé dort."
+  translations:
+    de: ["schlafen"]
+  example_translations:
+    de: "Das Baby schläft."
+
+- id: "douche"
+  lemma: "la douche"
+  pos: noun
+  level: A1
+  ipa: "/duʃ/"
+  example: "Je prends une douche le matin."
+  translations:
+    de: ["die Dusche"]
+  example_translations:
+    de: "Morgens dusche ich."
+
+- id: "escalier"
+  lemma: "l'escalier (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛs.ka.lje/"
+  example: "Il monte l'escalier."
+  translations:
+    de: ["die Treppe"]
+  example_translations:
+    de: "Er geht die Treppe hinauf."
+
+- id: "etage"
+  lemma: "l'étage (m.)"
+  pos: noun
+  level: A1
+  ipa: "/e.taʒ/"
+  example: "Nous habitons au troisième étage."
+  translations:
+    de: ["das Stockwerk", "die Etage"]
+  example_translations:
+    de: "Wir wohnen im dritten Stock."
+
+- id: "etagere"
+  lemma: "l'étagère (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.ta.ʒɛʁ/"
+  example: "Les livres sont sur l'étagère."
+  translations:
+    de: ["das Regal"]
+  example_translations:
+    de: "Die Bücher stehen im Regal."
+
+- id: "fauteuil"
+  lemma: "le fauteuil"
+  pos: noun
+  level: A2
+  ipa: "/fo.tœj/"
+  example: "Mon grand-père dort dans son fauteuil."
+  translations:
+    de: ["der Sessel"]
+  example_translations:
+    de: "Mein Großvater schläft in seinem Sessel."
+
+- id: "fenetre"
+  lemma: "la fenêtre"
+  pos: noun
+  level: A1
+  ipa: "/fə.nɛtʁ/"
+  example: "Ouvre la fenêtre, il fait chaud."
+  translations:
+    de: ["das Fenster"]
+  example_translations:
+    de: "Mach das Fenster auf, es ist heiß."
+
+- id: "four"
+  lemma: "le four"
+  pos: noun
+  level: A2
+  ipa: "/fuʁ/"
+  example: "Mets le gâteau au four."
+  translations:
+    de: ["der Backofen"]
+  example_translations:
+    de: "Stell den Kuchen in den Ofen."
+
+- id: "fourchette"
+  lemma: "la fourchette"
+  pos: noun
+  level: A1
+  ipa: "/fuʁ.ʃɛt/"
+  example: "Il manque une fourchette."
+  translations:
+    de: ["die Gabel"]
+  example_translations:
+    de: "Es fehlt eine Gabel."
+
+- id: "frigo"
+  lemma: "le frigo"
+  pos: noun
+  level: A1
+  ipa: "/fʁi.ɡo/"
+  example: "Le lait est dans le frigo."
+  translations:
+    de: ["der Kühlschrank"]
+  example_translations:
+    de: "Die Milch ist im Kühlschrank."
+
+- id: "garage"
+  lemma: "le garage"
+  pos: noun
+  level: A2
+  ipa: "/ɡa.ʁaʒ/"
+  example: "La voiture est dans le garage."
+  translations:
+    de: ["die Garage", "die Werkstatt"]
+  example_translations:
+    de: "Das Auto steht in der Garage."
+
+- id: "habiter"
+  lemma: "habiter"
+  pos: verb
+  level: A1
+  ipa: "/a.bi.te/"
+  example: "J'habite à Bordeaux."
+  translations:
+    de: ["wohnen"]
+  example_translations:
+    de: "Ich wohne in Bordeaux."
+
+- id: "immeuble"
+  lemma: "l'immeuble (m.)"
+  pos: noun
+  level: A2
+  ipa: "/i.mœbl/"
+  example: "L'immeuble a six étages."
+  translations:
+    de: ["das Wohnhaus", "das Gebäude"]
+  example_translations:
+    de: "Das Wohnhaus hat sechs Stockwerke."
+
+- id: "jardin"
+  lemma: "le jardin"
+  pos: noun
+  level: A1
+  ipa: "/ʒaʁ.dɛ̃/"
+  example: "Les enfants jouent dans le jardin."
+  translations:
+    de: ["der Garten"]
+  example_translations:
+    de: "Die Kinder spielen im Garten."
+
+- id: "lampe"
+  lemma: "la lampe"
+  pos: noun
+  level: A1
+  ipa: "/lɑ̃p/"
+  example: "Allume la lampe, s'il te plaît."
+  translations:
+    de: ["die Lampe"]
+  example_translations:
+    de: "Mach bitte die Lampe an."
+
+- id: "lavabo"
+  lemma: "le lavabo"
+  pos: noun
+  level: A2
+  ipa: "/la.va.bo/"
+  example: "Le savon est sur le lavabo."
+  translations:
+    de: ["das Waschbecken"]
+  example_translations:
+    de: "Die Seife liegt auf dem Waschbecken."
+
+- id: "lave-vaisselle"
+  lemma: "le lave-vaisselle"
+  pos: noun
+  level: A2
+  ipa: "/lav.vɛ.sɛl/"
+  example: "Mets les assiettes dans le lave-vaisselle."
+  translations:
+    de: ["die Spülmaschine"]
+  example_translations:
+    de: "Stell die Teller in die Spülmaschine."
+
+- id: "laver"
+  lemma: "laver"
+  pos: verb
+  level: A1
+  ipa: "/la.ve/"
+  example: "Je lave la voiture."
+  translations:
+    de: ["waschen"]
+  example_translations:
+    de: "Ich wasche das Auto."
+
+- id: "lit"
+  lemma: "le lit"
+  pos: noun
+  level: A1
+  ipa: "/li/"
+  example: "Les enfants sont au lit."
+  translations:
+    de: ["das Bett"]
+  example_translations:
+    de: "Die Kinder sind im Bett."
+
+- id: "louer"
+  lemma: "louer"
+  pos: verb
+  level: A2
+  ipa: "/lwe/"
+  example: "Nous louons un appartement à la mer."
+  translations:
+    de: ["mieten", "vermieten"]
+  example_translations:
+    de: "Wir mieten eine Wohnung am Meer."
+
+- id: "loyer"
+  lemma: "le loyer"
+  pos: noun
+  level: A2
+  ipa: "/lwa.je/"
+  example: "Le loyer est de huit cents euros."
+  translations:
+    de: ["die Miete"]
+  example_translations:
+    de: "Die Miete beträgt achthundert Euro."
+
+- id: "lumiere"
+  lemma: "la lumière"
+  pos: noun
+  level: A2
+  ipa: "/ly.mjɛʁ/"
+  example: "Éteins la lumière."
+  translations:
+    de: ["das Licht"]
+  example_translations:
+    de: "Mach das Licht aus."
+
+- id: "machine-a-laver"
+  lemma: "la machine à laver"
+  pos: noun
+  level: A2
+  ipa: "/ma.ʃin a la.ve/"
+  example: "La machine à laver est en panne."
+  translations:
+    de: ["die Waschmaschine"]
+  example_translations:
+    de: "Die Waschmaschine ist kaputt."
+
+- id: "maison"
+  lemma: "la maison"
+  pos: noun
+  level: A1
+  ipa: "/mɛ.zɔ̃/"
+  example: "Notre maison a un jardin."
+  translations:
+    de: ["das Haus", "das Zuhause"]
+  example_translations:
+    de: "Unser Haus hat einen Garten."
+
+- id: "menage"
+  lemma: "le ménage"
+  pos: noun
+  level: A2
+  ipa: "/me.naʒ/"
+  example: "Je fais le ménage le samedi."
+  translations:
+    de: ["der Haushalt", "das Putzen"]
+  example_translations:
+    de: "Samstags mache ich sauber."
+
+- id: "meuble"
+  lemma: "le meuble"
+  pos: noun
+  level: A2
+  ipa: "/mœbl/"
+  example: "Nous avons acheté de nouveaux meubles."
+  translations:
+    de: ["das Möbelstück"]
+  example_translations:
+    de: "Wir haben neue Möbel gekauft."
+
+- id: "micro-ondes"
+  lemma: "le micro-ondes"
+  pos: noun
+  level: A2
+  ipa: "/mi.kʁo.ɔ̃d/"
+  example: "Je chauffe le lait au micro-ondes."
+  translations:
+    de: ["die Mikrowelle"]
+  example_translations:
+    de: "Ich mache die Milch in der Mikrowelle warm."
+
+- id: "miroir"
+  lemma: "le miroir"
+  pos: noun
+  level: A2
+  ipa: "/mi.ʁwaʁ/"
+  example: "Elle se regarde dans le miroir."
+  translations:
+    de: ["der Spiegel"]
+  example_translations:
+    de: "Sie betrachtet sich im Spiegel."
+
+- id: "mur"
+  lemma: "le mur"
+  pos: noun
+  level: A1
+  ipa: "/myʁ/"
+  example: "Il y a un tableau sur le mur."
+  translations:
+    de: ["die Wand", "die Mauer"]
+  example_translations:
+    de: "An der Wand hängt ein Bild."
+
+- id: "nettoyer"
+  lemma: "nettoyer"
+  pos: verb
+  level: A2
+  ipa: "/nɛ.twa.je/"
+  example: "Je nettoie la cuisine."
+  translations:
+    de: ["putzen", "reinigen"]
+  example_translations:
+    de: "Ich putze die Küche."
+
+- id: "piece"
+  lemma: "la pièce"
+  pos: noun
+  level: A1
+  ipa: "/pjɛs/"
+  example: "L'appartement a trois pièces."
+  translations:
+    de: ["das Zimmer", "der Raum", "das Stück", "die Münze"]
+  example_translations:
+    de: "Die Wohnung hat drei Zimmer."
+
+- id: "placard"
+  lemma: "le placard"
+  pos: noun
+  level: A2
+  ipa: "/pla.kaʁ/"
+  example: "Les verres sont dans le placard."
+  translations:
+    de: ["der Wandschrank", "der Küchenschrank"]
+  example_translations:
+    de: "Die Gläser sind im Schrank."
+
+- id: "poele"
+  lemma: "la poêle"
+  pos: noun
+  level: A2
+  ipa: "/pwal/"
+  example: "Fais cuire les œufs dans la poêle."
+  translations:
+    de: ["die Pfanne"]
+  example_translations:
+    de: "Brate die Eier in der Pfanne."
+
+- id: "porte"
+  lemma: "la porte"
+  pos: noun
+  level: A1
+  ipa: "/pɔʁt/"
+  example: "Ferme la porte, s'il te plaît."
+  translations:
+    de: ["die Tür"]
+  example_translations:
+    de: "Mach bitte die Tür zu."
+
+- id: "poubelle"
+  lemma: "la poubelle"
+  pos: noun
+  level: A2
+  ipa: "/pu.bɛl/"
+  example: "Jette ça à la poubelle."
+  translations:
+    de: ["der Mülleimer"]
+  example_translations:
+    de: "Wirf das in den Mülleimer."
+
+- id: "ranger"
+  lemma: "ranger"
+  pos: verb
+  level: A2
+  ipa: "/ʁɑ̃.ʒe/"
+  example: "Range ta chambre !"
+  translations:
+    de: ["aufräumen", "einräumen"]
+  example_translations:
+    de: "Räum dein Zimmer auf!"
+
+- id: "refrigerateur"
+  lemma: "le réfrigérateur"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.fʁi.ʒe.ʁa.tœʁ/"
+  example: "Le réfrigérateur est vide."
+  translations:
+    de: ["der Kühlschrank"]
+  example_translations:
+    de: "Der Kühlschrank ist leer."
+
+- id: "reveil"
+  lemma: "le réveil"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.vɛj/"
+  example: "Le réveil sonne à six heures."
+  translations:
+    de: ["der Wecker"]
+  example_translations:
+    de: "Der Wecker klingelt um sechs Uhr."
+
+- id: "rez-de-chaussee"
+  lemma: "le rez-de-chaussée"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.d.ʃo.se/"
+  example: "La boulangerie est au rez-de-chaussée."
+  translations:
+    de: ["das Erdgeschoss"]
+  example_translations:
+    de: "Die Bäckerei ist im Erdgeschoss."
+
+- id: "rideau"
+  lemma: "le rideau"
+  pos: noun
+  level: A2
+  ipa: "/ʁi.do/"
+  example: "Ferme les rideaux."
+  translations:
+    de: ["der Vorhang"]
+  example_translations:
+    de: "Zieh die Vorhänge zu."
+
+- id: "salle-a-manger"
+  lemma: "la salle à manger"
+  pos: noun
+  level: A2
+  ipa: "/sal a mɑ̃.ʒe/"
+  example: "Nous mangeons dans la salle à manger."
+  translations:
+    de: ["das Esszimmer"]
+  example_translations:
+    de: "Wir essen im Esszimmer."
+
+- id: "salle-de-bains"
+  lemma: "la salle de bains"
+  pos: noun
+  level: A1
+  ipa: "/sal də bɛ̃/"
+  example: "La salle de bains est à côté de la chambre."
+  translations:
+    de: ["das Badezimmer"]
+  example_translations:
+    de: "Das Bad ist neben dem Schlafzimmer."
+
+- id: "salon"
+  lemma: "le salon"
+  pos: noun
+  level: A1
+  ipa: "/sa.lɔ̃/"
+  example: "On regarde la télé dans le salon."
+  translations:
+    de: ["das Wohnzimmer"]
+  example_translations:
+    de: "Wir sehen im Wohnzimmer fern."
+
+- id: "savon"
+  lemma: "le savon"
+  pos: noun
+  level: A2
+  ipa: "/sa.vɔ̃/"
+  example: "Lave-toi les mains avec du savon."
+  translations:
+    de: ["die Seife"]
+  example_translations:
+    de: "Wasch dir die Hände mit Seife."
+
+- id: "se-coucher"
+  lemma: "se coucher"
+  pos: verb
+  level: A1
+  ipa: "/sə ku.ʃe/"
+  example: "Je me couche à onze heures."
+  translations:
+    de: ["ins Bett gehen", "sich hinlegen"]
+  example_translations:
+    de: "Ich gehe um elf Uhr ins Bett."
+
+- id: "se-doucher"
+  lemma: "se doucher"
+  pos: verb
+  level: A2
+  ipa: "/sə du.ʃe/"
+  example: "Je me douche après le sport."
+  translations:
+    de: ["duschen"]
+  example_translations:
+    de: "Nach dem Sport dusche ich."
+
+- id: "se-lever"
+  lemma: "se lever"
+  pos: verb
+  level: A1
+  ipa: "/sə lə.ve/"
+  example: "Je me lève à sept heures."
+  translations:
+    de: ["aufstehen"]
+  example_translations:
+    de: "Ich stehe um sieben Uhr auf."
+
+- id: "se-reveiller"
+  lemma: "se réveiller"
+  pos: verb
+  level: A1
+  ipa: "/sə ʁe.ve.je/"
+  example: "Je me réveille à six heures."
+  translations:
+    de: ["aufwachen"]
+  example_translations:
+    de: "Ich wache um sechs Uhr auf."
+
+- id: "serviette"
+  lemma: "la serviette"
+  pos: noun
+  level: A2
+  ipa: "/sɛʁ.vjɛt/"
+  example: "Tu as une serviette propre ?"
+  translations:
+    de: ["das Handtuch", "die Serviette"]
+  example_translations:
+    de: "Hast du ein sauberes Handtuch?"
+
+- id: "sol"
+  lemma: "le sol"
+  pos: noun
+  level: A2
+  ipa: "/sɔl/"
+  example: "Les jouets sont par terre, sur le sol."
+  translations:
+    de: ["der Boden"]
+  example_translations:
+    de: "Die Spielsachen liegen auf dem Boden."
+
+- id: "table"
+  lemma: "la table"
+  pos: noun
+  level: A1
+  ipa: "/tabl/"
+  example: "Le livre est sur la table."
+  translations:
+    de: ["der Tisch"]
+  example_translations:
+    de: "Das Buch liegt auf dem Tisch."
+
+- id: "tapis"
+  lemma: "le tapis"
+  pos: noun
+  level: A2
+  ipa: "/ta.pi/"
+  example: "Il y a un grand tapis dans le salon."
+  translations:
+    de: ["der Teppich"]
+  example_translations:
+    de: "Im Wohnzimmer liegt ein großer Teppich."
+
+- id: "terrasse"
+  lemma: "la terrasse"
+  pos: noun
+  level: A2
+  ipa: "/tɛ.ʁas/"
+  example: "On mange sur la terrasse."
+  translations:
+    de: ["die Terrasse"]
+  example_translations:
+    de: "Wir essen auf der Terrasse."
+
+- id: "toilettes"
+  lemma: "les toilettes (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/twa.lɛt/"
+  example: "Où sont les toilettes ?"
+  translations:
+    de: ["die Toilette"]
+  example_translations:
+    de: "Wo ist die Toilette?"
+
+- id: "toit"
+  lemma: "le toit"
+  pos: noun
+  level: A2
+  ipa: "/twa/"
+  example: "Il y a un chat sur le toit."
+  translations:
+    de: ["das Dach"]
+  example_translations:
+    de: "Auf dem Dach sitzt eine Katze."
+
+- id: "vaisselle"
+  lemma: "la vaisselle"
+  pos: noun
+  level: A2
+  ipa: "/vɛ.sɛl/"
+  example: "Qui fait la vaisselle ?"
+  translations:
+    de: ["der Abwasch", "das Geschirr"]
+  example_translations:
+    de: "Wer spült ab?"

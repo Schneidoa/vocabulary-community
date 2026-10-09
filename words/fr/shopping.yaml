@@ -1,0 +1,409 @@
+# 🛒 Einkaufen & Geld – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "acheter"
+  lemma: "acheter"
+  pos: verb
+  level: A1
+  ipa: "/aʃ.te/"
+  example: "J'achète du pain."
+  translations:
+    de: ["kaufen"]
+  example_translations:
+    de: "Ich kaufe Brot."
+
+- id: "argent"
+  lemma: "l'argent (m.)"
+  pos: noun
+  level: A1
+  ipa: "/aʁ.ʒɑ̃/"
+  example: "Je n'ai pas d'argent."
+  translations:
+    de: ["das Geld", "das Silber"]
+  example_translations:
+    de: "Ich habe kein Geld."
+
+- id: "boite"
+  lemma: "la boîte"
+  pos: noun
+  level: A2
+  ipa: "/bwat/"
+  example: "Une boîte de chocolats."
+  translations:
+    de: ["die Dose", "die Schachtel", "der Karton"]
+  example_translations:
+    de: "Eine Schachtel Pralinen."
+
+- id: "bon-marche"
+  lemma: "bon marché"
+  pos: adjective
+  level: A2
+  ipa: "/bɔ̃ maʁ.ʃe/"
+  example: "Les fruits sont bon marché au marché."
+  translations:
+    de: ["billig", "preiswert"]
+  example_translations:
+    de: "Das Obst ist auf dem Markt preiswert."
+
+- id: "boutique"
+  lemma: "la boutique"
+  pos: noun
+  level: A2
+  ipa: "/bu.tik/"
+  example: "Elle a une boutique de vêtements."
+  translations:
+    de: ["die Boutique", "der kleine Laden"]
+  example_translations:
+    de: "Sie hat eine Kleiderboutique."
+
+- id: "cadeau"
+  lemma: "le cadeau"
+  pos: noun
+  level: A1
+  ipa: "/ka.do/"
+  example: "C'est un cadeau pour toi."
+  translations:
+    de: ["das Geschenk"]
+  example_translations:
+    de: "Das ist ein Geschenk für dich."
+
+- id: "caisse"
+  lemma: "la caisse"
+  pos: noun
+  level: A2
+  ipa: "/kɛs/"
+  example: "Payez à la caisse, s'il vous plaît."
+  translations:
+    de: ["die Kasse"]
+  example_translations:
+    de: "Bitte zahlen Sie an der Kasse."
+
+- id: "carte-bancaire"
+  lemma: "la carte bancaire"
+  pos: noun
+  level: A2
+  ipa: "/kaʁt bɑ̃.kɛʁ/"
+  example: "Je paie avec ma carte bancaire."
+  translations:
+    de: ["die Bankkarte", "die Kreditkarte"]
+  example_translations:
+    de: "Ich zahle mit meiner Bankkarte."
+
+- id: "centime"
+  lemma: "le centime"
+  pos: noun
+  level: A1
+  ipa: "/sɑ̃.tim/"
+  example: "Il me manque cinquante centimes."
+  translations:
+    de: ["der Cent"]
+  example_translations:
+    de: "Mir fehlen fünfzig Cent."
+
+- id: "centre-commercial"
+  lemma: "le centre commercial"
+  pos: noun
+  level: A2
+  ipa: "/sɑ̃tʁ kɔ.mɛʁ.sjal/"
+  example: "Le centre commercial est ouvert le dimanche."
+  translations:
+    de: ["das Einkaufszentrum"]
+  example_translations:
+    de: "Das Einkaufszentrum hat sonntags geöffnet."
+
+- id: "cher"
+  lemma: "cher"
+  pos: adjective
+  level: A1
+  ipa: "/ʃɛʁ/"
+  example: "Cette voiture est trop chère."
+  translations:
+    de: ["teuer", "lieb"]
+  example_translations:
+    de: "Dieses Auto ist zu teuer."
+
+- id: "client"
+  lemma: "le client"
+  pos: noun
+  level: A1
+  ipa: "/kli.jɑ̃/"
+  example: "Le client attend à la caisse."
+  translations:
+    de: ["der Kunde"]
+  example_translations:
+    de: "Der Kunde wartet an der Kasse."
+
+- id: "cliente"
+  lemma: "la cliente"
+  pos: noun
+  level: A1
+  ipa: "/kli.jɑ̃t/"
+  example: "La cliente cherche une robe."
+  translations:
+    de: ["die Kundin"]
+  example_translations:
+    de: "Die Kundin sucht ein Kleid."
+
+- id: "combien"
+  lemma: "combien"
+  pos: adverb
+  level: A1
+  ipa: "/kɔ̃.bjɛ̃/"
+  example: "Combien ça coûte ?"
+  translations:
+    de: ["wie viel", "wie viele"]
+  example_translations:
+    de: "Wie viel kostet das?"
+
+- id: "couter"
+  lemma: "coûter"
+  pos: verb
+  level: A1
+  ipa: "/ku.te/"
+  example: "Combien coûte ce pull ?"
+  translations:
+    de: ["kosten"]
+  example_translations:
+    de: "Wie viel kostet dieser Pullover?"
+
+- id: "depenser"
+  lemma: "dépenser"
+  pos: verb
+  level: A2
+  ipa: "/de.pɑ̃.se/"
+  example: "Il dépense trop d'argent."
+  translations:
+    de: ["ausgeben (Geld)"]
+  example_translations:
+    de: "Er gibt zu viel Geld aus."
+
+- id: "distributeur"
+  lemma: "le distributeur"
+  pos: noun
+  level: A2
+  ipa: "/dis.tʁi.by.tœʁ/"
+  example: "Il y a un distributeur près de la gare."
+  translations:
+    de: ["der Geldautomat", "der Automat"]
+  example_translations:
+    de: "Beim Bahnhof gibt es einen Geldautomaten."
+
+- id: "economiser"
+  lemma: "économiser"
+  pos: verb
+  level: A2
+  ipa: "/e.kɔ.nɔ.mi.ze/"
+  example: "J'économise pour les vacances."
+  translations:
+    de: ["sparen"]
+  example_translations:
+    de: "Ich spare für den Urlaub."
+
+- id: "euro"
+  lemma: "l'euro (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ø.ʁo/"
+  example: "Ça coûte vingt euros."
+  translations:
+    de: ["der Euro"]
+  example_translations:
+    de: "Das kostet zwanzig Euro."
+
+- id: "faire-du-shopping"
+  lemma: "faire du shopping"
+  pos: phrase
+  level: A2
+  ipa: "/fɛʁ dy ʃɔ.piŋ/"
+  example: "Elle aime faire du shopping."
+  translations:
+    de: ["shoppen gehen"]
+  example_translations:
+    de: "Sie geht gern shoppen."
+
+- id: "faire-les-courses"
+  lemma: "faire les courses"
+  pos: phrase
+  level: A1
+  ipa: "/fɛʁ le kuʁs/"
+  example: "Je fais les courses le samedi."
+  translations:
+    de: ["einkaufen (Lebensmittel)"]
+  example_translations:
+    de: "Samstags kaufe ich ein."
+
+- id: "ferme-adjective"
+  lemma: "fermé"
+  pos: adjective
+  level: A1
+  ipa: "/fɛʁ.me/"
+  example: "La banque est fermée le dimanche."
+  translations:
+    de: ["geschlossen"]
+  example_translations:
+    de: "Die Bank ist sonntags geschlossen."
+
+- id: "gratuit"
+  lemma: "gratuit"
+  pos: adjective
+  level: A1
+  ipa: "/ɡʁa.tɥi/"
+  example: "L'entrée est gratuite."
+  translations:
+    de: ["kostenlos", "gratis"]
+  example_translations:
+    de: "Der Eintritt ist frei."
+
+- id: "magasin"
+  lemma: "le magasin"
+  pos: noun
+  level: A1
+  ipa: "/ma.ɡa.zɛ̃/"
+  example: "Le magasin ferme à dix-neuf heures."
+  translations:
+    de: ["das Geschäft", "der Laden"]
+  example_translations:
+    de: "Das Geschäft schließt um neunzehn Uhr."
+
+- id: "marche"
+  lemma: "le marché"
+  pos: noun
+  level: A1
+  ipa: "/maʁ.ʃe/"
+  example: "Le marché a lieu le samedi."
+  translations:
+    de: ["der Markt"]
+  example_translations:
+    de: "Der Markt findet samstags statt."
+
+- id: "monnaie"
+  lemma: "la monnaie"
+  pos: noun
+  level: A2
+  ipa: "/mɔ.nɛ/"
+  example: "Vous avez de la monnaie ?"
+  translations:
+    de: ["das Kleingeld", "das Wechselgeld", "die Währung"]
+  example_translations:
+    de: "Haben Sie Kleingeld?"
+
+- id: "offrir"
+  lemma: "offrir"
+  pos: verb
+  level: A2
+  ipa: "/ɔ.fʁiʁ/"
+  example: "Je lui offre des fleurs."
+  translations:
+    de: ["schenken", "anbieten"]
+  example_translations:
+    de: "Ich schenke ihr Blumen."
+
+- id: "ouvert"
+  lemma: "ouvert"
+  pos: adjective
+  level: A1
+  ipa: "/u.vɛʁ/"
+  example: "Le magasin est ouvert."
+  translations:
+    de: ["offen", "geöffnet"]
+  example_translations:
+    de: "Das Geschäft ist geöffnet."
+
+- id: "paquet"
+  lemma: "le paquet"
+  pos: noun
+  level: A2
+  ipa: "/pa.kɛ/"
+  example: "Un paquet de café, s'il vous plaît."
+  translations:
+    de: ["das Paket", "die Packung"]
+  example_translations:
+    de: "Eine Packung Kaffee, bitte."
+
+- id: "pas-cher"
+  lemma: "pas cher"
+  pos: adjective
+  level: A1
+  ipa: "/pa ʃɛʁ/"
+  example: "Ce restaurant n'est pas cher."
+  translations:
+    de: ["billig", "günstig"]
+  example_translations:
+    de: "Dieses Restaurant ist günstig."
+
+- id: "payer"
+  lemma: "payer"
+  pos: verb
+  level: A1
+  ipa: "/pe.je/"
+  example: "Je peux payer par carte ?"
+  translations:
+    de: ["bezahlen"]
+  example_translations:
+    de: "Kann ich mit Karte bezahlen?"
+
+- id: "prix"
+  lemma: "le prix"
+  pos: noun
+  level: A1
+  ipa: "/pʁi/"
+  example: "Quel est le prix de ce livre ?"
+  translations:
+    de: ["der Preis"]
+  example_translations:
+    de: "Was kostet dieses Buch?"
+
+- id: "recu"
+  lemma: "le reçu"
+  pos: noun
+  level: A2
+  ipa: "/ʁə.sy/"
+  example: "Vous voulez le reçu ?"
+  translations:
+    de: ["die Quittung"]
+  example_translations:
+    de: "Möchten Sie die Quittung?"
+
+- id: "reduction"
+  lemma: "la réduction"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.dyk.sjɔ̃/"
+  example: "Les étudiants ont une réduction."
+  translations:
+    de: ["die Ermäßigung", "der Rabatt"]
+  example_translations:
+    de: "Studenten bekommen eine Ermäßigung."
+
+- id: "soldes"
+  lemma: "les soldes (m. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/sɔld/"
+  example: "J'ai acheté ce manteau pendant les soldes."
+  translations:
+    de: ["der Schlussverkauf", "die Sonderangebote"]
+  example_translations:
+    de: "Ich habe diesen Mantel im Schlussverkauf gekauft."
+
+- id: "supermarche"
+  lemma: "le supermarché"
+  pos: noun
+  level: A1
+  ipa: "/sy.pɛʁ.maʁ.ʃe/"
+  example: "Je fais les courses au supermarché."
+  translations:
+    de: ["der Supermarkt"]
+  example_translations:
+    de: "Ich kaufe im Supermarkt ein."
+
+- id: "vendre"
+  lemma: "vendre"
+  pos: verb
+  level: A1
+  ipa: "/vɑ̃dʁ/"
+  example: "Il vend sa voiture."
+  translations:
+    de: ["verkaufen"]
+  example_translations:
+    de: "Er verkauft sein Auto."

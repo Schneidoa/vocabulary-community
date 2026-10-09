@@ -1,0 +1,376 @@
+# ⚽ Freizeit & Hobbys – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "ballon"
+  lemma: "le ballon"
+  pos: noun
+  level: A1
+  ipa: "/ba.lɔ̃/"
+  example: "Lance-moi le ballon !"
+  translations:
+    de: ["der Ball", "der Luftballon"]
+  example_translations:
+    de: "Wirf mir den Ball zu!"
+
+- id: "chanter"
+  lemma: "chanter"
+  pos: verb
+  level: A1
+  ipa: "/ʃɑ̃.te/"
+  example: "Il chante sous la douche."
+  translations:
+    de: ["singen"]
+  example_translations:
+    de: "Er singt unter der Dusche."
+
+- id: "courir"
+  lemma: "courir"
+  pos: verb
+  level: A1
+  ipa: "/ku.ʁiʁ/"
+  example: "Je cours tous les matins."
+  translations:
+    de: ["laufen", "rennen"]
+  example_translations:
+    de: "Ich laufe jeden Morgen."
+
+- id: "danse"
+  lemma: "la danse"
+  pos: noun
+  level: A1
+  ipa: "/dɑ̃s/"
+  example: "Elle fait de la danse classique."
+  translations:
+    de: ["der Tanz"]
+  example_translations:
+    de: "Sie macht klassisches Ballett."
+
+- id: "danser"
+  lemma: "danser"
+  pos: verb
+  level: A1
+  ipa: "/dɑ̃.se/"
+  example: "Elle aime danser."
+  translations:
+    de: ["tanzen"]
+  example_translations:
+    de: "Sie tanzt gern."
+
+- id: "dessin"
+  lemma: "le dessin"
+  pos: noun
+  level: A1
+  ipa: "/de.sɛ̃/"
+  example: "Regarde mon dessin !"
+  translations:
+    de: ["die Zeichnung"]
+  example_translations:
+    de: "Schau dir meine Zeichnung an!"
+
+- id: "dessiner"
+  lemma: "dessiner"
+  pos: verb
+  level: A1
+  ipa: "/de.si.ne/"
+  example: "Mon fils aime dessiner."
+  translations:
+    de: ["zeichnen"]
+  example_translations:
+    de: "Mein Sohn zeichnet gern."
+
+- id: "equipe"
+  lemma: "l'équipe (f.)"
+  pos: noun
+  level: A1
+  ipa: "/e.kip/"
+  example: "Notre équipe a gagné."
+  translations:
+    de: ["die Mannschaft", "das Team"]
+  example_translations:
+    de: "Unsere Mannschaft hat gewonnen."
+
+- id: "faire-du-sport"
+  lemma: "faire du sport"
+  pos: phrase
+  level: A1
+  ipa: "/fɛʁ dy spɔʁ/"
+  example: "Je fais du sport le week-end."
+  translations:
+    de: ["Sport treiben"]
+  example_translations:
+    de: "Am Wochenende treibe ich Sport."
+
+- id: "fete"
+  lemma: "la fête"
+  pos: noun
+  level: A1
+  ipa: "/fɛt/"
+  example: "On fait une fête samedi."
+  translations:
+    de: ["das Fest", "die Party", "der Feiertag"]
+  example_translations:
+    de: "Wir machen am Samstag eine Party."
+
+- id: "football"
+  lemma: "le football"
+  pos: noun
+  level: A1
+  ipa: "/fut.bol/"
+  example: "Il joue au football."
+  translations:
+    de: ["der Fußball"]
+  example_translations:
+    de: "Er spielt Fußball."
+
+- id: "gagner"
+  lemma: "gagner"
+  pos: verb
+  level: A1
+  ipa: "/ɡa.ɲe/"
+  example: "Nous avons gagné le match."
+  translations:
+    de: ["gewinnen", "verdienen"]
+  example_translations:
+    de: "Wir haben das Spiel gewonnen."
+
+- id: "jeu"
+  lemma: "le jeu"
+  pos: noun
+  level: A1
+  ipa: "/ʒø/"
+  example: "C'est un jeu amusant."
+  translations:
+    de: ["das Spiel"]
+  example_translations:
+    de: "Das ist ein lustiges Spiel."
+
+- id: "jouer"
+  lemma: "jouer"
+  pos: verb
+  level: A1
+  ipa: "/ʒwe/"
+  example: "Les enfants jouent dans le jardin."
+  translations:
+    de: ["spielen"]
+  example_translations:
+    de: "Die Kinder spielen im Garten."
+
+- id: "joueur"
+  lemma: "le joueur"
+  pos: noun
+  level: A1
+  ipa: "/ʒwœʁ/"
+  example: "C'est un bon joueur."
+  translations:
+    de: ["der Spieler"]
+  example_translations:
+    de: "Er ist ein guter Spieler."
+
+- id: "lecture"
+  lemma: "la lecture"
+  pos: noun
+  level: A1
+  ipa: "/lɛk.tyʁ/"
+  example: "La lecture est mon passe-temps préféré."
+  translations:
+    de: ["das Lesen", "die Lektüre"]
+  example_translations:
+    de: "Lesen ist mein liebstes Hobby."
+
+- id: "loisirs"
+  lemma: "les loisirs (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/lwa.ziʁ/"
+  example: "Quels sont tes loisirs ?"
+  translations:
+    de: ["die Freizeit", "die Hobbys"]
+  example_translations:
+    de: "Was sind deine Hobbys?"
+
+- id: "match"
+  lemma: "le match"
+  pos: noun
+  level: A1
+  ipa: "/matʃ/"
+  example: "Tu as vu le match hier ?"
+  translations:
+    de: ["das Spiel (Sport)"]
+  example_translations:
+    de: "Hast du gestern das Spiel gesehen?"
+
+- id: "nager"
+  lemma: "nager"
+  pos: verb
+  level: A1
+  ipa: "/na.ʒe/"
+  example: "Je nage dans la mer."
+  translations:
+    de: ["schwimmen"]
+  example_translations:
+    de: "Ich schwimme im Meer."
+
+- id: "natation"
+  lemma: "la natation"
+  pos: noun
+  level: A1
+  ipa: "/na.ta.sjɔ̃/"
+  example: "Elle fait de la natation."
+  translations:
+    de: ["das Schwimmen"]
+  example_translations:
+    de: "Sie geht schwimmen."
+
+- id: "passe-temps"
+  lemma: "le passe-temps"
+  pos: noun
+  level: A2
+  ipa: "/pas.tɑ̃/"
+  example: "Mon passe-temps, c'est la cuisine."
+  translations:
+    de: ["das Hobby", "der Zeitvertreib"]
+  example_translations:
+    de: "Mein Hobby ist Kochen."
+
+- id: "peindre"
+  lemma: "peindre"
+  pos: verb
+  level: A2
+  ipa: "/pɛ̃dʁ/"
+  example: "Elle peint des paysages."
+  translations:
+    de: ["malen", "streichen"]
+  example_translations:
+    de: "Sie malt Landschaften."
+
+- id: "photo"
+  lemma: "la photo"
+  pos: noun
+  level: A1
+  ipa: "/fɔ.to/"
+  example: "Je prends une photo."
+  translations:
+    de: ["das Foto"]
+  example_translations:
+    de: "Ich mache ein Foto."
+
+- id: "pique-nique"
+  lemma: "le pique-nique"
+  pos: noun
+  level: A2
+  ipa: "/pik.nik/"
+  example: "On fait un pique-nique au parc."
+  translations:
+    de: ["das Picknick"]
+  example_translations:
+    de: "Wir machen ein Picknick im Park."
+
+- id: "promenade"
+  lemma: "la promenade"
+  pos: noun
+  level: A2
+  ipa: "/pʁɔm.nad/"
+  example: "On fait une promenade ?"
+  translations:
+    de: ["der Spaziergang"]
+  example_translations:
+    de: "Machen wir einen Spaziergang?"
+
+- id: "randonnee"
+  lemma: "la randonnée"
+  pos: noun
+  level: A2
+  ipa: "/ʁɑ̃.dɔ.ne/"
+  example: "Nous faisons une randonnée en montagne."
+  translations:
+    de: ["die Wanderung"]
+  example_translations:
+    de: "Wir machen eine Wanderung in den Bergen."
+
+- id: "s-amuser"
+  lemma: "s'amuser"
+  pos: verb
+  level: A2
+  ipa: "/sa.my.ze/"
+  example: "Les enfants s'amusent bien."
+  translations:
+    de: ["sich amüsieren", "Spaß haben"]
+  example_translations:
+    de: "Die Kinder haben viel Spaß."
+
+- id: "se-promener"
+  lemma: "se promener"
+  pos: verb
+  level: A1
+  ipa: "/sə pʁɔm.ne/"
+  example: "Nous nous promenons dans le parc."
+  translations:
+    de: ["spazieren gehen"]
+  example_translations:
+    de: "Wir gehen im Park spazieren."
+
+- id: "ski"
+  lemma: "le ski"
+  pos: noun
+  level: A1
+  ipa: "/ski/"
+  example: "Nous faisons du ski en février."
+  translations:
+    de: ["der Ski", "das Skifahren"]
+  example_translations:
+    de: "Im Februar fahren wir Ski."
+
+- id: "sortie"
+  lemma: "la sortie"
+  pos: noun
+  level: A2
+  ipa: "/sɔʁ.ti/"
+  example: "Où est la sortie ?"
+  translations:
+    de: ["der Ausgang", "der Ausflug"]
+  example_translations:
+    de: "Wo ist der Ausgang?"
+
+- id: "sortir"
+  lemma: "sortir"
+  pos: verb
+  level: A1
+  ipa: "/sɔʁ.tiʁ/"
+  example: "On sort ce soir ?"
+  translations:
+    de: ["ausgehen", "hinausgehen"]
+  example_translations:
+    de: "Gehen wir heute Abend aus?"
+
+- id: "sport"
+  lemma: "le sport"
+  pos: noun
+  level: A1
+  ipa: "/spɔʁ/"
+  example: "Je fais du sport trois fois par semaine."
+  translations:
+    de: ["der Sport"]
+  example_translations:
+    de: "Ich mache dreimal pro Woche Sport."
+
+- id: "temps-libre"
+  lemma: "le temps libre"
+  pos: noun
+  level: A1
+  ipa: "/tɑ̃ libʁ/"
+  example: "Que fais-tu pendant ton temps libre ?"
+  translations:
+    de: ["die Freizeit"]
+  example_translations:
+    de: "Was machst du in deiner Freizeit?"
+
+- id: "tennis"
+  lemma: "le tennis"
+  pos: noun
+  level: A1
+  ipa: "/te.nis/"
+  example: "On joue au tennis samedi ?"
+  translations:
+    de: ["das Tennis"]
+  example_translations:
+    de: "Spielen wir am Samstag Tennis?"

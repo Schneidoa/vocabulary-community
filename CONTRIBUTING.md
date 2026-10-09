@@ -48,8 +48,12 @@ einer Zahl. Darum steht jeder Text in `"…"`. Nur `pos` und `level` brauchen ke
 - Je Basissprache eine Liste. Die **erste** ist die Hauptübersetzung, die der Trainer anzeigt; alle weiteren
   gelten beim Abfragen ebenfalls als richtig.
 - Nomen mit Artikel: `"der Apfel"`. Beim Abfragen ist der Artikel optional.
-- Eine neue Basissprache (z. B. Französisch) braucht einen Eintrag in `languages.yaml` mit `base: true` und
-  Übersetzungen unter `translations.fr`. Im Trainer sind dafür zusätzlich die Oberflächentexte nötig.
+- **Französische Nomen** stehen auch im `lemma` mit bestimmtem Artikel: `"la pomme"`, `"les vacances (f. pl.)"`.
+  Bei elidiertem Artikel steht das Geschlecht dahinter: `"l'arbre (m.)"`, `"l'eau (f.)"`. Die `id` ist das Wort
+  ohne Artikel und ohne Akzente: `pomme`, `arbre`, `oeil`. Adjektive stehen in der männlichen Form (`"petit"`).
+- Eine neue Basissprache (z. B. Französisch für französischsprachige Lernende) braucht einen Eintrag in
+  `languages.yaml` mit `base: true` und Übersetzungen unter `translations.fr`. Im Trainer sind dafür zusätzlich die
+  Oberflächentexte nötig.
 
 ### Wortarten und Niveaus
 

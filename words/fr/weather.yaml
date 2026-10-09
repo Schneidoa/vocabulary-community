@@ -1,0 +1,497 @@
+# 🌦️ Wetter & Natur – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "arbre"
+  lemma: "l'arbre (m.)"
+  pos: noun
+  level: A1
+  ipa: "/aʁbʁ/"
+  example: "Il y a un grand arbre dans le jardin."
+  translations:
+    de: ["der Baum"]
+  example_translations:
+    de: "Im Garten steht ein großer Baum."
+
+- id: "bois"
+  lemma: "le bois"
+  pos: noun
+  level: A2
+  ipa: "/bwa/"
+  example: "La table est en bois."
+  translations:
+    de: ["das Holz", "der Wald"]
+  example_translations:
+    de: "Der Tisch ist aus Holz."
+
+- id: "brouillard"
+  lemma: "le brouillard"
+  pos: noun
+  level: A2
+  ipa: "/bʁu.jaʁ/"
+  example: "Il y a du brouillard ce matin."
+  translations:
+    de: ["der Nebel"]
+  example_translations:
+    de: "Heute Morgen ist es neblig."
+
+- id: "campagne"
+  lemma: "la campagne"
+  pos: noun
+  level: A1
+  ipa: "/kɑ̃.paɲ/"
+  example: "Ils habitent à la campagne."
+  translations:
+    de: ["das Land (ländliche Gegend)"]
+  example_translations:
+    de: "Sie wohnen auf dem Land."
+
+- id: "chaleur"
+  lemma: "la chaleur"
+  pos: noun
+  level: A2
+  ipa: "/ʃa.lœʁ/"
+  example: "Je ne supporte pas la chaleur."
+  translations:
+    de: ["die Hitze", "die Wärme"]
+  example_translations:
+    de: "Ich vertrage die Hitze nicht."
+
+- id: "champ"
+  lemma: "le champ"
+  pos: noun
+  level: A2
+  ipa: "/ʃɑ̃/"
+  example: "Les vaches sont dans le champ."
+  translations:
+    de: ["das Feld"]
+  example_translations:
+    de: "Die Kühe sind auf dem Feld."
+
+- id: "chaud"
+  lemma: "chaud"
+  pos: adjective
+  level: A1
+  ipa: "/ʃo/"
+  example: "Le café est très chaud."
+  translations:
+    de: ["heiß", "warm"]
+  example_translations:
+    de: "Der Kaffee ist sehr heiß."
+
+- id: "ciel"
+  lemma: "le ciel"
+  pos: noun
+  level: A1
+  ipa: "/sjɛl/"
+  example: "Le ciel est bleu."
+  translations:
+    de: ["der Himmel"]
+  example_translations:
+    de: "Der Himmel ist blau."
+
+- id: "degre"
+  lemma: "le degré"
+  pos: noun
+  level: A2
+  ipa: "/də.ɡʁe/"
+  example: "Il fait trente degrés."
+  translations:
+    de: ["der Grad"]
+  example_translations:
+    de: "Es sind dreißig Grad."
+
+- id: "ensoleille"
+  lemma: "ensoleillé"
+  pos: adjective
+  level: A2
+  ipa: "/ɑ̃.sɔ.le.je/"
+  example: "C'est une journée ensoleillée."
+  translations:
+    de: ["sonnig"]
+  example_translations:
+    de: "Es ist ein sonniger Tag."
+
+- id: "environnement"
+  lemma: "l'environnement (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.vi.ʁɔn.mɑ̃/"
+  example: "Il faut protéger l'environnement."
+  translations:
+    de: ["die Umwelt"]
+  example_translations:
+    de: "Man muss die Umwelt schützen."
+
+- id: "etoile"
+  lemma: "l'étoile (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.twal/"
+  example: "On voit beaucoup d'étoiles."
+  translations:
+    de: ["der Stern"]
+  example_translations:
+    de: "Man sieht viele Sterne."
+
+- id: "fleur"
+  lemma: "la fleur"
+  pos: noun
+  level: A1
+  ipa: "/flœʁ/"
+  example: "Il m'a offert des fleurs."
+  translations:
+    de: ["die Blume"]
+  example_translations:
+    de: "Er hat mir Blumen geschenkt."
+
+- id: "fleuve"
+  lemma: "le fleuve"
+  pos: noun
+  level: A2
+  ipa: "/flœv/"
+  example: "La Seine est un fleuve."
+  translations:
+    de: ["der Strom", "der große Fluss"]
+  example_translations:
+    de: "Die Seine ist ein Strom."
+
+- id: "foret"
+  lemma: "la forêt"
+  pos: noun
+  level: A1
+  ipa: "/fɔ.ʁɛ/"
+  example: "Nous nous promenons dans la forêt."
+  translations:
+    de: ["der Wald"]
+  example_translations:
+    de: "Wir gehen im Wald spazieren."
+
+- id: "froid-adjective"
+  lemma: "froid"
+  pos: adjective
+  level: A1
+  ipa: "/fʁwa/"
+  example: "L'eau est froide."
+  translations:
+    de: ["kalt"]
+  example_translations:
+    de: "Das Wasser ist kalt."
+
+- id: "froid-noun"
+  lemma: "le froid"
+  pos: noun
+  level: A2
+  ipa: "/fʁwa/"
+  example: "Le froid est arrivé."
+  translations:
+    de: ["die Kälte"]
+  example_translations:
+    de: "Die Kälte ist da."
+
+- id: "herbe"
+  lemma: "l'herbe (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛʁb/"
+  example: "Les vaches mangent de l'herbe."
+  translations:
+    de: ["das Gras"]
+  example_translations:
+    de: "Die Kühe fressen Gras."
+
+- id: "il-fait-beau"
+  lemma: "il fait beau"
+  pos: phrase
+  level: A1
+  ipa: "/il fɛ bo/"
+  example: "Aujourd'hui, il fait beau."
+  translations:
+    de: ["es ist schönes Wetter"]
+  example_translations:
+    de: "Heute ist schönes Wetter."
+
+- id: "il-fait-chaud"
+  lemma: "il fait chaud"
+  pos: phrase
+  level: A1
+  ipa: "/il fɛ ʃo/"
+  example: "En été, il fait chaud."
+  translations:
+    de: ["es ist heiß", "es ist warm"]
+  example_translations:
+    de: "Im Sommer ist es heiß."
+
+- id: "il-fait-froid"
+  lemma: "il fait froid"
+  pos: phrase
+  level: A1
+  ipa: "/il fɛ fʁwa/"
+  example: "Il fait froid en hiver."
+  translations:
+    de: ["es ist kalt"]
+  example_translations:
+    de: "Im Winter ist es kalt."
+
+- id: "il-fait-mauvais"
+  lemma: "il fait mauvais"
+  pos: phrase
+  level: A1
+  ipa: "/il fɛ mo.vɛ/"
+  example: "Il fait mauvais, restons à la maison."
+  translations:
+    de: ["es ist schlechtes Wetter"]
+  example_translations:
+    de: "Es ist schlechtes Wetter, bleiben wir zu Hause."
+
+- id: "lac"
+  lemma: "le lac"
+  pos: noun
+  level: A1
+  ipa: "/lak/"
+  example: "On se baigne dans le lac."
+  translations:
+    de: ["der See"]
+  example_translations:
+    de: "Wir baden im See."
+
+- id: "lune"
+  lemma: "la lune"
+  pos: noun
+  level: A1
+  ipa: "/lyn/"
+  example: "La lune est pleine ce soir."
+  translations:
+    de: ["der Mond"]
+  example_translations:
+    de: "Heute Abend ist Vollmond."
+
+- id: "mer"
+  lemma: "la mer"
+  pos: noun
+  level: A1
+  ipa: "/mɛʁ/"
+  example: "Nous allons à la mer en été."
+  translations:
+    de: ["das Meer"]
+  example_translations:
+    de: "Im Sommer fahren wir ans Meer."
+
+- id: "meteo"
+  lemma: "la météo"
+  pos: noun
+  level: A1
+  ipa: "/me.te.o/"
+  example: "La météo annonce de la pluie."
+  translations:
+    de: ["der Wetterbericht"]
+  example_translations:
+    de: "Der Wetterbericht sagt Regen voraus."
+
+- id: "montagne"
+  lemma: "la montagne"
+  pos: noun
+  level: A1
+  ipa: "/mɔ̃.taɲ/"
+  example: "Nous faisons du ski à la montagne."
+  translations:
+    de: ["der Berg", "das Gebirge"]
+  example_translations:
+    de: "Wir fahren in den Bergen Ski."
+
+- id: "nature"
+  lemma: "la nature"
+  pos: noun
+  level: A1
+  ipa: "/na.tyʁ/"
+  example: "J'aime me promener dans la nature."
+  translations:
+    de: ["die Natur"]
+  example_translations:
+    de: "Ich gehe gern in der Natur spazieren."
+
+- id: "neige"
+  lemma: "la neige"
+  pos: noun
+  level: A1
+  ipa: "/nɛʒ/"
+  example: "Les enfants jouent dans la neige."
+  translations:
+    de: ["der Schnee"]
+  example_translations:
+    de: "Die Kinder spielen im Schnee."
+
+- id: "neiger"
+  lemma: "neiger"
+  pos: verb
+  level: A1
+  ipa: "/ne.ʒe/"
+  example: "Il neige à la montagne."
+  translations:
+    de: ["schneien"]
+  example_translations:
+    de: "In den Bergen schneit es."
+
+- id: "nuage"
+  lemma: "le nuage"
+  pos: noun
+  level: A1
+  ipa: "/nɥaʒ/"
+  example: "Il y a des nuages dans le ciel."
+  translations:
+    de: ["die Wolke"]
+  example_translations:
+    de: "Am Himmel sind Wolken."
+
+- id: "nuageux"
+  lemma: "nuageux"
+  pos: adjective
+  level: A2
+  ipa: "/nɥa.ʒø/"
+  example: "Le ciel est nuageux."
+  translations:
+    de: ["bewölkt"]
+  example_translations:
+    de: "Der Himmel ist bewölkt."
+
+- id: "orage"
+  lemma: "l'orage (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔ.ʁaʒ/"
+  example: "Il y a un orage ce soir."
+  translations:
+    de: ["das Gewitter"]
+  example_translations:
+    de: "Heute Abend gibt es ein Gewitter."
+
+- id: "paysage"
+  lemma: "le paysage"
+  pos: noun
+  level: A2
+  ipa: "/pe.i.zaʒ/"
+  example: "Le paysage est magnifique."
+  translations:
+    de: ["die Landschaft"]
+  example_translations:
+    de: "Die Landschaft ist wunderschön."
+
+- id: "pierre"
+  lemma: "la pierre"
+  pos: noun
+  level: A2
+  ipa: "/pjɛʁ/"
+  example: "La maison est en pierre."
+  translations:
+    de: ["der Stein"]
+  example_translations:
+    de: "Das Haus ist aus Stein."
+
+- id: "plante"
+  lemma: "la plante"
+  pos: noun
+  level: A2
+  ipa: "/plɑ̃t/"
+  example: "N'oublie pas d'arroser les plantes."
+  translations:
+    de: ["die Pflanze"]
+  example_translations:
+    de: "Vergiss nicht, die Pflanzen zu gießen."
+
+- id: "pleuvoir"
+  lemma: "pleuvoir"
+  pos: verb
+  level: A1
+  ipa: "/plø.vwaʁ/"
+  example: "Il pleut depuis ce matin."
+  translations:
+    de: ["regnen"]
+  example_translations:
+    de: "Es regnet seit heute Morgen."
+
+- id: "pluie"
+  lemma: "la pluie"
+  pos: noun
+  level: A1
+  ipa: "/plɥi/"
+  example: "Je n'aime pas la pluie."
+  translations:
+    de: ["der Regen"]
+  example_translations:
+    de: "Ich mag keinen Regen."
+
+- id: "pollution"
+  lemma: "la pollution"
+  pos: noun
+  level: A2
+  ipa: "/pɔ.ly.sjɔ̃/"
+  example: "La pollution est un problème en ville."
+  translations:
+    de: ["die Verschmutzung"]
+  example_translations:
+    de: "Die Verschmutzung ist in der Stadt ein Problem."
+
+- id: "riviere"
+  lemma: "la rivière"
+  pos: noun
+  level: A2
+  ipa: "/ʁi.vjɛʁ/"
+  example: "La rivière traverse le village."
+  translations:
+    de: ["der Fluss"]
+  example_translations:
+    de: "Der Fluss fließt durch das Dorf."
+
+- id: "soleil"
+  lemma: "le soleil"
+  pos: noun
+  level: A1
+  ipa: "/sɔ.lɛj/"
+  example: "Le soleil brille."
+  translations:
+    de: ["die Sonne"]
+  example_translations:
+    de: "Die Sonne scheint."
+
+- id: "temperature"
+  lemma: "la température"
+  pos: noun
+  level: A2
+  ipa: "/tɑ̃.pe.ʁa.tyʁ/"
+  example: "La température est de vingt degrés."
+  translations:
+    de: ["die Temperatur"]
+  example_translations:
+    de: "Die Temperatur beträgt zwanzig Grad."
+
+- id: "tempete"
+  lemma: "la tempête"
+  pos: noun
+  level: A2
+  ipa: "/tɑ̃.pɛt/"
+  example: "La tempête a cassé des arbres."
+  translations:
+    de: ["der Sturm"]
+  example_translations:
+    de: "Der Sturm hat Bäume umgeknickt."
+
+- id: "terre"
+  lemma: "la terre"
+  pos: noun
+  level: A2
+  ipa: "/tɛʁ/"
+  example: "La Terre tourne autour du Soleil."
+  translations:
+    de: ["die Erde", "der Boden"]
+  example_translations:
+    de: "Die Erde dreht sich um die Sonne."
+
+- id: "vent"
+  lemma: "le vent"
+  pos: noun
+  level: A1
+  ipa: "/vɑ̃/"
+  example: "Il y a beaucoup de vent aujourd'hui."
+  translations:
+    de: ["der Wind"]
+  example_translations:
+    de: "Heute ist es sehr windig."

@@ -1,0 +1,277 @@
+# 💻 Technik & Medien – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "appareil-photo"
+  lemma: "l'appareil photo (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.pa.ʁɛj fɔ.to/"
+  example: "J'ai un nouvel appareil photo."
+  translations:
+    de: ["der Fotoapparat"]
+  example_translations:
+    de: "Ich habe einen neuen Fotoapparat."
+
+- id: "application"
+  lemma: "l'application (f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.pli.ka.sjɔ̃/"
+  example: "Télécharge cette application."
+  translations:
+    de: ["die App", "die Anwendung"]
+  example_translations:
+    de: "Lade diese App herunter."
+
+- id: "clavier"
+  lemma: "le clavier"
+  pos: noun
+  level: A2
+  ipa: "/kla.vje/"
+  example: "Le clavier ne marche pas."
+  translations:
+    de: ["die Tastatur"]
+  example_translations:
+    de: "Die Tastatur funktioniert nicht."
+
+- id: "cliquer"
+  lemma: "cliquer"
+  pos: verb
+  level: A2
+  ipa: "/kli.ke/"
+  example: "Cliquez ici."
+  translations:
+    de: ["klicken"]
+  example_translations:
+    de: "Klicken Sie hier."
+
+- id: "e-mail"
+  lemma: "l'e-mail (m.)"
+  pos: noun
+  level: A1
+  ipa: "/i.mɛl/"
+  example: "J'écris un e-mail à mon chef."
+  translations:
+    de: ["die E-Mail"]
+  example_translations:
+    de: "Ich schreibe meinem Chef eine E-Mail."
+
+- id: "ecran"
+  lemma: "l'écran (m.)"
+  pos: noun
+  level: A2
+  ipa: "/e.kʁɑ̃/"
+  example: "L'écran est trop petit."
+  translations:
+    de: ["der Bildschirm"]
+  example_translations:
+    de: "Der Bildschirm ist zu klein."
+
+- id: "emission"
+  lemma: "l'émission (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.mi.sjɔ̃/"
+  example: "C'est mon émission préférée."
+  translations:
+    de: ["die Sendung"]
+  example_translations:
+    de: "Das ist meine Lieblingssendung."
+
+- id: "informations"
+  lemma: "les informations (f. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃.fɔʁ.ma.sjɔ̃/"
+  example: "Je regarde les informations à vingt heures."
+  translations:
+    de: ["die Nachrichten", "die Informationen"]
+  example_translations:
+    de: "Ich schaue um zwanzig Uhr die Nachrichten."
+
+- id: "internet"
+  lemma: "l'internet (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛ̃.tɛʁ.nɛt/"
+  example: "Je cherche sur internet."
+  translations:
+    de: ["das Internet"]
+  example_translations:
+    de: "Ich suche im Internet."
+
+- id: "jeu-video"
+  lemma: "le jeu vidéo"
+  pos: noun
+  level: A1
+  ipa: "/ʒø vi.de.o/"
+  example: "Il joue aux jeux vidéo."
+  translations:
+    de: ["das Videospiel"]
+  example_translations:
+    de: "Er spielt Videospiele."
+
+- id: "journal"
+  lemma: "le journal"
+  pos: noun
+  level: A1
+  ipa: "/ʒuʁ.nal/"
+  example: "Mon père lit le journal."
+  translations:
+    de: ["die Zeitung", "die Nachrichten"]
+  example_translations:
+    de: "Mein Vater liest die Zeitung."
+
+- id: "magazine"
+  lemma: "le magazine"
+  pos: noun
+  level: A1
+  ipa: "/ma.ɡa.zin/"
+  example: "J'achète un magazine à la gare."
+  translations:
+    de: ["die Zeitschrift"]
+  example_translations:
+    de: "Ich kaufe am Bahnhof eine Zeitschrift."
+
+- id: "mot-de-passe"
+  lemma: "le mot de passe"
+  pos: noun
+  level: A2
+  ipa: "/mo d pas/"
+  example: "J'ai oublié mon mot de passe."
+  translations:
+    de: ["das Passwort"]
+  example_translations:
+    de: "Ich habe mein Passwort vergessen."
+
+- id: "ordinateur"
+  lemma: "l'ordinateur (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔʁ.di.na.tœʁ/"
+  example: "Mon ordinateur est lent."
+  translations:
+    de: ["der Computer"]
+  example_translations:
+    de: "Mein Computer ist langsam."
+
+- id: "ordinateur-portable"
+  lemma: "l'ordinateur portable (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔʁ.di.na.tœʁ pɔʁ.tabl/"
+  example: "Je travaille sur mon ordinateur portable."
+  translations:
+    de: ["der Laptop"]
+  example_translations:
+    de: "Ich arbeite an meinem Laptop."
+
+- id: "portable"
+  lemma: "le portable"
+  pos: noun
+  level: A1
+  ipa: "/pɔʁ.tabl/"
+  example: "Mon portable n'a plus de batterie."
+  translations:
+    de: ["das Handy", "der Laptop"]
+  example_translations:
+    de: "Mein Handy hat keinen Akku mehr."
+
+- id: "radio"
+  lemma: "la radio"
+  pos: noun
+  level: A1
+  ipa: "/ʁa.djo/"
+  example: "J'écoute la radio en voiture."
+  translations:
+    de: ["das Radio"]
+  example_translations:
+    de: "Im Auto höre ich Radio."
+
+- id: "reseaux-sociaux"
+  lemma: "les réseaux sociaux (m. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.zo sɔ.sjo/"
+  example: "Il passe trop de temps sur les réseaux sociaux."
+  translations:
+    de: ["die sozialen Netzwerke"]
+  example_translations:
+    de: "Er verbringt zu viel Zeit in den sozialen Netzwerken."
+
+- id: "site"
+  lemma: "le site"
+  pos: noun
+  level: A2
+  ipa: "/sit/"
+  example: "Regardez sur notre site internet."
+  translations:
+    de: ["die Website"]
+  example_translations:
+    de: "Schauen Sie auf unsere Website."
+
+- id: "sms"
+  lemma: "le SMS"
+  pos: noun
+  level: A1
+  ipa: "/ɛ.sɛ.mɛs/"
+  example: "Envoie-moi un SMS."
+  translations:
+    de: ["die SMS"]
+  example_translations:
+    de: "Schick mir eine SMS."
+
+- id: "tele"
+  lemma: "la télé"
+  pos: noun
+  level: A1
+  ipa: "/te.le/"
+  example: "Il y a un bon film à la télé."
+  translations:
+    de: ["der Fernseher", "das Fernsehen"]
+  example_translations:
+    de: "Im Fernsehen läuft ein guter Film."
+
+- id: "telecharger"
+  lemma: "télécharger"
+  pos: verb
+  level: A2
+  ipa: "/te.le.ʃaʁ.ʒe/"
+  example: "Je télécharge un film."
+  translations:
+    de: ["herunterladen"]
+  example_translations:
+    de: "Ich lade einen Film herunter."
+
+- id: "telephone"
+  lemma: "le téléphone"
+  pos: noun
+  level: A1
+  ipa: "/te.le.fɔn/"
+  example: "Le téléphone sonne."
+  translations:
+    de: ["das Telefon"]
+  example_translations:
+    de: "Das Telefon klingelt."
+
+- id: "television"
+  lemma: "la télévision"
+  pos: noun
+  level: A1
+  ipa: "/te.le.vi.zjɔ̃/"
+  example: "Je regarde la télévision le soir."
+  translations:
+    de: ["das Fernsehen", "der Fernseher"]
+  example_translations:
+    de: "Abends sehe ich fern."
+
+- id: "video"
+  lemma: "la vidéo"
+  pos: noun
+  level: A1
+  ipa: "/vi.de.o/"
+  example: "Regarde cette vidéo !"
+  translations:
+    de: ["das Video"]
+  example_translations:
+    de: "Schau dir dieses Video an!"

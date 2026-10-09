@@ -1,0 +1,629 @@
+# 👪 Menschen & Familie – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "adulte"
+  lemma: "l'adulte (m./f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.dylt/"
+  example: "Le billet coûte dix euros pour les adultes."
+  translations:
+    de: ["der/die Erwachsene"]
+  example_translations:
+    de: "Die Karte kostet zehn Euro für Erwachsene."
+
+- id: "age-noun"
+  lemma: "l'âge (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɑʒ/"
+  example: "Quel âge as-tu ?"
+  translations:
+    de: ["das Alter"]
+  example_translations:
+    de: "Wie alt bist du?"
+
+- id: "ami"
+  lemma: "l'ami (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.mi/"
+  example: "C'est mon meilleur ami."
+  translations:
+    de: ["der Freund"]
+  example_translations:
+    de: "Das ist mein bester Freund."
+
+- id: "amie"
+  lemma: "l'amie (f.)"
+  pos: noun
+  level: A1
+  ipa: "/a.mi/"
+  example: "Je vais au cinéma avec une amie."
+  translations:
+    de: ["die Freundin"]
+  example_translations:
+    de: "Ich gehe mit einer Freundin ins Kino."
+
+- id: "bebe"
+  lemma: "le bébé"
+  pos: noun
+  level: A1
+  ipa: "/be.be/"
+  example: "Le bébé dort."
+  translations:
+    de: ["das Baby"]
+  example_translations:
+    de: "Das Baby schläft."
+
+- id: "caractere"
+  lemma: "le caractère"
+  pos: noun
+  level: A2
+  ipa: "/ka.ʁak.tɛʁ/"
+  example: "Il a bon caractère."
+  translations:
+    de: ["der Charakter"]
+  example_translations:
+    de: "Er hat einen guten Charakter."
+
+- id: "celibataire"
+  lemma: "célibataire"
+  pos: adjective
+  level: A1
+  ipa: "/se.li.ba.tɛʁ/"
+  example: "Il est célibataire."
+  translations:
+    de: ["ledig", "Single"]
+  example_translations:
+    de: "Er ist ledig."
+
+- id: "copain"
+  lemma: "le copain"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.pɛ̃/"
+  example: "Il sort avec ses copains."
+  translations:
+    de: ["der Kumpel", "der Freund"]
+  example_translations:
+    de: "Er geht mit seinen Kumpels aus."
+
+- id: "copine"
+  lemma: "la copine"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.pin/"
+  example: "Sa copine s'appelle Léa."
+  translations:
+    de: ["die Freundin"]
+  example_translations:
+    de: "Seine Freundin heißt Léa."
+
+- id: "couple"
+  lemma: "le couple"
+  pos: noun
+  level: A2
+  ipa: "/kupl/"
+  example: "C'est un couple heureux."
+  translations:
+    de: ["das Paar"]
+  example_translations:
+    de: "Das ist ein glückliches Paar."
+
+- id: "cousin"
+  lemma: "le cousin"
+  pos: noun
+  level: A1
+  ipa: "/ku.zɛ̃/"
+  example: "Mon cousin a mon âge."
+  translations:
+    de: ["der Cousin"]
+  example_translations:
+    de: "Mein Cousin ist so alt wie ich."
+
+- id: "cousine"
+  lemma: "la cousine"
+  pos: noun
+  level: A1
+  ipa: "/ku.zin/"
+  example: "Ma cousine vient ce week-end."
+  translations:
+    de: ["die Cousine"]
+  example_translations:
+    de: "Meine Cousine kommt dieses Wochenende."
+
+- id: "divorce"
+  lemma: "divorcé"
+  pos: adjective
+  level: A2
+  ipa: "/di.vɔʁ.se/"
+  example: "Mes parents sont divorcés."
+  translations:
+    de: ["geschieden"]
+  example_translations:
+    de: "Meine Eltern sind geschieden."
+
+- id: "enfant"
+  lemma: "l'enfant (m./f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɑ̃.fɑ̃/"
+  example: "Ils ont trois enfants."
+  translations:
+    de: ["das Kind"]
+  example_translations:
+    de: "Sie haben drei Kinder."
+
+- id: "famille"
+  lemma: "la famille"
+  pos: noun
+  level: A1
+  ipa: "/fa.mij/"
+  example: "Ma famille habite à Nantes."
+  translations:
+    de: ["die Familie"]
+  example_translations:
+    de: "Meine Familie wohnt in Nantes."
+
+- id: "femme"
+  lemma: "la femme"
+  pos: noun
+  level: A1
+  ipa: "/fam/"
+  example: "Ma femme travaille à Lyon."
+  translations:
+    de: ["die Frau", "die Ehefrau"]
+  example_translations:
+    de: "Meine Frau arbeitet in Lyon."
+
+- id: "fille"
+  lemma: "la fille"
+  pos: noun
+  level: A1
+  ipa: "/fij/"
+  example: "Leur fille a dix ans."
+  translations:
+    de: ["das Mädchen", "die Tochter"]
+  example_translations:
+    de: "Ihre Tochter ist zehn Jahre alt."
+
+- id: "fils"
+  lemma: "le fils"
+  pos: noun
+  level: A1
+  ipa: "/fis/"
+  example: "Leur fils étudie à Paris."
+  translations:
+    de: ["der Sohn"]
+  example_translations:
+    de: "Ihr Sohn studiert in Paris."
+
+- id: "frere"
+  lemma: "le frère"
+  pos: noun
+  level: A1
+  ipa: "/fʁɛʁ/"
+  example: "J'ai un frère et une sœur."
+  translations:
+    de: ["der Bruder"]
+  example_translations:
+    de: "Ich habe einen Bruder und eine Schwester."
+
+- id: "garcon"
+  lemma: "le garçon"
+  pos: noun
+  level: A1
+  ipa: "/ɡaʁ.sɔ̃/"
+  example: "Le garçon joue au foot."
+  translations:
+    de: ["der Junge"]
+  example_translations:
+    de: "Der Junge spielt Fußball."
+
+- id: "gens"
+  lemma: "les gens (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/ʒɑ̃/"
+  example: "Les gens sont sympas ici."
+  translations:
+    de: ["die Leute", "die Menschen"]
+  example_translations:
+    de: "Die Leute sind hier nett."
+
+- id: "grand-mere"
+  lemma: "la grand-mère"
+  pos: noun
+  level: A1
+  ipa: "/ɡʁɑ̃.mɛʁ/"
+  example: "Ma grand-mère fait de bons gâteaux."
+  translations:
+    de: ["die Großmutter"]
+  example_translations:
+    de: "Meine Großmutter backt gute Kuchen."
+
+- id: "grand-pere"
+  lemma: "le grand-père"
+  pos: noun
+  level: A1
+  ipa: "/ɡʁɑ̃.pɛʁ/"
+  example: "Mon grand-père a 80 ans."
+  translations:
+    de: ["der Großvater"]
+  example_translations:
+    de: "Mein Großvater ist 80 Jahre alt."
+
+- id: "grands-parents"
+  lemma: "les grands-parents (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/ɡʁɑ̃.pa.ʁɑ̃/"
+  example: "Nous allons chez nos grands-parents."
+  translations:
+    de: ["die Großeltern"]
+  example_translations:
+    de: "Wir fahren zu unseren Großeltern."
+
+- id: "habitude"
+  lemma: "l'habitude (f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.bi.tyd/"
+  example: "C'est une mauvaise habitude."
+  translations:
+    de: ["die Gewohnheit"]
+  example_translations:
+    de: "Das ist eine schlechte Angewohnheit."
+
+- id: "homme"
+  lemma: "l'homme (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔm/"
+  example: "Cet homme est mon professeur."
+  translations:
+    de: ["der Mann", "der Mensch"]
+  example_translations:
+    de: "Dieser Mann ist mein Lehrer."
+
+- id: "jeune-noun"
+  lemma: "le jeune (m./f.)"
+  pos: noun
+  level: A2
+  ipa: "/ʒœn/"
+  example: "Les jeunes aiment la musique."
+  translations:
+    de: ["der/die Jugendliche"]
+  example_translations:
+    de: "Die Jugendlichen mögen Musik."
+
+- id: "jumeau"
+  lemma: "le jumeau"
+  pos: noun
+  level: A2
+  ipa: "/ʒy.mo/"
+  example: "Ce sont des jumeaux."
+  translations:
+    de: ["der Zwilling"]
+  example_translations:
+    de: "Das sind Zwillinge."
+
+- id: "madame"
+  lemma: "madame"
+  pos: noun
+  level: A1
+  ipa: "/ma.dam/"
+  example: "Madame Dubois est notre voisine."
+  translations:
+    de: ["die Dame", "Frau (Anrede)"]
+  example_translations:
+    de: "Frau Dubois ist unsere Nachbarin."
+
+- id: "mademoiselle"
+  lemma: "mademoiselle"
+  pos: noun
+  level: A2
+  ipa: "/mad.mwa.zɛl/"
+  example: "Mademoiselle, vous avez oublié votre sac."
+  translations:
+    de: ["das Fräulein", "junge Frau (Anrede)"]
+  example_translations:
+    de: "Junge Frau, Sie haben Ihre Tasche vergessen."
+
+- id: "maman"
+  lemma: "la maman"
+  pos: noun
+  level: A1
+  ipa: "/ma.mɑ̃/"
+  example: "Maman prépare le dîner."
+  translations:
+    de: ["die Mama"]
+  example_translations:
+    de: "Mama macht das Abendessen."
+
+- id: "mari"
+  lemma: "le mari"
+  pos: noun
+  level: A1
+  ipa: "/ma.ʁi/"
+  example: "Son mari est cuisinier."
+  translations:
+    de: ["der Ehemann"]
+  example_translations:
+    de: "Ihr Mann ist Koch."
+
+- id: "mariage"
+  lemma: "le mariage"
+  pos: noun
+  level: A2
+  ipa: "/ma.ʁjaʒ/"
+  example: "Le mariage est samedi."
+  translations:
+    de: ["die Hochzeit", "die Ehe"]
+  example_translations:
+    de: "Die Hochzeit ist am Samstag."
+
+- id: "marie"
+  lemma: "marié"
+  pos: adjective
+  level: A1
+  ipa: "/ma.ʁje/"
+  example: "Elle est mariée depuis dix ans."
+  translations:
+    de: ["verheiratet"]
+  example_translations:
+    de: "Sie ist seit zehn Jahren verheiratet."
+
+- id: "mere"
+  lemma: "la mère"
+  pos: noun
+  level: A1
+  ipa: "/mɛʁ/"
+  example: "Ma mère aime lire."
+  translations:
+    de: ["die Mutter"]
+  example_translations:
+    de: "Meine Mutter liest gern."
+
+- id: "monsieur"
+  lemma: "monsieur"
+  pos: noun
+  level: A1
+  ipa: "/mə.sjø/"
+  example: "Bonjour, monsieur Martin."
+  translations:
+    de: ["der Herr", "Herr (Anrede)"]
+  example_translations:
+    de: "Guten Tag, Herr Martin."
+
+- id: "mort"
+  lemma: "la mort"
+  pos: noun
+  level: A2
+  ipa: "/mɔʁ/"
+  example: "Sa mort a choqué tout le monde."
+  translations:
+    de: ["der Tod"]
+  example_translations:
+    de: "Sein Tod hat alle schockiert."
+
+- id: "mourir"
+  lemma: "mourir"
+  pos: verb
+  level: A2
+  ipa: "/mu.ʁiʁ/"
+  example: "Son grand-père est mort l'année dernière."
+  translations:
+    de: ["sterben"]
+  example_translations:
+    de: "Ihr Großvater ist letztes Jahr gestorben."
+
+- id: "naissance"
+  lemma: "la naissance"
+  pos: noun
+  level: A2
+  ipa: "/nɛ.sɑ̃s/"
+  example: "Quelle est votre date de naissance ?"
+  translations:
+    de: ["die Geburt"]
+  example_translations:
+    de: "Was ist Ihr Geburtsdatum?"
+
+- id: "naitre"
+  lemma: "naître"
+  pos: verb
+  level: A2
+  ipa: "/nɛtʁ/"
+  example: "Je suis né à Marseille."
+  translations:
+    de: ["geboren werden"]
+  example_translations:
+    de: "Ich bin in Marseille geboren."
+
+- id: "nationalite"
+  lemma: "la nationalité"
+  pos: noun
+  level: A2
+  ipa: "/na.sjɔ.na.li.te/"
+  example: "Quelle est votre nationalité ?"
+  translations:
+    de: ["die Staatsangehörigkeit", "die Nationalität"]
+  example_translations:
+    de: "Welche Staatsangehörigkeit haben Sie?"
+
+- id: "neveu"
+  lemma: "le neveu"
+  pos: noun
+  level: A2
+  ipa: "/nə.vø/"
+  example: "Mon neveu a cinq ans."
+  translations:
+    de: ["der Neffe"]
+  example_translations:
+    de: "Mein Neffe ist fünf Jahre alt."
+
+- id: "niece"
+  lemma: "la nièce"
+  pos: noun
+  level: A2
+  ipa: "/njɛs/"
+  example: "Ma nièce est très drôle."
+  translations:
+    de: ["die Nichte"]
+  example_translations:
+    de: "Meine Nichte ist sehr lustig."
+
+- id: "oncle"
+  lemma: "l'oncle (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔ̃kl/"
+  example: "Mon oncle habite au Canada."
+  translations:
+    de: ["der Onkel"]
+  example_translations:
+    de: "Mein Onkel wohnt in Kanada."
+
+- id: "papa"
+  lemma: "le papa"
+  pos: noun
+  level: A1
+  ipa: "/pa.pa/"
+  example: "Papa, tu viens ?"
+  translations:
+    de: ["der Papa"]
+  example_translations:
+    de: "Papa, kommst du?"
+
+- id: "parents"
+  lemma: "les parents (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/pa.ʁɑ̃/"
+  example: "Mes parents sont à la retraite."
+  translations:
+    de: ["die Eltern", "die Verwandten"]
+  example_translations:
+    de: "Meine Eltern sind in Rente."
+
+- id: "pere"
+  lemma: "le père"
+  pos: noun
+  level: A1
+  ipa: "/pɛʁ/"
+  example: "Mon père est médecin."
+  translations:
+    de: ["der Vater"]
+  example_translations:
+    de: "Mein Vater ist Arzt."
+
+- id: "personne-noun"
+  lemma: "la personne"
+  pos: noun
+  level: A1
+  ipa: "/pɛʁ.sɔn/"
+  example: "Il y a dix personnes dans la salle."
+  translations:
+    de: ["die Person", "der Mensch"]
+  example_translations:
+    de: "Im Raum sind zehn Personen."
+
+- id: "petit-fils"
+  lemma: "le petit-fils"
+  pos: noun
+  level: A2
+  ipa: "/pə.ti.fis/"
+  example: "Leur petit-fils est né hier."
+  translations:
+    de: ["der Enkel"]
+  example_translations:
+    de: "Ihr Enkel ist gestern geboren."
+
+- id: "petite-fille"
+  lemma: "la petite-fille"
+  pos: noun
+  level: A2
+  ipa: "/pə.tit.fij/"
+  example: "Ma petite-fille va à l'école."
+  translations:
+    de: ["die Enkelin"]
+  example_translations:
+    de: "Meine Enkelin geht zur Schule."
+
+- id: "rencontrer"
+  lemma: "rencontrer"
+  pos: verb
+  level: A1
+  ipa: "/ʁɑ̃.kɔ̃.tʁe/"
+  example: "J'ai rencontré ma femme à Paris."
+  translations:
+    de: ["treffen", "kennenlernen"]
+  example_translations:
+    de: "Ich habe meine Frau in Paris kennengelernt."
+
+- id: "se-marier"
+  lemma: "se marier"
+  pos: verb
+  level: A2
+  ipa: "/sə ma.ʁje/"
+  example: "Ils se marient en juin."
+  translations:
+    de: ["heiraten"]
+  example_translations:
+    de: "Sie heiraten im Juni."
+
+- id: "soeur"
+  lemma: "la sœur"
+  pos: noun
+  level: A1
+  ipa: "/sœʁ/"
+  example: "Ma sœur est plus âgée que moi."
+  translations:
+    de: ["die Schwester"]
+  example_translations:
+    de: "Meine Schwester ist älter als ich."
+
+- id: "tante"
+  lemma: "la tante"
+  pos: noun
+  level: A1
+  ipa: "/tɑ̃t/"
+  example: "Ma tante a un chien."
+  translations:
+    de: ["die Tante"]
+  example_translations:
+    de: "Meine Tante hat einen Hund."
+
+- id: "vie"
+  lemma: "la vie"
+  pos: noun
+  level: A1
+  ipa: "/vi/"
+  example: "La vie est belle."
+  translations:
+    de: ["das Leben"]
+  example_translations:
+    de: "Das Leben ist schön."
+
+- id: "voisin"
+  lemma: "le voisin"
+  pos: noun
+  level: A1
+  ipa: "/vwa.zɛ̃/"
+  example: "Notre voisin est très gentil."
+  translations:
+    de: ["der Nachbar"]
+  example_translations:
+    de: "Unser Nachbar ist sehr nett."
+
+- id: "voisine"
+  lemma: "la voisine"
+  pos: noun
+  level: A1
+  ipa: "/vwa.zin/"
+  example: "La voisine arrose nos plantes."
+  translations:
+    de: ["die Nachbarin"]
+  example_translations:
+    de: "Die Nachbarin gießt unsere Pflanzen."

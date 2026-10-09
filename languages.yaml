@@ -14,3 +14,9 @@
   tts_locale: "en-GB"
   base: false
   learnable: true
+
+- code: "fr"
+  flag: "🇫🇷"
+  tts_locale: "fr-FR"
+  base: false
+  learnable: true

@@ -1,0 +1,288 @@
+# 🧠 Denken & Meinung – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "attention-noun"
+  lemma: "l'attention (f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.tɑ̃.sjɔ̃/"
+  example: "Faites attention !"
+  translations:
+    de: ["die Aufmerksamkeit"]
+  example_translations:
+    de: "Passen Sie auf!"
+
+- id: "avis"
+  lemma: "l'avis (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.vi/"
+  example: "À mon avis, il a raison."
+  translations:
+    de: ["die Meinung"]
+  example_translations:
+    de: "Meiner Meinung nach hat er recht."
+
+- id: "avoir-raison"
+  lemma: "avoir raison"
+  pos: phrase
+  level: A2
+  ipa: "/a.vwaʁ ʁɛ.zɔ̃/"
+  example: "Tu as raison."
+  translations:
+    de: ["recht haben"]
+  example_translations:
+    de: "Du hast recht."
+
+- id: "avoir-tort"
+  lemma: "avoir tort"
+  pos: phrase
+  level: A2
+  ipa: "/a.vwaʁ tɔʁ/"
+  example: "Il a tort."
+  translations:
+    de: ["unrecht haben"]
+  example_translations:
+    de: "Er hat unrecht."
+
+- id: "certain"
+  lemma: "certain"
+  pos: adjective
+  level: A2
+  ipa: "/sɛʁ.tɛ̃/"
+  example: "J'en suis certain."
+  translations:
+    de: ["sicher", "gewiss", "bestimmt"]
+  example_translations:
+    de: "Da bin ich mir sicher."
+
+- id: "choix"
+  lemma: "le choix"
+  pos: noun
+  level: A2
+  ipa: "/ʃwa/"
+  example: "Tu as le choix."
+  translations:
+    de: ["die Wahl", "die Auswahl"]
+  example_translations:
+    de: "Du hast die Wahl."
+
+- id: "comparer"
+  lemma: "comparer"
+  pos: verb
+  level: A2
+  ipa: "/kɔ̃.pa.ʁe/"
+  example: "Compare les deux prix."
+  translations:
+    de: ["vergleichen"]
+  example_translations:
+    de: "Vergleich die beiden Preise."
+
+- id: "comprendre"
+  lemma: "comprendre"
+  pos: verb
+  level: A1
+  ipa: "/kɔ̃.pʁɑ̃dʁ/"
+  example: "Je ne comprends pas."
+  translations:
+    de: ["verstehen"]
+  example_translations:
+    de: "Ich verstehe nicht."
+
+- id: "connaitre"
+  lemma: "connaître"
+  pos: verb
+  level: A1
+  ipa: "/kɔ.nɛtʁ/"
+  example: "Tu connais ce restaurant ?"
+  translations:
+    de: ["kennen"]
+  example_translations:
+    de: "Kennst du dieses Restaurant?"
+
+- id: "croire"
+  lemma: "croire"
+  pos: verb
+  level: A2
+  ipa: "/kʁwaʁ/"
+  example: "Je crois qu'il est malade."
+  translations:
+    de: ["glauben"]
+  example_translations:
+    de: "Ich glaube, er ist krank."
+
+- id: "d-accord-adjective"
+  lemma: "d'accord"
+  pos: adjective
+  level: A1
+  ipa: "/da.kɔʁ/"
+  example: "Je suis d'accord avec toi."
+  translations:
+    de: ["einverstanden"]
+  example_translations:
+    de: "Ich bin mit dir einverstanden."
+
+- id: "decider"
+  lemma: "décider"
+  pos: verb
+  level: A2
+  ipa: "/de.si.de/"
+  example: "Nous avons décidé de partir."
+  translations:
+    de: ["entscheiden", "beschließen"]
+  example_translations:
+    de: "Wir haben beschlossen wegzufahren."
+
+- id: "decision"
+  lemma: "la décision"
+  pos: noun
+  level: A2
+  ipa: "/de.si.zjɔ̃/"
+  example: "C'est une décision difficile."
+  translations:
+    de: ["die Entscheidung"]
+  example_translations:
+    de: "Das ist eine schwierige Entscheidung."
+
+- id: "deviner"
+  lemma: "deviner"
+  pos: verb
+  level: A2
+  ipa: "/də.vi.ne/"
+  example: "Devine qui est là !"
+  translations:
+    de: ["raten", "erraten"]
+  example_translations:
+    de: "Rate mal, wer da ist!"
+
+- id: "idee"
+  lemma: "l'idée (f.)"
+  pos: noun
+  level: A1
+  ipa: "/i.de/"
+  example: "C'est une bonne idée."
+  translations:
+    de: ["die Idee"]
+  example_translations:
+    de: "Das ist eine gute Idee."
+
+- id: "imaginer"
+  lemma: "imaginer"
+  pos: verb
+  level: A2
+  ipa: "/i.ma.ʒi.ne/"
+  example: "Imagine une plage au soleil."
+  translations:
+    de: ["sich vorstellen"]
+  example_translations:
+    de: "Stell dir einen Strand in der Sonne vor."
+
+- id: "opinion"
+  lemma: "l'opinion (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔ.pi.njɔ̃/"
+  example: "Quelle est ton opinion ?"
+  translations:
+    de: ["die Meinung"]
+  example_translations:
+    de: "Was ist deine Meinung?"
+
+- id: "oublier"
+  lemma: "oublier"
+  pos: verb
+  level: A1
+  ipa: "/u.bli.je/"
+  example: "J'ai oublié mon parapluie."
+  translations:
+    de: ["vergessen"]
+  example_translations:
+    de: "Ich habe meinen Regenschirm vergessen."
+
+- id: "penser"
+  lemma: "penser"
+  pos: verb
+  level: A1
+  ipa: "/pɑ̃.se/"
+  example: "Je pense que tu as raison."
+  translations:
+    de: ["denken", "meinen"]
+  example_translations:
+    de: "Ich denke, du hast recht."
+
+- id: "raison"
+  lemma: "la raison"
+  pos: noun
+  level: A2
+  ipa: "/ʁɛ.zɔ̃/"
+  example: "Pour quelle raison ?"
+  translations:
+    de: ["der Grund", "die Vernunft"]
+  example_translations:
+    de: "Aus welchem Grund?"
+
+- id: "reconnaitre"
+  lemma: "reconnaître"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.kɔ.nɛtʁ/"
+  example: "Je ne t'ai pas reconnu !"
+  translations:
+    de: ["erkennen", "zugeben"]
+  example_translations:
+    de: "Ich habe dich nicht erkannt!"
+
+- id: "remarquer"
+  lemma: "remarquer"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.maʁ.ke/"
+  example: "Tu as remarqué sa nouvelle coiffure ?"
+  translations:
+    de: ["bemerken"]
+  example_translations:
+    de: "Hast du ihre neue Frisur bemerkt?"
+
+- id: "s-interesser-a"
+  lemma: "s'intéresser à"
+  pos: verb
+  level: A2
+  ipa: "/sɛ̃.te.ʁɛ.se a/"
+  example: "Je m'intéresse à l'histoire."
+  translations:
+    de: ["sich interessieren für"]
+  example_translations:
+    de: "Ich interessiere mich für Geschichte."
+
+- id: "savoir"
+  lemma: "savoir"
+  pos: verb
+  level: A1
+  ipa: "/sa.vwaʁ/"
+  example: "Je ne sais pas."
+  translations:
+    de: ["wissen", "können"]
+  example_translations:
+    de: "Ich weiß es nicht."
+
+- id: "se-souvenir"
+  lemma: "se souvenir"
+  pos: verb
+  level: A2
+  ipa: "/sə su.v.niʁ/"
+  example: "Tu te souviens de moi ?"
+  translations:
+    de: ["sich erinnern"]
+  example_translations:
+    de: "Erinnerst du dich an mich?"
+
+- id: "sur-adjective"
+  lemma: "sûr"
+  pos: adjective
+  level: A2
+  ipa: "/syʁ/"
+  example: "Tu es sûr ?"
+  translations:
+    de: ["sicher"]
+  example_translations:
+    de: "Bist du sicher?"

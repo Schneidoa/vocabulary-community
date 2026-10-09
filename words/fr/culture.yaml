@@ -1,0 +1,277 @@
+# 🎭 Kunst & Kultur – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "acteur"
+  lemma: "l'acteur (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ak.tœʁ/"
+  example: "C'est un acteur connu."
+  translations:
+    de: ["der Schauspieler"]
+  example_translations:
+    de: "Das ist ein bekannter Schauspieler."
+
+- id: "actrice"
+  lemma: "l'actrice (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ak.tʁis/"
+  example: "L'actrice joue très bien."
+  translations:
+    de: ["die Schauspielerin"]
+  example_translations:
+    de: "Die Schauspielerin spielt sehr gut."
+
+- id: "art"
+  lemma: "l'art (m.)"
+  pos: noun
+  level: A2
+  ipa: "/aʁ/"
+  example: "Elle étudie l'art."
+  translations:
+    de: ["die Kunst"]
+  example_translations:
+    de: "Sie studiert Kunst."
+
+- id: "artiste"
+  lemma: "l'artiste (m./f.)"
+  pos: noun
+  level: A2
+  ipa: "/aʁ.tist/"
+  example: "C'est un artiste célèbre."
+  translations:
+    de: ["der Künstler", "die Künstlerin"]
+  example_translations:
+    de: "Das ist ein berühmter Künstler."
+
+- id: "bande-dessinee"
+  lemma: "la bande dessinée"
+  pos: noun
+  level: A2
+  ipa: "/bɑ̃d de.si.ne/"
+  example: "Les enfants lisent des bandes dessinées."
+  translations:
+    de: ["der Comic"]
+  example_translations:
+    de: "Die Kinder lesen Comics."
+
+- id: "chanson"
+  lemma: "la chanson"
+  pos: noun
+  level: A1
+  ipa: "/ʃɑ̃.sɔ̃/"
+  example: "C'est une chanson française."
+  translations:
+    de: ["das Lied"]
+  example_translations:
+    de: "Das ist ein französisches Lied."
+
+- id: "chanteur"
+  lemma: "le chanteur"
+  pos: noun
+  level: A1
+  ipa: "/ʃɑ̃.tœʁ/"
+  example: "C'est un chanteur célèbre."
+  translations:
+    de: ["der Sänger"]
+  example_translations:
+    de: "Das ist ein berühmter Sänger."
+
+- id: "chanteuse"
+  lemma: "la chanteuse"
+  pos: noun
+  level: A1
+  ipa: "/ʃɑ̃.tøz/"
+  example: "La chanteuse a une belle voix."
+  translations:
+    de: ["die Sängerin"]
+  example_translations:
+    de: "Die Sängerin hat eine schöne Stimme."
+
+- id: "concert"
+  lemma: "le concert"
+  pos: noun
+  level: A1
+  ipa: "/kɔ̃.sɛʁ/"
+  example: "On va au concert ce soir."
+  translations:
+    de: ["das Konzert"]
+  example_translations:
+    de: "Wir gehen heute Abend ins Konzert."
+
+- id: "conte"
+  lemma: "le conte"
+  pos: noun
+  level: A2
+  ipa: "/kɔ̃t/"
+  example: "Les enfants aiment les contes."
+  translations:
+    de: ["das Märchen"]
+  example_translations:
+    de: "Kinder mögen Märchen."
+
+- id: "culture"
+  lemma: "la culture"
+  pos: noun
+  level: A2
+  ipa: "/kyl.tyʁ/"
+  example: "J'aime la culture française."
+  translations:
+    de: ["die Kultur"]
+  example_translations:
+    de: "Ich mag die französische Kultur."
+
+- id: "ecrivain"
+  lemma: "l'écrivain (m.)"
+  pos: noun
+  level: A2
+  ipa: "/e.kʁi.vɛ̃/"
+  example: "Victor Hugo est un écrivain célèbre."
+  translations:
+    de: ["der Schriftsteller", "die Schriftstellerin"]
+  example_translations:
+    de: "Victor Hugo ist ein berühmter Schriftsteller."
+
+- id: "exposition"
+  lemma: "l'exposition (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛks.po.zi.sjɔ̃/"
+  example: "Il y a une exposition au musée."
+  translations:
+    de: ["die Ausstellung"]
+  example_translations:
+    de: "Im Museum gibt es eine Ausstellung."
+
+- id: "feu-d-artifice"
+  lemma: "le feu d'artifice"
+  pos: noun
+  level: A2
+  ipa: "/fø daʁ.ti.fis/"
+  example: "On regarde le feu d'artifice le 14 juillet."
+  translations:
+    de: ["das Feuerwerk"]
+  example_translations:
+    de: "Am 14. Juli schauen wir uns das Feuerwerk an."
+
+- id: "film"
+  lemma: "le film"
+  pos: noun
+  level: A1
+  ipa: "/film/"
+  example: "C'est un film d'aventure."
+  translations:
+    de: ["der Film"]
+  example_translations:
+    de: "Das ist ein Abenteuerfilm."
+
+- id: "guitare"
+  lemma: "la guitare"
+  pos: noun
+  level: A1
+  ipa: "/ɡi.taʁ/"
+  example: "Il joue de la guitare."
+  translations:
+    de: ["die Gitarre"]
+  example_translations:
+    de: "Er spielt Gitarre."
+
+- id: "musique"
+  lemma: "la musique"
+  pos: noun
+  level: A1
+  ipa: "/my.zik/"
+  example: "J'écoute de la musique."
+  translations:
+    de: ["die Musik"]
+  example_translations:
+    de: "Ich höre Musik."
+
+- id: "peinture"
+  lemma: "la peinture"
+  pos: noun
+  level: A2
+  ipa: "/pɛ̃.tyʁ/"
+  example: "J'aime la peinture moderne."
+  translations:
+    de: ["die Malerei", "die Farbe"]
+  example_translations:
+    de: "Ich mag moderne Malerei."
+
+- id: "piano"
+  lemma: "le piano"
+  pos: noun
+  level: A1
+  ipa: "/pja.no/"
+  example: "Elle joue du piano."
+  translations:
+    de: ["das Klavier"]
+  example_translations:
+    de: "Sie spielt Klavier."
+
+- id: "religion"
+  lemma: "la religion"
+  pos: noun
+  level: A2
+  ipa: "/ʁə.li.ʒjɔ̃/"
+  example: "Il s'intéresse aux religions."
+  translations:
+    de: ["die Religion"]
+  example_translations:
+    de: "Er interessiert sich für Religionen."
+
+- id: "roman"
+  lemma: "le roman"
+  pos: noun
+  level: A2
+  ipa: "/ʁɔ.mɑ̃/"
+  example: "Je lis un roman policier."
+  translations:
+    de: ["der Roman"]
+  example_translations:
+    de: "Ich lese einen Krimi."
+
+- id: "spectacle"
+  lemma: "le spectacle"
+  pos: noun
+  level: A2
+  ipa: "/spɛk.takl/"
+  example: "Le spectacle commence à vingt heures."
+  translations:
+    de: ["die Vorstellung", "die Show"]
+  example_translations:
+    de: "Die Vorstellung beginnt um zwanzig Uhr."
+
+- id: "tableau"
+  lemma: "le tableau"
+  pos: noun
+  level: A2
+  ipa: "/ta.blo/"
+  example: "Ce tableau est de Monet."
+  translations:
+    de: ["das Gemälde", "die Tafel"]
+  example_translations:
+    de: "Dieses Gemälde ist von Monet."
+
+- id: "theatre"
+  lemma: "le théâtre"
+  pos: noun
+  level: A1
+  ipa: "/te.ɑtʁ/"
+  example: "Nous allons au théâtre samedi."
+  translations:
+    de: ["das Theater"]
+  example_translations:
+    de: "Wir gehen am Samstag ins Theater."
+
+- id: "tradition"
+  lemma: "la tradition"
+  pos: noun
+  level: A2
+  ipa: "/tʁa.di.sjɔ̃/"
+  example: "C'est une vieille tradition."
+  translations:
+    de: ["die Tradition"]
+  example_translations:
+    de: "Das ist eine alte Tradition."

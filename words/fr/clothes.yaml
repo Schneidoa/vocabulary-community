@@ -1,0 +1,552 @@
+# 👕 Kleidung – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "bague"
+  lemma: "la bague"
+  pos: noun
+  level: A2
+  ipa: "/baɡ/"
+  example: "Il lui offre une bague."
+  translations:
+    de: ["der Ring"]
+  example_translations:
+    de: "Er schenkt ihr einen Ring."
+
+- id: "basket"
+  lemma: "la basket"
+  pos: noun
+  level: A1
+  ipa: "/bas.kɛt/"
+  example: "Il porte des baskets blanches."
+  translations:
+    de: ["der Turnschuh"]
+  example_translations:
+    de: "Er trägt weiße Turnschuhe."
+
+- id: "bijou"
+  lemma: "le bijou"
+  pos: noun
+  level: A2
+  ipa: "/bi.ʒu/"
+  example: "Elle aime les bijoux en or."
+  translations:
+    de: ["das Schmuckstück"]
+  example_translations:
+    de: "Sie mag Goldschmuck."
+
+- id: "blouson"
+  lemma: "le blouson"
+  pos: noun
+  level: A2
+  ipa: "/blu.zɔ̃/"
+  example: "Il porte un blouson en cuir."
+  translations:
+    de: ["die Jacke", "der Blouson"]
+  example_translations:
+    de: "Er trägt eine Lederjacke."
+
+- id: "bonnet"
+  lemma: "le bonnet"
+  pos: noun
+  level: A2
+  ipa: "/bɔ.nɛ/"
+  example: "En hiver, je porte un bonnet."
+  translations:
+    de: ["die Wollmütze"]
+  example_translations:
+    de: "Im Winter trage ich eine Mütze."
+
+- id: "botte"
+  lemma: "la botte"
+  pos: noun
+  level: A2
+  ipa: "/bɔt/"
+  example: "En hiver, je porte des bottes."
+  translations:
+    de: ["der Stiefel"]
+  example_translations:
+    de: "Im Winter trage ich Stiefel."
+
+- id: "casquette"
+  lemma: "la casquette"
+  pos: noun
+  level: A2
+  ipa: "/kas.kɛt/"
+  example: "Mets ta casquette contre le soleil."
+  translations:
+    de: ["die Mütze", "die Kappe"]
+  example_translations:
+    de: "Setz deine Kappe gegen die Sonne auf."
+
+- id: "ceinture"
+  lemma: "la ceinture"
+  pos: noun
+  level: A2
+  ipa: "/sɛ̃.tyʁ/"
+  example: "Il porte une ceinture marron."
+  translations:
+    de: ["der Gürtel"]
+  example_translations:
+    de: "Er trägt einen braunen Gürtel."
+
+- id: "chapeau"
+  lemma: "le chapeau"
+  pos: noun
+  level: A1
+  ipa: "/ʃa.po/"
+  example: "Il porte un chapeau noir."
+  translations:
+    de: ["der Hut"]
+  example_translations:
+    de: "Er trägt einen schwarzen Hut."
+
+- id: "chaussette"
+  lemma: "la chaussette"
+  pos: noun
+  level: A1
+  ipa: "/ʃo.sɛt/"
+  example: "Mes chaussettes sont mouillées."
+  translations:
+    de: ["die Socke"]
+  example_translations:
+    de: "Meine Socken sind nass."
+
+- id: "chaussure"
+  lemma: "la chaussure"
+  pos: noun
+  level: A1
+  ipa: "/ʃo.syʁ/"
+  example: "J'ai besoin de nouvelles chaussures."
+  translations:
+    de: ["der Schuh"]
+  example_translations:
+    de: "Ich brauche neue Schuhe."
+
+- id: "chemise"
+  lemma: "la chemise"
+  pos: noun
+  level: A1
+  ipa: "/ʃə.miz/"
+  example: "Il porte une chemise blanche."
+  translations:
+    de: ["das Hemd"]
+  example_translations:
+    de: "Er trägt ein weißes Hemd."
+
+- id: "chemisier"
+  lemma: "le chemisier"
+  pos: noun
+  level: A2
+  ipa: "/ʃə.mi.zje/"
+  example: "Elle porte un chemisier en soie."
+  translations:
+    de: ["die Bluse"]
+  example_translations:
+    de: "Sie trägt eine Seidenbluse."
+
+- id: "costume"
+  lemma: "le costume"
+  pos: noun
+  level: A2
+  ipa: "/kɔs.tym/"
+  example: "Il porte un costume pour le mariage."
+  translations:
+    de: ["der Anzug", "das Kostüm"]
+  example_translations:
+    de: "Er trägt einen Anzug zur Hochzeit."
+
+- id: "coton"
+  lemma: "le coton"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.tɔ̃/"
+  example: "C'est une chemise en coton."
+  translations:
+    de: ["die Baumwolle"]
+  example_translations:
+    de: "Das ist ein Baumwollhemd."
+
+- id: "cravate"
+  lemma: "la cravate"
+  pos: noun
+  level: A2
+  ipa: "/kʁa.vat/"
+  example: "Il met une cravate pour le travail."
+  translations:
+    de: ["die Krawatte"]
+  example_translations:
+    de: "Er bindet sich für die Arbeit eine Krawatte um."
+
+- id: "cuir"
+  lemma: "le cuir"
+  pos: noun
+  level: A2
+  ipa: "/kɥiʁ/"
+  example: "J'ai un sac en cuir."
+  translations:
+    de: ["das Leder"]
+  example_translations:
+    de: "Ich habe eine Ledertasche."
+
+- id: "echarpe"
+  lemma: "l'écharpe (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.ʃaʁp/"
+  example: "Elle porte une écharpe rouge."
+  translations:
+    de: ["der Schal"]
+  example_translations:
+    de: "Sie trägt einen roten Schal."
+
+- id: "enlever"
+  lemma: "enlever"
+  pos: verb
+  level: A2
+  ipa: "/ɑ̃l.ve/"
+  example: "Enlève tes chaussures, s'il te plaît."
+  translations:
+    de: ["ausziehen", "wegnehmen"]
+  example_translations:
+    de: "Zieh bitte deine Schuhe aus."
+
+- id: "essayer"
+  lemma: "essayer"
+  pos: verb
+  level: A1
+  ipa: "/e.se.je/"
+  example: "Je peux essayer ce pantalon ?"
+  translations:
+    de: ["anprobieren", "versuchen"]
+  example_translations:
+    de: "Kann ich diese Hose anprobieren?"
+
+- id: "gant"
+  lemma: "le gant"
+  pos: noun
+  level: A2
+  ipa: "/ɡɑ̃/"
+  example: "J'ai perdu un gant."
+  translations:
+    de: ["der Handschuh"]
+  example_translations:
+    de: "Ich habe einen Handschuh verloren."
+
+- id: "impermeable"
+  lemma: "l'imperméable (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃.pɛʁ.me.abl/"
+  example: "Il pleut, prends ton imperméable."
+  translations:
+    de: ["der Regenmantel"]
+  example_translations:
+    de: "Es regnet, nimm deinen Regenmantel."
+
+- id: "jean"
+  lemma: "le jean"
+  pos: noun
+  level: A1
+  ipa: "/dʒin/"
+  example: "J'aime porter un jean."
+  translations:
+    de: ["die Jeans"]
+  example_translations:
+    de: "Ich trage gern Jeans."
+
+- id: "jupe"
+  lemma: "la jupe"
+  pos: noun
+  level: A1
+  ipa: "/ʒyp/"
+  example: "Cette jupe est trop courte."
+  translations:
+    de: ["der Rock"]
+  example_translations:
+    de: "Dieser Rock ist zu kurz."
+
+- id: "laine"
+  lemma: "la laine"
+  pos: noun
+  level: A2
+  ipa: "/lɛn/"
+  example: "Ce pull est en laine."
+  translations:
+    de: ["die Wolle"]
+  example_translations:
+    de: "Dieser Pullover ist aus Wolle."
+
+- id: "lunettes"
+  lemma: "les lunettes (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/ly.nɛt/"
+  example: "Je ne trouve pas mes lunettes."
+  translations:
+    de: ["die Brille"]
+  example_translations:
+    de: "Ich finde meine Brille nicht."
+
+- id: "lunettes-de-soleil"
+  lemma: "les lunettes de soleil (f. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/ly.nɛt də sɔ.lɛj/"
+  example: "Prends tes lunettes de soleil."
+  translations:
+    de: ["die Sonnenbrille"]
+  example_translations:
+    de: "Nimm deine Sonnenbrille mit."
+
+- id: "maillot-de-bain"
+  lemma: "le maillot de bain"
+  pos: noun
+  level: A2
+  ipa: "/ma.jo d bɛ̃/"
+  example: "N'oublie pas ton maillot de bain !"
+  translations:
+    de: ["der Badeanzug", "die Badehose"]
+  example_translations:
+    de: "Vergiss deine Badesachen nicht!"
+
+- id: "manteau"
+  lemma: "le manteau"
+  pos: noun
+  level: A1
+  ipa: "/mɑ̃.to/"
+  example: "Il fait froid, prends ton manteau."
+  translations:
+    de: ["der Mantel"]
+  example_translations:
+    de: "Es ist kalt, nimm deinen Mantel."
+
+- id: "mettre"
+  lemma: "mettre"
+  pos: verb
+  level: A1
+  ipa: "/mɛtʁ/"
+  example: "Mets ton manteau, il fait froid."
+  translations:
+    de: ["anziehen", "legen", "stellen"]
+  example_translations:
+    de: "Zieh deinen Mantel an, es ist kalt."
+
+- id: "mode"
+  lemma: "la mode"
+  pos: noun
+  level: A2
+  ipa: "/mɔd/"
+  example: "Elle travaille dans la mode."
+  translations:
+    de: ["die Mode"]
+  example_translations:
+    de: "Sie arbeitet in der Modebranche."
+
+- id: "montre"
+  lemma: "la montre"
+  pos: noun
+  level: A1
+  ipa: "/mɔ̃tʁ/"
+  example: "Ma montre ne marche plus."
+  translations:
+    de: ["die Armbanduhr"]
+  example_translations:
+    de: "Meine Uhr geht nicht mehr."
+
+- id: "pantalon"
+  lemma: "le pantalon"
+  pos: noun
+  level: A1
+  ipa: "/pɑ̃.ta.lɔ̃/"
+  example: "Il porte un pantalon noir."
+  translations:
+    de: ["die Hose"]
+  example_translations:
+    de: "Er trägt eine schwarze Hose."
+
+- id: "parapluie"
+  lemma: "le parapluie"
+  pos: noun
+  level: A1
+  ipa: "/pa.ʁa.plɥi/"
+  example: "Prends ton parapluie, il pleut."
+  translations:
+    de: ["der Regenschirm"]
+  example_translations:
+    de: "Nimm deinen Regenschirm, es regnet."
+
+- id: "poche"
+  lemma: "la poche"
+  pos: noun
+  level: A2
+  ipa: "/pɔʃ/"
+  example: "Les clés sont dans ma poche."
+  translations:
+    de: ["die Tasche (Kleidung)"]
+  example_translations:
+    de: "Die Schlüssel sind in meiner Tasche."
+
+- id: "pointure"
+  lemma: "la pointure"
+  pos: noun
+  level: A2
+  ipa: "/pwɛ̃.tyʁ/"
+  example: "Je fais du trente-neuf de pointure."
+  translations:
+    de: ["die Schuhgröße"]
+  example_translations:
+    de: "Ich habe Schuhgröße neununddreißig."
+
+- id: "porte-monnaie"
+  lemma: "le porte-monnaie"
+  pos: noun
+  level: A2
+  ipa: "/pɔʁt.mɔ.nɛ/"
+  example: "Mon porte-monnaie est vide."
+  translations:
+    de: ["der Geldbeutel"]
+  example_translations:
+    de: "Mein Geldbeutel ist leer."
+
+- id: "portefeuille"
+  lemma: "le portefeuille"
+  pos: noun
+  level: A2
+  ipa: "/pɔʁt.fœj/"
+  example: "J'ai perdu mon portefeuille."
+  translations:
+    de: ["die Brieftasche", "das Portemonnaie"]
+  example_translations:
+    de: "Ich habe meine Brieftasche verloren."
+
+- id: "porter"
+  lemma: "porter"
+  pos: verb
+  level: A1
+  ipa: "/pɔʁ.te/"
+  example: "Elle porte une robe rouge."
+  translations:
+    de: ["tragen"]
+  example_translations:
+    de: "Sie trägt ein rotes Kleid."
+
+- id: "pull"
+  lemma: "le pull"
+  pos: noun
+  level: A1
+  ipa: "/pyl/"
+  example: "Mets un pull, il fait froid."
+  translations:
+    de: ["der Pullover"]
+  example_translations:
+    de: "Zieh einen Pullover an, es ist kalt."
+
+- id: "pyjama"
+  lemma: "le pyjama"
+  pos: noun
+  level: A2
+  ipa: "/pi.ʒa.ma/"
+  example: "Les enfants mettent leur pyjama."
+  translations:
+    de: ["der Schlafanzug"]
+  example_translations:
+    de: "Die Kinder ziehen ihren Schlafanzug an."
+
+- id: "robe"
+  lemma: "la robe"
+  pos: noun
+  level: A1
+  ipa: "/ʁɔb/"
+  example: "Elle porte une belle robe."
+  translations:
+    de: ["das Kleid"]
+  example_translations:
+    de: "Sie trägt ein schönes Kleid."
+
+- id: "s-habiller"
+  lemma: "s'habiller"
+  pos: verb
+  level: A1
+  ipa: "/sa.bi.je/"
+  example: "Je m'habille vite."
+  translations:
+    de: ["sich anziehen"]
+  example_translations:
+    de: "Ich ziehe mich schnell an."
+
+- id: "sac"
+  lemma: "le sac"
+  pos: noun
+  level: A1
+  ipa: "/sak/"
+  example: "Mon sac est très lourd."
+  translations:
+    de: ["die Tasche", "die Tüte"]
+  example_translations:
+    de: "Meine Tasche ist sehr schwer."
+
+- id: "sac-a-main"
+  lemma: "le sac à main"
+  pos: noun
+  level: A2
+  ipa: "/sak a mɛ̃/"
+  example: "Elle cherche ses clés dans son sac à main."
+  translations:
+    de: ["die Handtasche"]
+  example_translations:
+    de: "Sie sucht ihre Schlüssel in ihrer Handtasche."
+
+- id: "short"
+  lemma: "le short"
+  pos: noun
+  level: A1
+  ipa: "/ʃɔʁt/"
+  example: "En été, je porte un short."
+  translations:
+    de: ["die kurze Hose", "die Shorts"]
+  example_translations:
+    de: "Im Sommer trage ich Shorts."
+
+- id: "taille"
+  lemma: "la taille"
+  pos: noun
+  level: A1
+  ipa: "/taj/"
+  example: "Quelle taille faites-vous ?"
+  translations:
+    de: ["die Größe", "die Taille"]
+  example_translations:
+    de: "Welche Größe haben Sie?"
+
+- id: "tee-shirt"
+  lemma: "le tee-shirt"
+  pos: noun
+  level: A1
+  ipa: "/ti.ʃœʁt/"
+  example: "J'ai acheté un tee-shirt bleu."
+  translations:
+    de: ["das T-Shirt"]
+  example_translations:
+    de: "Ich habe ein blaues T-Shirt gekauft."
+
+- id: "veste"
+  lemma: "la veste"
+  pos: noun
+  level: A1
+  ipa: "/vɛst/"
+  example: "Où est ma veste ?"
+  translations:
+    de: ["die Jacke"]
+  example_translations:
+    de: "Wo ist meine Jacke?"
+
+- id: "vetements"
+  lemma: "les vêtements (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/vɛt.mɑ̃/"
+  example: "J'achète de nouveaux vêtements."
+  translations:
+    de: ["die Kleidung"]
+  example_translations:
+    de: "Ich kaufe neue Kleidung."
