@@ -1,0 +1,1003 @@
+# ✈️ Reisen & Verkehr – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a-droite"
+  lemma: "à droite"
+  pos: adverb
+  level: A1
+  ipa: "/a dʁwat/"
+  example: "Tournez à droite."
+  translations:
+    de: ["rechts", "nach rechts"]
+  example_translations:
+    de: "Biegen Sie rechts ab."
+
+- id: "a-gauche"
+  lemma: "à gauche"
+  pos: adverb
+  level: A1
+  ipa: "/a ɡoʃ/"
+  example: "La gare est à gauche."
+  translations:
+    de: ["links", "nach links"]
+  example_translations:
+    de: "Der Bahnhof ist links."
+
+- id: "accident"
+  lemma: "l'accident (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ak.si.dɑ̃/"
+  example: "Il a eu un accident de voiture."
+  translations:
+    de: ["der Unfall"]
+  example_translations:
+    de: "Er hatte einen Autounfall."
+
+- id: "aeroport"
+  lemma: "l'aéroport (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.e.ʁɔ.pɔʁ/"
+  example: "Je vais à l'aéroport en taxi."
+  translations:
+    de: ["der Flughafen"]
+  example_translations:
+    de: "Ich fahre mit dem Taxi zum Flughafen."
+
+- id: "allemagne"
+  lemma: "l'Allemagne (f.)"
+  pos: noun
+  level: A1
+  ipa: "/al.maɲ/"
+  example: "Il vient d'Allemagne."
+  translations:
+    de: ["Deutschland"]
+  example_translations:
+    de: "Er kommt aus Deutschland."
+
+- id: "allemand-adjective"
+  lemma: "allemand"
+  pos: adjective
+  level: A1
+  ipa: "/al.mɑ̃/"
+  example: "Elle est allemande."
+  translations:
+    de: ["deutsch"]
+  example_translations:
+    de: "Sie ist Deutsche."
+
+- id: "aller-retour"
+  lemma: "l'aller-retour (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.le.ʁə.tuʁ/"
+  example: "Un aller-retour pour Paris, s'il vous plaît."
+  translations:
+    de: ["die Hin- und Rückfahrt"]
+  example_translations:
+    de: "Eine Hin- und Rückfahrkarte nach Paris, bitte."
+
+- id: "aller-simple"
+  lemma: "l'aller simple (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.le sɛ̃pl/"
+  example: "Un aller simple pour Bordeaux."
+  translations:
+    de: ["die einfache Fahrt"]
+  example_translations:
+    de: "Eine einfache Fahrt nach Bordeaux."
+
+- id: "arret"
+  lemma: "l'arrêt (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.ʁɛ/"
+  example: "L'arrêt de bus est en face."
+  translations:
+    de: ["die Haltestelle"]
+  example_translations:
+    de: "Die Bushaltestelle ist gegenüber."
+
+- id: "arrivee"
+  lemma: "l'arrivée (f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.ʁi.ve/"
+  example: "L'arrivée est prévue à midi."
+  translations:
+    de: ["die Ankunft"]
+  example_translations:
+    de: "Die Ankunft ist für zwölf Uhr geplant."
+
+- id: "arriver"
+  lemma: "arriver"
+  pos: verb
+  level: A1
+  ipa: "/a.ʁi.ve/"
+  example: "Nous arrivons à Nice demain."
+  translations:
+    de: ["ankommen", "passieren"]
+  example_translations:
+    de: "Wir kommen morgen in Nizza an."
+
+- id: "auberge-de-jeunesse"
+  lemma: "l'auberge de jeunesse (f.)"
+  pos: noun
+  level: A2
+  ipa: "/o.bɛʁʒ də ʒœ.nɛs/"
+  example: "Nous dormons dans une auberge de jeunesse."
+  translations:
+    de: ["die Jugendherberge"]
+  example_translations:
+    de: "Wir übernachten in einer Jugendherberge."
+
+- id: "autoroute"
+  lemma: "l'autoroute (f.)"
+  pos: noun
+  level: A2
+  ipa: "/o.to.ʁut/"
+  example: "Il y a beaucoup de bouchons sur l'autoroute."
+  translations:
+    de: ["die Autobahn"]
+  example_translations:
+    de: "Auf der Autobahn gibt es viele Staus."
+
+- id: "avion"
+  lemma: "l'avion (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.vjɔ̃/"
+  example: "Nous partons en avion."
+  translations:
+    de: ["das Flugzeug"]
+  example_translations:
+    de: "Wir fliegen."
+
+- id: "bagages"
+  lemma: "les bagages (m. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/ba.ɡaʒ/"
+  example: "Où sont vos bagages ?"
+  translations:
+    de: ["das Gepäck"]
+  example_translations:
+    de: "Wo ist Ihr Gepäck?"
+
+- id: "bateau"
+  lemma: "le bateau"
+  pos: noun
+  level: A1
+  ipa: "/ba.to/"
+  example: "Nous allons sur l'île en bateau."
+  translations:
+    de: ["das Schiff", "das Boot"]
+  example_translations:
+    de: "Wir fahren mit dem Boot zur Insel."
+
+- id: "billet"
+  lemma: "le billet"
+  pos: noun
+  level: A1
+  ipa: "/bi.jɛ/"
+  example: "J'ai acheté un billet de train."
+  translations:
+    de: ["die Fahrkarte", "das Ticket", "der Geldschein"]
+  example_translations:
+    de: "Ich habe eine Zugfahrkarte gekauft."
+
+- id: "bouchon"
+  lemma: "le bouchon"
+  pos: noun
+  level: A2
+  ipa: "/bu.ʃɔ̃/"
+  example: "On est dans un bouchon."
+  translations:
+    de: ["der Stau", "der Korken"]
+  example_translations:
+    de: "Wir stehen im Stau."
+
+- id: "bus"
+  lemma: "le bus"
+  pos: noun
+  level: A1
+  ipa: "/bys/"
+  example: "Le bus numéro 5 va à la gare."
+  translations:
+    de: ["der Bus"]
+  example_translations:
+    de: "Der Bus Nummer 5 fährt zum Bahnhof."
+
+- id: "camion"
+  lemma: "le camion"
+  pos: noun
+  level: A2
+  ipa: "/ka.mjɔ̃/"
+  example: "Un camion bloque la rue."
+  translations:
+    de: ["der Lastwagen"]
+  example_translations:
+    de: "Ein Lastwagen blockiert die Straße."
+
+- id: "camping"
+  lemma: "le camping"
+  pos: noun
+  level: A2
+  ipa: "/kɑ̃.piŋ/"
+  example: "Nous dormons au camping."
+  translations:
+    de: ["der Campingplatz", "das Camping"]
+  example_translations:
+    de: "Wir schlafen auf dem Campingplatz."
+
+- id: "capitale"
+  lemma: "la capitale"
+  pos: noun
+  level: A1
+  ipa: "/ka.pi.tal/"
+  example: "Paris est la capitale de la France."
+  translations:
+    de: ["die Hauptstadt"]
+  example_translations:
+    de: "Paris ist die Hauptstadt Frankreichs."
+
+- id: "car-noun"
+  lemma: "le car"
+  pos: noun
+  level: A2
+  ipa: "/kaʁ/"
+  example: "Nous partons en car."
+  translations:
+    de: ["der Reisebus"]
+  example_translations:
+    de: "Wir fahren mit dem Reisebus."
+
+- id: "carrefour"
+  lemma: "le carrefour"
+  pos: noun
+  level: A2
+  ipa: "/kaʁ.fuʁ/"
+  example: "Au carrefour, allez tout droit."
+  translations:
+    de: ["die Kreuzung"]
+  example_translations:
+    de: "An der Kreuzung gehen Sie geradeaus."
+
+- id: "carte-d-identite"
+  lemma: "la carte d'identité"
+  pos: noun
+  level: A1
+  ipa: "/kaʁt di.dɑ̃.ti.te/"
+  example: "Vous avez une carte d'identité ?"
+  translations:
+    de: ["der Personalausweis"]
+  example_translations:
+    de: "Haben Sie einen Personalausweis?"
+
+- id: "chambre-double"
+  lemma: "la chambre double"
+  pos: noun
+  level: A2
+  ipa: "/ʃɑ̃bʁ dubl/"
+  example: "Une chambre double pour deux nuits."
+  translations:
+    de: ["das Doppelzimmer"]
+  example_translations:
+    de: "Ein Doppelzimmer für zwei Nächte."
+
+- id: "chateau"
+  lemma: "le château"
+  pos: noun
+  level: A1
+  ipa: "/ʃa.to/"
+  example: "Les châteaux de la Loire sont célèbres."
+  translations:
+    de: ["das Schloss", "die Burg"]
+  example_translations:
+    de: "Die Loire-Schlösser sind berühmt."
+
+- id: "chemin"
+  lemma: "le chemin"
+  pos: noun
+  level: A1
+  ipa: "/ʃə.mɛ̃/"
+  example: "Tu connais le chemin ?"
+  translations:
+    de: ["der Weg"]
+  example_translations:
+    de: "Kennst du den Weg?"
+
+- id: "circulation"
+  lemma: "la circulation"
+  pos: noun
+  level: A2
+  ipa: "/siʁ.ky.la.sjɔ̃/"
+  example: "Il y a beaucoup de circulation ce matin."
+  translations:
+    de: ["der Verkehr"]
+  example_translations:
+    de: "Heute Morgen ist viel Verkehr."
+
+- id: "conduire"
+  lemma: "conduire"
+  pos: verb
+  level: A2
+  ipa: "/kɔ̃.dɥiʁ/"
+  example: "Tu sais conduire ?"
+  translations:
+    de: ["fahren (Auto)", "führen"]
+  example_translations:
+    de: "Kannst du Auto fahren?"
+
+- id: "cote-kueste"
+  lemma: "la côte"
+  pos: noun
+  level: A2
+  ipa: "/kot/"
+  example: "Nous passons nos vacances sur la côte."
+  translations:
+    de: ["die Küste"]
+  example_translations:
+    de: "Wir verbringen unsere Ferien an der Küste."
+
+- id: "depart"
+  lemma: "le départ"
+  pos: noun
+  level: A2
+  ipa: "/de.paʁ/"
+  example: "Le départ est à neuf heures."
+  translations:
+    de: ["die Abfahrt", "der Abflug"]
+  example_translations:
+    de: "Die Abfahrt ist um neun Uhr."
+
+- id: "descendre"
+  lemma: "descendre"
+  pos: verb
+  level: A1
+  ipa: "/de.sɑ̃dʁ/"
+  example: "Je descends à la prochaine station."
+  translations:
+    de: ["aussteigen", "hinuntergehen"]
+  example_translations:
+    de: "Ich steige an der nächsten Station aus."
+
+- id: "essence"
+  lemma: "l'essence (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.sɑ̃s/"
+  example: "Il faut mettre de l'essence."
+  translations:
+    de: ["das Benzin"]
+  example_translations:
+    de: "Wir müssen tanken."
+
+- id: "est"
+  lemma: "l'est (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛst/"
+  example: "Strasbourg est dans l'est."
+  translations:
+    de: ["der Osten"]
+  example_translations:
+    de: "Straßburg liegt im Osten."
+
+- id: "etranger-adjective"
+  lemma: "étranger"
+  pos: adjective
+  level: A2
+  ipa: "/e.tʁɑ̃.ʒe/"
+  example: "Il parle trois langues étrangères."
+  translations:
+    de: ["ausländisch", "fremd"]
+  example_translations:
+    de: "Er spricht drei Fremdsprachen."
+
+- id: "etranger-noun"
+  lemma: "l'étranger (m.)"
+  pos: noun
+  level: A2
+  ipa: "/e.tʁɑ̃.ʒe/"
+  example: "Elle travaille à l'étranger."
+  translations:
+    de: ["das Ausland", "der Fremde"]
+  example_translations:
+    de: "Sie arbeitet im Ausland."
+
+- id: "europe"
+  lemma: "l'Europe (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ø.ʁɔp/"
+  example: "La France est en Europe."
+  translations:
+    de: ["Europa"]
+  example_translations:
+    de: "Frankreich liegt in Europa."
+
+- id: "europeen"
+  lemma: "européen"
+  pos: adjective
+  level: A2
+  ipa: "/ø.ʁɔ.pe.ɛ̃/"
+  example: "L'Union européenne a 27 pays."
+  translations:
+    de: ["europäisch"]
+  example_translations:
+    de: "Die Europäische Union hat 27 Länder."
+
+- id: "feu"
+  lemma: "le feu"
+  pos: noun
+  level: A2
+  ipa: "/fø/"
+  example: "Tournez à gauche au feu."
+  translations:
+    de: ["die Ampel", "das Feuer"]
+  example_translations:
+    de: "Biegen Sie an der Ampel links ab."
+
+- id: "francais-adjective"
+  lemma: "français"
+  pos: adjective
+  level: A1
+  ipa: "/fʁɑ̃.sɛ/"
+  example: "J'aime la cuisine française."
+  translations:
+    de: ["französisch"]
+  example_translations:
+    de: "Ich mag die französische Küche."
+
+- id: "france"
+  lemma: "la France"
+  pos: noun
+  level: A1
+  ipa: "/fʁɑ̃s/"
+  example: "J'habite en France."
+  translations:
+    de: ["Frankreich"]
+  example_translations:
+    de: "Ich wohne in Frankreich."
+
+- id: "frontiere"
+  lemma: "la frontière"
+  pos: noun
+  level: A2
+  ipa: "/fʁɔ̃.tjɛʁ/"
+  example: "Nous passons la frontière."
+  translations:
+    de: ["die Grenze"]
+  example_translations:
+    de: "Wir überqueren die Grenze."
+
+- id: "gare"
+  lemma: "la gare"
+  pos: noun
+  level: A1
+  ipa: "/ɡaʁ/"
+  example: "Le train part de la gare de Lyon."
+  translations:
+    de: ["der Bahnhof"]
+  example_translations:
+    de: "Der Zug fährt vom Gare de Lyon ab."
+
+- id: "garer"
+  lemma: "garer"
+  pos: verb
+  level: A2
+  ipa: "/ɡa.ʁe/"
+  example: "Je gare la voiture devant la maison."
+  translations:
+    de: ["parken"]
+  example_translations:
+    de: "Ich parke das Auto vor dem Haus."
+
+- id: "hotel"
+  lemma: "l'hôtel (m.)"
+  pos: noun
+  level: A1
+  ipa: "/o.tɛl/"
+  example: "L'hôtel est près de la plage."
+  translations:
+    de: ["das Hotel"]
+  example_translations:
+    de: "Das Hotel ist in der Nähe des Strandes."
+
+- id: "ile"
+  lemma: "l'île (f.)"
+  pos: noun
+  level: A1
+  ipa: "/il/"
+  example: "La Corse est une île."
+  translations:
+    de: ["die Insel"]
+  example_translations:
+    de: "Korsika ist eine Insel."
+
+- id: "metro"
+  lemma: "le métro"
+  pos: noun
+  level: A1
+  ipa: "/me.tʁo/"
+  example: "Je vais au travail en métro."
+  translations:
+    de: ["die U-Bahn"]
+  example_translations:
+    de: "Ich fahre mit der U-Bahn zur Arbeit."
+
+- id: "monde-entier"
+  lemma: "le monde entier"
+  pos: noun
+  level: A2
+  ipa: "/mɔ̃d ɑ̃.tje/"
+  example: "Elle a voyagé dans le monde entier."
+  translations:
+    de: ["die ganze Welt"]
+  example_translations:
+    de: "Sie ist durch die ganze Welt gereist."
+
+- id: "monter"
+  lemma: "monter"
+  pos: verb
+  level: A1
+  ipa: "/mɔ̃.te/"
+  example: "Montez dans le train !"
+  translations:
+    de: ["einsteigen", "hinaufgehen"]
+  example_translations:
+    de: "Steigen Sie in den Zug ein!"
+
+- id: "moto"
+  lemma: "la moto"
+  pos: noun
+  level: A1
+  ipa: "/mɔ.to/"
+  example: "Il a une moto."
+  translations:
+    de: ["das Motorrad"]
+  example_translations:
+    de: "Er hat ein Motorrad."
+
+- id: "nord"
+  lemma: "le nord"
+  pos: noun
+  level: A1
+  ipa: "/nɔʁ/"
+  example: "Lille est dans le nord."
+  translations:
+    de: ["der Norden"]
+  example_translations:
+    de: "Lille liegt im Norden."
+
+- id: "office-de-tourisme"
+  lemma: "l'office de tourisme (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔ.fis də tu.ʁism/"
+  example: "Demandez un plan à l'office de tourisme."
+  translations:
+    de: ["das Fremdenverkehrsamt", "die Touristeninformation"]
+  example_translations:
+    de: "Fragen Sie in der Touristeninformation nach einem Stadtplan."
+
+- id: "ouest"
+  lemma: "l'ouest (m.)"
+  pos: noun
+  level: A1
+  ipa: "/wɛst/"
+  example: "La Bretagne est dans l'ouest."
+  translations:
+    de: ["der Westen"]
+  example_translations:
+    de: "Die Bretagne liegt im Westen."
+
+- id: "parking"
+  lemma: "le parking"
+  pos: noun
+  level: A2
+  ipa: "/paʁ.kiŋ/"
+  example: "Le parking est complet."
+  translations:
+    de: ["der Parkplatz", "das Parkhaus"]
+  example_translations:
+    de: "Der Parkplatz ist voll."
+
+- id: "partir"
+  lemma: "partir"
+  pos: verb
+  level: A1
+  ipa: "/paʁ.tiʁ/"
+  example: "Le train part à huit heures."
+  translations:
+    de: ["abfahren", "weggehen", "verreisen"]
+  example_translations:
+    de: "Der Zug fährt um acht Uhr ab."
+
+- id: "passeport"
+  lemma: "le passeport"
+  pos: noun
+  level: A1
+  ipa: "/pɑs.pɔʁ/"
+  example: "N'oublie pas ton passeport !"
+  translations:
+    de: ["der Reisepass"]
+  example_translations:
+    de: "Vergiss deinen Reisepass nicht!"
+
+- id: "pays"
+  lemma: "le pays"
+  pos: noun
+  level: A1
+  ipa: "/pe.i/"
+  example: "De quel pays viens-tu ?"
+  translations:
+    de: ["das Land"]
+  example_translations:
+    de: "Aus welchem Land kommst du?"
+
+- id: "permis-de-conduire"
+  lemma: "le permis de conduire"
+  pos: noun
+  level: A2
+  ipa: "/pɛʁ.mi də kɔ̃.dɥiʁ/"
+  example: "J'ai mon permis de conduire."
+  translations:
+    de: ["der Führerschein"]
+  example_translations:
+    de: "Ich habe meinen Führerschein."
+
+- id: "plage"
+  lemma: "la plage"
+  pos: noun
+  level: A1
+  ipa: "/plaʒ/"
+  example: "Les enfants jouent sur la plage."
+  translations:
+    de: ["der Strand"]
+  example_translations:
+    de: "Die Kinder spielen am Strand."
+
+- id: "plan"
+  lemma: "le plan"
+  pos: noun
+  level: A1
+  ipa: "/plɑ̃/"
+  example: "Tu as un plan de la ville ?"
+  translations:
+    de: ["der Stadtplan", "der Plan"]
+  example_translations:
+    de: "Hast du einen Stadtplan?"
+
+- id: "quai"
+  lemma: "le quai"
+  pos: noun
+  level: A2
+  ipa: "/ke/"
+  example: "Le train part du quai numéro trois."
+  translations:
+    de: ["der Bahnsteig", "der Kai"]
+  example_translations:
+    de: "Der Zug fährt von Bahnsteig drei ab."
+
+- id: "reception"
+  lemma: "la réception"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.sɛp.sjɔ̃/"
+  example: "Laissez la clé à la réception."
+  translations:
+    de: ["die Rezeption", "der Empfang"]
+  example_translations:
+    de: "Lassen Sie den Schlüssel an der Rezeption."
+
+- id: "region"
+  lemma: "la région"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.ʒjɔ̃/"
+  example: "La Provence est une belle région."
+  translations:
+    de: ["die Region", "die Gegend"]
+  example_translations:
+    de: "Die Provence ist eine schöne Region."
+
+- id: "rentrer"
+  lemma: "rentrer"
+  pos: verb
+  level: A1
+  ipa: "/ʁɑ̃.tʁe/"
+  example: "Je rentre à six heures."
+  translations:
+    de: ["nach Hause gehen", "zurückkehren"]
+  example_translations:
+    de: "Ich komme um sechs Uhr nach Hause."
+
+- id: "reservation"
+  lemma: "la réservation"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.zɛʁ.va.sjɔ̃/"
+  example: "J'ai une réservation au nom de Martin."
+  translations:
+    de: ["die Reservierung"]
+  example_translations:
+    de: "Ich habe eine Reservierung auf den Namen Martin."
+
+- id: "reserver"
+  lemma: "réserver"
+  pos: verb
+  level: A1
+  ipa: "/ʁe.zɛʁ.ve/"
+  example: "Je voudrais réserver une chambre."
+  translations:
+    de: ["reservieren", "buchen"]
+  example_translations:
+    de: "Ich möchte ein Zimmer reservieren."
+
+- id: "revenir"
+  lemma: "revenir"
+  pos: verb
+  level: A1
+  ipa: "/ʁəv.niʁ/"
+  example: "Je reviens dans cinq minutes."
+  translations:
+    de: ["zurückkommen"]
+  example_translations:
+    de: "Ich komme in fünf Minuten zurück."
+
+- id: "route"
+  lemma: "la route"
+  pos: noun
+  level: A1
+  ipa: "/ʁut/"
+  example: "La route est longue."
+  translations:
+    de: ["die Straße (Landstraße)", "der Weg"]
+  example_translations:
+    de: "Der Weg ist lang."
+
+- id: "station"
+  lemma: "la station"
+  pos: noun
+  level: A2
+  ipa: "/sta.sjɔ̃/"
+  example: "Descendez à la prochaine station."
+  translations:
+    de: ["die Station", "die U-Bahn-Station"]
+  example_translations:
+    de: "Steigen Sie an der nächsten Station aus."
+
+- id: "station-service"
+  lemma: "la station-service"
+  pos: noun
+  level: A2
+  ipa: "/sta.sjɔ̃.sɛʁ.vis/"
+  example: "Il y a une station-service sur l'autoroute."
+  translations:
+    de: ["die Tankstelle"]
+  example_translations:
+    de: "An der Autobahn gibt es eine Tankstelle."
+
+- id: "sud"
+  lemma: "le sud"
+  pos: noun
+  level: A1
+  ipa: "/syd/"
+  example: "Marseille est dans le sud."
+  translations:
+    de: ["der Süden"]
+  example_translations:
+    de: "Marseille liegt im Süden."
+
+- id: "taxi"
+  lemma: "le taxi"
+  pos: noun
+  level: A1
+  ipa: "/tak.si/"
+  example: "On prend un taxi ?"
+  translations:
+    de: ["das Taxi"]
+  example_translations:
+    de: "Nehmen wir ein Taxi?"
+
+- id: "tente"
+  lemma: "la tente"
+  pos: noun
+  level: A2
+  ipa: "/tɑ̃t/"
+  example: "Nous dormons sous la tente."
+  translations:
+    de: ["das Zelt"]
+  example_translations:
+    de: "Wir schlafen im Zelt."
+
+- id: "tgv"
+  lemma: "le TGV"
+  pos: noun
+  level: A2
+  ipa: "/te.ʒe.ve/"
+  example: "Le TGV va très vite."
+  translations:
+    de: ["der TGV", "der Hochgeschwindigkeitszug"]
+  example_translations:
+    de: "Der TGV fährt sehr schnell."
+
+- id: "ticket"
+  lemma: "le ticket"
+  pos: noun
+  level: A1
+  ipa: "/ti.kɛ/"
+  example: "Un ticket de métro, s'il vous plaît."
+  translations:
+    de: ["das Ticket", "der Fahrschein"]
+  example_translations:
+    de: "Einen U-Bahn-Fahrschein, bitte."
+
+- id: "touriste"
+  lemma: "le touriste"
+  pos: noun
+  level: A1
+  ipa: "/tu.ʁist/"
+  example: "Il y a beaucoup de touristes à Paris."
+  translations:
+    de: ["der Tourist"]
+  example_translations:
+    de: "In Paris gibt es viele Touristen."
+
+- id: "tourner"
+  lemma: "tourner"
+  pos: verb
+  level: A1
+  ipa: "/tuʁ.ne/"
+  example: "Tournez à la deuxième rue."
+  translations:
+    de: ["abbiegen", "drehen"]
+  example_translations:
+    de: "Biegen Sie in die zweite Straße ab."
+
+- id: "tout-droit"
+  lemma: "tout droit"
+  pos: adverb
+  level: A1
+  ipa: "/tu dʁwa/"
+  example: "Allez tout droit."
+  translations:
+    de: ["geradeaus"]
+  example_translations:
+    de: "Gehen Sie geradeaus."
+
+- id: "train"
+  lemma: "le train"
+  pos: noun
+  level: A1
+  ipa: "/tʁɛ̃/"
+  example: "Je prends le train pour Paris."
+  translations:
+    de: ["der Zug"]
+  example_translations:
+    de: "Ich nehme den Zug nach Paris."
+
+- id: "tram"
+  lemma: "le tram"
+  pos: noun
+  level: A2
+  ipa: "/tʁam/"
+  example: "Le tram passe toutes les dix minutes."
+  translations:
+    de: ["die Straßenbahn"]
+  example_translations:
+    de: "Die Straßenbahn fährt alle zehn Minuten."
+
+- id: "traverser"
+  lemma: "traverser"
+  pos: verb
+  level: A1
+  ipa: "/tʁa.vɛʁ.se/"
+  example: "Traverse la rue au feu vert."
+  translations:
+    de: ["überqueren"]
+  example_translations:
+    de: "Überquere die Straße bei Grün."
+
+- id: "vacances"
+  lemma: "les vacances (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/va.kɑ̃s/"
+  example: "Bonnes vacances !"
+  translations:
+    de: ["die Ferien", "der Urlaub"]
+  example_translations:
+    de: "Schöne Ferien!"
+
+- id: "valise"
+  lemma: "la valise"
+  pos: noun
+  level: A1
+  ipa: "/va.liz/"
+  example: "Ma valise est trop lourde."
+  translations:
+    de: ["der Koffer"]
+  example_translations:
+    de: "Mein Koffer ist zu schwer."
+
+- id: "velo"
+  lemma: "le vélo"
+  pos: noun
+  level: A1
+  ipa: "/ve.lo/"
+  example: "Je vais à l'école à vélo."
+  translations:
+    de: ["das Fahrrad"]
+  example_translations:
+    de: "Ich fahre mit dem Fahrrad zur Schule."
+
+- id: "visite"
+  lemma: "la visite"
+  pos: noun
+  level: A2
+  ipa: "/vi.zit/"
+  example: "La visite du château dure une heure."
+  translations:
+    de: ["der Besuch", "die Besichtigung"]
+  example_translations:
+    de: "Die Schlossbesichtigung dauert eine Stunde."
+
+- id: "visiter"
+  lemma: "visiter"
+  pos: verb
+  level: A1
+  ipa: "/vi.zi.te/"
+  example: "Nous visitons le Louvre."
+  translations:
+    de: ["besichtigen", "besuchen (Ort)"]
+  example_translations:
+    de: "Wir besichtigen den Louvre."
+
+- id: "voiture"
+  lemma: "la voiture"
+  pos: noun
+  level: A1
+  ipa: "/vwa.tyʁ/"
+  example: "Ma voiture est rouge."
+  translations:
+    de: ["das Auto"]
+  example_translations:
+    de: "Mein Auto ist rot."
+
+- id: "vol"
+  lemma: "le vol"
+  pos: noun
+  level: A2
+  ipa: "/vɔl/"
+  example: "Le vol pour Rome a du retard."
+  translations:
+    de: ["der Flug", "der Diebstahl"]
+  example_translations:
+    de: "Der Flug nach Rom hat Verspätung."
+
+- id: "voyage"
+  lemma: "le voyage"
+  pos: noun
+  level: A1
+  ipa: "/vwa.jaʒ/"
+  example: "Bon voyage !"
+  translations:
+    de: ["die Reise"]
+  example_translations:
+    de: "Gute Reise!"
+
+- id: "voyager"
+  lemma: "voyager"
+  pos: verb
+  level: A1
+  ipa: "/vwa.ja.ʒe/"
+  example: "J'aime voyager en train."
+  translations:
+    de: ["reisen"]
+  example_translations:
+    de: "Ich reise gern mit dem Zug."

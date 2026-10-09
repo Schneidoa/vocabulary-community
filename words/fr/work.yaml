@@ -1,0 +1,486 @@
+# 💼 Arbeit & Berufe – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "agriculteur"
+  lemma: "l'agriculteur (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.ɡʁi.kyl.tœʁ/"
+  example: "L'agriculteur travaille dans les champs."
+  translations:
+    de: ["der Landwirt"]
+  example_translations:
+    de: "Der Landwirt arbeitet auf den Feldern."
+
+- id: "architecte"
+  lemma: "l'architecte (m./f.)"
+  pos: noun
+  level: A2
+  ipa: "/aʁ.ʃi.tɛkt/"
+  example: "L'architecte a dessiné la maison."
+  translations:
+    de: ["der Architekt", "die Architektin"]
+  example_translations:
+    de: "Der Architekt hat das Haus entworfen."
+
+- id: "avocat"
+  lemma: "l'avocat (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.vɔ.ka/"
+  example: "Elle est avocate à Paris."
+  translations:
+    de: ["der Anwalt", "die Avocado"]
+  example_translations:
+    de: "Sie ist Anwältin in Paris."
+
+- id: "boulanger"
+  lemma: "le boulanger"
+  pos: noun
+  level: A1
+  ipa: "/bu.lɑ̃.ʒe/"
+  example: "Le boulanger se lève à quatre heures."
+  translations:
+    de: ["der Bäcker"]
+  example_translations:
+    de: "Der Bäcker steht um vier Uhr auf."
+
+- id: "boulot"
+  lemma: "le boulot"
+  pos: noun
+  level: A2
+  ipa: "/bu.lo/"
+  example: "J'ai trouvé un boulot."
+  translations:
+    de: ["die Arbeit", "der Job (umgangssprachlich)"]
+  example_translations:
+    de: "Ich habe einen Job gefunden."
+
+- id: "bureau"
+  lemma: "le bureau"
+  pos: noun
+  level: A1
+  ipa: "/by.ʁo/"
+  example: "Je travaille dans un bureau."
+  translations:
+    de: ["das Büro", "der Schreibtisch"]
+  example_translations:
+    de: "Ich arbeite in einem Büro."
+
+- id: "chauffeur"
+  lemma: "le chauffeur"
+  pos: noun
+  level: A2
+  ipa: "/ʃo.fœʁ/"
+  example: "Il est chauffeur de bus."
+  translations:
+    de: ["der Fahrer", "der Chauffeur"]
+  example_translations:
+    de: "Er ist Busfahrer."
+
+- id: "chef"
+  lemma: "le chef"
+  pos: noun
+  level: A1
+  ipa: "/ʃɛf/"
+  example: "Mon chef est en vacances."
+  translations:
+    de: ["der Chef", "der Küchenchef"]
+  example_translations:
+    de: "Mein Chef ist im Urlaub."
+
+- id: "chomage"
+  lemma: "le chômage"
+  pos: noun
+  level: A2
+  ipa: "/ʃo.maʒ/"
+  example: "Il est au chômage."
+  translations:
+    de: ["die Arbeitslosigkeit"]
+  example_translations:
+    de: "Er ist arbeitslos."
+
+- id: "coiffeur"
+  lemma: "le coiffeur"
+  pos: noun
+  level: A1
+  ipa: "/kwa.fœʁ/"
+  example: "Je vais chez le coiffeur."
+  translations:
+    de: ["der Friseur"]
+  example_translations:
+    de: "Ich gehe zum Friseur."
+
+- id: "collegue"
+  lemma: "le collègue"
+  pos: noun
+  level: A1
+  ipa: "/kɔ.lɛɡ/"
+  example: "Mes collègues sont sympathiques."
+  translations:
+    de: ["der Kollege", "die Kollegin"]
+  example_translations:
+    de: "Meine Kollegen sind nett."
+
+- id: "cuisinier"
+  lemma: "le cuisinier"
+  pos: noun
+  level: A1
+  ipa: "/kɥi.zi.nje/"
+  example: "Le cuisinier prépare le repas."
+  translations:
+    de: ["der Koch"]
+  example_translations:
+    de: "Der Koch bereitet das Essen zu."
+
+- id: "cv"
+  lemma: "le CV"
+  pos: noun
+  level: A2
+  ipa: "/se.ve/"
+  example: "Envoyez votre CV par e-mail."
+  translations:
+    de: ["der Lebenslauf"]
+  example_translations:
+    de: "Schicken Sie Ihren Lebenslauf per E-Mail."
+
+- id: "emploi"
+  lemma: "l'emploi (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.plwa/"
+  example: "Il cherche un emploi."
+  translations:
+    de: ["die Stelle", "die Beschäftigung"]
+  example_translations:
+    de: "Er sucht eine Stelle."
+
+- id: "employe"
+  lemma: "l'employé (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.plwa.je/"
+  example: "Il est employé de banque."
+  translations:
+    de: ["der Angestellte"]
+  example_translations:
+    de: "Er ist Bankangestellter."
+
+- id: "entreprise"
+  lemma: "l'entreprise (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.tʁə.pʁiz/"
+  example: "Elle travaille dans une grande entreprise."
+  translations:
+    de: ["die Firma", "das Unternehmen"]
+  example_translations:
+    de: "Sie arbeitet in einem großen Unternehmen."
+
+- id: "entretien"
+  lemma: "l'entretien (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.tʁə.tjɛ̃/"
+  example: "J'ai un entretien d'embauche demain."
+  translations:
+    de: ["das Vorstellungsgespräch", "das Gespräch"]
+  example_translations:
+    de: "Ich habe morgen ein Vorstellungsgespräch."
+
+- id: "experience"
+  lemma: "l'expérience (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛks.pe.ʁjɑ̃s/"
+  example: "Il a beaucoup d'expérience."
+  translations:
+    de: ["die Erfahrung", "das Experiment"]
+  example_translations:
+    de: "Er hat viel Erfahrung."
+
+- id: "facteur"
+  lemma: "le facteur"
+  pos: noun
+  level: A2
+  ipa: "/fak.tœʁ/"
+  example: "Le facteur apporte le courrier."
+  translations:
+    de: ["der Briefträger"]
+  example_translations:
+    de: "Der Briefträger bringt die Post."
+
+- id: "infirmier"
+  lemma: "l'infirmier (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛ̃.fiʁ.mje/"
+  example: "L'infirmier prend ma température."
+  translations:
+    de: ["der Krankenpfleger"]
+  example_translations:
+    de: "Der Krankenpfleger misst meine Temperatur."
+
+- id: "infirmiere"
+  lemma: "l'infirmière (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛ̃.fiʁ.mjɛʁ/"
+  example: "Ma mère est infirmière."
+  translations:
+    de: ["die Krankenschwester", "die Pflegerin"]
+  example_translations:
+    de: "Meine Mutter ist Krankenschwester."
+
+- id: "ingenieur"
+  lemma: "l'ingénieur (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃.ʒe.njœʁ/"
+  example: "Il est ingénieur chez Airbus."
+  translations:
+    de: ["der Ingenieur", "die Ingenieurin"]
+  example_translations:
+    de: "Er ist Ingenieur bei Airbus."
+
+- id: "journaliste"
+  lemma: "le journaliste"
+  pos: noun
+  level: A2
+  ipa: "/ʒuʁ.na.list/"
+  example: "Elle est journaliste à la radio."
+  translations:
+    de: ["der Journalist", "die Journalistin"]
+  example_translations:
+    de: "Sie ist Journalistin beim Radio."
+
+- id: "metier"
+  lemma: "le métier"
+  pos: noun
+  level: A1
+  ipa: "/me.tje/"
+  example: "Quel est ton métier ?"
+  translations:
+    de: ["der Beruf"]
+  example_translations:
+    de: "Was ist dein Beruf?"
+
+- id: "patron"
+  lemma: "le patron"
+  pos: noun
+  level: A2
+  ipa: "/pa.tʁɔ̃/"
+  example: "Le patron du café est très gentil."
+  translations:
+    de: ["der Chef", "der Inhaber"]
+  example_translations:
+    de: "Der Inhaber des Cafés ist sehr nett."
+
+- id: "policier"
+  lemma: "le policier"
+  pos: noun
+  level: A1
+  ipa: "/pɔ.li.sje/"
+  example: "Le policier aide les touristes."
+  translations:
+    de: ["der Polizist"]
+  example_translations:
+    de: "Der Polizist hilft den Touristen."
+
+- id: "pompier"
+  lemma: "le pompier"
+  pos: noun
+  level: A2
+  ipa: "/pɔ̃.pje/"
+  example: "Les pompiers arrivent."
+  translations:
+    de: ["der Feuerwehrmann"]
+  example_translations:
+    de: "Die Feuerwehr kommt."
+
+- id: "profession"
+  lemma: "la profession"
+  pos: noun
+  level: A2
+  ipa: "/pʁɔ.fɛ.sjɔ̃/"
+  example: "Profession : infirmière."
+  translations:
+    de: ["der Beruf"]
+  example_translations:
+    de: "Beruf: Krankenschwester."
+
+- id: "projet"
+  lemma: "le projet"
+  pos: noun
+  level: A2
+  ipa: "/pʁɔ.ʒɛ/"
+  example: "Quels sont tes projets pour l'été ?"
+  translations:
+    de: ["das Projekt", "der Plan"]
+  example_translations:
+    de: "Was hast du für den Sommer vor?"
+
+- id: "retraite"
+  lemma: "la retraite"
+  pos: noun
+  level: A2
+  ipa: "/ʁə.tʁɛt/"
+  example: "Mon grand-père est à la retraite."
+  translations:
+    de: ["die Rente", "der Ruhestand"]
+  example_translations:
+    de: "Mein Großvater ist in Rente."
+
+- id: "reunion"
+  lemma: "la réunion"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.y.njɔ̃/"
+  example: "J'ai une réunion à dix heures."
+  translations:
+    de: ["die Besprechung", "die Sitzung"]
+  example_translations:
+    de: "Ich habe um zehn eine Besprechung."
+
+- id: "salaire"
+  lemma: "le salaire"
+  pos: noun
+  level: A2
+  ipa: "/sa.lɛʁ/"
+  example: "Son salaire est bon."
+  translations:
+    de: ["das Gehalt", "der Lohn"]
+  example_translations:
+    de: "Sein Gehalt ist gut."
+
+- id: "secretaire"
+  lemma: "le secrétaire"
+  pos: noun
+  level: A2
+  ipa: "/sə.kʁe.tɛʁ/"
+  example: "La secrétaire répond au téléphone."
+  translations:
+    de: ["der Sekretär", "die Sekretärin"]
+  example_translations:
+    de: "Die Sekretärin geht ans Telefon."
+
+- id: "serveur"
+  lemma: "le serveur"
+  pos: noun
+  level: A1
+  ipa: "/sɛʁ.vœʁ/"
+  example: "Le serveur apporte la carte."
+  translations:
+    de: ["der Kellner"]
+  example_translations:
+    de: "Der Kellner bringt die Speisekarte."
+
+- id: "serveuse"
+  lemma: "la serveuse"
+  pos: noun
+  level: A1
+  ipa: "/sɛʁ.vøz/"
+  example: "La serveuse est très sympa."
+  translations:
+    de: ["die Kellnerin"]
+  example_translations:
+    de: "Die Kellnerin ist sehr nett."
+
+- id: "signature"
+  lemma: "la signature"
+  pos: noun
+  level: A2
+  ipa: "/si.ɲa.tyʁ/"
+  example: "Il manque votre signature."
+  translations:
+    de: ["die Unterschrift"]
+  example_translations:
+    de: "Ihre Unterschrift fehlt."
+
+- id: "signer"
+  lemma: "signer"
+  pos: verb
+  level: A2
+  ipa: "/si.ɲe/"
+  example: "Signez ici, s'il vous plaît."
+  translations:
+    de: ["unterschreiben"]
+  example_translations:
+    de: "Unterschreiben Sie bitte hier."
+
+- id: "societe"
+  lemma: "la société"
+  pos: noun
+  level: A2
+  ipa: "/sɔ.sje.te/"
+  example: "C'est une société française."
+  translations:
+    de: ["die Gesellschaft", "die Firma"]
+  example_translations:
+    de: "Das ist eine französische Firma."
+
+- id: "stage"
+  lemma: "le stage"
+  pos: noun
+  level: A2
+  ipa: "/staʒ/"
+  example: "Je fais un stage dans une banque."
+  translations:
+    de: ["das Praktikum"]
+  example_translations:
+    de: "Ich mache ein Praktikum in einer Bank."
+
+- id: "travail"
+  lemma: "le travail"
+  pos: noun
+  level: A1
+  ipa: "/tʁa.vaj/"
+  example: "Je vais au travail en bus."
+  translations:
+    de: ["die Arbeit"]
+  example_translations:
+    de: "Ich fahre mit dem Bus zur Arbeit."
+
+- id: "travailler"
+  lemma: "travailler"
+  pos: verb
+  level: A1
+  ipa: "/tʁa.va.je/"
+  example: "Je travaille dans une banque."
+  translations:
+    de: ["arbeiten"]
+  example_translations:
+    de: "Ich arbeite in einer Bank."
+
+- id: "usine"
+  lemma: "l'usine (f.)"
+  pos: noun
+  level: A2
+  ipa: "/y.zin/"
+  example: "Il travaille à l'usine."
+  translations:
+    de: ["die Fabrik"]
+  example_translations:
+    de: "Er arbeitet in der Fabrik."
+
+- id: "vendeur"
+  lemma: "le vendeur"
+  pos: noun
+  level: A1
+  ipa: "/vɑ̃.dœʁ/"
+  example: "Le vendeur est très gentil."
+  translations:
+    de: ["der Verkäufer"]
+  example_translations:
+    de: "Der Verkäufer ist sehr nett."
+
+- id: "vendeuse"
+  lemma: "la vendeuse"
+  pos: noun
+  level: A1
+  ipa: "/vɑ̃.døz/"
+  example: "Demande à la vendeuse."
+  translations:
+    de: ["die Verkäuferin"]
+  example_translations:
+    de: "Frag die Verkäuferin."

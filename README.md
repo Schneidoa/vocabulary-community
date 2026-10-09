@@ -33,12 +33,19 @@ Mitmachen: siehe [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Umfang
 
-**Englisch (`words/en/`)** deckt den Grundwortschatz von A1 bis B2 ab: rund 3.700 Vokabeln
-(A1 ≈ 900, A2 ≈ 1.100, B1 ≈ 880, B2 ≈ 810). Die aktuellen Zahlen gibt `scripts/validate.py` aus.
+**Englisch (`words/en/`)** deckt den Grundwortschatz von A1 bis B2 ab, Lautschrift in britischem Englisch: rund
+3.700 Vokabeln
+(A1 ≈ 900, A2 ≈ 1.100, B1 ≈ 880, B2 ≈ 810).
+
+**Französisch (`words/fr/`)** deckt den Grundwortschatz von A1 und A2 ab: rund 1.400 Vokabeln (A1 ≈ 810,
+A2 ≈ 590). Nomen stehen mit Artikel im `lemma` („la pomme“); bei elidiertem Artikel steht das Geschlecht dahinter
+(„l'arbre (m.)“). Lautschrift in Standardfranzösisch.
+
+Die aktuellen Zahlen gibt `scripts/validate.py` aus.
 
 - **Niveaus** folgen dem Gemeinsamen Europäischen Referenzrahmen (GER) und richten sich danach, wie früh ein Wort
   üblicherweise gelernt wird.
-- **Übersetzungen, Beispielsätze und Lautschrift** (britisches Englisch) sind eigene Inhalte des Katalogs, nicht aus
+- **Übersetzungen, Beispielsätze und Lautschrift** sind eigene Inhalte des Katalogs, nicht aus
   einem Wörterbuch übernommen.
 - **Wortarten:** Gibt es ein Wort in mehreren Wortarten, gibt es nur dann getrennte Einträge, wenn sich die
   deutsche Bedeutung unterscheidet (`light-noun` „das Licht“, `light-adjective` „hell, leicht“). Varianten mit

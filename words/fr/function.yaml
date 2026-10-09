@@ -1,0 +1,1454 @@
+# 🔗 Funktionswörter – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a"
+  lemma: "à"
+  pos: preposition
+  level: A1
+  ipa: "/a/"
+  example: "Je vais à Paris."
+  translations:
+    de: ["in", "nach", "zu", "an", "um"]
+  example_translations:
+    de: "Ich fahre nach Paris."
+
+- id: "a-cause-de"
+  lemma: "à cause de"
+  pos: preposition
+  level: A2
+  ipa: "/a koz də/"
+  example: "Le match est annulé à cause de la pluie."
+  translations:
+    de: ["wegen"]
+  example_translations:
+    de: "Das Spiel ist wegen des Regens abgesagt."
+
+- id: "a-cote-de"
+  lemma: "à côté de"
+  pos: preposition
+  level: A1
+  ipa: "/a ko.te də/"
+  example: "La banque est à côté de la poste."
+  translations:
+    de: ["neben"]
+  example_translations:
+    de: "Die Bank ist neben der Post."
+
+- id: "alors"
+  lemma: "alors"
+  pos: adverb
+  level: A1
+  ipa: "/a.lɔʁ/"
+  example: "Alors, on y va ?"
+  translations:
+    de: ["also", "dann"]
+  example_translations:
+    de: "Also, gehen wir?"
+
+- id: "apres-preposition"
+  lemma: "après"
+  pos: preposition
+  level: A1
+  ipa: "/a.pʁɛ/"
+  example: "On se voit après le cours."
+  translations:
+    de: ["nach (zeitlich)"]
+  example_translations:
+    de: "Wir sehen uns nach dem Kurs."
+
+- id: "au-lieu-de"
+  lemma: "au lieu de"
+  pos: preposition
+  level: A2
+  ipa: "/o ljø də/"
+  example: "Prends le train au lieu de la voiture."
+  translations:
+    de: ["statt", "anstatt"]
+  example_translations:
+    de: "Nimm den Zug statt des Autos."
+
+- id: "aussi"
+  lemma: "aussi"
+  pos: adverb
+  level: A1
+  ipa: "/o.si/"
+  example: "Moi aussi, j'aime le chocolat."
+  translations:
+    de: ["auch"]
+  example_translations:
+    de: "Ich mag auch Schokolade."
+
+- id: "autre"
+  lemma: "autre"
+  pos: adjective
+  level: A1
+  ipa: "/otʁ/"
+  example: "Tu as une autre idée ?"
+  translations:
+    de: ["andere"]
+  example_translations:
+    de: "Hast du eine andere Idee?"
+
+- id: "avant-preposition"
+  lemma: "avant"
+  pos: preposition
+  level: A1
+  ipa: "/a.vɑ̃/"
+  example: "Lave-toi les mains avant le repas."
+  translations:
+    de: ["vor (zeitlich)"]
+  example_translations:
+    de: "Wasch dir vor dem Essen die Hände."
+
+- id: "avec"
+  lemma: "avec"
+  pos: preposition
+  level: A1
+  ipa: "/a.vɛk/"
+  example: "Je vais au cinéma avec Paul."
+  translations:
+    de: ["mit"]
+  example_translations:
+    de: "Ich gehe mit Paul ins Kino."
+
+- id: "bien"
+  lemma: "bien"
+  pos: adverb
+  level: A1
+  ipa: "/bjɛ̃/"
+  example: "Tu parles bien français."
+  translations:
+    de: ["gut"]
+  example_translations:
+    de: "Du sprichst gut Französisch."
+
+- id: "c-est"
+  lemma: "c'est"
+  pos: phrase
+  level: A1
+  ipa: "/sɛ/"
+  example: "C'est mon ami."
+  translations:
+    de: ["das ist", "es ist"]
+  example_translations:
+    de: "Das ist mein Freund."
+
+- id: "ca"
+  lemma: "ça"
+  pos: pronoun
+  level: A1
+  ipa: "/sa/"
+  example: "Ça me plaît."
+  translations:
+    de: ["das", "es"]
+  example_translations:
+    de: "Das gefällt mir."
+
+- id: "car-conjunction"
+  lemma: "car"
+  pos: conjunction
+  level: A2
+  ipa: "/kaʁ/"
+  example: "Je rentre, car je suis fatigué."
+  translations:
+    de: ["denn"]
+  example_translations:
+    de: "Ich gehe nach Hause, denn ich bin müde."
+
+- id: "ce"
+  lemma: "ce"
+  pos: determiner
+  level: A1
+  ipa: "/sə/"
+  example: "Ce livre est intéressant."
+  translations:
+    de: ["dieser", "dieses"]
+  example_translations:
+    de: "Dieses Buch ist interessant."
+
+- id: "cela"
+  lemma: "cela"
+  pos: pronoun
+  level: A2
+  ipa: "/sə.la/"
+  example: "Cela n'est pas possible."
+  translations:
+    de: ["das"]
+  example_translations:
+    de: "Das ist nicht möglich."
+
+- id: "cependant"
+  lemma: "cependant"
+  pos: adverb
+  level: A2
+  ipa: "/sə.pɑ̃.dɑ̃/"
+  example: "C'est cher, cependant c'est de bonne qualité."
+  translations:
+    de: ["jedoch"]
+  example_translations:
+    de: "Es ist teuer, jedoch von guter Qualität."
+
+- id: "ces"
+  lemma: "ces"
+  pos: determiner
+  level: A1
+  ipa: "/se/"
+  example: "Ces chaussures sont chères."
+  translations:
+    de: ["diese (Pl.)"]
+  example_translations:
+    de: "Diese Schuhe sind teuer."
+
+- id: "cette"
+  lemma: "cette"
+  pos: determiner
+  level: A1
+  ipa: "/sɛt/"
+  example: "Cette robe est belle."
+  translations:
+    de: ["diese"]
+  example_translations:
+    de: "Dieses Kleid ist schön."
+
+- id: "chaque"
+  lemma: "chaque"
+  pos: determiner
+  level: A1
+  ipa: "/ʃak/"
+  example: "Chaque jour, je marche."
+  translations:
+    de: ["jeder", "jede", "jedes"]
+  example_translations:
+    de: "Jeden Tag gehe ich spazieren."
+
+- id: "chez"
+  lemma: "chez"
+  pos: preposition
+  level: A1
+  ipa: "/ʃe/"
+  example: "Je suis chez mes parents."
+  translations:
+    de: ["bei", "zu"]
+  example_translations:
+    de: "Ich bin bei meinen Eltern."
+
+- id: "comme"
+  lemma: "comme"
+  pos: conjunction
+  level: A1
+  ipa: "/kɔm/"
+  example: "Il est grand comme son père."
+  translations:
+    de: ["wie", "da"]
+  example_translations:
+    de: "Er ist groß wie sein Vater."
+
+- id: "comme-ca"
+  lemma: "comme ça"
+  pos: adverb
+  level: A2
+  ipa: "/kɔm sa/"
+  example: "Fais comme ça."
+  translations:
+    de: ["so", "auf diese Weise"]
+  example_translations:
+    de: "Mach es so."
+
+- id: "comment"
+  lemma: "comment"
+  pos: adverb
+  level: A1
+  ipa: "/kɔ.mɑ̃/"
+  example: "Comment ça va ?"
+  translations:
+    de: ["wie"]
+  example_translations:
+    de: "Wie geht's?"
+
+- id: "contre"
+  lemma: "contre"
+  pos: preposition
+  level: A2
+  ipa: "/kɔ̃tʁ/"
+  example: "Je suis contre cette idée."
+  translations:
+    de: ["gegen"]
+  example_translations:
+    de: "Ich bin gegen diese Idee."
+
+- id: "d-ailleurs"
+  lemma: "d'ailleurs"
+  pos: adverb
+  level: A2
+  ipa: "/da.jœʁ/"
+  example: "D'ailleurs, il est déjà parti."
+  translations:
+    de: ["übrigens", "außerdem"]
+  example_translations:
+    de: "Übrigens ist er schon gegangen."
+
+- id: "dans"
+  lemma: "dans"
+  pos: preposition
+  level: A1
+  ipa: "/dɑ̃/"
+  example: "Le chat est dans la maison."
+  translations:
+    de: ["in"]
+  example_translations:
+    de: "Die Katze ist im Haus."
+
+- id: "de"
+  lemma: "de"
+  pos: preposition
+  level: A1
+  ipa: "/də/"
+  example: "Je viens de Berlin."
+  translations:
+    de: ["von", "aus"]
+  example_translations:
+    de: "Ich komme aus Berlin."
+
+- id: "de-la"
+  lemma: "de la"
+  pos: determiner
+  level: A1
+  ipa: "/də la/"
+  example: "Tu veux de la confiture ?"
+  translations:
+    de: ["(Teilungsartikel, f.)", "etwas"]
+  example_translations:
+    de: "Möchtest du Marmelade?"
+
+- id: "dedans"
+  lemma: "dedans"
+  pos: adverb
+  level: A2
+  ipa: "/də.dɑ̃/"
+  example: "Il fait chaud dedans."
+  translations:
+    de: ["drinnen", "darin"]
+  example_translations:
+    de: "Drinnen ist es warm."
+
+- id: "dehors"
+  lemma: "dehors"
+  pos: adverb
+  level: A2
+  ipa: "/də.ɔʁ/"
+  example: "Les enfants jouent dehors."
+  translations:
+    de: ["draußen"]
+  example_translations:
+    de: "Die Kinder spielen draußen."
+
+- id: "derriere"
+  lemma: "derrière"
+  pos: preposition
+  level: A1
+  ipa: "/dɛ.ʁjɛʁ/"
+  example: "Le jardin est derrière la maison."
+  translations:
+    de: ["hinter"]
+  example_translations:
+    de: "Der Garten ist hinter dem Haus."
+
+- id: "des"
+  lemma: "des"
+  pos: determiner
+  level: A1
+  ipa: "/de/"
+  example: "J'ai des questions."
+  translations:
+    de: ["(unbestimmter Artikel, Pl.)", "einige"]
+  example_translations:
+    de: "Ich habe Fragen."
+
+- id: "devant"
+  lemma: "devant"
+  pos: preposition
+  level: A1
+  ipa: "/də.vɑ̃/"
+  example: "Je t'attends devant le cinéma."
+  translations:
+    de: ["vor (räumlich)"]
+  example_translations:
+    de: "Ich warte vor dem Kino auf dich."
+
+- id: "donc"
+  lemma: "donc"
+  pos: conjunction
+  level: A2
+  ipa: "/dɔ̃k/"
+  example: "Il pleut, donc je prends un parapluie."
+  translations:
+    de: ["also", "deshalb"]
+  example_translations:
+    de: "Es regnet, also nehme ich einen Regenschirm."
+
+- id: "du"
+  lemma: "du"
+  pos: determiner
+  level: A1
+  ipa: "/dy/"
+  example: "Je voudrais du pain."
+  translations:
+    de: ["(Teilungsartikel, m.)", "etwas"]
+  example_translations:
+    de: "Ich hätte gern Brot."
+
+- id: "elle"
+  lemma: "elle"
+  pos: pronoun
+  level: A1
+  ipa: "/ɛl/"
+  example: "Elle habite à Lyon."
+  translations:
+    de: ["sie", "sie (Sg.)"]
+  example_translations:
+    de: "Sie wohnt in Lyon."
+
+- id: "elles"
+  lemma: "elles"
+  pos: pronoun
+  level: A1
+  ipa: "/ɛl/"
+  example: "Elles sont sœurs."
+  translations:
+    de: ["sie (Pl., f.)"]
+  example_translations:
+    de: "Sie sind Schwestern."
+
+- id: "en"
+  lemma: "en"
+  pos: preposition
+  level: A1
+  ipa: "/ɑ̃/"
+  example: "J'habite en France."
+  translations:
+    de: ["in", "nach", "mit"]
+  example_translations:
+    de: "Ich wohne in Frankreich."
+
+- id: "en-bas"
+  lemma: "en bas"
+  pos: adverb
+  level: A2
+  ipa: "/ɑ̃ ba/"
+  example: "La cuisine est en bas."
+  translations:
+    de: ["unten"]
+  example_translations:
+    de: "Die Küche ist unten."
+
+- id: "en-face-de"
+  lemma: "en face de"
+  pos: preposition
+  level: A1
+  ipa: "/ɑ̃ fas də/"
+  example: "Le café est en face de l'église."
+  translations:
+    de: ["gegenüber"]
+  example_translations:
+    de: "Das Café ist gegenüber der Kirche."
+
+- id: "en-haut"
+  lemma: "en haut"
+  pos: adverb
+  level: A2
+  ipa: "/ɑ̃ o/"
+  example: "La chambre est en haut."
+  translations:
+    de: ["oben"]
+  example_translations:
+    de: "Das Schlafzimmer ist oben."
+
+- id: "ensemble"
+  lemma: "ensemble"
+  pos: adverb
+  level: A1
+  ipa: "/ɑ̃.sɑ̃bl/"
+  example: "Nous mangeons ensemble."
+  translations:
+    de: ["zusammen"]
+  example_translations:
+    de: "Wir essen zusammen."
+
+- id: "entre"
+  lemma: "entre"
+  pos: preposition
+  level: A1
+  ipa: "/ɑ̃tʁ/"
+  example: "La banque est entre la poste et le café."
+  translations:
+    de: ["zwischen"]
+  example_translations:
+    de: "Die Bank ist zwischen der Post und dem Café."
+
+- id: "environ"
+  lemma: "environ"
+  pos: adverb
+  level: A2
+  ipa: "/ɑ̃.vi.ʁɔ̃/"
+  example: "Il y a environ cent personnes."
+  translations:
+    de: ["ungefähr", "etwa"]
+  example_translations:
+    de: "Es sind ungefähr hundert Leute da."
+
+- id: "est-ce-que"
+  lemma: "est-ce que"
+  pos: phrase
+  level: A1
+  ipa: "/ɛs.kə/"
+  example: "Est-ce que tu viens ?"
+  translations:
+    de: ["(Fragepartikel)"]
+  example_translations:
+    de: "Kommst du?"
+
+- id: "et"
+  lemma: "et"
+  pos: conjunction
+  level: A1
+  ipa: "/e/"
+  example: "Paul et Marie sont mariés."
+  translations:
+    de: ["und"]
+  example_translations:
+    de: "Paul und Marie sind verheiratet."
+
+- id: "eux"
+  lemma: "eux"
+  pos: pronoun
+  level: A2
+  ipa: "/ø/"
+  example: "Je vais chez eux."
+  translations:
+    de: ["sie", "ihnen (Pl.)"]
+  example_translations:
+    de: "Ich gehe zu ihnen."
+
+- id: "grace-a"
+  lemma: "grâce à"
+  pos: preposition
+  level: A2
+  ipa: "/ɡʁɑs a/"
+  example: "Grâce à toi, j'ai réussi."
+  translations:
+    de: ["dank"]
+  example_translations:
+    de: "Dank dir habe ich es geschafft."
+
+- id: "ici"
+  lemma: "ici"
+  pos: adverb
+  level: A1
+  ipa: "/i.si/"
+  example: "J'habite ici."
+  translations:
+    de: ["hier"]
+  example_translations:
+    de: "Ich wohne hier."
+
+- id: "il"
+  lemma: "il"
+  pos: pronoun
+  level: A1
+  ipa: "/il/"
+  example: "Il est médecin."
+  translations:
+    de: ["er", "es"]
+  example_translations:
+    de: "Er ist Arzt."
+
+- id: "ils"
+  lemma: "ils"
+  pos: pronoun
+  level: A1
+  ipa: "/il/"
+  example: "Ils sont en vacances."
+  translations:
+    de: ["sie (Pl., m.)"]
+  example_translations:
+    de: "Sie sind im Urlaub."
+
+- id: "je"
+  lemma: "je"
+  pos: pronoun
+  level: A1
+  ipa: "/ʒə/"
+  example: "Je suis allemand."
+  translations:
+    de: ["ich"]
+  example_translations:
+    de: "Ich bin Deutscher."
+
+- id: "jusqu-a"
+  lemma: "jusqu'à"
+  pos: preposition
+  level: A1
+  ipa: "/ʒys.ka/"
+  example: "Le magasin est ouvert jusqu'à vingt heures."
+  translations:
+    de: ["bis"]
+  example_translations:
+    de: "Das Geschäft hat bis zwanzig Uhr geöffnet."
+
+- id: "la-adverb"
+  lemma: "là"
+  pos: adverb
+  level: A1
+  ipa: "/la/"
+  example: "Mets-le là."
+  translations:
+    de: ["da", "dort"]
+  example_translations:
+    de: "Leg es dorthin."
+
+- id: "la-bas"
+  lemma: "là-bas"
+  pos: adverb
+  level: A1
+  ipa: "/la.ba/"
+  example: "La gare est là-bas."
+  translations:
+    de: ["dort drüben"]
+  example_translations:
+    de: "Der Bahnhof ist dort drüben."
+
+- id: "la-determiner"
+  lemma: "la"
+  pos: determiner
+  level: A1
+  ipa: "/la/"
+  example: "La maison est grande."
+  translations:
+    de: ["die (bestimmter Artikel, f.)"]
+  example_translations:
+    de: "Das Haus ist groß."
+
+- id: "le"
+  lemma: "le"
+  pos: determiner
+  level: A1
+  ipa: "/lə/"
+  example: "Le chat est noir."
+  translations:
+    de: ["der", "das (bestimmter Artikel, m.)"]
+  example_translations:
+    de: "Die Katze ist schwarz."
+
+- id: "lentement"
+  lemma: "lentement"
+  pos: adverb
+  level: A2
+  ipa: "/lɑ̃t.mɑ̃/"
+  example: "Parlez lentement, s'il vous plaît."
+  translations:
+    de: ["langsam"]
+  example_translations:
+    de: "Sprechen Sie bitte langsam."
+
+- id: "les"
+  lemma: "les"
+  pos: determiner
+  level: A1
+  ipa: "/le/"
+  example: "Les enfants jouent."
+  translations:
+    de: ["die (bestimmter Artikel, Pl.)"]
+  example_translations:
+    de: "Die Kinder spielen."
+
+- id: "leur-determiner"
+  lemma: "leur"
+  pos: determiner
+  level: A1
+  ipa: "/lœʁ/"
+  example: "Ils vendent leur voiture."
+  translations:
+    de: ["ihr", "ihre (Pl. Besitzer)"]
+  example_translations:
+    de: "Sie verkaufen ihr Auto."
+
+- id: "leur-pronoun"
+  lemma: "leur"
+  pos: pronoun
+  level: A2
+  ipa: "/lœʁ/"
+  example: "Je leur téléphone."
+  translations:
+    de: ["ihnen"]
+  example_translations:
+    de: "Ich rufe sie an."
+
+- id: "loin-de"
+  lemma: "loin de"
+  pos: preposition
+  level: A1
+  ipa: "/lwɛ̃ də/"
+  example: "L'école est loin de chez moi."
+  translations:
+    de: ["weit weg von"]
+  example_translations:
+    de: "Die Schule ist weit weg von mir zu Hause."
+
+- id: "lui"
+  lemma: "lui"
+  pos: pronoun
+  level: A1
+  ipa: "/lɥi/"
+  example: "Je parle avec lui."
+  translations:
+    de: ["er", "ihm", "ihr"]
+  example_translations:
+    de: "Ich spreche mit ihm."
+
+- id: "ma"
+  lemma: "ma"
+  pos: determiner
+  level: A1
+  ipa: "/ma/"
+  example: "Ma mère est professeur."
+  translations:
+    de: ["meine"]
+  example_translations:
+    de: "Meine Mutter ist Lehrerin."
+
+- id: "mais"
+  lemma: "mais"
+  pos: conjunction
+  level: A1
+  ipa: "/mɛ/"
+  example: "Il est petit mais fort."
+  translations:
+    de: ["aber"]
+  example_translations:
+    de: "Er ist klein, aber stark."
+
+- id: "mal"
+  lemma: "mal"
+  pos: adverb
+  level: A1
+  ipa: "/mal/"
+  example: "J'ai mal dormi."
+  translations:
+    de: ["schlecht"]
+  example_translations:
+    de: "Ich habe schlecht geschlafen."
+
+- id: "malgre"
+  lemma: "malgré"
+  pos: preposition
+  level: A2
+  ipa: "/mal.ɡʁe/"
+  example: "Nous sortons malgré la pluie."
+  translations:
+    de: ["trotz"]
+  example_translations:
+    de: "Wir gehen trotz des Regens hinaus."
+
+- id: "me"
+  lemma: "me"
+  pos: pronoun
+  level: A1
+  ipa: "/mə/"
+  example: "Il me regarde."
+  translations:
+    de: ["mich", "mir"]
+  example_translations:
+    de: "Er sieht mich an."
+
+- id: "meme"
+  lemma: "même"
+  pos: adjective
+  level: A1
+  ipa: "/mɛm/"
+  example: "Nous avons le même âge."
+  translations:
+    de: ["gleiche", "selbe"]
+  example_translations:
+    de: "Wir sind gleich alt."
+
+- id: "mes"
+  lemma: "mes"
+  pos: determiner
+  level: A1
+  ipa: "/me/"
+  example: "Mes amis sont là."
+  translations:
+    de: ["meine (Pl.)"]
+  example_translations:
+    de: "Meine Freunde sind da."
+
+- id: "moi"
+  lemma: "moi"
+  pos: pronoun
+  level: A1
+  ipa: "/mwa/"
+  example: "Et moi, je reste ici."
+  translations:
+    de: ["ich", "mich", "mir"]
+  example_translations:
+    de: "Und ich bleibe hier."
+
+- id: "mon"
+  lemma: "mon"
+  pos: determiner
+  level: A1
+  ipa: "/mɔ̃/"
+  example: "Mon frère s'appelle Luc."
+  translations:
+    de: ["mein"]
+  example_translations:
+    de: "Mein Bruder heißt Luc."
+
+- id: "ne-jamais"
+  lemma: "ne … jamais"
+  pos: adverb
+  level: A2
+  ipa: "/nə ʒa.mɛ/"
+  example: "Je ne mange jamais de viande."
+  translations:
+    de: ["nie", "niemals"]
+  example_translations:
+    de: "Ich esse nie Fleisch."
+
+- id: "ne-pas"
+  lemma: "ne … pas"
+  pos: adverb
+  level: A1
+  ipa: "/nə pa/"
+  example: "Je ne sais pas."
+  translations:
+    de: ["nicht"]
+  example_translations:
+    de: "Ich weiß es nicht."
+
+- id: "ne-plus"
+  lemma: "ne … plus"
+  pos: adverb
+  level: A2
+  ipa: "/nə ply/"
+  example: "Il ne fume plus."
+  translations:
+    de: ["nicht mehr"]
+  example_translations:
+    de: "Er raucht nicht mehr."
+
+- id: "non-plus"
+  lemma: "non plus"
+  pos: adverb
+  level: A2
+  ipa: "/nɔ̃ ply/"
+  example: "Moi non plus."
+  translations:
+    de: ["auch nicht"]
+  example_translations:
+    de: "Ich auch nicht."
+
+- id: "notre"
+  lemma: "notre"
+  pos: determiner
+  level: A1
+  ipa: "/nɔtʁ/"
+  example: "Notre maison est petite."
+  translations:
+    de: ["unser", "unsere"]
+  example_translations:
+    de: "Unser Haus ist klein."
+
+- id: "nous"
+  lemma: "nous"
+  pos: pronoun
+  level: A1
+  ipa: "/nu/"
+  example: "Nous sommes amis."
+  translations:
+    de: ["wir", "uns"]
+  example_translations:
+    de: "Wir sind Freunde."
+
+- id: "on"
+  lemma: "on"
+  pos: pronoun
+  level: A1
+  ipa: "/ɔ̃/"
+  example: "On va au cinéma ?"
+  translations:
+    de: ["man", "wir"]
+  example_translations:
+    de: "Gehen wir ins Kino?"
+
+- id: "ou-adverb"
+  lemma: "où"
+  pos: adverb
+  level: A1
+  ipa: "/u/"
+  example: "Où habites-tu ?"
+  translations:
+    de: ["wo", "wohin"]
+  example_translations:
+    de: "Wo wohnst du?"
+
+- id: "ou-conjunction"
+  lemma: "ou"
+  pos: conjunction
+  level: A1
+  ipa: "/u/"
+  example: "Thé ou café ?"
+  translations:
+    de: ["oder"]
+  example_translations:
+    de: "Tee oder Kaffee?"
+
+- id: "par"
+  lemma: "par"
+  pos: preposition
+  level: A1
+  ipa: "/paʁ/"
+  example: "Je passe par Lyon."
+  translations:
+    de: ["durch", "mit", "pro"]
+  example_translations:
+    de: "Ich fahre über Lyon."
+
+- id: "parce-que"
+  lemma: "parce que"
+  pos: conjunction
+  level: A1
+  ipa: "/paʁs kə/"
+  example: "Je reste ici parce qu'il pleut."
+  translations:
+    de: ["weil"]
+  example_translations:
+    de: "Ich bleibe hier, weil es regnet."
+
+- id: "partout"
+  lemma: "partout"
+  pos: adverb
+  level: A2
+  ipa: "/paʁ.tu/"
+  example: "Je t'ai cherché partout."
+  translations:
+    de: ["überall"]
+  example_translations:
+    de: "Ich habe dich überall gesucht."
+
+- id: "pendant-que"
+  lemma: "pendant que"
+  pos: conjunction
+  level: A2
+  ipa: "/pɑ̃.dɑ̃ kə/"
+  example: "Je lis pendant que tu cuisines."
+  translations:
+    de: ["während"]
+  example_translations:
+    de: "Ich lese, während du kochst."
+
+- id: "personne-pronoun"
+  lemma: "personne"
+  pos: pronoun
+  level: A1
+  ipa: "/pɛʁ.sɔn/"
+  example: "Il n'y a personne."
+  translations:
+    de: ["niemand"]
+  example_translations:
+    de: "Es ist niemand da."
+
+- id: "peut-etre"
+  lemma: "peut-être"
+  pos: adverb
+  level: A1
+  ipa: "/pø.tɛtʁ/"
+  example: "Peut-être qu'il va pleuvoir."
+  translations:
+    de: ["vielleicht"]
+  example_translations:
+    de: "Vielleicht regnet es."
+
+- id: "plusieurs"
+  lemma: "plusieurs"
+  pos: determiner
+  level: A2
+  ipa: "/ply.zjœʁ/"
+  example: "J'ai plusieurs amis à Paris."
+  translations:
+    de: ["mehrere"]
+  example_translations:
+    de: "Ich habe mehrere Freunde in Paris."
+
+- id: "pour"
+  lemma: "pour"
+  pos: preposition
+  level: A1
+  ipa: "/puʁ/"
+  example: "C'est un cadeau pour toi."
+  translations:
+    de: ["für", "um zu"]
+  example_translations:
+    de: "Das ist ein Geschenk für dich."
+
+- id: "pourquoi"
+  lemma: "pourquoi"
+  pos: adverb
+  level: A1
+  ipa: "/puʁ.kwa/"
+  example: "Pourquoi tu ris ?"
+  translations:
+    de: ["warum"]
+  example_translations:
+    de: "Warum lachst du?"
+
+- id: "pourtant"
+  lemma: "pourtant"
+  pos: adverb
+  level: A2
+  ipa: "/puʁ.tɑ̃/"
+  example: "Il est riche, pourtant il n'est pas heureux."
+  translations:
+    de: ["trotzdem", "dennoch"]
+  example_translations:
+    de: "Er ist reich, und trotzdem ist er nicht glücklich."
+
+- id: "pres-de"
+  lemma: "près de"
+  pos: preposition
+  level: A1
+  ipa: "/pʁɛ də/"
+  example: "J'habite près de la gare."
+  translations:
+    de: ["in der Nähe von", "nahe bei"]
+  example_translations:
+    de: "Ich wohne in der Nähe des Bahnhofs."
+
+- id: "presque"
+  lemma: "presque"
+  pos: adverb
+  level: A2
+  ipa: "/pʁɛsk/"
+  example: "Il est presque minuit."
+  translations:
+    de: ["fast"]
+  example_translations:
+    de: "Es ist fast Mitternacht."
+
+- id: "qu-est-ce-que"
+  lemma: "qu'est-ce que"
+  pos: phrase
+  level: A1
+  ipa: "/kɛs.kə/"
+  example: "Qu'est-ce que tu fais ?"
+  translations:
+    de: ["was"]
+  example_translations:
+    de: "Was machst du?"
+
+- id: "quand-adverb"
+  lemma: "quand"
+  pos: adverb
+  level: A1
+  ipa: "/kɑ̃/"
+  example: "Quand est-ce que tu pars ?"
+  translations:
+    de: ["wann", "wenn"]
+  example_translations:
+    de: "Wann fährst du?"
+
+- id: "quand-conjunction"
+  lemma: "quand"
+  pos: conjunction
+  level: A1
+  ipa: "/kɑ̃/"
+  example: "Quand il pleut, je reste à la maison."
+  translations:
+    de: ["wenn", "als"]
+  example_translations:
+    de: "Wenn es regnet, bleibe ich zu Hause."
+
+- id: "que"
+  lemma: "que"
+  pos: pronoun
+  level: A1
+  ipa: "/kə/"
+  example: "Que veux-tu ?"
+  translations:
+    de: ["was", "den", "die", "das"]
+  example_translations:
+    de: "Was willst du?"
+
+- id: "quel"
+  lemma: "quel"
+  pos: determiner
+  level: A1
+  ipa: "/kɛl/"
+  example: "Quel jour sommes-nous ?"
+  translations:
+    de: ["welcher", "welche", "welches"]
+  example_translations:
+    de: "Welcher Tag ist heute?"
+
+- id: "quelqu-un"
+  lemma: "quelqu'un"
+  pos: pronoun
+  level: A1
+  ipa: "/kɛl.kœ̃/"
+  example: "Quelqu'un a appelé."
+  translations:
+    de: ["jemand"]
+  example_translations:
+    de: "Jemand hat angerufen."
+
+- id: "quelque-chose"
+  lemma: "quelque chose"
+  pos: pronoun
+  level: A1
+  ipa: "/kɛl.kə ʃoz/"
+  example: "Tu veux quelque chose ?"
+  translations:
+    de: ["etwas"]
+  example_translations:
+    de: "Möchtest du etwas?"
+
+- id: "quelques"
+  lemma: "quelques"
+  pos: determiner
+  level: A1
+  ipa: "/kɛl.kə/"
+  example: "J'ai quelques questions."
+  translations:
+    de: ["einige", "ein paar"]
+  example_translations:
+    de: "Ich habe ein paar Fragen."
+
+- id: "qui"
+  lemma: "qui"
+  pos: pronoun
+  level: A1
+  ipa: "/ki/"
+  example: "Qui est-ce ?"
+  translations:
+    de: ["wer", "der", "die", "das"]
+  example_translations:
+    de: "Wer ist das?"
+
+- id: "quoi"
+  lemma: "quoi"
+  pos: pronoun
+  level: A1
+  ipa: "/kwa/"
+  example: "Tu fais quoi ce soir ?"
+  translations:
+    de: ["was"]
+  example_translations:
+    de: "Was machst du heute Abend?"
+
+- id: "rien"
+  lemma: "rien"
+  pos: pronoun
+  level: A1
+  ipa: "/ʁjɛ̃/"
+  example: "Je ne vois rien."
+  translations:
+    de: ["nichts"]
+  example_translations:
+    de: "Ich sehe nichts."
+
+- id: "sa"
+  lemma: "sa"
+  pos: determiner
+  level: A1
+  ipa: "/sa/"
+  example: "Elle appelle sa mère."
+  translations:
+    de: ["seine", "ihre"]
+  example_translations:
+    de: "Sie ruft ihre Mutter an."
+
+- id: "sans"
+  lemma: "sans"
+  pos: preposition
+  level: A1
+  ipa: "/sɑ̃/"
+  example: "Un café sans sucre."
+  translations:
+    de: ["ohne"]
+  example_translations:
+    de: "Einen Kaffee ohne Zucker."
+
+- id: "se"
+  lemma: "se"
+  pos: pronoun
+  level: A1
+  ipa: "/sə/"
+  example: "Il se lave."
+  translations:
+    de: ["sich"]
+  example_translations:
+    de: "Er wäscht sich."
+
+- id: "selon"
+  lemma: "selon"
+  pos: preposition
+  level: A2
+  ipa: "/sə.lɔ̃/"
+  example: "Selon la météo, il va pleuvoir."
+  translations:
+    de: ["laut", "nach", "gemäß"]
+  example_translations:
+    de: "Laut Wetterbericht wird es regnen."
+
+- id: "ses"
+  lemma: "ses"
+  pos: determiner
+  level: A1
+  ipa: "/se/"
+  example: "Il range ses affaires."
+  translations:
+    de: ["seine", "ihre (Pl.)"]
+  example_translations:
+    de: "Er räumt seine Sachen auf."
+
+- id: "seulement"
+  lemma: "seulement"
+  pos: adverb
+  level: A1
+  ipa: "/sœl.mɑ̃/"
+  example: "J'ai seulement dix euros."
+  translations:
+    de: ["nur"]
+  example_translations:
+    de: "Ich habe nur zehn Euro."
+
+- id: "si-conjunction"
+  lemma: "si"
+  pos: conjunction
+  level: A1
+  ipa: "/si/"
+  example: "Si tu veux, on peut sortir."
+  translations:
+    de: ["wenn", "falls", "ob"]
+  example_translations:
+    de: "Wenn du willst, können wir ausgehen."
+
+- id: "son"
+  lemma: "son"
+  pos: determiner
+  level: A1
+  ipa: "/sɔ̃/"
+  example: "Il cherche son portable."
+  translations:
+    de: ["sein", "ihr"]
+  example_translations:
+    de: "Er sucht sein Handy."
+
+- id: "sous"
+  lemma: "sous"
+  pos: preposition
+  level: A1
+  ipa: "/su/"
+  example: "Le chien dort sous la table."
+  translations:
+    de: ["unter"]
+  example_translations:
+    de: "Der Hund schläft unter dem Tisch."
+
+- id: "sur-preposition"
+  lemma: "sur"
+  pos: preposition
+  level: A1
+  ipa: "/syʁ/"
+  example: "Le livre est sur la table."
+  translations:
+    de: ["auf", "über"]
+  example_translations:
+    de: "Das Buch liegt auf dem Tisch."
+
+- id: "surtout"
+  lemma: "surtout"
+  pos: adverb
+  level: A2
+  ipa: "/syʁ.tu/"
+  example: "J'aime surtout le jazz."
+  translations:
+    de: ["vor allem", "besonders"]
+  example_translations:
+    de: "Ich mag vor allem Jazz."
+
+- id: "ta"
+  lemma: "ta"
+  pos: determiner
+  level: A1
+  ipa: "/ta/"
+  example: "Ta sœur est gentille."
+  translations:
+    de: ["deine"]
+  example_translations:
+    de: "Deine Schwester ist nett."
+
+- id: "te"
+  lemma: "te"
+  pos: pronoun
+  level: A1
+  ipa: "/tə/"
+  example: "Je te remercie."
+  translations:
+    de: ["dich", "dir"]
+  example_translations:
+    de: "Ich danke dir."
+
+- id: "tes"
+  lemma: "tes"
+  pos: determiner
+  level: A1
+  ipa: "/te/"
+  example: "Où sont tes clés ?"
+  translations:
+    de: ["deine (Pl.)"]
+  example_translations:
+    de: "Wo sind deine Schlüssel?"
+
+- id: "toi"
+  lemma: "toi"
+  pos: pronoun
+  level: A1
+  ipa: "/twa/"
+  example: "C'est pour toi."
+  translations:
+    de: ["du", "dich", "dir"]
+  example_translations:
+    de: "Das ist für dich."
+
+- id: "ton"
+  lemma: "ton"
+  pos: determiner
+  level: A1
+  ipa: "/tɔ̃/"
+  example: "C'est ton livre ?"
+  translations:
+    de: ["dein"]
+  example_translations:
+    de: "Ist das dein Buch?"
+
+- id: "tout"
+  lemma: "tout"
+  pos: pronoun
+  level: A1
+  ipa: "/tu/"
+  example: "Tout va bien."
+  translations:
+    de: ["alles"]
+  example_translations:
+    de: "Alles ist gut."
+
+- id: "tout-le-monde"
+  lemma: "tout le monde"
+  pos: pronoun
+  level: A1
+  ipa: "/tu lə mɔ̃d/"
+  example: "Tout le monde est là."
+  translations:
+    de: ["alle", "jeder"]
+  example_translations:
+    de: "Alle sind da."
+
+- id: "tres"
+  lemma: "très"
+  pos: adverb
+  level: A1
+  ipa: "/tʁɛ/"
+  example: "Il fait très beau."
+  translations:
+    de: ["sehr"]
+  example_translations:
+    de: "Das Wetter ist sehr schön."
+
+- id: "tu"
+  lemma: "tu"
+  pos: pronoun
+  level: A1
+  ipa: "/ty/"
+  example: "Tu es fatigué ?"
+  translations:
+    de: ["du"]
+  example_translations:
+    de: "Bist du müde?"
+
+- id: "un-determiner"
+  lemma: "un"
+  pos: determiner
+  level: A1
+  ipa: "/œ̃/"
+  example: "J'ai un chien."
+  translations:
+    de: ["ein (unbestimmter Artikel, m.)"]
+  example_translations:
+    de: "Ich habe einen Hund."
+
+- id: "une"
+  lemma: "une"
+  pos: determiner
+  level: A1
+  ipa: "/yn/"
+  example: "C'est une belle ville."
+  translations:
+    de: ["eine (unbestimmter Artikel, f.)"]
+  example_translations:
+    de: "Das ist eine schöne Stadt."
+
+- id: "vers"
+  lemma: "vers"
+  pos: preposition
+  level: A2
+  ipa: "/vɛʁ/"
+  example: "J'arrive vers huit heures."
+  translations:
+    de: ["gegen", "in Richtung"]
+  example_translations:
+    de: "Ich komme gegen acht Uhr."
+
+- id: "vite"
+  lemma: "vite"
+  pos: adverb
+  level: A1
+  ipa: "/vit/"
+  example: "Il parle trop vite."
+  translations:
+    de: ["schnell"]
+  example_translations:
+    de: "Er spricht zu schnell."
+
+- id: "votre"
+  lemma: "votre"
+  pos: determiner
+  level: A1
+  ipa: "/vɔtʁ/"
+  example: "Votre nom, s'il vous plaît ?"
+  translations:
+    de: ["euer", "Ihr"]
+  example_translations:
+    de: "Ihr Name, bitte?"
+
+- id: "vous"
+  lemma: "vous"
+  pos: pronoun
+  level: A1
+  ipa: "/vu/"
+  example: "Vous parlez anglais ?"
+  translations:
+    de: ["ihr", "Sie", "euch", "Ihnen"]
+  example_translations:
+    de: "Sprechen Sie Englisch?"
+
+- id: "vraiment"
+  lemma: "vraiment"
+  pos: adverb
+  level: A1
+  ipa: "/vʁɛ.mɑ̃/"
+  example: "C'est vraiment bon."
+  translations:
+    de: ["wirklich"]
+  example_translations:
+    de: "Das ist wirklich gut."

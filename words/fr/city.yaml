@@ -1,0 +1,321 @@
+# 🏙️ Stadt & Orte – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "avenue"
+  lemma: "l'avenue (f.)"
+  pos: noun
+  level: A2
+  ipa: "/av.ny/"
+  example: "Les Champs-Élysées sont une grande avenue."
+  translations:
+    de: ["die Allee", "die Avenue"]
+  example_translations:
+    de: "Die Champs-Élysées sind eine große Prachtstraße."
+
+- id: "banque"
+  lemma: "la banque"
+  pos: noun
+  level: A1
+  ipa: "/bɑ̃k/"
+  example: "La banque ouvre à neuf heures."
+  translations:
+    de: ["die Bank"]
+  example_translations:
+    de: "Die Bank öffnet um neun Uhr."
+
+- id: "bar"
+  lemma: "le bar"
+  pos: noun
+  level: A2
+  ipa: "/baʁ/"
+  example: "Ils boivent un verre au bar."
+  translations:
+    de: ["die Bar", "die Kneipe"]
+  example_translations:
+    de: "Sie trinken etwas in der Bar."
+
+- id: "batiment"
+  lemma: "le bâtiment"
+  pos: noun
+  level: A2
+  ipa: "/ba.ti.mɑ̃/"
+  example: "C'est un vieux bâtiment."
+  translations:
+    de: ["das Gebäude"]
+  example_translations:
+    de: "Das ist ein altes Gebäude."
+
+- id: "bibliotheque"
+  lemma: "la bibliothèque"
+  pos: noun
+  level: A1
+  ipa: "/bi.bli.jɔ.tɛk/"
+  example: "J'emprunte des livres à la bibliothèque."
+  translations:
+    de: ["die Bibliothek", "das Bücherregal"]
+  example_translations:
+    de: "Ich leihe Bücher in der Bibliothek aus."
+
+- id: "boucherie"
+  lemma: "la boucherie"
+  pos: noun
+  level: A2
+  ipa: "/buʃ.ʁi/"
+  example: "J'achète la viande à la boucherie."
+  translations:
+    de: ["die Metzgerei"]
+  example_translations:
+    de: "Ich kaufe das Fleisch in der Metzgerei."
+
+- id: "boulangerie"
+  lemma: "la boulangerie"
+  pos: noun
+  level: A1
+  ipa: "/bu.lɑ̃ʒ.ʁi/"
+  example: "La boulangerie ouvre à sept heures."
+  translations:
+    de: ["die Bäckerei"]
+  example_translations:
+    de: "Die Bäckerei öffnet um sieben Uhr."
+
+- id: "boulevard"
+  lemma: "le boulevard"
+  pos: noun
+  level: A2
+  ipa: "/bul.vaʁ/"
+  example: "Le café est sur le boulevard."
+  translations:
+    de: ["der Boulevard"]
+  example_translations:
+    de: "Das Café liegt am Boulevard."
+
+- id: "cathedrale"
+  lemma: "la cathédrale"
+  pos: noun
+  level: A2
+  ipa: "/ka.te.dʁal/"
+  example: "Nous visitons la cathédrale."
+  translations:
+    de: ["der Dom", "die Kathedrale"]
+  example_translations:
+    de: "Wir besichtigen die Kathedrale."
+
+- id: "centre-ville"
+  lemma: "le centre-ville"
+  pos: noun
+  level: A1
+  ipa: "/sɑ̃.tʁə.vil/"
+  example: "Le musée est au centre-ville."
+  translations:
+    de: ["die Innenstadt"]
+  example_translations:
+    de: "Das Museum ist in der Innenstadt."
+
+- id: "cinema"
+  lemma: "le cinéma"
+  pos: noun
+  level: A1
+  ipa: "/si.ne.ma/"
+  example: "On va au cinéma ce soir ?"
+  translations:
+    de: ["das Kino"]
+  example_translations:
+    de: "Gehen wir heute Abend ins Kino?"
+
+- id: "coin"
+  lemma: "le coin"
+  pos: noun
+  level: A2
+  ipa: "/kwɛ̃/"
+  example: "La pharmacie est au coin de la rue."
+  translations:
+    de: ["die Ecke"]
+  example_translations:
+    de: "Die Apotheke ist an der Straßenecke."
+
+- id: "eglise"
+  lemma: "l'église (f.)"
+  pos: noun
+  level: A1
+  ipa: "/e.ɡliz/"
+  example: "L'église est au centre du village."
+  translations:
+    de: ["die Kirche"]
+  example_translations:
+    de: "Die Kirche ist in der Dorfmitte."
+
+- id: "mairie"
+  lemma: "la mairie"
+  pos: noun
+  level: A2
+  ipa: "/mɛ.ʁi/"
+  example: "La mairie est sur la place principale."
+  translations:
+    de: ["das Rathaus"]
+  example_translations:
+    de: "Das Rathaus steht am Hauptplatz."
+
+- id: "musee"
+  lemma: "le musée"
+  pos: noun
+  level: A1
+  ipa: "/my.ze/"
+  example: "Le musée est fermé le lundi."
+  translations:
+    de: ["das Museum"]
+  example_translations:
+    de: "Das Museum ist montags geschlossen."
+
+- id: "parc"
+  lemma: "le parc"
+  pos: noun
+  level: A1
+  ipa: "/paʁk/"
+  example: "Les enfants jouent au parc."
+  translations:
+    de: ["der Park"]
+  example_translations:
+    de: "Die Kinder spielen im Park."
+
+- id: "pharmacie"
+  lemma: "la pharmacie"
+  pos: noun
+  level: A1
+  ipa: "/faʁ.ma.si/"
+  example: "La pharmacie est en face de la poste."
+  translations:
+    de: ["die Apotheke"]
+  example_translations:
+    de: "Die Apotheke ist gegenüber der Post."
+
+- id: "piscine"
+  lemma: "la piscine"
+  pos: noun
+  level: A1
+  ipa: "/pi.sin/"
+  example: "Je vais à la piscine le mercredi."
+  translations:
+    de: ["das Schwimmbad"]
+  example_translations:
+    de: "Mittwochs gehe ich ins Schwimmbad."
+
+- id: "place"
+  lemma: "la place"
+  pos: noun
+  level: A1
+  ipa: "/plas/"
+  example: "Il y a un marché sur la place."
+  translations:
+    de: ["der Platz"]
+  example_translations:
+    de: "Auf dem Platz ist ein Markt."
+
+- id: "pont"
+  lemma: "le pont"
+  pos: noun
+  level: A1
+  ipa: "/pɔ̃/"
+  example: "Nous traversons le pont."
+  translations:
+    de: ["die Brücke"]
+  example_translations:
+    de: "Wir gehen über die Brücke."
+
+- id: "poste"
+  lemma: "la poste"
+  pos: noun
+  level: A1
+  ipa: "/pɔst/"
+  example: "Je vais à la poste pour envoyer un colis."
+  translations:
+    de: ["die Post"]
+  example_translations:
+    de: "Ich gehe zur Post, um ein Paket zu verschicken."
+
+- id: "quartier"
+  lemma: "le quartier"
+  pos: noun
+  level: A1
+  ipa: "/kaʁ.tje/"
+  example: "J'aime bien mon quartier."
+  translations:
+    de: ["das Viertel", "das Stadtviertel"]
+  example_translations:
+    de: "Ich mag mein Viertel sehr."
+
+- id: "restaurant"
+  lemma: "le restaurant"
+  pos: noun
+  level: A1
+  ipa: "/ʁɛs.tɔ.ʁɑ̃/"
+  example: "On mange au restaurant ce soir."
+  translations:
+    de: ["das Restaurant"]
+  example_translations:
+    de: "Heute Abend essen wir im Restaurant."
+
+- id: "rue"
+  lemma: "la rue"
+  pos: noun
+  level: A1
+  ipa: "/ʁy/"
+  example: "J'habite dans cette rue."
+  translations:
+    de: ["die Straße"]
+  example_translations:
+    de: "Ich wohne in dieser Straße."
+
+- id: "stade"
+  lemma: "le stade"
+  pos: noun
+  level: A2
+  ipa: "/stad/"
+  example: "Le match est au stade."
+  translations:
+    de: ["das Stadion"]
+  example_translations:
+    de: "Das Spiel ist im Stadion."
+
+- id: "tour"
+  lemma: "la tour"
+  pos: noun
+  level: A2
+  ipa: "/tuʁ/"
+  example: "La tour Eiffel est très haute."
+  translations:
+    de: ["der Turm"]
+  example_translations:
+    de: "Der Eiffelturm ist sehr hoch."
+
+- id: "trottoir"
+  lemma: "le trottoir"
+  pos: noun
+  level: A2
+  ipa: "/tʁɔ.twaʁ/"
+  example: "Marche sur le trottoir !"
+  translations:
+    de: ["der Gehweg"]
+  example_translations:
+    de: "Geh auf dem Gehweg!"
+
+- id: "village"
+  lemma: "le village"
+  pos: noun
+  level: A1
+  ipa: "/vi.laʒ/"
+  example: "Mes grands-parents habitent dans un petit village."
+  translations:
+    de: ["das Dorf"]
+  example_translations:
+    de: "Meine Großeltern wohnen in einem kleinen Dorf."
+
+- id: "ville"
+  lemma: "la ville"
+  pos: noun
+  level: A1
+  ipa: "/vil/"
+  example: "Lyon est une grande ville."
+  translations:
+    de: ["die Stadt"]
+  example_translations:
+    de: "Lyon ist eine große Stadt."

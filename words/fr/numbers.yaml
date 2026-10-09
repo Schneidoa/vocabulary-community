@@ -1,0 +1,596 @@
+# 🔢 Zahlen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "assez"
+  lemma: "assez"
+  pos: adverb
+  level: A1
+  ipa: "/a.se/"
+  example: "Tu as assez d'argent ?"
+  translations:
+    de: ["genug", "ziemlich"]
+  example_translations:
+    de: "Hast du genug Geld?"
+
+- id: "beaucoup"
+  lemma: "beaucoup"
+  pos: adverb
+  level: A1
+  ipa: "/bo.ku/"
+  example: "Il y a beaucoup de monde."
+  translations:
+    de: ["viel", "sehr"]
+  example_translations:
+    de: "Es sind viele Leute da."
+
+- id: "cent"
+  lemma: "cent"
+  pos: numeral
+  level: A1
+  ipa: "/sɑ̃/"
+  example: "Le vélo coûte cent euros."
+  translations:
+    de: ["hundert"]
+  example_translations:
+    de: "Das Fahrrad kostet hundert Euro."
+
+- id: "centimetre"
+  lemma: "le centimètre"
+  pos: noun
+  level: A2
+  ipa: "/sɑ̃.ti.mɛtʁ/"
+  example: "Il mesure un mètre quatre-vingts centimètres."
+  translations:
+    de: ["der Zentimeter"]
+  example_translations:
+    de: "Er ist ein Meter achtzig groß."
+
+- id: "chiffre"
+  lemma: "le chiffre"
+  pos: noun
+  level: A2
+  ipa: "/ʃifʁ/"
+  example: "Écrivez le chiffre en lettres."
+  translations:
+    de: ["die Ziffer", "die Zahl"]
+  example_translations:
+    de: "Schreiben Sie die Zahl in Buchstaben."
+
+- id: "cinq"
+  lemma: "cinq"
+  pos: numeral
+  level: A1
+  ipa: "/sɛ̃k/"
+  example: "Il a cinq ans."
+  translations:
+    de: ["fünf"]
+  example_translations:
+    de: "Er ist fünf Jahre alt."
+
+- id: "cinquante"
+  lemma: "cinquante"
+  pos: numeral
+  level: A1
+  ipa: "/sɛ̃.kɑ̃t/"
+  example: "Ça fait cinquante euros."
+  translations:
+    de: ["fünfzig"]
+  example_translations:
+    de: "Das macht fünfzig Euro."
+
+- id: "compter"
+  lemma: "compter"
+  pos: verb
+  level: A1
+  ipa: "/kɔ̃.te/"
+  example: "Les enfants comptent jusqu'à dix."
+  translations:
+    de: ["zählen"]
+  example_translations:
+    de: "Die Kinder zählen bis zehn."
+
+- id: "deux"
+  lemma: "deux"
+  pos: numeral
+  level: A1
+  ipa: "/dø/"
+  example: "Deux cafés, s'il vous plaît."
+  translations:
+    de: ["zwei"]
+  example_translations:
+    de: "Zwei Kaffee, bitte."
+
+- id: "deuxieme"
+  lemma: "deuxième"
+  pos: adjective
+  level: A1
+  ipa: "/dø.zjɛm/"
+  example: "Nous habitons au deuxième étage."
+  translations:
+    de: ["zweite"]
+  example_translations:
+    de: "Wir wohnen im zweiten Stock."
+
+- id: "dix"
+  lemma: "dix"
+  pos: numeral
+  level: A1
+  ipa: "/dis/"
+  example: "Ça coûte dix euros."
+  translations:
+    de: ["zehn"]
+  example_translations:
+    de: "Das kostet zehn Euro."
+
+- id: "dix-huit"
+  lemma: "dix-huit"
+  pos: numeral
+  level: A1
+  ipa: "/di.zɥit/"
+  example: "On peut voter à dix-huit ans."
+  translations:
+    de: ["achtzehn"]
+  example_translations:
+    de: "Man darf mit achtzehn Jahren wählen."
+
+- id: "dix-neuf"
+  lemma: "dix-neuf"
+  pos: numeral
+  level: A1
+  ipa: "/diz.nœf/"
+  example: "Il est dix-neuf heures."
+  translations:
+    de: ["neunzehn"]
+  example_translations:
+    de: "Es ist neunzehn Uhr."
+
+- id: "dix-sept"
+  lemma: "dix-sept"
+  pos: numeral
+  level: A1
+  ipa: "/di.sɛt/"
+  example: "J'ai dix-sept ans."
+  translations:
+    de: ["siebzehn"]
+  example_translations:
+    de: "Ich bin siebzehn Jahre alt."
+
+- id: "douzaine"
+  lemma: "la douzaine"
+  pos: noun
+  level: A2
+  ipa: "/du.zɛn/"
+  example: "Une douzaine d'œufs, s'il vous plaît."
+  translations:
+    de: ["das Dutzend"]
+  example_translations:
+    de: "Ein Dutzend Eier, bitte."
+
+- id: "douze"
+  lemma: "douze"
+  pos: numeral
+  level: A1
+  ipa: "/duz/"
+  example: "Une année a douze mois."
+  translations:
+    de: ["zwölf"]
+  example_translations:
+    de: "Ein Jahr hat zwölf Monate."
+
+- id: "gramme"
+  lemma: "le gramme"
+  pos: noun
+  level: A2
+  ipa: "/ɡʁam/"
+  example: "Il faut deux cents grammes de farine."
+  translations:
+    de: ["das Gramm"]
+  example_translations:
+    de: "Man braucht zweihundert Gramm Mehl."
+
+- id: "huit"
+  lemma: "huit"
+  pos: numeral
+  level: A1
+  ipa: "/ɥit/"
+  example: "Le cours commence à huit heures."
+  translations:
+    de: ["acht"]
+  example_translations:
+    de: "Der Kurs beginnt um acht Uhr."
+
+- id: "kilo"
+  lemma: "le kilo"
+  pos: noun
+  level: A1
+  ipa: "/ki.lo/"
+  example: "Un kilo de pommes, s'il vous plaît."
+  translations:
+    de: ["das Kilo"]
+  example_translations:
+    de: "Ein Kilo Äpfel, bitte."
+
+- id: "kilometre"
+  lemma: "le kilomètre"
+  pos: noun
+  level: A1
+  ipa: "/ki.lɔ.mɛtʁ/"
+  example: "La plage est à deux kilomètres."
+  translations:
+    de: ["der Kilometer"]
+  example_translations:
+    de: "Der Strand ist zwei Kilometer entfernt."
+
+- id: "litre"
+  lemma: "le litre"
+  pos: noun
+  level: A1
+  ipa: "/litʁ/"
+  example: "Je bois deux litres d'eau par jour."
+  translations:
+    de: ["der Liter"]
+  example_translations:
+    de: "Ich trinke zwei Liter Wasser am Tag."
+
+- id: "metre"
+  lemma: "le mètre"
+  pos: noun
+  level: A1
+  ipa: "/mɛtʁ/"
+  example: "La piscine fait vingt-cinq mètres."
+  translations:
+    de: ["der Meter"]
+  example_translations:
+    de: "Das Schwimmbecken ist fünfundzwanzig Meter lang."
+
+- id: "mille"
+  lemma: "mille"
+  pos: numeral
+  level: A1
+  ipa: "/mil/"
+  example: "La ville a mille habitants."
+  translations:
+    de: ["tausend"]
+  example_translations:
+    de: "Die Stadt hat tausend Einwohner."
+
+- id: "million"
+  lemma: "le million"
+  pos: noun
+  level: A2
+  ipa: "/mi.ljɔ̃/"
+  example: "Paris a plus de deux millions d'habitants."
+  translations:
+    de: ["die Million"]
+  example_translations:
+    de: "Paris hat über zwei Millionen Einwohner."
+
+- id: "moins"
+  lemma: "moins"
+  pos: adverb
+  level: A1
+  ipa: "/mwɛ̃/"
+  example: "Il fait moins froid aujourd'hui."
+  translations:
+    de: ["weniger"]
+  example_translations:
+    de: "Heute ist es weniger kalt."
+
+- id: "moitie"
+  lemma: "la moitié"
+  pos: noun
+  level: A2
+  ipa: "/mwa.tje/"
+  example: "Je mange la moitié de la pizza."
+  translations:
+    de: ["die Hälfte"]
+  example_translations:
+    de: "Ich esse die Hälfte der Pizza."
+
+- id: "neuf-numeral"
+  lemma: "neuf"
+  pos: numeral
+  level: A1
+  ipa: "/nœf/"
+  example: "Ma fille a neuf ans."
+  translations:
+    de: ["neun"]
+  example_translations:
+    de: "Meine Tochter ist neun Jahre alt."
+
+- id: "nombre"
+  lemma: "le nombre"
+  pos: noun
+  level: A2
+  ipa: "/nɔ̃bʁ/"
+  example: "Le nombre de touristes augmente."
+  translations:
+    de: ["die Zahl", "die Anzahl"]
+  example_translations:
+    de: "Die Zahl der Touristen steigt."
+
+- id: "numero"
+  lemma: "le numéro"
+  pos: noun
+  level: A1
+  ipa: "/ny.me.ʁo/"
+  example: "Quel est ton numéro de téléphone ?"
+  translations:
+    de: ["die Nummer"]
+  example_translations:
+    de: "Wie ist deine Telefonnummer?"
+
+- id: "onze"
+  lemma: "onze"
+  pos: numeral
+  level: A1
+  ipa: "/ɔ̃z/"
+  example: "Il y a onze joueurs dans une équipe."
+  translations:
+    de: ["elf"]
+  example_translations:
+    de: "In einer Mannschaft gibt es elf Spieler."
+
+- id: "peu"
+  lemma: "peu"
+  pos: adverb
+  level: A1
+  ipa: "/pø/"
+  example: "Il mange peu."
+  translations:
+    de: ["wenig"]
+  example_translations:
+    de: "Er isst wenig."
+
+- id: "plus"
+  lemma: "plus"
+  pos: adverb
+  level: A1
+  ipa: "/ply/"
+  example: "Je voudrais un peu plus de pain."
+  translations:
+    de: ["mehr"]
+  example_translations:
+    de: "Ich hätte gern etwas mehr Brot."
+
+- id: "premier"
+  lemma: "premier"
+  pos: adjective
+  level: A1
+  ipa: "/pʁə.mje/"
+  example: "C'est mon premier voyage en France."
+  translations:
+    de: ["erste"]
+  example_translations:
+    de: "Das ist meine erste Reise nach Frankreich."
+
+- id: "quarante"
+  lemma: "quarante"
+  pos: numeral
+  level: A1
+  ipa: "/ka.ʁɑ̃t/"
+  example: "Mon père a quarante ans."
+  translations:
+    de: ["vierzig"]
+  example_translations:
+    de: "Mein Vater ist vierzig Jahre alt."
+
+- id: "quart"
+  lemma: "le quart"
+  pos: noun
+  level: A1
+  ipa: "/kaʁ/"
+  example: "Il est trois heures et quart."
+  translations:
+    de: ["das Viertel"]
+  example_translations:
+    de: "Es ist Viertel nach drei."
+
+- id: "quatorze"
+  lemma: "quatorze"
+  pos: numeral
+  level: A1
+  ipa: "/ka.tɔʁz/"
+  example: "Le 14 juillet, c'est la fête nationale."
+  translations:
+    de: ["vierzehn"]
+  example_translations:
+    de: "Am 14. Juli ist der Nationalfeiertag."
+
+- id: "quatre"
+  lemma: "quatre"
+  pos: numeral
+  level: A1
+  ipa: "/katʁ/"
+  example: "La table a quatre chaises."
+  translations:
+    de: ["vier"]
+  example_translations:
+    de: "Am Tisch stehen vier Stühle."
+
+- id: "quatre-vingt-dix"
+  lemma: "quatre-vingt-dix"
+  pos: numeral
+  level: A1
+  ipa: "/ka.tʁə.vɛ̃.dis/"
+  example: "Mon arrière-grand-père a quatre-vingt-dix ans."
+  translations:
+    de: ["neunzig"]
+  example_translations:
+    de: "Mein Urgroßvater ist neunzig Jahre alt."
+
+- id: "quatre-vingts"
+  lemma: "quatre-vingts"
+  pos: numeral
+  level: A1
+  ipa: "/ka.tʁə.vɛ̃/"
+  example: "Il roule à quatre-vingts kilomètres à l'heure."
+  translations:
+    de: ["achtzig"]
+  example_translations:
+    de: "Er fährt achtzig Kilometer pro Stunde."
+
+- id: "quinze"
+  lemma: "quinze"
+  pos: numeral
+  level: A1
+  ipa: "/kɛ̃z/"
+  example: "Le train part dans quinze minutes."
+  translations:
+    de: ["fünfzehn"]
+  example_translations:
+    de: "Der Zug fährt in fünfzehn Minuten ab."
+
+- id: "seize"
+  lemma: "seize"
+  pos: numeral
+  level: A1
+  ipa: "/sɛz/"
+  example: "Il habite au numéro seize."
+  translations:
+    de: ["sechzehn"]
+  example_translations:
+    de: "Er wohnt in Nummer sechzehn."
+
+- id: "sept"
+  lemma: "sept"
+  pos: numeral
+  level: A1
+  ipa: "/sɛt/"
+  example: "Une semaine a sept jours."
+  translations:
+    de: ["sieben"]
+  example_translations:
+    de: "Eine Woche hat sieben Tage."
+
+- id: "six"
+  lemma: "six"
+  pos: numeral
+  level: A1
+  ipa: "/sis/"
+  example: "Je me lève à six heures."
+  translations:
+    de: ["sechs"]
+  example_translations:
+    de: "Ich stehe um sechs Uhr auf."
+
+- id: "soixante"
+  lemma: "soixante"
+  pos: numeral
+  level: A1
+  ipa: "/swa.sɑ̃t/"
+  example: "Une heure a soixante minutes."
+  translations:
+    de: ["sechzig"]
+  example_translations:
+    de: "Eine Stunde hat sechzig Minuten."
+
+- id: "soixante-dix"
+  lemma: "soixante-dix"
+  pos: numeral
+  level: A1
+  ipa: "/swa.sɑ̃t.dis/"
+  example: "Ma grand-mère a soixante-dix ans."
+  translations:
+    de: ["siebzig"]
+  example_translations:
+    de: "Meine Großmutter ist siebzig Jahre alt."
+
+- id: "treize"
+  lemma: "treize"
+  pos: numeral
+  level: A1
+  ipa: "/tʁɛz/"
+  example: "Elle a treize ans."
+  translations:
+    de: ["dreizehn"]
+  example_translations:
+    de: "Sie ist dreizehn Jahre alt."
+
+- id: "trente"
+  lemma: "trente"
+  pos: numeral
+  level: A1
+  ipa: "/tʁɑ̃t/"
+  example: "Le mois a trente jours."
+  translations:
+    de: ["dreißig"]
+  example_translations:
+    de: "Der Monat hat dreißig Tage."
+
+- id: "trois"
+  lemma: "trois"
+  pos: numeral
+  level: A1
+  ipa: "/tʁwa/"
+  example: "Nous avons trois chats."
+  translations:
+    de: ["drei"]
+  example_translations:
+    de: "Wir haben drei Katzen."
+
+- id: "troisieme"
+  lemma: "troisième"
+  pos: adjective
+  level: A1
+  ipa: "/tʁwa.zjɛm/"
+  example: "C'est la troisième rue à gauche."
+  translations:
+    de: ["dritte"]
+  example_translations:
+    de: "Das ist die dritte Straße links."
+
+- id: "trop"
+  lemma: "trop"
+  pos: adverb
+  level: A1
+  ipa: "/tʁo/"
+  example: "C'est trop cher."
+  translations:
+    de: ["zu", "zu viel"]
+  example_translations:
+    de: "Das ist zu teuer."
+
+- id: "un-numeral"
+  lemma: "un"
+  pos: numeral
+  level: A1
+  ipa: "/œ̃/"
+  example: "J'ai un frère."
+  translations:
+    de: ["eins", "ein"]
+  example_translations:
+    de: "Ich habe einen Bruder."
+
+- id: "un-peu"
+  lemma: "un peu"
+  pos: adverb
+  level: A1
+  ipa: "/œ̃ pø/"
+  example: "Je parle un peu français."
+  translations:
+    de: ["ein bisschen", "etwas"]
+  example_translations:
+    de: "Ich spreche ein bisschen Französisch."
+
+- id: "vingt"
+  lemma: "vingt"
+  pos: numeral
+  level: A1
+  ipa: "/vɛ̃/"
+  example: "Il y a vingt élèves dans la classe."
+  translations:
+    de: ["zwanzig"]
+  example_translations:
+    de: "In der Klasse sind zwanzig Schüler."
+
+- id: "zero"
+  lemma: "zéro"
+  pos: numeral
+  level: A1
+  ipa: "/ze.ʁo/"
+  example: "Il fait zéro degré."
+  translations:
+    de: ["null"]
+  example_translations:
+    de: "Es sind null Grad."

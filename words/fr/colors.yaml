@@ -1,0 +1,200 @@
+# 🎨 Farben – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "beige"
+  lemma: "beige"
+  pos: adjective
+  level: A2
+  ipa: "/bɛʒ/"
+  example: "Il porte un pantalon beige."
+  translations:
+    de: ["beige"]
+  example_translations:
+    de: "Er trägt eine beige Hose."
+
+- id: "blanc"
+  lemma: "blanc"
+  pos: adjective
+  level: A1
+  ipa: "/blɑ̃/"
+  example: "Elle porte une robe blanche."
+  translations:
+    de: ["weiß"]
+  example_translations:
+    de: "Sie trägt ein weißes Kleid."
+
+- id: "bleu"
+  lemma: "bleu"
+  pos: adjective
+  level: A1
+  ipa: "/blø/"
+  example: "Le ciel est bleu."
+  translations:
+    de: ["blau"]
+  example_translations:
+    de: "Der Himmel ist blau."
+
+- id: "blond"
+  lemma: "blond"
+  pos: adjective
+  level: A1
+  ipa: "/blɔ̃/"
+  example: "Mon fils est blond."
+  translations:
+    de: ["blond"]
+  example_translations:
+    de: "Mein Sohn ist blond."
+
+- id: "brun"
+  lemma: "brun"
+  pos: adjective
+  level: A2
+  ipa: "/bʁœ̃/"
+  example: "Elle a les cheveux bruns."
+  translations:
+    de: ["braun", "dunkelhaarig"]
+  example_translations:
+    de: "Sie hat braune Haare."
+
+- id: "clair"
+  lemma: "clair"
+  pos: adjective
+  level: A2
+  ipa: "/klɛʁ/"
+  example: "Je préfère le bleu clair."
+  translations:
+    de: ["hell", "klar"]
+  example_translations:
+    de: "Ich mag lieber Hellblau."
+
+- id: "couleur"
+  lemma: "la couleur"
+  pos: noun
+  level: A1
+  ipa: "/ku.lœʁ/"
+  example: "Quelle est ta couleur préférée ?"
+  translations:
+    de: ["die Farbe"]
+  example_translations:
+    de: "Was ist deine Lieblingsfarbe?"
+
+- id: "fonce"
+  lemma: "foncé"
+  pos: adjective
+  level: A2
+  ipa: "/fɔ̃.se/"
+  example: "Il porte un costume gris foncé."
+  translations:
+    de: ["dunkel"]
+  example_translations:
+    de: "Er trägt einen dunkelgrauen Anzug."
+
+- id: "gris"
+  lemma: "gris"
+  pos: adjective
+  level: A1
+  ipa: "/ɡʁi/"
+  example: "Le ciel est gris aujourd'hui."
+  translations:
+    de: ["grau"]
+  example_translations:
+    de: "Der Himmel ist heute grau."
+
+- id: "jaune"
+  lemma: "jaune"
+  pos: adjective
+  level: A1
+  ipa: "/ʒon/"
+  example: "La banane est jaune."
+  translations:
+    de: ["gelb"]
+  example_translations:
+    de: "Die Banane ist gelb."
+
+- id: "marron"
+  lemma: "marron"
+  pos: adjective
+  level: A1
+  ipa: "/ma.ʁɔ̃/"
+  example: "Il a les yeux marron."
+  translations:
+    de: ["braun"]
+  example_translations:
+    de: "Er hat braune Augen."
+
+- id: "noir"
+  lemma: "noir"
+  pos: adjective
+  level: A1
+  ipa: "/nwaʁ/"
+  example: "J'ai un chat noir."
+  translations:
+    de: ["schwarz"]
+  example_translations:
+    de: "Ich habe eine schwarze Katze."
+
+- id: "orange-adjective"
+  lemma: "orange"
+  pos: adjective
+  level: A1
+  ipa: "/ɔ.ʁɑ̃ʒ/"
+  example: "Il a un sac orange."
+  translations:
+    de: ["orange"]
+  example_translations:
+    de: "Er hat eine orangefarbene Tasche."
+
+- id: "rose"
+  lemma: "rose"
+  pos: adjective
+  level: A1
+  ipa: "/ʁoz/"
+  example: "Elle aime les fleurs roses."
+  translations:
+    de: ["rosa"]
+  example_translations:
+    de: "Sie mag rosa Blumen."
+
+- id: "rouge"
+  lemma: "rouge"
+  pos: adjective
+  level: A1
+  ipa: "/ʁuʒ/"
+  example: "Les tomates sont rouges."
+  translations:
+    de: ["rot"]
+  example_translations:
+    de: "Die Tomaten sind rot."
+
+- id: "roux"
+  lemma: "roux"
+  pos: adjective
+  level: A2
+  ipa: "/ʁu/"
+  example: "Elle a les cheveux roux."
+  translations:
+    de: ["rothaarig", "rötlich"]
+  example_translations:
+    de: "Sie hat rote Haare."
+
+- id: "vert"
+  lemma: "vert"
+  pos: adjective
+  level: A1
+  ipa: "/vɛʁ/"
+  example: "L'herbe est verte."
+  translations:
+    de: ["grün"]
+  example_translations:
+    de: "Das Gras ist grün."
+
+- id: "violet"
+  lemma: "violet"
+  pos: adjective
+  level: A1
+  ipa: "/vjɔ.lɛ/"
+  example: "Ma chambre est violette."
+  translations:
+    de: ["lila", "violett"]
+  example_translations:
+    de: "Mein Zimmer ist lila."

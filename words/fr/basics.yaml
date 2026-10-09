@@ -1,0 +1,354 @@
+# 👋 Grundlagen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a-bientot"
+  lemma: "à bientôt"
+  pos: phrase
+  level: A1
+  ipa: "/a bjɛ̃.to/"
+  example: "Merci pour tout, à bientôt !"
+  translations:
+    de: ["bis bald"]
+  example_translations:
+    de: "Danke für alles, bis bald!"
+
+- id: "a-demain"
+  lemma: "à demain"
+  pos: phrase
+  level: A1
+  ipa: "/a də.mɛ̃/"
+  example: "À demain, au bureau."
+  translations:
+    de: ["bis morgen"]
+  example_translations:
+    de: "Bis morgen im Büro."
+
+- id: "adresse"
+  lemma: "l'adresse (f.)"
+  pos: noun
+  level: A1
+  ipa: "/a.dʁɛs/"
+  example: "Quelle est ton adresse ?"
+  translations:
+    de: ["die Adresse"]
+  example_translations:
+    de: "Wie ist deine Adresse?"
+
+- id: "attention-interjection"
+  lemma: "attention"
+  pos: interjection
+  level: A1
+  ipa: "/a.tɑ̃.sjɔ̃/"
+  example: "Attention à la marche !"
+  translations:
+    de: ["Achtung", "Vorsicht"]
+  example_translations:
+    de: "Vorsicht, Stufe!"
+
+- id: "au-revoir"
+  lemma: "au revoir"
+  pos: interjection
+  level: A1
+  ipa: "/o ʁə.vwaʁ/"
+  example: "Au revoir et à demain !"
+  translations:
+    de: ["auf Wiedersehen"]
+  example_translations:
+    de: "Auf Wiedersehen und bis morgen!"
+
+- id: "bienvenue"
+  lemma: "bienvenue"
+  pos: interjection
+  level: A1
+  ipa: "/bjɛ̃v.ny/"
+  example: "Bienvenue à Paris !"
+  translations:
+    de: ["willkommen"]
+  example_translations:
+    de: "Willkommen in Paris!"
+
+- id: "bon-appetit"
+  lemma: "bon appétit"
+  pos: phrase
+  level: A1
+  ipa: "/bɔ.n‿a.pe.ti/"
+  example: "Le dîner est prêt, bon appétit !"
+  translations:
+    de: ["guten Appetit"]
+  example_translations:
+    de: "Das Essen ist fertig, guten Appetit!"
+
+- id: "bon-week-end"
+  lemma: "bon week-end"
+  pos: phrase
+  level: A2
+  ipa: "/bɔ̃ wi.kɛnd/"
+  example: "Bon week-end à tous !"
+  translations:
+    de: ["schönes Wochenende"]
+  example_translations:
+    de: "Schönes Wochenende euch allen!"
+
+- id: "bonjour"
+  lemma: "bonjour"
+  pos: interjection
+  level: A1
+  ipa: "/bɔ̃.ʒuʁ/"
+  example: "Bonjour, comment allez-vous ?"
+  translations:
+    de: ["guten Tag", "hallo", "guten Morgen"]
+  example_translations:
+    de: "Guten Tag, wie geht es Ihnen?"
+
+- id: "bonne-chance"
+  lemma: "bonne chance"
+  pos: phrase
+  level: A2
+  ipa: "/bɔn ʃɑ̃s/"
+  example: "Bonne chance pour demain !"
+  translations:
+    de: ["viel Glück"]
+  example_translations:
+    de: "Viel Glück für morgen!"
+
+- id: "bonne-journee"
+  lemma: "bonne journée"
+  pos: phrase
+  level: A1
+  ipa: "/bɔn ʒuʁ.ne/"
+  example: "Merci et bonne journée !"
+  translations:
+    de: ["schönen Tag"]
+  example_translations:
+    de: "Danke und einen schönen Tag!"
+
+- id: "bonne-nuit"
+  lemma: "bonne nuit"
+  pos: phrase
+  level: A1
+  ipa: "/bɔn nɥi/"
+  example: "Bonne nuit, dors bien !"
+  translations:
+    de: ["gute Nacht"]
+  example_translations:
+    de: "Gute Nacht, schlaf gut!"
+
+- id: "bonsoir"
+  lemma: "bonsoir"
+  pos: interjection
+  level: A1
+  ipa: "/bɔ̃.swaʁ/"
+  example: "Bonsoir, madame."
+  translations:
+    de: ["guten Abend"]
+  example_translations:
+    de: "Guten Abend, meine Dame."
+
+- id: "ca-va"
+  lemma: "ça va"
+  pos: phrase
+  level: A1
+  ipa: "/sa va/"
+  example: "Ça va ? – Oui, ça va bien."
+  translations:
+    de: ["wie geht's", "es geht"]
+  example_translations:
+    de: "Wie geht's? – Gut."
+
+- id: "d-accord-phrase"
+  lemma: "d'accord"
+  pos: phrase
+  level: A1
+  ipa: "/da.kɔʁ/"
+  example: "D'accord, on se voit à huit heures."
+  translations:
+    de: ["einverstanden", "okay"]
+  example_translations:
+    de: "Einverstanden, wir sehen uns um acht."
+
+- id: "de-rien"
+  lemma: "de rien"
+  pos: phrase
+  level: A1
+  ipa: "/də ʁjɛ̃/"
+  example: "Merci ! – De rien."
+  translations:
+    de: ["gern geschehen", "keine Ursache"]
+  example_translations:
+    de: "Danke! – Gern geschehen."
+
+- id: "desole"
+  lemma: "désolé"
+  pos: adjective
+  level: A1
+  ipa: "/de.zɔ.le/"
+  example: "Je suis désolé, je suis en retard."
+  translations:
+    de: ["es tut mir leid", "traurig"]
+  example_translations:
+    de: "Es tut mir leid, ich bin spät dran."
+
+- id: "enchante"
+  lemma: "enchanté"
+  pos: adjective
+  level: A1
+  ipa: "/ɑ̃.ʃɑ̃.te/"
+  example: "Enchanté, je m'appelle Paul."
+  translations:
+    de: ["sehr erfreut"]
+  example_translations:
+    de: "Sehr erfreut, ich heiße Paul."
+
+- id: "excusez-moi"
+  lemma: "excusez-moi"
+  pos: phrase
+  level: A1
+  ipa: "/ɛk.sky.ze mwa/"
+  example: "Excusez-moi, où est la gare ?"
+  translations:
+    de: ["entschuldigen Sie"]
+  example_translations:
+    de: "Entschuldigen Sie, wo ist der Bahnhof?"
+
+- id: "felicitations"
+  lemma: "félicitations"
+  pos: interjection
+  level: A2
+  ipa: "/fe.li.si.ta.sjɔ̃/"
+  example: "Félicitations pour ton examen !"
+  translations:
+    de: ["herzlichen Glückwunsch"]
+  example_translations:
+    de: "Herzlichen Glückwunsch zu deiner Prüfung!"
+
+- id: "joyeux-anniversaire"
+  lemma: "joyeux anniversaire"
+  pos: phrase
+  level: A1
+  ipa: "/ʒwa.jø.z‿a.ni.vɛʁ.sɛʁ/"
+  example: "Joyeux anniversaire, Marie !"
+  translations:
+    de: ["alles Gute zum Geburtstag"]
+  example_translations:
+    de: "Alles Gute zum Geburtstag, Marie!"
+
+- id: "merci"
+  lemma: "merci"
+  pos: interjection
+  level: A1
+  ipa: "/mɛʁ.si/"
+  example: "Merci beaucoup !"
+  translations:
+    de: ["danke"]
+  example_translations:
+    de: "Vielen Dank!"
+
+- id: "nom"
+  lemma: "le nom"
+  pos: noun
+  level: A1
+  ipa: "/nɔ̃/"
+  example: "Quel est votre nom ?"
+  translations:
+    de: ["der Name", "der Nachname"]
+  example_translations:
+    de: "Wie ist Ihr Name?"
+
+- id: "non"
+  lemma: "non"
+  pos: adverb
+  level: A1
+  ipa: "/nɔ̃/"
+  example: "Non, merci."
+  translations:
+    de: ["nein"]
+  example_translations:
+    de: "Nein, danke."
+
+- id: "oui"
+  lemma: "oui"
+  pos: adverb
+  level: A1
+  ipa: "/wi/"
+  example: "Oui, je viens avec toi."
+  translations:
+    de: ["ja"]
+  example_translations:
+    de: "Ja, ich komme mit dir."
+
+- id: "pardon"
+  lemma: "pardon"
+  pos: interjection
+  level: A1
+  ipa: "/paʁ.dɔ̃/"
+  example: "Pardon, je ne vous ai pas vu."
+  translations:
+    de: ["Entschuldigung", "Verzeihung"]
+  example_translations:
+    de: "Entschuldigung, ich habe Sie nicht gesehen."
+
+- id: "prenom"
+  lemma: "le prénom"
+  pos: noun
+  level: A1
+  ipa: "/pʁe.nɔ̃/"
+  example: "Mon prénom est Julie."
+  translations:
+    de: ["der Vorname"]
+  example_translations:
+    de: "Mein Vorname ist Julie."
+
+- id: "s-appeler"
+  lemma: "s'appeler"
+  pos: verb
+  level: A1
+  ipa: "/sa.ple/"
+  example: "Comment tu t'appelles ?"
+  translations:
+    de: ["heißen"]
+  example_translations:
+    de: "Wie heißt du?"
+
+- id: "s-il-te-plait"
+  lemma: "s'il te plaît"
+  pos: phrase
+  level: A1
+  ipa: "/sil tə plɛ/"
+  example: "Passe-moi le sel, s'il te plaît."
+  translations:
+    de: ["bitte (du)"]
+  example_translations:
+    de: "Gib mir bitte das Salz."
+
+- id: "s-il-vous-plait"
+  lemma: "s'il vous plaît"
+  pos: phrase
+  level: A1
+  ipa: "/sil vu plɛ/"
+  example: "Un café, s'il vous plaît."
+  translations:
+    de: ["bitte (Sie)"]
+  example_translations:
+    de: "Einen Kaffee, bitte."
+
+- id: "salut"
+  lemma: "salut"
+  pos: interjection
+  level: A1
+  ipa: "/sa.ly/"
+  example: "Salut, ça va ?"
+  translations:
+    de: ["hallo", "tschüss"]
+  example_translations:
+    de: "Hallo, wie geht's?"
+
+- id: "si-adverb"
+  lemma: "si"
+  pos: adverb
+  level: A1
+  ipa: "/si/"
+  example: "Tu ne viens pas ? – Si !"
+  translations:
+    de: ["doch"]
+  example_translations:
+    de: "Kommst du nicht? – Doch!"

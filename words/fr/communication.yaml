@@ -1,0 +1,585 @@
+# 💬 Sprache & Kommunikation – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "accent"
+  lemma: "l'accent (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ak.sɑ̃/"
+  example: "Il parle avec un accent allemand."
+  translations:
+    de: ["der Akzent"]
+  example_translations:
+    de: "Er spricht mit deutschem Akzent."
+
+- id: "allemand-noun"
+  lemma: "l'allemand (m.)"
+  pos: noun
+  level: A1
+  ipa: "/al.mɑ̃/"
+  example: "Tu parles allemand ?"
+  translations:
+    de: ["Deutsch (Sprache)"]
+  example_translations:
+    de: "Sprichst du Deutsch?"
+
+- id: "anglais"
+  lemma: "l'anglais (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɑ̃.ɡlɛ/"
+  example: "Il parle bien anglais."
+  translations:
+    de: ["Englisch (Sprache)"]
+  example_translations:
+    de: "Er spricht gut Englisch."
+
+- id: "appeler"
+  lemma: "appeler"
+  pos: verb
+  level: A1
+  ipa: "/a.ple/"
+  example: "Je t'appelle ce soir."
+  translations:
+    de: ["anrufen", "rufen"]
+  example_translations:
+    de: "Ich rufe dich heute Abend an."
+
+- id: "bien-sur"
+  lemma: "bien sûr"
+  pos: adverb
+  level: A1
+  ipa: "/bjɛ̃ syʁ/"
+  example: "Bien sûr, tu peux venir."
+  translations:
+    de: ["natürlich", "selbstverständlich"]
+  example_translations:
+    de: "Natürlich kannst du kommen."
+
+- id: "carte-postale"
+  lemma: "la carte postale"
+  pos: noun
+  level: A1
+  ipa: "/kaʁt pɔs.tal/"
+  example: "Je t'envoie une carte postale de Nice."
+  translations:
+    de: ["die Postkarte"]
+  example_translations:
+    de: "Ich schicke dir eine Postkarte aus Nizza."
+
+- id: "colis"
+  lemma: "le colis"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.li/"
+  example: "J'attends un colis."
+  translations:
+    de: ["das Paket"]
+  example_translations:
+    de: "Ich warte auf ein Paket."
+
+- id: "conseil"
+  lemma: "le conseil"
+  pos: noun
+  level: A2
+  ipa: "/kɔ̃.sɛj/"
+  example: "Tu as un conseil pour moi ?"
+  translations:
+    de: ["der Rat", "der Ratschlag"]
+  example_translations:
+    de: "Hast du einen Rat für mich?"
+
+- id: "conseiller"
+  lemma: "conseiller"
+  pos: verb
+  level: A2
+  ipa: "/kɔ̃.se.je/"
+  example: "Je te conseille ce restaurant."
+  translations:
+    de: ["raten", "beraten"]
+  example_translations:
+    de: "Ich empfehle dir dieses Restaurant."
+
+- id: "conversation"
+  lemma: "la conversation"
+  pos: noun
+  level: A2
+  ipa: "/kɔ̃.vɛʁ.sa.sjɔ̃/"
+  example: "C'était une conversation intéressante."
+  translations:
+    de: ["das Gespräch", "die Unterhaltung"]
+  example_translations:
+    de: "Das war ein interessantes Gespräch."
+
+- id: "courrier"
+  lemma: "le courrier"
+  pos: noun
+  level: A2
+  ipa: "/ku.ʁje/"
+  example: "Il y a du courrier pour toi."
+  translations:
+    de: ["die Post (Briefe)"]
+  example_translations:
+    de: "Für dich ist Post da."
+
+- id: "crier"
+  lemma: "crier"
+  pos: verb
+  level: A2
+  ipa: "/kʁi.je/"
+  example: "Ne crie pas !"
+  translations:
+    de: ["schreien"]
+  example_translations:
+    de: "Schrei nicht!"
+
+- id: "demander"
+  lemma: "demander"
+  pos: verb
+  level: A1
+  ipa: "/də.mɑ̃.de/"
+  example: "Je demande le chemin."
+  translations:
+    de: ["fragen", "bitten"]
+  example_translations:
+    de: "Ich frage nach dem Weg."
+
+- id: "dire"
+  lemma: "dire"
+  pos: verb
+  level: A1
+  ipa: "/diʁ/"
+  example: "Qu'est-ce que tu dis ?"
+  translations:
+    de: ["sagen"]
+  example_translations:
+    de: "Was sagst du?"
+
+- id: "discussion"
+  lemma: "la discussion"
+  pos: noun
+  level: A2
+  ipa: "/dis.ky.sjɔ̃/"
+  example: "Nous avons eu une longue discussion."
+  translations:
+    de: ["die Diskussion", "das Gespräch"]
+  example_translations:
+    de: "Wir hatten ein langes Gespräch."
+
+- id: "discuter"
+  lemma: "discuter"
+  pos: verb
+  level: A2
+  ipa: "/dis.ky.te/"
+  example: "Nous discutons de politique."
+  translations:
+    de: ["diskutieren", "sich unterhalten"]
+  example_translations:
+    de: "Wir diskutieren über Politik."
+
+- id: "en-fait"
+  lemma: "en fait"
+  pos: adverb
+  level: A2
+  ipa: "/ɑ̃ fɛt/"
+  example: "En fait, je ne suis pas d'accord."
+  translations:
+    de: ["eigentlich", "tatsächlich"]
+  example_translations:
+    de: "Eigentlich bin ich nicht einverstanden."
+
+- id: "enveloppe"
+  lemma: "l'enveloppe (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃v.lɔp/"
+  example: "Mets la lettre dans l'enveloppe."
+  translations:
+    de: ["der Umschlag"]
+  example_translations:
+    de: "Steck den Brief in den Umschlag."
+
+- id: "envoyer"
+  lemma: "envoyer"
+  pos: verb
+  level: A1
+  ipa: "/ɑ̃.vwa.je/"
+  example: "J'envoie une carte postale."
+  translations:
+    de: ["schicken", "senden"]
+  example_translations:
+    de: "Ich schicke eine Postkarte."
+
+- id: "epeler"
+  lemma: "épeler"
+  pos: verb
+  level: A2
+  ipa: "/e.ple/"
+  example: "Vous pouvez épeler votre nom ?"
+  translations:
+    de: ["buchstabieren"]
+  example_translations:
+    de: "Können Sie Ihren Namen buchstabieren?"
+
+- id: "evidemment"
+  lemma: "évidemment"
+  pos: adverb
+  level: A2
+  ipa: "/e.vi.da.mɑ̃/"
+  example: "Évidemment, il a oublié."
+  translations:
+    de: ["selbstverständlich", "natürlich"]
+  example_translations:
+    de: "Natürlich hat er es vergessen."
+
+- id: "expliquer"
+  lemma: "expliquer"
+  pos: verb
+  level: A1
+  ipa: "/ɛks.pli.ke/"
+  example: "Le professeur explique la grammaire."
+  translations:
+    de: ["erklären"]
+  example_translations:
+    de: "Der Lehrer erklärt die Grammatik."
+
+- id: "francais-noun"
+  lemma: "le français"
+  pos: noun
+  level: A1
+  ipa: "/fʁɑ̃.sɛ/"
+  example: "J'apprends le français."
+  translations:
+    de: ["Französisch (Sprache)"]
+  example_translations:
+    de: "Ich lerne Französisch."
+
+- id: "information"
+  lemma: "l'information (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛ̃.fɔʁ.ma.sjɔ̃/"
+  example: "J'ai besoin d'une information."
+  translations:
+    de: ["die Information", "die Auskunft"]
+  example_translations:
+    de: "Ich brauche eine Auskunft."
+
+- id: "invitation"
+  lemma: "l'invitation (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃.vi.ta.sjɔ̃/"
+  example: "Merci pour l'invitation."
+  translations:
+    de: ["die Einladung"]
+  example_translations:
+    de: "Danke für die Einladung."
+
+- id: "inviter"
+  lemma: "inviter"
+  pos: verb
+  level: A1
+  ipa: "/ɛ̃.vi.te/"
+  example: "Je t'invite à mon anniversaire."
+  translations:
+    de: ["einladen"]
+  example_translations:
+    de: "Ich lade dich zu meinem Geburtstag ein."
+
+- id: "langue"
+  lemma: "la langue"
+  pos: noun
+  level: A1
+  ipa: "/lɑ̃ɡ/"
+  example: "Tu parles quelles langues ?"
+  translations:
+    de: ["die Sprache", "die Zunge"]
+  example_translations:
+    de: "Welche Sprachen sprichst du?"
+
+- id: "lettre"
+  lemma: "la lettre"
+  pos: noun
+  level: A1
+  ipa: "/lɛtʁ/"
+  example: "J'écris une lettre à mon ami."
+  translations:
+    de: ["der Brief", "der Buchstabe"]
+  example_translations:
+    de: "Ich schreibe meinem Freund einen Brief."
+
+- id: "message"
+  lemma: "le message"
+  pos: noun
+  level: A1
+  ipa: "/me.saʒ/"
+  example: "J'ai reçu ton message."
+  translations:
+    de: ["die Nachricht"]
+  example_translations:
+    de: "Ich habe deine Nachricht bekommen."
+
+- id: "mot"
+  lemma: "le mot"
+  pos: noun
+  level: A1
+  ipa: "/mo/"
+  example: "Je ne connais pas ce mot."
+  translations:
+    de: ["das Wort"]
+  example_translations:
+    de: "Ich kenne dieses Wort nicht."
+
+- id: "nouvelle"
+  lemma: "la nouvelle"
+  pos: noun
+  level: A2
+  ipa: "/nu.vɛl/"
+  example: "J'ai une bonne nouvelle !"
+  translations:
+    de: ["die Neuigkeit", "die Nachricht"]
+  example_translations:
+    de: "Ich habe eine gute Neuigkeit!"
+
+- id: "par-exemple"
+  lemma: "par exemple"
+  pos: adverb
+  level: A1
+  ipa: "/paʁ ɛɡ.zɑ̃pl/"
+  example: "J'aime les fruits, par exemple les pommes."
+  translations:
+    de: ["zum Beispiel"]
+  example_translations:
+    de: "Ich mag Obst, zum Beispiel Äpfel."
+
+- id: "parler"
+  lemma: "parler"
+  pos: verb
+  level: A1
+  ipa: "/paʁ.le/"
+  example: "Tu parles français ?"
+  translations:
+    de: ["sprechen", "reden"]
+  example_translations:
+    de: "Sprichst du Französisch?"
+
+- id: "phrase"
+  lemma: "la phrase"
+  pos: noun
+  level: A1
+  ipa: "/fʁaz/"
+  example: "Lisez la première phrase."
+  translations:
+    de: ["der Satz"]
+  example_translations:
+    de: "Lest den ersten Satz."
+
+- id: "presenter"
+  lemma: "présenter"
+  pos: verb
+  level: A2
+  ipa: "/pʁe.zɑ̃.te/"
+  example: "Je te présente ma femme."
+  translations:
+    de: ["vorstellen", "präsentieren"]
+  example_translations:
+    de: "Ich stelle dir meine Frau vor."
+
+- id: "probablement"
+  lemma: "probablement"
+  pos: adverb
+  level: A2
+  ipa: "/pʁɔ.babl.mɑ̃/"
+  example: "Il va probablement pleuvoir."
+  translations:
+    de: ["wahrscheinlich"]
+  example_translations:
+    de: "Es wird wahrscheinlich regnen."
+
+- id: "promettre"
+  lemma: "promettre"
+  pos: verb
+  level: A2
+  ipa: "/pʁɔ.mɛtʁ/"
+  example: "Je te promets de venir."
+  translations:
+    de: ["versprechen"]
+  example_translations:
+    de: "Ich verspreche dir zu kommen."
+
+- id: "proposer"
+  lemma: "proposer"
+  pos: verb
+  level: A2
+  ipa: "/pʁɔ.po.ze/"
+  example: "Je propose d'aller au cinéma."
+  translations:
+    de: ["vorschlagen", "anbieten"]
+  example_translations:
+    de: "Ich schlage vor, ins Kino zu gehen."
+
+- id: "raconter"
+  lemma: "raconter"
+  pos: verb
+  level: A2
+  ipa: "/ʁa.kɔ̃.te/"
+  example: "Raconte-moi ton voyage."
+  translations:
+    de: ["erzählen"]
+  example_translations:
+    de: "Erzähl mir von deiner Reise."
+
+- id: "recevoir"
+  lemma: "recevoir"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.sə.vwaʁ/"
+  example: "J'ai reçu une lettre."
+  translations:
+    de: ["bekommen", "erhalten", "empfangen"]
+  example_translations:
+    de: "Ich habe einen Brief bekommen."
+
+- id: "refuser"
+  lemma: "refuser"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.fy.ze/"
+  example: "Il refuse de manger."
+  translations:
+    de: ["ablehnen", "sich weigern"]
+  example_translations:
+    de: "Er weigert sich zu essen."
+
+- id: "remercier"
+  lemma: "remercier"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.mɛʁ.sje/"
+  example: "Je vous remercie."
+  translations:
+    de: ["danken"]
+  example_translations:
+    de: "Ich danke Ihnen."
+
+- id: "repeter"
+  lemma: "répéter"
+  pos: verb
+  level: A1
+  ipa: "/ʁe.pe.te/"
+  example: "Vous pouvez répéter, s'il vous plaît ?"
+  translations:
+    de: ["wiederholen"]
+  example_translations:
+    de: "Können Sie das bitte wiederholen?"
+
+- id: "repondre"
+  lemma: "répondre"
+  pos: verb
+  level: A1
+  ipa: "/ʁe.pɔ̃dʁ/"
+  example: "Réponds à ma question."
+  translations:
+    de: ["antworten"]
+  example_translations:
+    de: "Antworte auf meine Frage."
+
+- id: "s-excuser"
+  lemma: "s'excuser"
+  pos: verb
+  level: A2
+  ipa: "/sɛks.ky.ze/"
+  example: "Il s'excuse pour son retard."
+  translations:
+    de: ["sich entschuldigen"]
+  example_translations:
+    de: "Er entschuldigt sich für seine Verspätung."
+
+- id: "se-disputer"
+  lemma: "se disputer"
+  pos: verb
+  level: A2
+  ipa: "/sə dis.py.te/"
+  example: "Les enfants se disputent."
+  translations:
+    de: ["sich streiten"]
+  example_translations:
+    de: "Die Kinder streiten sich."
+
+- id: "se-plaindre"
+  lemma: "se plaindre"
+  pos: verb
+  level: A2
+  ipa: "/sə plɛ̃dʁ/"
+  example: "Il se plaint toujours."
+  translations:
+    de: ["sich beschweren"]
+  example_translations:
+    de: "Er beschwert sich immer."
+
+- id: "signifier"
+  lemma: "signifier"
+  pos: verb
+  level: A2
+  ipa: "/si.ɲi.fje/"
+  example: "Que signifie ce mot ?"
+  translations:
+    de: ["bedeuten"]
+  example_translations:
+    de: "Was bedeutet dieses Wort?"
+
+- id: "telephoner"
+  lemma: "téléphoner"
+  pos: verb
+  level: A1
+  ipa: "/te.le.fɔ.ne/"
+  example: "Je téléphone à ma mère."
+  translations:
+    de: ["telefonieren", "anrufen"]
+  example_translations:
+    de: "Ich rufe meine Mutter an."
+
+- id: "timbre"
+  lemma: "le timbre"
+  pos: noun
+  level: A2
+  ipa: "/tɛ̃bʁ/"
+  example: "Il faut un timbre pour cette lettre."
+  translations:
+    de: ["die Briefmarke"]
+  example_translations:
+    de: "Für diesen Brief braucht man eine Briefmarke."
+
+- id: "traduire"
+  lemma: "traduire"
+  pos: verb
+  level: A2
+  ipa: "/tʁa.dɥiʁ/"
+  example: "Tu peux traduire ce texte ?"
+  translations:
+    de: ["übersetzen"]
+  example_translations:
+    de: "Kannst du diesen Text übersetzen?"
+
+- id: "voix"
+  lemma: "la voix"
+  pos: noun
+  level: A2
+  ipa: "/vwa/"
+  example: "Elle a une belle voix."
+  translations:
+    de: ["die Stimme"]
+  example_translations:
+    de: "Sie hat eine schöne Stimme."
+
+- id: "vouloir-dire"
+  lemma: "vouloir dire"
+  pos: phrase
+  level: A1
+  ipa: "/vu.lwaʁ diʁ/"
+  example: "Qu'est-ce que ça veut dire ?"
+  translations:
+    de: ["bedeuten", "meinen"]
+  example_translations:
+    de: "Was bedeutet das?"

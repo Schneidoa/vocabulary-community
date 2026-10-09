@@ -1,0 +1,596 @@
+# 📚 Schule & Lernen – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "apprendre"
+  lemma: "apprendre"
+  pos: verb
+  level: A1
+  ipa: "/a.pʁɑ̃dʁ/"
+  example: "J'apprends le français."
+  translations:
+    de: ["lernen", "beibringen"]
+  example_translations:
+    de: "Ich lerne Französisch."
+
+- id: "cahier"
+  lemma: "le cahier"
+  pos: noun
+  level: A1
+  ipa: "/ka.je/"
+  example: "Écrivez dans votre cahier."
+  translations:
+    de: ["das Heft"]
+  example_translations:
+    de: "Schreibt in euer Heft."
+
+- id: "classe"
+  lemma: "la classe"
+  pos: noun
+  level: A1
+  ipa: "/klas/"
+  example: "Il y a vingt élèves dans la classe."
+  translations:
+    de: ["die Klasse", "das Klassenzimmer"]
+  example_translations:
+    de: "In der Klasse sind zwanzig Schüler."
+
+- id: "college"
+  lemma: "le collège"
+  pos: noun
+  level: A1
+  ipa: "/kɔ.lɛʒ/"
+  example: "Ma fille entre au collège."
+  translations:
+    de: ["die Mittelschule (Sekundarstufe I)"]
+  example_translations:
+    de: "Meine Tochter kommt auf die weiterführende Schule."
+
+- id: "correspondant"
+  lemma: "le correspondant"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.ʁɛs.pɔ̃.dɑ̃/"
+  example: "Mon correspondant vient de Lyon."
+  translations:
+    de: ["der Austauschpartner", "der Brieffreund"]
+  example_translations:
+    de: "Mein Austauschpartner kommt aus Lyon."
+
+- id: "cours"
+  lemma: "le cours"
+  pos: noun
+  level: A1
+  ipa: "/kuʁ/"
+  example: "Le cours de français commence à neuf heures."
+  translations:
+    de: ["der Kurs", "der Unterricht"]
+  example_translations:
+    de: "Der Französischkurs beginnt um neun Uhr."
+
+- id: "crayon"
+  lemma: "le crayon"
+  pos: noun
+  level: A1
+  ipa: "/kʁɛ.jɔ̃/"
+  example: "Dessine avec un crayon."
+  translations:
+    de: ["der Bleistift"]
+  example_translations:
+    de: "Zeichne mit einem Bleistift."
+
+- id: "devoirs"
+  lemma: "les devoirs (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/də.vwaʁ/"
+  example: "Tu as fait tes devoirs ?"
+  translations:
+    de: ["die Hausaufgaben"]
+  example_translations:
+    de: "Hast du deine Hausaufgaben gemacht?"
+
+- id: "dictionnaire"
+  lemma: "le dictionnaire"
+  pos: noun
+  level: A1
+  ipa: "/dik.sjɔ.nɛʁ/"
+  example: "Cherche le mot dans le dictionnaire."
+  translations:
+    de: ["das Wörterbuch"]
+  example_translations:
+    de: "Such das Wort im Wörterbuch."
+
+- id: "diplome"
+  lemma: "le diplôme"
+  pos: noun
+  level: A2
+  ipa: "/di.plom/"
+  example: "Il a obtenu son diplôme."
+  translations:
+    de: ["das Diplom", "der Abschluss", "das Zeugnis"]
+  example_translations:
+    de: "Er hat seinen Abschluss gemacht."
+
+- id: "ecole"
+  lemma: "l'école (f.)"
+  pos: noun
+  level: A1
+  ipa: "/e.kɔl/"
+  example: "Les enfants vont à l'école."
+  translations:
+    de: ["die Schule"]
+  example_translations:
+    de: "Die Kinder gehen zur Schule."
+
+- id: "ecrire"
+  lemma: "écrire"
+  pos: verb
+  level: A1
+  ipa: "/e.kʁiʁ/"
+  example: "Écris ton nom ici."
+  translations:
+    de: ["schreiben"]
+  example_translations:
+    de: "Schreib deinen Namen hierhin."
+
+- id: "eleve"
+  lemma: "l'élève (m./f.)"
+  pos: noun
+  level: A1
+  ipa: "/e.lɛv/"
+  example: "Les élèves écoutent le professeur."
+  translations:
+    de: ["der Schüler", "die Schülerin"]
+  example_translations:
+    de: "Die Schüler hören der Lehrerin zu."
+
+- id: "emploi-du-temps"
+  lemma: "l'emploi du temps (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.plwa dy tɑ̃/"
+  example: "Regarde ton emploi du temps."
+  translations:
+    de: ["der Stundenplan", "der Zeitplan"]
+  example_translations:
+    de: "Schau auf deinen Stundenplan."
+
+- id: "enseigner"
+  lemma: "enseigner"
+  pos: verb
+  level: A2
+  ipa: "/ɑ̃.se.ɲe/"
+  example: "Elle enseigne l'anglais."
+  translations:
+    de: ["unterrichten", "lehren"]
+  example_translations:
+    de: "Sie unterrichtet Englisch."
+
+- id: "erreur"
+  lemma: "l'erreur (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.ʁœʁ/"
+  example: "C'est une erreur."
+  translations:
+    de: ["der Fehler", "der Irrtum"]
+  example_translations:
+    de: "Das ist ein Fehler."
+
+- id: "etudiant"
+  lemma: "l'étudiant (m.)"
+  pos: noun
+  level: A1
+  ipa: "/e.ty.djɑ̃/"
+  example: "Il est étudiant en médecine."
+  translations:
+    de: ["der Student"]
+  example_translations:
+    de: "Er ist Medizinstudent."
+
+- id: "etudiante"
+  lemma: "l'étudiante (f.)"
+  pos: noun
+  level: A1
+  ipa: "/e.ty.djɑ̃t/"
+  example: "Elle est étudiante à Paris."
+  translations:
+    de: ["die Studentin"]
+  example_translations:
+    de: "Sie ist Studentin in Paris."
+
+- id: "etudier"
+  lemma: "étudier"
+  pos: verb
+  level: A1
+  ipa: "/e.ty.dje/"
+  example: "Il étudie le droit."
+  translations:
+    de: ["studieren", "lernen"]
+  example_translations:
+    de: "Er studiert Jura."
+
+- id: "examen"
+  lemma: "l'examen (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛɡ.za.mɛ̃/"
+  example: "J'ai un examen demain."
+  translations:
+    de: ["die Prüfung"]
+  example_translations:
+    de: "Ich habe morgen eine Prüfung."
+
+- id: "exemple"
+  lemma: "l'exemple (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛɡ.zɑ̃pl/"
+  example: "Donne-moi un exemple."
+  translations:
+    de: ["das Beispiel"]
+  example_translations:
+    de: "Gib mir ein Beispiel."
+
+- id: "exercice"
+  lemma: "l'exercice (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɛɡ.zɛʁ.sis/"
+  example: "Faites l'exercice numéro trois."
+  translations:
+    de: ["die Übung", "die Aufgabe"]
+  example_translations:
+    de: "Macht Übung Nummer drei."
+
+- id: "faute"
+  lemma: "la faute"
+  pos: noun
+  level: A2
+  ipa: "/fot/"
+  example: "Il y a trois fautes dans ta phrase."
+  translations:
+    de: ["der Fehler", "die Schuld"]
+  example_translations:
+    de: "In deinem Satz sind drei Fehler."
+
+- id: "feuille"
+  lemma: "la feuille"
+  pos: noun
+  level: A1
+  ipa: "/fœj/"
+  example: "Prenez une feuille de papier."
+  translations:
+    de: ["das Blatt"]
+  example_translations:
+    de: "Nehmt ein Blatt Papier."
+
+- id: "geographie"
+  lemma: "la géographie"
+  pos: noun
+  level: A2
+  ipa: "/ʒe.ɔ.ɡʁa.fi/"
+  example: "Nous avons géographie le lundi."
+  translations:
+    de: ["die Erdkunde"]
+  example_translations:
+    de: "Montags haben wir Erdkunde."
+
+- id: "gomme"
+  lemma: "la gomme"
+  pos: noun
+  level: A1
+  ipa: "/ɡɔm/"
+  example: "Je peux emprunter ta gomme ?"
+  translations:
+    de: ["der Radiergummi"]
+  example_translations:
+    de: "Kann ich deinen Radiergummi leihen?"
+
+- id: "grammaire"
+  lemma: "la grammaire"
+  pos: noun
+  level: A2
+  ipa: "/ɡʁa.mɛʁ/"
+  example: "La grammaire française est difficile."
+  translations:
+    de: ["die Grammatik"]
+  example_translations:
+    de: "Die französische Grammatik ist schwierig."
+
+- id: "histoire"
+  lemma: "l'histoire (f.)"
+  pos: noun
+  level: A1
+  ipa: "/is.twaʁ/"
+  example: "Il aime l'histoire de France."
+  translations:
+    de: ["die Geschichte", "die Erzählung"]
+  example_translations:
+    de: "Er mag die Geschichte Frankreichs."
+
+- id: "instituteur"
+  lemma: "l'instituteur (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃s.ti.ty.tœʁ/"
+  example: "L'instituteur lit une histoire."
+  translations:
+    de: ["der Grundschullehrer"]
+  example_translations:
+    de: "Der Grundschullehrer liest eine Geschichte vor."
+
+- id: "lecon"
+  lemma: "la leçon"
+  pos: noun
+  level: A1
+  ipa: "/lə.sɔ̃/"
+  example: "Nous sommes à la leçon cinq."
+  translations:
+    de: ["die Lektion", "die Unterrichtsstunde"]
+  example_translations:
+    de: "Wir sind bei Lektion fünf."
+
+- id: "lire"
+  lemma: "lire"
+  pos: verb
+  level: A1
+  ipa: "/liʁ/"
+  example: "J'aime lire le soir."
+  translations:
+    de: ["lesen"]
+  example_translations:
+    de: "Ich lese abends gern."
+
+- id: "livre"
+  lemma: "le livre"
+  pos: noun
+  level: A1
+  ipa: "/livʁ/"
+  example: "Je lis un livre."
+  translations:
+    de: ["das Buch"]
+  example_translations:
+    de: "Ich lese ein Buch."
+
+- id: "lycee"
+  lemma: "le lycée"
+  pos: noun
+  level: A1
+  ipa: "/li.se/"
+  example: "Mon frère est au lycée."
+  translations:
+    de: ["das Gymnasium (Oberstufe)"]
+  example_translations:
+    de: "Mein Bruder geht aufs Gymnasium."
+
+- id: "mathematiques"
+  lemma: "les mathématiques (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/ma.te.ma.tik/"
+  example: "J'aime les mathématiques."
+  translations:
+    de: ["die Mathematik"]
+  example_translations:
+    de: "Ich mag Mathematik."
+
+- id: "matiere"
+  lemma: "la matière"
+  pos: noun
+  level: A2
+  ipa: "/ma.tjɛʁ/"
+  example: "Quelle est ta matière préférée ?"
+  translations:
+    de: ["das Schulfach", "das Material"]
+  example_translations:
+    de: "Was ist dein Lieblingsfach?"
+
+- id: "niveau"
+  lemma: "le niveau"
+  pos: noun
+  level: A2
+  ipa: "/ni.vo/"
+  example: "Quel est ton niveau de français ?"
+  translations:
+    de: ["das Niveau", "die Stufe"]
+  example_translations:
+    de: "Welches Niveau hast du in Französisch?"
+
+- id: "note"
+  lemma: "la note"
+  pos: noun
+  level: A1
+  ipa: "/nɔt/"
+  example: "Il a eu une bonne note."
+  translations:
+    de: ["die Note", "die Notiz"]
+  example_translations:
+    de: "Er hat eine gute Note bekommen."
+
+- id: "page"
+  lemma: "la page"
+  pos: noun
+  level: A1
+  ipa: "/paʒ/"
+  example: "Ouvrez vos livres à la page vingt."
+  translations:
+    de: ["die Seite"]
+  example_translations:
+    de: "Schlagt eure Bücher auf Seite zwanzig auf."
+
+- id: "papier"
+  lemma: "le papier"
+  pos: noun
+  level: A1
+  ipa: "/pa.pje/"
+  example: "J'ai besoin de papier."
+  translations:
+    de: ["das Papier"]
+  example_translations:
+    de: "Ich brauche Papier."
+
+- id: "prof"
+  lemma: "le prof"
+  pos: noun
+  level: A1
+  ipa: "/pʁɔf/"
+  example: "Notre prof de maths est sympa."
+  translations:
+    de: ["der Lehrer", "die Lehrerin (umgangssprachlich)"]
+  example_translations:
+    de: "Unser Mathelehrer ist nett."
+
+- id: "professeur"
+  lemma: "le professeur"
+  pos: noun
+  level: A1
+  ipa: "/pʁɔ.fɛ.sœʁ/"
+  example: "Le professeur explique la leçon."
+  translations:
+    de: ["der Lehrer", "die Lehrerin", "der Professor"]
+  example_translations:
+    de: "Der Lehrer erklärt die Lektion."
+
+- id: "question"
+  lemma: "la question"
+  pos: noun
+  level: A1
+  ipa: "/kɛs.tjɔ̃/"
+  example: "J'ai une question."
+  translations:
+    de: ["die Frage"]
+  example_translations:
+    de: "Ich habe eine Frage."
+
+- id: "recreation"
+  lemma: "la récréation"
+  pos: noun
+  level: A2
+  ipa: "/ʁe.kʁe.a.sjɔ̃/"
+  example: "Les enfants jouent pendant la récréation."
+  translations:
+    de: ["die Pause (Schule)"]
+  example_translations:
+    de: "Die Kinder spielen in der Pause."
+
+- id: "regle"
+  lemma: "la règle"
+  pos: noun
+  level: A2
+  ipa: "/ʁɛɡl/"
+  example: "Tu connais la règle du jeu ?"
+  translations:
+    de: ["das Lineal", "die Regel"]
+  example_translations:
+    de: "Kennst du die Spielregel?"
+
+- id: "rentree"
+  lemma: "la rentrée"
+  pos: noun
+  level: A2
+  ipa: "/ʁɑ̃.tʁe/"
+  example: "La rentrée est le premier septembre."
+  translations:
+    de: ["der Schulbeginn (nach den Ferien)"]
+  example_translations:
+    de: "Die Schule beginnt am ersten September."
+
+- id: "reponse"
+  lemma: "la réponse"
+  pos: noun
+  level: A1
+  ipa: "/ʁe.pɔ̃s/"
+  example: "C'est la bonne réponse."
+  translations:
+    de: ["die Antwort"]
+  example_translations:
+    de: "Das ist die richtige Antwort."
+
+- id: "reussir"
+  lemma: "réussir"
+  pos: verb
+  level: A2
+  ipa: "/ʁe.y.siʁ/"
+  example: "Elle a réussi son examen."
+  translations:
+    de: ["schaffen", "bestehen", "Erfolg haben"]
+  example_translations:
+    de: "Sie hat ihre Prüfung bestanden."
+
+- id: "sciences"
+  lemma: "les sciences (f. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/sjɑ̃s/"
+  example: "Elle est forte en sciences."
+  translations:
+    de: ["die Naturwissenschaften"]
+  example_translations:
+    de: "Sie ist gut in Naturwissenschaften."
+
+- id: "stylo"
+  lemma: "le stylo"
+  pos: noun
+  level: A1
+  ipa: "/sti.lo/"
+  example: "Tu as un stylo ?"
+  translations:
+    de: ["der Kugelschreiber", "der Stift"]
+  example_translations:
+    de: "Hast du einen Kuli?"
+
+- id: "texte"
+  lemma: "le texte"
+  pos: noun
+  level: A1
+  ipa: "/tɛkst/"
+  example: "Lisez le texte à la page dix."
+  translations:
+    de: ["der Text"]
+  example_translations:
+    de: "Lest den Text auf Seite zehn."
+
+- id: "universite"
+  lemma: "l'université (f.)"
+  pos: noun
+  level: A1
+  ipa: "/y.ni.vɛʁ.si.te/"
+  example: "Elle étudie à l'université."
+  translations:
+    de: ["die Universität"]
+  example_translations:
+    de: "Sie studiert an der Universität."
+
+- id: "vacances-scolaires"
+  lemma: "les vacances scolaires (f. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/va.kɑ̃s skɔ.lɛʁ/"
+  example: "Les vacances scolaires commencent en juillet."
+  translations:
+    de: ["die Schulferien"]
+  example_translations:
+    de: "Die Schulferien beginnen im Juli."
+
+- id: "vocabulaire"
+  lemma: "le vocabulaire"
+  pos: noun
+  level: A2
+  ipa: "/vɔ.ka.by.lɛʁ/"
+  example: "J'apprends le vocabulaire."
+  translations:
+    de: ["der Wortschatz", "die Vokabeln"]
+  example_translations:
+    de: "Ich lerne Vokabeln."
+
+- id: "voyage-scolaire"
+  lemma: "le voyage scolaire"
+  pos: noun
+  level: A2
+  ipa: "/vwa.jaʒ skɔ.lɛʁ/"
+  example: "Le voyage scolaire est en mai."
+  translations:
+    de: ["die Klassenfahrt"]
+  example_translations:
+    de: "Die Klassenfahrt ist im Mai."

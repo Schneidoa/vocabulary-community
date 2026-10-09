@@ -1,0 +1,1069 @@
+# ⏰ Zeit & Kalender – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "a-l-heure"
+  lemma: "à l'heure"
+  pos: adverb
+  level: A1
+  ipa: "/a lœʁ/"
+  example: "Le train est à l'heure."
+  translations:
+    de: ["pünktlich"]
+  example_translations:
+    de: "Der Zug ist pünktlich."
+
+- id: "an"
+  lemma: "l'an (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɑ̃/"
+  example: "Elle a vingt ans."
+  translations:
+    de: ["das Jahr"]
+  example_translations:
+    de: "Sie ist zwanzig Jahre alt."
+
+- id: "annee"
+  lemma: "l'année (f.)"
+  pos: noun
+  level: A1
+  ipa: "/a.ne/"
+  example: "Bonne année !"
+  translations:
+    de: ["das Jahr"]
+  example_translations:
+    de: "Frohes neues Jahr!"
+
+- id: "anniversaire"
+  lemma: "l'anniversaire (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.ni.vɛʁ.sɛʁ/"
+  example: "C'est quand, ton anniversaire ?"
+  translations:
+    de: ["der Geburtstag", "der Jahrestag"]
+  example_translations:
+    de: "Wann ist dein Geburtstag?"
+
+- id: "aout"
+  lemma: "août"
+  pos: noun
+  level: A1
+  ipa: "/ut/"
+  example: "Nous partons en vacances en août."
+  translations:
+    de: ["August"]
+  example_translations:
+    de: "Wir fahren im August in den Urlaub."
+
+- id: "apres-adverb"
+  lemma: "après"
+  pos: adverb
+  level: A1
+  ipa: "/a.pʁɛ/"
+  example: "On se voit après ?"
+  translations:
+    de: ["danach", "nachher"]
+  example_translations:
+    de: "Sehen wir uns nachher?"
+
+- id: "apres-demain"
+  lemma: "après-demain"
+  pos: adverb
+  level: A2
+  ipa: "/a.pʁɛ.də.mɛ̃/"
+  example: "Nous partons après-demain."
+  translations:
+    de: ["übermorgen"]
+  example_translations:
+    de: "Wir fahren übermorgen."
+
+- id: "apres-midi"
+  lemma: "l'après-midi (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.pʁɛ.mi.di/"
+  example: "Je fais du sport l'après-midi."
+  translations:
+    de: ["der Nachmittag"]
+  example_translations:
+    de: "Am Nachmittag mache ich Sport."
+
+- id: "attendre"
+  lemma: "attendre"
+  pos: verb
+  level: A1
+  ipa: "/a.tɑ̃dʁ/"
+  example: "J'attends le bus."
+  translations:
+    de: ["warten", "erwarten"]
+  example_translations:
+    de: "Ich warte auf den Bus."
+
+- id: "aujourd-hui"
+  lemma: "aujourd'hui"
+  pos: adverb
+  level: A1
+  ipa: "/o.ʒuʁ.dɥi/"
+  example: "Aujourd'hui, il fait beau."
+  translations:
+    de: ["heute"]
+  example_translations:
+    de: "Heute ist schönes Wetter."
+
+- id: "automne"
+  lemma: "l'automne (m.)"
+  pos: noun
+  level: A1
+  ipa: "/o.tɔn/"
+  example: "En automne, il fait frais."
+  translations:
+    de: ["der Herbst"]
+  example_translations:
+    de: "Im Herbst ist es kühl."
+
+- id: "avant-adverb"
+  lemma: "avant"
+  pos: adverb
+  level: A1
+  ipa: "/a.vɑ̃/"
+  example: "Avant, j'habitais à Lille."
+  translations:
+    de: ["vorher", "früher"]
+  example_translations:
+    de: "Früher habe ich in Lille gewohnt."
+
+- id: "avant-hier"
+  lemma: "avant-hier"
+  pos: adverb
+  level: A2
+  ipa: "/a.vɑ̃.tjɛʁ/"
+  example: "Il est arrivé avant-hier."
+  translations:
+    de: ["vorgestern"]
+  example_translations:
+    de: "Er ist vorgestern angekommen."
+
+- id: "avenir"
+  lemma: "l'avenir (m.)"
+  pos: noun
+  level: A2
+  ipa: "/av.niʁ/"
+  example: "Que veux-tu faire à l'avenir ?"
+  translations:
+    de: ["die Zukunft"]
+  example_translations:
+    de: "Was willst du in Zukunft machen?"
+
+- id: "avril"
+  lemma: "avril"
+  pos: noun
+  level: A1
+  ipa: "/a.vʁil/"
+  example: "Mon anniversaire est en avril."
+  translations:
+    de: ["April"]
+  example_translations:
+    de: "Mein Geburtstag ist im April."
+
+- id: "bientot"
+  lemma: "bientôt"
+  pos: adverb
+  level: A1
+  ipa: "/bjɛ̃.to/"
+  example: "Les vacances commencent bientôt."
+  translations:
+    de: ["bald"]
+  example_translations:
+    de: "Die Ferien beginnen bald."
+
+- id: "calendrier"
+  lemma: "le calendrier"
+  pos: noun
+  level: A2
+  ipa: "/ka.lɑ̃.dʁi.je/"
+  example: "Le calendrier est sur le mur."
+  translations:
+    de: ["der Kalender"]
+  example_translations:
+    de: "Der Kalender hängt an der Wand."
+
+- id: "commencer"
+  lemma: "commencer"
+  pos: verb
+  level: A1
+  ipa: "/kɔ.mɑ̃.se/"
+  example: "Le film commence à vingt heures."
+  translations:
+    de: ["anfangen", "beginnen"]
+  example_translations:
+    de: "Der Film beginnt um zwanzig Uhr."
+
+- id: "d-abord"
+  lemma: "d'abord"
+  pos: adverb
+  level: A1
+  ipa: "/da.bɔʁ/"
+  example: "D'abord, on mange, ensuite on sort."
+  translations:
+    de: ["zuerst"]
+  example_translations:
+    de: "Zuerst essen wir, danach gehen wir aus."
+
+- id: "d-habitude"
+  lemma: "d'habitude"
+  pos: adverb
+  level: A2
+  ipa: "/da.bi.tyd/"
+  example: "D'habitude, je prends le bus."
+  translations:
+    de: ["normalerweise", "gewöhnlich"]
+  example_translations:
+    de: "Normalerweise nehme ich den Bus."
+
+- id: "date"
+  lemma: "la date"
+  pos: noun
+  level: A1
+  ipa: "/dat/"
+  example: "Quelle est la date d'aujourd'hui ?"
+  translations:
+    de: ["das Datum"]
+  example_translations:
+    de: "Welches Datum haben wir heute?"
+
+- id: "debut"
+  lemma: "le début"
+  pos: noun
+  level: A2
+  ipa: "/de.by/"
+  example: "Au début, c'était difficile."
+  translations:
+    de: ["der Anfang"]
+  example_translations:
+    de: "Am Anfang war es schwierig."
+
+- id: "decembre"
+  lemma: "décembre"
+  pos: noun
+  level: A1
+  ipa: "/de.sɑ̃bʁ/"
+  example: "Noël est en décembre."
+  translations:
+    de: ["Dezember"]
+  example_translations:
+    de: "Weihnachten ist im Dezember."
+
+- id: "deja"
+  lemma: "déjà"
+  pos: adverb
+  level: A1
+  ipa: "/de.ʒa/"
+  example: "Tu as déjà mangé ?"
+  translations:
+    de: ["schon", "bereits"]
+  example_translations:
+    de: "Hast du schon gegessen?"
+
+- id: "demain"
+  lemma: "demain"
+  pos: adverb
+  level: A1
+  ipa: "/də.mɛ̃/"
+  example: "Demain, je travaille."
+  translations:
+    de: ["morgen"]
+  example_translations:
+    de: "Morgen arbeite ich."
+
+- id: "depuis"
+  lemma: "depuis"
+  pos: preposition
+  level: A1
+  ipa: "/də.pɥi/"
+  example: "J'habite ici depuis deux ans."
+  translations:
+    de: ["seit"]
+  example_translations:
+    de: "Ich wohne seit zwei Jahren hier."
+
+- id: "dimanche"
+  lemma: "dimanche"
+  pos: noun
+  level: A1
+  ipa: "/di.mɑ̃ʃ/"
+  example: "Le dimanche, les magasins sont fermés."
+  translations:
+    de: ["Sonntag"]
+  example_translations:
+    de: "Sonntags sind die Geschäfte geschlossen."
+
+- id: "durer"
+  lemma: "durer"
+  pos: verb
+  level: A2
+  ipa: "/dy.ʁe/"
+  example: "Le voyage dure trois heures."
+  translations:
+    de: ["dauern"]
+  example_translations:
+    de: "Die Reise dauert drei Stunden."
+
+- id: "en-avance"
+  lemma: "en avance"
+  pos: adverb
+  level: A2
+  ipa: "/ɑ̃.n‿a.vɑ̃s/"
+  example: "Nous sommes en avance."
+  translations:
+    de: ["zu früh"]
+  example_translations:
+    de: "Wir sind zu früh."
+
+- id: "en-retard"
+  lemma: "en retard"
+  pos: adverb
+  level: A1
+  ipa: "/ɑ̃ ʁə.taʁ/"
+  example: "Le bus est en retard."
+  translations:
+    de: ["zu spät", "verspätet"]
+  example_translations:
+    de: "Der Bus hat Verspätung."
+
+- id: "encore"
+  lemma: "encore"
+  pos: adverb
+  level: A1
+  ipa: "/ɑ̃.kɔʁ/"
+  example: "Il est encore au bureau."
+  translations:
+    de: ["noch", "wieder"]
+  example_translations:
+    de: "Er ist noch im Büro."
+
+- id: "enfin"
+  lemma: "enfin"
+  pos: adverb
+  level: A1
+  ipa: "/ɑ̃.fɛ̃/"
+  example: "Enfin les vacances !"
+  translations:
+    de: ["endlich", "schließlich"]
+  example_translations:
+    de: "Endlich Ferien!"
+
+- id: "ensuite"
+  lemma: "ensuite"
+  pos: adverb
+  level: A1
+  ipa: "/ɑ̃.sɥit/"
+  example: "Ensuite, tournez à droite."
+  translations:
+    de: ["danach", "dann"]
+  example_translations:
+    de: "Biegen Sie dann rechts ab."
+
+- id: "ete"
+  lemma: "l'été (m.)"
+  pos: noun
+  level: A1
+  ipa: "/e.te/"
+  example: "En été, nous allons à la mer."
+  translations:
+    de: ["der Sommer"]
+  example_translations:
+    de: "Im Sommer fahren wir ans Meer."
+
+- id: "fevrier"
+  lemma: "février"
+  pos: noun
+  level: A1
+  ipa: "/fe.vʁi.je/"
+  example: "Février est le mois le plus court."
+  translations:
+    de: ["Februar"]
+  example_translations:
+    de: "Der Februar ist der kürzeste Monat."
+
+- id: "fin"
+  lemma: "la fin"
+  pos: noun
+  level: A1
+  ipa: "/fɛ̃/"
+  example: "À la fin du film, ils se marient."
+  translations:
+    de: ["das Ende"]
+  example_translations:
+    de: "Am Ende des Films heiraten sie."
+
+- id: "finir"
+  lemma: "finir"
+  pos: verb
+  level: A1
+  ipa: "/fi.niʁ/"
+  example: "Je finis le travail à dix-sept heures."
+  translations:
+    de: ["beenden", "aufhören", "enden"]
+  example_translations:
+    de: "Ich höre um siebzehn Uhr mit der Arbeit auf."
+
+- id: "fois"
+  lemma: "la fois"
+  pos: noun
+  level: A1
+  ipa: "/fwa/"
+  example: "Je suis venu trois fois."
+  translations:
+    de: ["das Mal"]
+  example_translations:
+    de: "Ich bin dreimal gekommen."
+
+- id: "futur"
+  lemma: "le futur"
+  pos: noun
+  level: A2
+  ipa: "/fy.tyʁ/"
+  example: "Personne ne connaît le futur."
+  translations:
+    de: ["die Zukunft", "das Futur"]
+  example_translations:
+    de: "Niemand kennt die Zukunft."
+
+- id: "heure"
+  lemma: "l'heure (f.)"
+  pos: noun
+  level: A1
+  ipa: "/œʁ/"
+  example: "Quelle heure est-il ?"
+  translations:
+    de: ["die Stunde", "die Uhrzeit"]
+  example_translations:
+    de: "Wie spät ist es?"
+
+- id: "hier"
+  lemma: "hier"
+  pos: adverb
+  level: A1
+  ipa: "/jɛʁ/"
+  example: "Hier, je suis allé au cinéma."
+  translations:
+    de: ["gestern"]
+  example_translations:
+    de: "Gestern war ich im Kino."
+
+- id: "hiver"
+  lemma: "l'hiver (m.)"
+  pos: noun
+  level: A1
+  ipa: "/i.vɛʁ/"
+  example: "En hiver, je fais du ski."
+  translations:
+    de: ["der Winter"]
+  example_translations:
+    de: "Im Winter fahre ich Ski."
+
+- id: "il-y-a"
+  lemma: "il y a"
+  pos: phrase
+  level: A1
+  ipa: "/il.ja/"
+  example: "Je suis arrivé il y a une semaine."
+  translations:
+    de: ["vor (zeitlich)", "es gibt"]
+  example_translations:
+    de: "Ich bin vor einer Woche angekommen."
+
+- id: "jamais"
+  lemma: "jamais"
+  pos: adverb
+  level: A1
+  ipa: "/ʒa.mɛ/"
+  example: "Je ne bois jamais de café."
+  translations:
+    de: ["nie", "niemals"]
+  example_translations:
+    de: "Ich trinke nie Kaffee."
+
+- id: "janvier"
+  lemma: "janvier"
+  pos: noun
+  level: A1
+  ipa: "/ʒɑ̃.vje/"
+  example: "Il neige souvent en janvier."
+  translations:
+    de: ["Januar"]
+  example_translations:
+    de: "Im Januar schneit es oft."
+
+- id: "jeudi"
+  lemma: "jeudi"
+  pos: noun
+  level: A1
+  ipa: "/ʒø.di/"
+  example: "On se voit jeudi ?"
+  translations:
+    de: ["Donnerstag"]
+  example_translations:
+    de: "Sehen wir uns am Donnerstag?"
+
+- id: "jour"
+  lemma: "le jour"
+  pos: noun
+  level: A1
+  ipa: "/ʒuʁ/"
+  example: "Je travaille cinq jours par semaine."
+  translations:
+    de: ["der Tag"]
+  example_translations:
+    de: "Ich arbeite fünf Tage pro Woche."
+
+- id: "jour-ferie"
+  lemma: "le jour férié"
+  pos: noun
+  level: A2
+  ipa: "/ʒuʁ fe.ʁje/"
+  example: "Lundi est un jour férié."
+  translations:
+    de: ["der Feiertag"]
+  example_translations:
+    de: "Montag ist ein Feiertag."
+
+- id: "journee"
+  lemma: "la journée"
+  pos: noun
+  level: A1
+  ipa: "/ʒuʁ.ne/"
+  example: "J'ai passé une bonne journée."
+  translations:
+    de: ["der Tag (Verlauf)"]
+  example_translations:
+    de: "Ich hatte einen schönen Tag."
+
+- id: "juillet"
+  lemma: "juillet"
+  pos: noun
+  level: A1
+  ipa: "/ʒɥi.jɛ/"
+  example: "En juillet, il fait chaud."
+  translations:
+    de: ["Juli"]
+  example_translations:
+    de: "Im Juli ist es heiß."
+
+- id: "juin"
+  lemma: "juin"
+  pos: noun
+  level: A1
+  ipa: "/ʒɥɛ̃/"
+  example: "L'école finit en juin."
+  translations:
+    de: ["Juni"]
+  example_translations:
+    de: "Die Schule endet im Juni."
+
+- id: "longtemps"
+  lemma: "longtemps"
+  pos: adverb
+  level: A1
+  ipa: "/lɔ̃.tɑ̃/"
+  example: "Tu attends depuis longtemps ?"
+  translations:
+    de: ["lange"]
+  example_translations:
+    de: "Wartest du schon lange?"
+
+- id: "lundi"
+  lemma: "lundi"
+  pos: noun
+  level: A1
+  ipa: "/lœ̃.di/"
+  example: "Lundi, je commence à huit heures."
+  translations:
+    de: ["Montag"]
+  example_translations:
+    de: "Am Montag fange ich um acht Uhr an."
+
+- id: "mai"
+  lemma: "mai"
+  pos: noun
+  level: A1
+  ipa: "/mɛ/"
+  example: "Le premier mai est un jour férié."
+  translations:
+    de: ["Mai"]
+  example_translations:
+    de: "Der erste Mai ist ein Feiertag."
+
+- id: "maintenant"
+  lemma: "maintenant"
+  pos: adverb
+  level: A1
+  ipa: "/mɛ̃t.nɑ̃/"
+  example: "Je dois partir maintenant."
+  translations:
+    de: ["jetzt"]
+  example_translations:
+    de: "Ich muss jetzt gehen."
+
+- id: "mardi"
+  lemma: "mardi"
+  pos: noun
+  level: A1
+  ipa: "/maʁ.di/"
+  example: "Le marché a lieu le mardi."
+  translations:
+    de: ["Dienstag"]
+  example_translations:
+    de: "Der Markt findet dienstags statt."
+
+- id: "mars"
+  lemma: "mars"
+  pos: noun
+  level: A1
+  ipa: "/maʁs/"
+  example: "Le printemps commence en mars."
+  translations:
+    de: ["März"]
+  example_translations:
+    de: "Der Frühling beginnt im März."
+
+- id: "matin"
+  lemma: "le matin"
+  pos: noun
+  level: A1
+  ipa: "/ma.tɛ̃/"
+  example: "Je bois un café le matin."
+  translations:
+    de: ["der Morgen", "der Vormittag"]
+  example_translations:
+    de: "Morgens trinke ich einen Kaffee."
+
+- id: "mercredi"
+  lemma: "mercredi"
+  pos: noun
+  level: A1
+  ipa: "/mɛʁ.kʁə.di/"
+  example: "Les enfants n'ont pas école le mercredi."
+  translations:
+    de: ["Mittwoch"]
+  example_translations:
+    de: "Die Kinder haben mittwochs keine Schule."
+
+- id: "midi"
+  lemma: "le midi"
+  pos: noun
+  level: A1
+  ipa: "/mi.di/"
+  example: "On mange à midi."
+  translations:
+    de: ["der Mittag"]
+  example_translations:
+    de: "Wir essen um zwölf Uhr mittags."
+
+- id: "minuit"
+  lemma: "minuit"
+  pos: noun
+  level: A1
+  ipa: "/mi.nɥi/"
+  example: "Je me couche à minuit."
+  translations:
+    de: ["Mitternacht"]
+  example_translations:
+    de: "Ich gehe um Mitternacht ins Bett."
+
+- id: "minute"
+  lemma: "la minute"
+  pos: noun
+  level: A1
+  ipa: "/mi.nyt/"
+  example: "J'arrive dans cinq minutes."
+  translations:
+    de: ["die Minute"]
+  example_translations:
+    de: "Ich komme in fünf Minuten."
+
+- id: "mois"
+  lemma: "le mois"
+  pos: noun
+  level: A1
+  ipa: "/mwa/"
+  example: "Il reste un mois."
+  translations:
+    de: ["der Monat"]
+  example_translations:
+    de: "Er bleibt einen Monat."
+
+- id: "moment"
+  lemma: "le moment"
+  pos: noun
+  level: A1
+  ipa: "/mɔ.mɑ̃/"
+  example: "Un moment, s'il vous plaît."
+  translations:
+    de: ["der Moment", "der Augenblick"]
+  example_translations:
+    de: "Einen Moment, bitte."
+
+- id: "noel"
+  lemma: "Noël"
+  pos: noun
+  level: A1
+  ipa: "/nɔ.ɛl/"
+  example: "Joyeux Noël !"
+  translations:
+    de: ["Weihnachten"]
+  example_translations:
+    de: "Frohe Weihnachten!"
+
+- id: "normalement"
+  lemma: "normalement"
+  pos: adverb
+  level: A2
+  ipa: "/nɔʁ.mal.mɑ̃/"
+  example: "Normalement, je finis à cinq heures."
+  translations:
+    de: ["normalerweise"]
+  example_translations:
+    de: "Normalerweise bin ich um fünf fertig."
+
+- id: "novembre"
+  lemma: "novembre"
+  pos: noun
+  level: A1
+  ipa: "/nɔ.vɑ̃bʁ/"
+  example: "Il pleut beaucoup en novembre."
+  translations:
+    de: ["November"]
+  example_translations:
+    de: "Im November regnet es viel."
+
+- id: "nuit"
+  lemma: "la nuit"
+  pos: noun
+  level: A1
+  ipa: "/nɥi/"
+  example: "Il a plu toute la nuit."
+  translations:
+    de: ["die Nacht"]
+  example_translations:
+    de: "Es hat die ganze Nacht geregnet."
+
+- id: "octobre"
+  lemma: "octobre"
+  pos: noun
+  level: A1
+  ipa: "/ɔk.tɔbʁ/"
+  example: "Les feuilles tombent en octobre."
+  translations:
+    de: ["Oktober"]
+  example_translations:
+    de: "Im Oktober fallen die Blätter."
+
+- id: "paques"
+  lemma: "Pâques"
+  pos: noun
+  level: A2
+  ipa: "/pɑk/"
+  example: "À Pâques, les enfants cherchent des œufs."
+  translations:
+    de: ["Ostern"]
+  example_translations:
+    de: "An Ostern suchen die Kinder Eier."
+
+- id: "parfois"
+  lemma: "parfois"
+  pos: adverb
+  level: A1
+  ipa: "/paʁ.fwa/"
+  example: "Parfois, je prends le bus."
+  translations:
+    de: ["manchmal"]
+  example_translations:
+    de: "Manchmal nehme ich den Bus."
+
+- id: "passe-adjective"
+  lemma: "passé"
+  pos: adjective
+  level: A2
+  ipa: "/pa.se/"
+  example: "La semaine passée, j'étais malade."
+  translations:
+    de: ["vergangen", "letzte"]
+  example_translations:
+    de: "Letzte Woche war ich krank."
+
+- id: "passe-noun"
+  lemma: "le passé"
+  pos: noun
+  level: A2
+  ipa: "/pa.se/"
+  example: "Oublions le passé."
+  translations:
+    de: ["die Vergangenheit"]
+  example_translations:
+    de: "Vergessen wir die Vergangenheit."
+
+- id: "pendant"
+  lemma: "pendant"
+  pos: preposition
+  level: A1
+  ipa: "/pɑ̃.dɑ̃/"
+  example: "Il dort pendant le film."
+  translations:
+    de: ["während"]
+  example_translations:
+    de: "Er schläft während des Films."
+
+- id: "present"
+  lemma: "le présent"
+  pos: noun
+  level: A2
+  ipa: "/pʁe.zɑ̃/"
+  example: "Il faut vivre dans le présent."
+  translations:
+    de: ["die Gegenwart"]
+  example_translations:
+    de: "Man muss in der Gegenwart leben."
+
+- id: "printemps"
+  lemma: "le printemps"
+  pos: noun
+  level: A1
+  ipa: "/pʁɛ̃.tɑ̃/"
+  example: "Au printemps, les fleurs poussent."
+  translations:
+    de: ["der Frühling"]
+  example_translations:
+    de: "Im Frühling wachsen die Blumen."
+
+- id: "prochain"
+  lemma: "prochain"
+  pos: adjective
+  level: A1
+  ipa: "/pʁɔ.ʃɛ̃/"
+  example: "À la semaine prochaine !"
+  translations:
+    de: ["nächste"]
+  example_translations:
+    de: "Bis nächste Woche!"
+
+- id: "puis"
+  lemma: "puis"
+  pos: adverb
+  level: A1
+  ipa: "/pɥi/"
+  example: "Il a mangé, puis il est parti."
+  translations:
+    de: ["dann", "danach"]
+  example_translations:
+    de: "Er hat gegessen, dann ist er gegangen."
+
+- id: "quelquefois"
+  lemma: "quelquefois"
+  pos: adverb
+  level: A2
+  ipa: "/kɛl.kə.fwa/"
+  example: "Nous dînons quelquefois au restaurant."
+  translations:
+    de: ["manchmal"]
+  example_translations:
+    de: "Manchmal essen wir im Restaurant zu Abend."
+
+- id: "rarement"
+  lemma: "rarement"
+  pos: adverb
+  level: A2
+  ipa: "/ʁaʁ.mɑ̃/"
+  example: "Il pleut rarement ici."
+  translations:
+    de: ["selten"]
+  example_translations:
+    de: "Hier regnet es selten."
+
+- id: "rendez-vous"
+  lemma: "le rendez-vous"
+  pos: noun
+  level: A1
+  ipa: "/ʁɑ̃.de.vu/"
+  example: "J'ai rendez-vous chez le dentiste."
+  translations:
+    de: ["der Termin", "die Verabredung"]
+  example_translations:
+    de: "Ich habe einen Termin beim Zahnarzt."
+
+- id: "saison"
+  lemma: "la saison"
+  pos: noun
+  level: A1
+  ipa: "/sɛ.zɔ̃/"
+  example: "Quelle est ta saison préférée ?"
+  translations:
+    de: ["die Jahreszeit", "die Saison"]
+  example_translations:
+    de: "Was ist deine Lieblingsjahreszeit?"
+
+- id: "samedi"
+  lemma: "samedi"
+  pos: noun
+  level: A1
+  ipa: "/sam.di/"
+  example: "Samedi, je fais les courses."
+  translations:
+    de: ["Samstag"]
+  example_translations:
+    de: "Am Samstag kaufe ich ein."
+
+- id: "seconde"
+  lemma: "la seconde"
+  pos: noun
+  level: A2
+  ipa: "/sə.ɡɔ̃d/"
+  example: "Attends une seconde !"
+  translations:
+    de: ["die Sekunde"]
+  example_translations:
+    de: "Warte eine Sekunde!"
+
+- id: "semaine"
+  lemma: "la semaine"
+  pos: noun
+  level: A1
+  ipa: "/sə.mɛn/"
+  example: "Je pars la semaine prochaine."
+  translations:
+    de: ["die Woche"]
+  example_translations:
+    de: "Ich fahre nächste Woche weg."
+
+- id: "septembre"
+  lemma: "septembre"
+  pos: noun
+  level: A1
+  ipa: "/sɛp.tɑ̃bʁ/"
+  example: "La rentrée est en septembre."
+  translations:
+    de: ["September"]
+  example_translations:
+    de: "Der Schulbeginn ist im September."
+
+- id: "siecle"
+  lemma: "le siècle"
+  pos: noun
+  level: A2
+  ipa: "/sjɛkl/"
+  example: "Ce château date du seizième siècle."
+  translations:
+    de: ["das Jahrhundert"]
+  example_translations:
+    de: "Dieses Schloss stammt aus dem sechzehnten Jahrhundert."
+
+- id: "soir"
+  lemma: "le soir"
+  pos: noun
+  level: A1
+  ipa: "/swaʁ/"
+  example: "Le soir, je regarde la télé."
+  translations:
+    de: ["der Abend"]
+  example_translations:
+    de: "Abends sehe ich fern."
+
+- id: "soiree"
+  lemma: "la soirée"
+  pos: noun
+  level: A2
+  ipa: "/swa.ʁe/"
+  example: "Merci pour cette belle soirée."
+  translations:
+    de: ["der Abend", "die Party"]
+  example_translations:
+    de: "Danke für diesen schönen Abend."
+
+- id: "souvent"
+  lemma: "souvent"
+  pos: adverb
+  level: A1
+  ipa: "/su.vɑ̃/"
+  example: "Je vais souvent à la piscine."
+  translations:
+    de: ["oft"]
+  example_translations:
+    de: "Ich gehe oft ins Schwimmbad."
+
+- id: "tard"
+  lemma: "tard"
+  pos: adverb
+  level: A1
+  ipa: "/taʁ/"
+  example: "Il est tard, je rentre."
+  translations:
+    de: ["spät"]
+  example_translations:
+    de: "Es ist spät, ich gehe nach Hause."
+
+- id: "temps"
+  lemma: "le temps"
+  pos: noun
+  level: A1
+  ipa: "/tɑ̃/"
+  example: "Je n'ai pas le temps."
+  translations:
+    de: ["die Zeit", "das Wetter"]
+  example_translations:
+    de: "Ich habe keine Zeit."
+
+- id: "tot"
+  lemma: "tôt"
+  pos: adverb
+  level: A1
+  ipa: "/to/"
+  example: "Je me lève tôt."
+  translations:
+    de: ["früh"]
+  example_translations:
+    de: "Ich stehe früh auf."
+
+- id: "toujours"
+  lemma: "toujours"
+  pos: adverb
+  level: A1
+  ipa: "/tu.ʒuʁ/"
+  example: "Elle est toujours gentille."
+  translations:
+    de: ["immer", "immer noch"]
+  example_translations:
+    de: "Sie ist immer nett."
+
+- id: "tout-de-suite"
+  lemma: "tout de suite"
+  pos: adverb
+  level: A1
+  ipa: "/tut.sɥit/"
+  example: "Viens tout de suite !"
+  translations:
+    de: ["sofort"]
+  example_translations:
+    de: "Komm sofort!"
+
+- id: "vendredi"
+  lemma: "vendredi"
+  pos: noun
+  level: A1
+  ipa: "/vɑ̃.dʁə.di/"
+  example: "Vendredi soir, nous allons au restaurant."
+  translations:
+    de: ["Freitag"]
+  example_translations:
+    de: "Freitagabend gehen wir ins Restaurant."
+
+- id: "week-end"
+  lemma: "le week-end"
+  pos: noun
+  level: A1
+  ipa: "/wi.kɛnd/"
+  example: "Qu'est-ce que tu fais ce week-end ?"
+  translations:
+    de: ["das Wochenende"]
+  example_translations:
+    de: "Was machst du dieses Wochenende?"
