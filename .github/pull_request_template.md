@@ -9,3 +9,4 @@
 - [ ] Text steht in Anführungszeichen
 - [ ] Die Hauptübersetzung steht jeweils an erster Stelle
 - [ ] `python scripts/validate.py` läuft ohne Fehler (prüft auch die CI)
+- [ ] Die Inhalte sind selbst erstellt, und ich stimme der [Lizenz für Beiträge](https://github.com/Schneidoa/vocabulary-community/blob/develop/CONTRIBUTING.md#lizenz-deiner-beiträge) zu

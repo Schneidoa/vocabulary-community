@@ -52,9 +52,10 @@ Wortschatz über B2 hinaus (C1/C2) ist willkommen; das Niveau bitte nach GER ang
 ## Lizenz
 
 - **Vokabeldaten** (`words/`, `languages.yaml`, `topics.yaml`):
-  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), siehe [LICENSE-DATA](LICENSE-DATA).
-  Weiterverwendung ist erlaubt, auch kommerziell, mit Namensnennung („Vokabeltrainer – Community-Katalog“ mit Link
-  auf dieses Repository) und unter derselben Lizenz für veränderte Daten.
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de), siehe [LICENSE-DATA](LICENSE-DATA).
+  Weitergabe und Bearbeitung sind erlaubt, aber **nicht für kommerzielle Zwecke**, mit Namensnennung
+  („Vokabeltrainer – Community-Katalog“ mit Link auf dieses Repository) und unter derselben Lizenz für veränderte
+  Daten. Für eine kommerzielle Nutzung bitte vorher anfragen.
 - **Code und Werkzeuge** (`scripts/`, `schema/`, `.github/`, Dokumentation): MIT, siehe [LICENSE](LICENSE).
 
 ## Lokal prüfen

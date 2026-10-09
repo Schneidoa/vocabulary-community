@@ -6,9 +6,18 @@ automatisch; nach Review und Merge sammelt sich die Änderung in `develop`.
 `main` ist der veröffentlichte Stand, den der Trainer importiert. Er ist geschützt und wird nur per Pull Request
 von `develop` nach `main` aktualisiert.
 
-Mit deinem Pull Request stellst du deine Beiträge unter die Lizenzen des Katalogs: Vokabeldaten unter
-CC BY-SA 4.0, Code unter MIT (siehe [README](README.md#lizenz)). Übernimm deshalb keine Wortlisten,
-Übersetzungen oder Beispielsätze aus Wörterbüchern oder anderen urheberrechtlich geschützten Quellen.
+## Lizenz deiner Beiträge
+
+Mit deinem Pull Request
+
+1. stellst du deine Beiträge unter die Lizenzen des Katalogs: Vokabeldaten unter CC BY-NC-SA 4.0, Code unter MIT
+   (siehe [README](README.md#lizenz));
+2. räumst du dem Maintainer dieses Repositorys (Daniel Schneider) zusätzlich ein einfaches, unbefristetes,
+   unwiderrufliches und nicht auf nichtkommerzielle Zwecke beschränktes Recht ein, deine Beiträge zu nutzen, zu
+   bearbeiten und weiterzugeben – insbesondere im Vokabeltrainer selbst, auch wenn dieser kostenpflichtig oder
+   werbefinanziert angeboten wird. Dieses Recht ist übertragbar, etwa an einen künftigen Betreiber des Trainers;
+3. bestätigst du, dass du die Rechte an deinen Beiträgen hast. Übernimm deshalb keine Wortlisten, Übersetzungen
+   oder Beispielsätze aus Wörterbüchern oder anderen urheberrechtlich geschützten Quellen.
 
 ## Vokabeln hinzufügen
 
