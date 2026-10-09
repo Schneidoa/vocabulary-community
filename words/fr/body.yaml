@@ -1,0 +1,519 @@
+# 🫀 Körper & Gesundheit – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "aller-bien"
+  lemma: "aller bien"
+  pos: phrase
+  level: A1
+  ipa: "/a.le bjɛ̃/"
+  example: "Je vais bien, merci."
+  translations:
+    de: ["gut gehen (gesundheitlich)"]
+  example_translations:
+    de: "Mir geht es gut, danke."
+
+- id: "avoir-mal"
+  lemma: "avoir mal"
+  pos: phrase
+  level: A1
+  ipa: "/a.vwaʁ mal/"
+  example: "J'ai mal au pied."
+  translations:
+    de: ["Schmerzen haben", "wehtun"]
+  example_translations:
+    de: "Mir tut der Fuß weh."
+
+- id: "blesse"
+  lemma: "blessé"
+  pos: adjective
+  level: A2
+  ipa: "/blɛ.se/"
+  example: "Deux personnes sont blessées."
+  translations:
+    de: ["verletzt"]
+  example_translations:
+    de: "Zwei Personen sind verletzt."
+
+- id: "bouche"
+  lemma: "la bouche"
+  pos: noun
+  level: A1
+  ipa: "/buʃ/"
+  example: "Ouvrez la bouche, s'il vous plaît."
+  translations:
+    de: ["der Mund"]
+  example_translations:
+    de: "Öffnen Sie bitte den Mund."
+
+- id: "bras"
+  lemma: "le bras"
+  pos: noun
+  level: A1
+  ipa: "/bʁa/"
+  example: "Il s'est cassé le bras."
+  translations:
+    de: ["der Arm"]
+  example_translations:
+    de: "Er hat sich den Arm gebrochen."
+
+- id: "cheveux"
+  lemma: "les cheveux (m. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/ʃə.vø/"
+  example: "Il a les cheveux courts."
+  translations:
+    de: ["die Haare"]
+  example_translations:
+    de: "Er hat kurze Haare."
+
+- id: "coeur"
+  lemma: "le cœur"
+  pos: noun
+  level: A2
+  ipa: "/kœʁ/"
+  example: "Son cœur bat vite."
+  translations:
+    de: ["das Herz"]
+  example_translations:
+    de: "Sein Herz schlägt schnell."
+
+- id: "corps"
+  lemma: "le corps"
+  pos: noun
+  level: A1
+  ipa: "/kɔʁ/"
+  example: "Le sport est bon pour le corps."
+  translations:
+    de: ["der Körper"]
+  example_translations:
+    de: "Sport ist gut für den Körper."
+
+- id: "corps-humain"
+  lemma: "le corps humain"
+  pos: noun
+  level: A2
+  ipa: "/kɔʁ y.mɛ̃/"
+  example: "Nous étudions le corps humain."
+  translations:
+    de: ["der menschliche Körper"]
+  example_translations:
+    de: "Wir lernen den menschlichen Körper kennen."
+
+- id: "cou"
+  lemma: "le cou"
+  pos: noun
+  level: A1
+  ipa: "/ku/"
+  example: "Il porte une écharpe autour du cou."
+  translations:
+    de: ["der Hals"]
+  example_translations:
+    de: "Er trägt einen Schal um den Hals."
+
+- id: "dent"
+  lemma: "la dent"
+  pos: noun
+  level: A1
+  ipa: "/dɑ̃/"
+  example: "J'ai mal aux dents."
+  translations:
+    de: ["der Zahn"]
+  example_translations:
+    de: "Ich habe Zahnschmerzen."
+
+- id: "dentiste"
+  lemma: "le dentiste"
+  pos: noun
+  level: A1
+  ipa: "/dɑ̃.tist/"
+  example: "J'ai peur du dentiste."
+  translations:
+    de: ["der Zahnarzt", "die Zahnärztin"]
+  example_translations:
+    de: "Ich habe Angst vor dem Zahnarzt."
+
+- id: "docteur"
+  lemma: "le docteur"
+  pos: noun
+  level: A1
+  ipa: "/dɔk.tœʁ/"
+  example: "Le docteur arrive."
+  translations:
+    de: ["der Doktor", "der Arzt"]
+  example_translations:
+    de: "Der Doktor kommt."
+
+- id: "doigt"
+  lemma: "le doigt"
+  pos: noun
+  level: A1
+  ipa: "/dwa/"
+  example: "J'ai coupé mon doigt."
+  translations:
+    de: ["der Finger"]
+  example_translations:
+    de: "Ich habe mir in den Finger geschnitten."
+
+- id: "dos"
+  lemma: "le dos"
+  pos: noun
+  level: A1
+  ipa: "/do/"
+  example: "J'ai mal au dos."
+  translations:
+    de: ["der Rücken"]
+  example_translations:
+    de: "Ich habe Rückenschmerzen."
+
+- id: "douleur"
+  lemma: "la douleur"
+  pos: noun
+  level: A2
+  ipa: "/du.lœʁ/"
+  example: "J'ai une douleur dans le dos."
+  translations:
+    de: ["der Schmerz"]
+  example_translations:
+    de: "Ich habe Schmerzen im Rücken."
+
+- id: "epaule"
+  lemma: "l'épaule (f.)"
+  pos: noun
+  level: A2
+  ipa: "/e.pol/"
+  example: "J'ai mal à l'épaule."
+  translations:
+    de: ["die Schulter"]
+  example_translations:
+    de: "Mir tut die Schulter weh."
+
+- id: "estomac"
+  lemma: "l'estomac (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛs.tɔ.ma/"
+  example: "J'ai mal à l'estomac."
+  translations:
+    de: ["der Magen"]
+  example_translations:
+    de: "Mir tut der Magen weh."
+
+- id: "fatigue"
+  lemma: "fatigué"
+  pos: adjective
+  level: A1
+  ipa: "/fa.ti.ɡe/"
+  example: "Je suis très fatigué."
+  translations:
+    de: ["müde"]
+  example_translations:
+    de: "Ich bin sehr müde."
+
+- id: "fievre"
+  lemma: "la fièvre"
+  pos: noun
+  level: A1
+  ipa: "/fjɛvʁ/"
+  example: "L'enfant a de la fièvre."
+  translations:
+    de: ["das Fieber"]
+  example_translations:
+    de: "Das Kind hat Fieber."
+
+- id: "genou"
+  lemma: "le genou"
+  pos: noun
+  level: A2
+  ipa: "/ʒə.nu/"
+  example: "Je me suis fait mal au genou."
+  translations:
+    de: ["das Knie"]
+  example_translations:
+    de: "Ich habe mir das Knie verletzt."
+
+- id: "gorge"
+  lemma: "la gorge"
+  pos: noun
+  level: A2
+  ipa: "/ɡɔʁʒ/"
+  example: "J'ai mal à la gorge."
+  translations:
+    de: ["der Hals", "die Kehle"]
+  example_translations:
+    de: "Ich habe Halsschmerzen."
+
+- id: "grippe"
+  lemma: "la grippe"
+  pos: noun
+  level: A2
+  ipa: "/ɡʁip/"
+  example: "Il a la grippe."
+  translations:
+    de: ["die Grippe"]
+  example_translations:
+    de: "Er hat die Grippe."
+
+- id: "hopital"
+  lemma: "l'hôpital (m.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔ.pi.tal/"
+  example: "Il est à l'hôpital."
+  translations:
+    de: ["das Krankenhaus"]
+  example_translations:
+    de: "Er ist im Krankenhaus."
+
+- id: "jambe"
+  lemma: "la jambe"
+  pos: noun
+  level: A1
+  ipa: "/ʒɑ̃b/"
+  example: "Elle a de longues jambes."
+  translations:
+    de: ["das Bein"]
+  example_translations:
+    de: "Sie hat lange Beine."
+
+- id: "main"
+  lemma: "la main"
+  pos: noun
+  level: A1
+  ipa: "/mɛ̃/"
+  example: "Lave-toi les mains."
+  translations:
+    de: ["die Hand"]
+  example_translations:
+    de: "Wasch dir die Hände."
+
+- id: "malade"
+  lemma: "malade"
+  pos: adjective
+  level: A1
+  ipa: "/ma.lad/"
+  example: "Je suis malade aujourd'hui."
+  translations:
+    de: ["krank"]
+  example_translations:
+    de: "Ich bin heute krank."
+
+- id: "maladie"
+  lemma: "la maladie"
+  pos: noun
+  level: A2
+  ipa: "/ma.la.di/"
+  example: "C'est une maladie grave."
+  translations:
+    de: ["die Krankheit"]
+  example_translations:
+    de: "Das ist eine schwere Krankheit."
+
+- id: "medecin"
+  lemma: "le médecin"
+  pos: noun
+  level: A1
+  ipa: "/med.sɛ̃/"
+  example: "Il faut aller chez le médecin."
+  translations:
+    de: ["der Arzt", "die Ärztin"]
+  example_translations:
+    de: "Du musst zum Arzt gehen."
+
+- id: "medicament"
+  lemma: "le médicament"
+  pos: noun
+  level: A1
+  ipa: "/me.di.ka.mɑ̃/"
+  example: "Prenez ce médicament trois fois par jour."
+  translations:
+    de: ["das Medikament"]
+  example_translations:
+    de: "Nehmen Sie dieses Medikament dreimal am Tag."
+
+- id: "nez"
+  lemma: "le nez"
+  pos: noun
+  level: A1
+  ipa: "/ne/"
+  example: "Il a un grand nez."
+  translations:
+    de: ["die Nase"]
+  example_translations:
+    de: "Er hat eine große Nase."
+
+- id: "oeil"
+  lemma: "l'œil (m.)"
+  pos: noun
+  level: A1
+  ipa: "/œj/"
+  example: "Elle a les yeux bleus."
+  translations:
+    de: ["das Auge"]
+  example_translations:
+    de: "Sie hat blaue Augen."
+
+- id: "ordonnance"
+  lemma: "l'ordonnance (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔʁ.dɔ.nɑ̃s/"
+  example: "Le médecin me donne une ordonnance."
+  translations:
+    de: ["das Rezept (ärztlich)"]
+  example_translations:
+    de: "Der Arzt gibt mir ein Rezept."
+
+- id: "oreille"
+  lemma: "l'oreille (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔ.ʁɛj/"
+  example: "J'ai mal à l'oreille."
+  translations:
+    de: ["das Ohr"]
+  example_translations:
+    de: "Ich habe Ohrenschmerzen."
+
+- id: "peau"
+  lemma: "la peau"
+  pos: noun
+  level: A2
+  ipa: "/po/"
+  example: "Elle a la peau très claire."
+  translations:
+    de: ["die Haut"]
+  example_translations:
+    de: "Sie hat sehr helle Haut."
+
+- id: "pied"
+  lemma: "le pied"
+  pos: noun
+  level: A1
+  ipa: "/pje/"
+  example: "Je vais à l'école à pied."
+  translations:
+    de: ["der Fuß"]
+  example_translations:
+    de: "Ich gehe zu Fuß zur Schule."
+
+- id: "rendez-vous-medical"
+  lemma: "le rendez-vous médical"
+  pos: noun
+  level: A2
+  ipa: "/ʁɑ̃.de.vu me.di.kal/"
+  example: "J'ai un rendez-vous médical à dix heures."
+  translations:
+    de: ["der Arzttermin"]
+  example_translations:
+    de: "Ich habe um zehn einen Arzttermin."
+
+- id: "rhume"
+  lemma: "le rhume"
+  pos: noun
+  level: A2
+  ipa: "/ʁym/"
+  example: "J'ai un rhume."
+  translations:
+    de: ["der Schnupfen", "die Erkältung"]
+  example_translations:
+    de: "Ich habe einen Schnupfen."
+
+- id: "sang"
+  lemma: "le sang"
+  pos: noun
+  level: A2
+  ipa: "/sɑ̃/"
+  example: "Il y a du sang sur ta chemise."
+  translations:
+    de: ["das Blut"]
+  example_translations:
+    de: "Auf deinem Hemd ist Blut."
+
+- id: "sante"
+  lemma: "la santé"
+  pos: noun
+  level: A1
+  ipa: "/sɑ̃.te/"
+  example: "Le tabac est mauvais pour la santé."
+  translations:
+    de: ["die Gesundheit"]
+  example_translations:
+    de: "Tabak ist schlecht für die Gesundheit."
+
+- id: "se-brosser"
+  lemma: "se brosser"
+  pos: verb
+  level: A2
+  ipa: "/sə bʁɔ.se/"
+  example: "Je me brosse les dents."
+  translations:
+    de: ["sich bürsten", "sich putzen (Zähne)"]
+  example_translations:
+    de: "Ich putze mir die Zähne."
+
+- id: "se-laver"
+  lemma: "se laver"
+  pos: verb
+  level: A1
+  ipa: "/sə la.ve/"
+  example: "Les enfants se lavent les mains."
+  translations:
+    de: ["sich waschen"]
+  example_translations:
+    de: "Die Kinder waschen sich die Hände."
+
+- id: "se-reposer"
+  lemma: "se reposer"
+  pos: verb
+  level: A2
+  ipa: "/sə ʁə.po.ze/"
+  example: "Tu dois te reposer."
+  translations:
+    de: ["sich ausruhen"]
+  example_translations:
+    de: "Du musst dich ausruhen."
+
+- id: "tete"
+  lemma: "la tête"
+  pos: noun
+  level: A1
+  ipa: "/tɛt/"
+  example: "J'ai mal à la tête."
+  translations:
+    de: ["der Kopf"]
+  example_translations:
+    de: "Ich habe Kopfschmerzen."
+
+- id: "tousser"
+  lemma: "tousser"
+  pos: verb
+  level: A2
+  ipa: "/tu.se/"
+  example: "Il tousse beaucoup."
+  translations:
+    de: ["husten"]
+  example_translations:
+    de: "Er hustet viel."
+
+- id: "ventre"
+  lemma: "le ventre"
+  pos: noun
+  level: A1
+  ipa: "/vɑ̃tʁ/"
+  example: "J'ai mal au ventre."
+  translations:
+    de: ["der Bauch"]
+  example_translations:
+    de: "Ich habe Bauchschmerzen."
+
+- id: "visage"
+  lemma: "le visage"
+  pos: noun
+  level: A1
+  ipa: "/vi.zaʒ/"
+  example: "Elle a un joli visage."
+  translations:
+    de: ["das Gesicht"]
+  example_translations:
+    de: "Sie hat ein hübsches Gesicht."

@@ -1,0 +1,728 @@
+# 🏃 Alltägliche Verben – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "accepter"
+  lemma: "accepter"
+  pos: verb
+  level: A2
+  ipa: "/ak.sɛp.te/"
+  example: "J'accepte ton invitation."
+  translations:
+    de: ["annehmen", "akzeptieren"]
+  example_translations:
+    de: "Ich nehme deine Einladung an."
+
+- id: "aider"
+  lemma: "aider"
+  pos: verb
+  level: A1
+  ipa: "/e.de/"
+  example: "Tu peux m'aider ?"
+  translations:
+    de: ["helfen"]
+  example_translations:
+    de: "Kannst du mir helfen?"
+
+- id: "aller"
+  lemma: "aller"
+  pos: verb
+  level: A1
+  ipa: "/a.le/"
+  example: "Je vais à l'école."
+  translations:
+    de: ["gehen", "fahren"]
+  example_translations:
+    de: "Ich gehe zur Schule."
+
+- id: "apporter"
+  lemma: "apporter"
+  pos: verb
+  level: A2
+  ipa: "/a.pɔʁ.te/"
+  example: "J'apporte un gâteau."
+  translations:
+    de: ["mitbringen", "bringen"]
+  example_translations:
+    de: "Ich bringe einen Kuchen mit."
+
+- id: "arreter"
+  lemma: "arrêter"
+  pos: verb
+  level: A1
+  ipa: "/a.ʁɛ.te/"
+  example: "Arrête de crier !"
+  translations:
+    de: ["aufhören", "anhalten", "stoppen"]
+  example_translations:
+    de: "Hör auf zu schreien!"
+
+- id: "avoir"
+  lemma: "avoir"
+  pos: verb
+  level: A1
+  ipa: "/a.vwaʁ/"
+  example: "J'ai deux frères."
+  translations:
+    de: ["haben"]
+  example_translations:
+    de: "Ich habe zwei Brüder."
+
+- id: "avoir-besoin-de"
+  lemma: "avoir besoin de"
+  pos: phrase
+  level: A1
+  ipa: "/a.vwaʁ bə.zwɛ̃ də/"
+  example: "J'ai besoin d'aide."
+  translations:
+    de: ["brauchen"]
+  example_translations:
+    de: "Ich brauche Hilfe."
+
+- id: "casser"
+  lemma: "casser"
+  pos: verb
+  level: A2
+  ipa: "/ka.se/"
+  example: "J'ai cassé un verre."
+  translations:
+    de: ["zerbrechen", "kaputt machen"]
+  example_translations:
+    de: "Ich habe ein Glas zerbrochen."
+
+- id: "changer"
+  lemma: "changer"
+  pos: verb
+  level: A1
+  ipa: "/ʃɑ̃.ʒe/"
+  example: "Il faut changer à Lyon."
+  translations:
+    de: ["ändern", "wechseln", "umsteigen"]
+  example_translations:
+    de: "Man muss in Lyon umsteigen."
+
+- id: "chercher"
+  lemma: "chercher"
+  pos: verb
+  level: A1
+  ipa: "/ʃɛʁ.ʃe/"
+  example: "Je cherche mon portable."
+  translations:
+    de: ["suchen", "holen"]
+  example_translations:
+    de: "Ich suche mein Handy."
+
+- id: "choisir"
+  lemma: "choisir"
+  pos: verb
+  level: A1
+  ipa: "/ʃwa.ziʁ/"
+  example: "Choisis un dessert."
+  translations:
+    de: ["wählen", "aussuchen"]
+  example_translations:
+    de: "Such dir einen Nachtisch aus."
+
+- id: "construire"
+  lemma: "construire"
+  pos: verb
+  level: A2
+  ipa: "/kɔ̃s.tʁɥiʁ/"
+  example: "Ils construisent une maison."
+  translations:
+    de: ["bauen"]
+  example_translations:
+    de: "Sie bauen ein Haus."
+
+- id: "continuer"
+  lemma: "continuer"
+  pos: verb
+  level: A2
+  ipa: "/kɔ̃.ti.nɥe/"
+  example: "Continuez tout droit."
+  translations:
+    de: ["weitermachen", "fortsetzen"]
+  example_translations:
+    de: "Gehen Sie weiter geradeaus."
+
+- id: "couper"
+  lemma: "couper"
+  pos: verb
+  level: A1
+  ipa: "/ku.pe/"
+  example: "Coupe le pain, s'il te plaît."
+  translations:
+    de: ["schneiden"]
+  example_translations:
+    de: "Schneide bitte das Brot."
+
+- id: "creer"
+  lemma: "créer"
+  pos: verb
+  level: A2
+  ipa: "/kʁe.e/"
+  example: "Elle a créé son entreprise."
+  translations:
+    de: ["schaffen", "erstellen"]
+  example_translations:
+    de: "Sie hat ihr eigenes Unternehmen gegründet."
+
+- id: "devenir"
+  lemma: "devenir"
+  pos: verb
+  level: A2
+  ipa: "/də.v.niʁ/"
+  example: "Il veut devenir pilote."
+  translations:
+    de: ["werden"]
+  example_translations:
+    de: "Er möchte Pilot werden."
+
+- id: "devoir"
+  lemma: "devoir"
+  pos: verb
+  level: A1
+  ipa: "/də.vwaʁ/"
+  example: "Je dois partir."
+  translations:
+    de: ["müssen", "schulden"]
+  example_translations:
+    de: "Ich muss gehen."
+
+- id: "donner"
+  lemma: "donner"
+  pos: verb
+  level: A1
+  ipa: "/dɔ.ne/"
+  example: "Donne-moi ton numéro."
+  translations:
+    de: ["geben"]
+  example_translations:
+    de: "Gib mir deine Nummer."
+
+- id: "ecouter"
+  lemma: "écouter"
+  pos: verb
+  level: A1
+  ipa: "/e.ku.te/"
+  example: "Écoute bien !"
+  translations:
+    de: ["zuhören", "hören"]
+  example_translations:
+    de: "Hör gut zu!"
+
+- id: "emporter"
+  lemma: "emporter"
+  pos: verb
+  level: A2
+  ipa: "/ɑ̃.pɔʁ.te/"
+  example: "Emporte un parapluie."
+  translations:
+    de: ["mitnehmen"]
+  example_translations:
+    de: "Nimm einen Regenschirm mit."
+
+- id: "emprunter"
+  lemma: "emprunter"
+  pos: verb
+  level: A2
+  ipa: "/ɑ̃.pʁœ̃.te/"
+  example: "J'emprunte un livre à la bibliothèque."
+  translations:
+    de: ["leihen (ausleihen)"]
+  example_translations:
+    de: "Ich leihe mir ein Buch in der Bibliothek aus."
+
+- id: "entendre"
+  lemma: "entendre"
+  pos: verb
+  level: A1
+  ipa: "/ɑ̃.tɑ̃dʁ/"
+  example: "Tu entends la musique ?"
+  translations:
+    de: ["hören"]
+  example_translations:
+    de: "Hörst du die Musik?"
+
+- id: "entrer"
+  lemma: "entrer"
+  pos: verb
+  level: A1
+  ipa: "/ɑ̃.tʁe/"
+  example: "Entrez, s'il vous plaît."
+  translations:
+    de: ["eintreten", "hineingehen"]
+  example_translations:
+    de: "Treten Sie bitte ein."
+
+- id: "etre"
+  lemma: "être"
+  pos: verb
+  level: A1
+  ipa: "/ɛtʁ/"
+  example: "Je suis content."
+  translations:
+    de: ["sein"]
+  example_translations:
+    de: "Ich bin zufrieden."
+
+- id: "faire"
+  lemma: "faire"
+  pos: verb
+  level: A1
+  ipa: "/fɛʁ/"
+  example: "Qu'est-ce que tu fais ?"
+  translations:
+    de: ["machen", "tun"]
+  example_translations:
+    de: "Was machst du?"
+
+- id: "fermer"
+  lemma: "fermer"
+  pos: verb
+  level: A1
+  ipa: "/fɛʁ.me/"
+  example: "Ferme la fenêtre."
+  translations:
+    de: ["schließen", "zumachen"]
+  example_translations:
+    de: "Mach das Fenster zu."
+
+- id: "garder"
+  lemma: "garder"
+  pos: verb
+  level: A2
+  ipa: "/ɡaʁ.de/"
+  example: "Tu peux garder mon chat ?"
+  translations:
+    de: ["behalten", "aufpassen auf"]
+  example_translations:
+    de: "Kannst du auf meine Katze aufpassen?"
+
+- id: "il-faut"
+  lemma: "il faut"
+  pos: phrase
+  level: A1
+  ipa: "/il fo/"
+  example: "Il faut acheter du pain."
+  translations:
+    de: ["man muss", "es ist nötig"]
+  example_translations:
+    de: "Man muss Brot kaufen."
+
+- id: "jeter"
+  lemma: "jeter"
+  pos: verb
+  level: A2
+  ipa: "/ʒə.te/"
+  example: "Ne jette pas tes papiers par terre."
+  translations:
+    de: ["werfen", "wegwerfen"]
+  example_translations:
+    de: "Wirf dein Papier nicht auf den Boden."
+
+- id: "laisser"
+  lemma: "laisser"
+  pos: verb
+  level: A2
+  ipa: "/le.se/"
+  example: "Laisse-moi tranquille !"
+  translations:
+    de: ["lassen", "zurücklassen"]
+  example_translations:
+    de: "Lass mich in Ruhe!"
+
+- id: "lancer"
+  lemma: "lancer"
+  pos: verb
+  level: A2
+  ipa: "/lɑ̃.se/"
+  example: "Lance le ballon !"
+  translations:
+    de: ["werfen"]
+  example_translations:
+    de: "Wirf den Ball!"
+
+- id: "marcher"
+  lemma: "marcher"
+  pos: verb
+  level: A1
+  ipa: "/maʁ.ʃe/"
+  example: "Nous marchons jusqu'à la plage."
+  translations:
+    de: ["gehen", "laufen", "funktionieren"]
+  example_translations:
+    de: "Wir gehen bis zum Strand."
+
+- id: "montrer"
+  lemma: "montrer"
+  pos: verb
+  level: A1
+  ipa: "/mɔ̃.tʁe/"
+  example: "Montre-moi tes photos."
+  translations:
+    de: ["zeigen"]
+  example_translations:
+    de: "Zeig mir deine Fotos."
+
+- id: "organiser"
+  lemma: "organiser"
+  pos: verb
+  level: A2
+  ipa: "/ɔʁ.ɡa.ni.ze/"
+  example: "Nous organisons une fête."
+  translations:
+    de: ["organisieren"]
+  example_translations:
+    de: "Wir organisieren eine Party."
+
+- id: "oser"
+  lemma: "oser"
+  pos: verb
+  level: A2
+  ipa: "/o.ze/"
+  example: "Je n'ose pas lui parler."
+  translations:
+    de: ["wagen", "sich trauen"]
+  example_translations:
+    de: "Ich traue mich nicht, mit ihr zu sprechen."
+
+- id: "ouvrir"
+  lemma: "ouvrir"
+  pos: verb
+  level: A1
+  ipa: "/u.vʁiʁ/"
+  example: "Ouvre la porte, s'il te plaît."
+  translations:
+    de: ["öffnen", "aufmachen"]
+  example_translations:
+    de: "Mach bitte die Tür auf."
+
+- id: "partager"
+  lemma: "partager"
+  pos: verb
+  level: A2
+  ipa: "/paʁ.ta.ʒe/"
+  example: "On partage la pizza ?"
+  translations:
+    de: ["teilen"]
+  example_translations:
+    de: "Teilen wir uns die Pizza?"
+
+- id: "passer"
+  lemma: "passer"
+  pos: verb
+  level: A1
+  ipa: "/pa.se/"
+  example: "J'ai passé une semaine à Rome."
+  translations:
+    de: ["vorbeigehen", "verbringen", "reichen"]
+  example_translations:
+    de: "Ich habe eine Woche in Rom verbracht."
+
+- id: "perdre"
+  lemma: "perdre"
+  pos: verb
+  level: A1
+  ipa: "/pɛʁdʁ/"
+  example: "J'ai perdu mon portefeuille."
+  translations:
+    de: ["verlieren"]
+  example_translations:
+    de: "Ich habe mein Portemonnaie verloren."
+
+- id: "permettre"
+  lemma: "permettre"
+  pos: verb
+  level: A2
+  ipa: "/pɛʁ.mɛtʁ/"
+  example: "Mes parents ne me permettent pas de sortir."
+  translations:
+    de: ["erlauben"]
+  example_translations:
+    de: "Meine Eltern erlauben mir nicht auszugehen."
+
+- id: "pouvoir"
+  lemma: "pouvoir"
+  pos: verb
+  level: A1
+  ipa: "/pu.vwaʁ/"
+  example: "Je peux entrer ?"
+  translations:
+    de: ["können", "dürfen"]
+  example_translations:
+    de: "Darf ich hereinkommen?"
+
+- id: "prendre"
+  lemma: "prendre"
+  pos: verb
+  level: A1
+  ipa: "/pʁɑ̃dʁ/"
+  example: "Je prends le bus."
+  translations:
+    de: ["nehmen"]
+  example_translations:
+    de: "Ich nehme den Bus."
+
+- id: "preparer"
+  lemma: "préparer"
+  pos: verb
+  level: A1
+  ipa: "/pʁe.pa.ʁe/"
+  example: "Je prépare le repas."
+  translations:
+    de: ["vorbereiten", "zubereiten"]
+  example_translations:
+    de: "Ich bereite das Essen zu."
+
+- id: "preter"
+  lemma: "prêter"
+  pos: verb
+  level: A2
+  ipa: "/pʁɛ.te/"
+  example: "Tu me prêtes ton stylo ?"
+  translations:
+    de: ["leihen (verleihen)"]
+  example_translations:
+    de: "Leihst du mir deinen Stift?"
+
+- id: "proteger"
+  lemma: "protéger"
+  pos: verb
+  level: A2
+  ipa: "/pʁɔ.te.ʒe/"
+  example: "Il faut protéger la nature."
+  translations:
+    de: ["schützen"]
+  example_translations:
+    de: "Man muss die Natur schützen."
+
+- id: "recommencer"
+  lemma: "recommencer"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.kɔ.mɑ̃.se/"
+  example: "Il recommence à pleuvoir."
+  translations:
+    de: ["wieder anfangen"]
+  example_translations:
+    de: "Es fängt wieder an zu regnen."
+
+- id: "regarder"
+  lemma: "regarder"
+  pos: verb
+  level: A1
+  ipa: "/ʁə.ɡaʁ.de/"
+  example: "Je regarde un film."
+  translations:
+    de: ["anschauen", "ansehen"]
+  example_translations:
+    de: "Ich schaue einen Film."
+
+- id: "remplir"
+  lemma: "remplir"
+  pos: verb
+  level: A2
+  ipa: "/ʁɑ̃.pliʁ/"
+  example: "Remplissez ce formulaire."
+  translations:
+    de: ["füllen", "ausfüllen"]
+  example_translations:
+    de: "Füllen Sie dieses Formular aus."
+
+- id: "rendre"
+  lemma: "rendre"
+  pos: verb
+  level: A2
+  ipa: "/ʁɑ̃dʁ/"
+  example: "Je te rends ton livre demain."
+  translations:
+    de: ["zurückgeben", "machen (zu)"]
+  example_translations:
+    de: "Ich gebe dir dein Buch morgen zurück."
+
+- id: "reparer"
+  lemma: "réparer"
+  pos: verb
+  level: A2
+  ipa: "/ʁe.pa.ʁe/"
+  example: "Il répare mon vélo."
+  translations:
+    de: ["reparieren"]
+  example_translations:
+    de: "Er repariert mein Fahrrad."
+
+- id: "rester"
+  lemma: "rester"
+  pos: verb
+  level: A1
+  ipa: "/ʁɛs.te/"
+  example: "Je reste à la maison."
+  translations:
+    de: ["bleiben"]
+  example_translations:
+    de: "Ich bleibe zu Hause."
+
+- id: "retrouver"
+  lemma: "retrouver"
+  pos: verb
+  level: A2
+  ipa: "/ʁə.tʁu.ve/"
+  example: "On se retrouve devant le cinéma."
+  translations:
+    de: ["wiederfinden", "treffen"]
+  example_translations:
+    de: "Wir treffen uns vor dem Kino."
+
+- id: "s-asseoir"
+  lemma: "s'asseoir"
+  pos: verb
+  level: A1
+  ipa: "/sa.swaʁ/"
+  example: "Asseyez-vous, s'il vous plaît."
+  translations:
+    de: ["sich setzen"]
+  example_translations:
+    de: "Setzen Sie sich bitte."
+
+- id: "s-occuper-de"
+  lemma: "s'occuper de"
+  pos: verb
+  level: A2
+  ipa: "/sɔ.ky.pe də/"
+  example: "Je m'occupe des enfants."
+  translations:
+    de: ["sich kümmern um"]
+  example_translations:
+    de: "Ich kümmere mich um die Kinder."
+
+- id: "sauver"
+  lemma: "sauver"
+  pos: verb
+  level: A2
+  ipa: "/so.ve/"
+  example: "Le pompier a sauvé l'enfant."
+  translations:
+    de: ["retten"]
+  example_translations:
+    de: "Der Feuerwehrmann hat das Kind gerettet."
+
+- id: "se-depecher"
+  lemma: "se dépêcher"
+  pos: verb
+  level: A2
+  ipa: "/sə de.pe.ʃe/"
+  example: "Dépêche-toi, on est en retard !"
+  translations:
+    de: ["sich beeilen"]
+  example_translations:
+    de: "Beeil dich, wir sind spät dran!"
+
+- id: "se-trouver"
+  lemma: "se trouver"
+  pos: verb
+  level: A2
+  ipa: "/sə tʁu.ve/"
+  example: "La gare se trouve au centre."
+  translations:
+    de: ["sich befinden", "liegen"]
+  example_translations:
+    de: "Der Bahnhof liegt im Zentrum."
+
+- id: "tenir"
+  lemma: "tenir"
+  pos: verb
+  level: A2
+  ipa: "/tə.niʁ/"
+  example: "Tiens ma main."
+  translations:
+    de: ["halten"]
+  example_translations:
+    de: "Halt meine Hand."
+
+- id: "tomber"
+  lemma: "tomber"
+  pos: verb
+  level: A1
+  ipa: "/tɔ̃.be/"
+  example: "Attention, tu vas tomber !"
+  translations:
+    de: ["fallen", "hinfallen"]
+  example_translations:
+    de: "Vorsicht, du fällst gleich hin!"
+
+- id: "trouver"
+  lemma: "trouver"
+  pos: verb
+  level: A1
+  ipa: "/tʁu.ve/"
+  example: "Je ne trouve pas mes clés."
+  translations:
+    de: ["finden"]
+  example_translations:
+    de: "Ich finde meine Schlüssel nicht."
+
+- id: "tuer"
+  lemma: "tuer"
+  pos: verb
+  level: A2
+  ipa: "/tɥe/"
+  example: "Le chat a tué une souris."
+  translations:
+    de: ["töten"]
+  example_translations:
+    de: "Die Katze hat eine Maus getötet."
+
+- id: "utiliser"
+  lemma: "utiliser"
+  pos: verb
+  level: A2
+  ipa: "/y.ti.li.ze/"
+  example: "J'utilise mon portable tous les jours."
+  translations:
+    de: ["benutzen", "verwenden"]
+  example_translations:
+    de: "Ich benutze mein Handy jeden Tag."
+
+- id: "venir"
+  lemma: "venir"
+  pos: verb
+  level: A1
+  ipa: "/və.niʁ/"
+  example: "Tu viens avec nous ?"
+  translations:
+    de: ["kommen"]
+  example_translations:
+    de: "Kommst du mit uns?"
+
+- id: "vivre"
+  lemma: "vivre"
+  pos: verb
+  level: A1
+  ipa: "/vivʁ/"
+  example: "Je vis en France depuis trois ans."
+  translations:
+    de: ["leben"]
+  example_translations:
+    de: "Ich lebe seit drei Jahren in Frankreich."
+
+- id: "voir"
+  lemma: "voir"
+  pos: verb
+  level: A1
+  ipa: "/vwaʁ/"
+  example: "Je vois la mer."
+  translations:
+    de: ["sehen"]
+  example_translations:
+    de: "Ich sehe das Meer."
+
+- id: "vouloir"
+  lemma: "vouloir"
+  pos: verb
+  level: A1
+  ipa: "/vu.lwaʁ/"
+  example: "Je veux un café."
+  translations:
+    de: ["wollen", "möchten"]
+  example_translations:
+    de: "Ich will einen Kaffee."

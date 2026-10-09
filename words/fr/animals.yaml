@@ -1,0 +1,288 @@
+# 🐾 Tiere – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "animal"
+  lemma: "l'animal (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.ni.mal/"
+  example: "Quel est ton animal préféré ?"
+  translations:
+    de: ["das Tier"]
+  example_translations:
+    de: "Was ist dein Lieblingstier?"
+
+- id: "araignee"
+  lemma: "l'araignée (f.)"
+  pos: noun
+  level: A2
+  ipa: "/a.ʁɛ.ɲe/"
+  example: "Il y a une araignée dans la salle de bains."
+  translations:
+    de: ["die Spinne"]
+  example_translations:
+    de: "Im Bad ist eine Spinne."
+
+- id: "canard"
+  lemma: "le canard"
+  pos: noun
+  level: A2
+  ipa: "/ka.naʁ/"
+  example: "Il y a des canards sur le lac."
+  translations:
+    de: ["die Ente"]
+  example_translations:
+    de: "Auf dem See sind Enten."
+
+- id: "chat"
+  lemma: "le chat"
+  pos: noun
+  level: A1
+  ipa: "/ʃa/"
+  example: "Le chat dort sur le lit."
+  translations:
+    de: ["die Katze"]
+  example_translations:
+    de: "Die Katze schläft auf dem Bett."
+
+- id: "cheval"
+  lemma: "le cheval"
+  pos: noun
+  level: A1
+  ipa: "/ʃə.val/"
+  example: "Elle fait du cheval."
+  translations:
+    de: ["das Pferd"]
+  example_translations:
+    de: "Sie reitet."
+
+- id: "chien"
+  lemma: "le chien"
+  pos: noun
+  level: A1
+  ipa: "/ʃjɛ̃/"
+  example: "Mon chien s'appelle Max."
+  translations:
+    de: ["der Hund"]
+  example_translations:
+    de: "Mein Hund heißt Max."
+
+- id: "cochon"
+  lemma: "le cochon"
+  pos: noun
+  level: A1
+  ipa: "/kɔ.ʃɔ̃/"
+  example: "Le fermier a dix cochons."
+  translations:
+    de: ["das Schwein"]
+  example_translations:
+    de: "Der Bauer hat zehn Schweine."
+
+- id: "elephant"
+  lemma: "l'éléphant (m.)"
+  pos: noun
+  level: A1
+  ipa: "/e.le.fɑ̃/"
+  example: "L'éléphant est très grand."
+  translations:
+    de: ["der Elefant"]
+  example_translations:
+    de: "Der Elefant ist sehr groß."
+
+- id: "ferme-noun"
+  lemma: "la ferme"
+  pos: noun
+  level: A2
+  ipa: "/fɛʁm/"
+  example: "Ils ont une ferme avec des vaches."
+  translations:
+    de: ["der Bauernhof"]
+  example_translations:
+    de: "Sie haben einen Bauernhof mit Kühen."
+
+- id: "insecte"
+  lemma: "l'insecte (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛ̃.sɛkt/"
+  example: "Il y a beaucoup d'insectes en été."
+  translations:
+    de: ["das Insekt"]
+  example_translations:
+    de: "Im Sommer gibt es viele Insekten."
+
+- id: "lapin"
+  lemma: "le lapin"
+  pos: noun
+  level: A1
+  ipa: "/la.pɛ̃/"
+  example: "Les enfants ont un lapin."
+  translations:
+    de: ["das Kaninchen", "der Hase"]
+  example_translations:
+    de: "Die Kinder haben ein Kaninchen."
+
+- id: "lion"
+  lemma: "le lion"
+  pos: noun
+  level: A1
+  ipa: "/ljɔ̃/"
+  example: "Le lion est le roi des animaux."
+  translations:
+    de: ["der Löwe"]
+  example_translations:
+    de: "Der Löwe ist der König der Tiere."
+
+- id: "loup"
+  lemma: "le loup"
+  pos: noun
+  level: A2
+  ipa: "/lu/"
+  example: "Le loup a peur du feu."
+  translations:
+    de: ["der Wolf"]
+  example_translations:
+    de: "Der Wolf hat Angst vor dem Feuer."
+
+- id: "mouche"
+  lemma: "la mouche"
+  pos: noun
+  level: A2
+  ipa: "/muʃ/"
+  example: "Une mouche est dans ma soupe !"
+  translations:
+    de: ["die Fliege"]
+  example_translations:
+    de: "In meiner Suppe ist eine Fliege!"
+
+- id: "mouton"
+  lemma: "le mouton"
+  pos: noun
+  level: A1
+  ipa: "/mu.tɔ̃/"
+  example: "Il y a des moutons dans la montagne."
+  translations:
+    de: ["das Schaf"]
+  example_translations:
+    de: "In den Bergen gibt es Schafe."
+
+- id: "oiseau"
+  lemma: "l'oiseau (m.)"
+  pos: noun
+  level: A1
+  ipa: "/wa.zo/"
+  example: "Les oiseaux chantent le matin."
+  translations:
+    de: ["der Vogel"]
+  example_translations:
+    de: "Die Vögel singen am Morgen."
+
+- id: "ours"
+  lemma: "l'ours (m.)"
+  pos: noun
+  level: A2
+  ipa: "/uʁs/"
+  example: "L'ours vit dans la forêt."
+  translations:
+    de: ["der Bär"]
+  example_translations:
+    de: "Der Bär lebt im Wald."
+
+- id: "papillon"
+  lemma: "le papillon"
+  pos: noun
+  level: A2
+  ipa: "/pa.pi.jɔ̃/"
+  example: "Le papillon a de belles couleurs."
+  translations:
+    de: ["der Schmetterling"]
+  example_translations:
+    de: "Der Schmetterling hat schöne Farben."
+
+- id: "poisson-rouge"
+  lemma: "le poisson rouge"
+  pos: noun
+  level: A2
+  ipa: "/pwa.sɔ̃ ʁuʒ/"
+  example: "Nous avons un poisson rouge."
+  translations:
+    de: ["der Goldfisch"]
+  example_translations:
+    de: "Wir haben einen Goldfisch."
+
+- id: "poule"
+  lemma: "la poule"
+  pos: noun
+  level: A1
+  ipa: "/pul/"
+  example: "Les poules donnent des œufs."
+  translations:
+    de: ["das Huhn", "die Henne"]
+  example_translations:
+    de: "Die Hühner legen Eier."
+
+- id: "serpent"
+  lemma: "le serpent"
+  pos: noun
+  level: A2
+  ipa: "/sɛʁ.pɑ̃/"
+  example: "J'ai peur des serpents."
+  translations:
+    de: ["die Schlange"]
+  example_translations:
+    de: "Ich habe Angst vor Schlangen."
+
+- id: "singe"
+  lemma: "le singe"
+  pos: noun
+  level: A2
+  ipa: "/sɛ̃ʒ/"
+  example: "Les singes mangent des bananes."
+  translations:
+    de: ["der Affe"]
+  example_translations:
+    de: "Die Affen essen Bananen."
+
+- id: "souris"
+  lemma: "la souris"
+  pos: noun
+  level: A1
+  ipa: "/su.ʁi/"
+  example: "Le chat attrape une souris."
+  translations:
+    de: ["die Maus"]
+  example_translations:
+    de: "Die Katze fängt eine Maus."
+
+- id: "tigre"
+  lemma: "le tigre"
+  pos: noun
+  level: A2
+  ipa: "/tiɡʁ/"
+  example: "Le tigre est dangereux."
+  translations:
+    de: ["der Tiger"]
+  example_translations:
+    de: "Der Tiger ist gefährlich."
+
+- id: "vache"
+  lemma: "la vache"
+  pos: noun
+  level: A1
+  ipa: "/vaʃ/"
+  example: "Les vaches sont dans le pré."
+  translations:
+    de: ["die Kuh"]
+  example_translations:
+    de: "Die Kühe sind auf der Weide."
+
+- id: "zoo"
+  lemma: "le zoo"
+  pos: noun
+  level: A1
+  ipa: "/zo/"
+  example: "On va au zoo dimanche."
+  translations:
+    de: ["der Zoo"]
+  example_translations:
+    de: "Am Sonntag gehen wir in den Zoo."

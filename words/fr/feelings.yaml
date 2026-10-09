@@ -1,0 +1,541 @@
+# 😊 Gefühle – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "adorer"
+  lemma: "adorer"
+  pos: verb
+  level: A1
+  ipa: "/a.dɔ.ʁe/"
+  example: "J'adore le chocolat."
+  translations:
+    de: ["sehr mögen", "lieben"]
+  example_translations:
+    de: "Ich liebe Schokolade."
+
+- id: "aimer"
+  lemma: "aimer"
+  pos: verb
+  level: A1
+  ipa: "/e.me/"
+  example: "J'aime la musique."
+  translations:
+    de: ["lieben", "mögen"]
+  example_translations:
+    de: "Ich mag Musik."
+
+- id: "amour"
+  lemma: "l'amour (m.)"
+  pos: noun
+  level: A1
+  ipa: "/a.muʁ/"
+  example: "L'amour rend heureux."
+  translations:
+    de: ["die Liebe"]
+  example_translations:
+    de: "Liebe macht glücklich."
+
+- id: "amoureux"
+  lemma: "amoureux"
+  pos: adjective
+  level: A2
+  ipa: "/a.mu.ʁø/"
+  example: "Il est amoureux de Julie."
+  translations:
+    de: ["verliebt"]
+  example_translations:
+    de: "Er ist in Julie verliebt."
+
+- id: "apprecier"
+  lemma: "apprécier"
+  pos: verb
+  level: A2
+  ipa: "/a.pʁe.sje/"
+  example: "J'apprécie ton aide."
+  translations:
+    de: ["schätzen", "mögen"]
+  example_translations:
+    de: "Ich schätze deine Hilfe."
+
+- id: "avoir-envie-de"
+  lemma: "avoir envie de"
+  pos: phrase
+  level: A2
+  ipa: "/a.vwaʁ ɑ̃.vi də/"
+  example: "J'ai envie d'une glace."
+  translations:
+    de: ["Lust haben auf"]
+  example_translations:
+    de: "Ich habe Lust auf ein Eis."
+
+- id: "avoir-peur"
+  lemma: "avoir peur"
+  pos: phrase
+  level: A1
+  ipa: "/a.vwaʁ pœʁ/"
+  example: "J'ai peur des chiens."
+  translations:
+    de: ["Angst haben"]
+  example_translations:
+    de: "Ich habe Angst vor Hunden."
+
+- id: "bonheur"
+  lemma: "le bonheur"
+  pos: noun
+  level: A2
+  ipa: "/bɔ.nœʁ/"
+  example: "Je te souhaite beaucoup de bonheur."
+  translations:
+    de: ["das Glück"]
+  example_translations:
+    de: "Ich wünsche dir viel Glück."
+
+- id: "chance"
+  lemma: "la chance"
+  pos: noun
+  level: A1
+  ipa: "/ʃɑ̃s/"
+  example: "Tu as de la chance !"
+  translations:
+    de: ["das Glück", "die Chance"]
+  example_translations:
+    de: "Du hast Glück!"
+
+- id: "colere"
+  lemma: "la colère"
+  pos: noun
+  level: A2
+  ipa: "/kɔ.lɛʁ/"
+  example: "Il ne cache pas sa colère."
+  translations:
+    de: ["die Wut", "der Zorn"]
+  example_translations:
+    de: "Er verbirgt seine Wut nicht."
+
+- id: "content"
+  lemma: "content"
+  pos: adjective
+  level: A1
+  ipa: "/kɔ̃.tɑ̃/"
+  example: "Je suis content de te voir."
+  translations:
+    de: ["zufrieden", "froh"]
+  example_translations:
+    de: "Ich freue mich, dich zu sehen."
+
+- id: "decu"
+  lemma: "déçu"
+  pos: adjective
+  level: A2
+  ipa: "/de.sy/"
+  example: "Je suis déçu par le film."
+  translations:
+    de: ["enttäuscht"]
+  example_translations:
+    de: "Ich bin von dem Film enttäuscht."
+
+- id: "detester"
+  lemma: "détester"
+  pos: verb
+  level: A1
+  ipa: "/de.tɛs.te/"
+  example: "Je déteste le froid."
+  translations:
+    de: ["hassen", "nicht ausstehen können"]
+  example_translations:
+    de: "Ich hasse die Kälte."
+
+- id: "en-colere"
+  lemma: "en colère"
+  pos: adjective
+  level: A2
+  ipa: "/ɑ̃ kɔ.lɛʁ/"
+  example: "Mon père est en colère."
+  translations:
+    de: ["wütend", "verärgert"]
+  example_translations:
+    de: "Mein Vater ist wütend."
+
+- id: "esperer"
+  lemma: "espérer"
+  pos: verb
+  level: A2
+  ipa: "/ɛs.pe.ʁe/"
+  example: "J'espère que tu vas bien."
+  translations:
+    de: ["hoffen"]
+  example_translations:
+    de: "Ich hoffe, es geht dir gut."
+
+- id: "espoir"
+  lemma: "l'espoir (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɛs.pwaʁ/"
+  example: "Il ne faut pas perdre espoir."
+  translations:
+    de: ["die Hoffnung"]
+  example_translations:
+    de: "Man darf die Hoffnung nicht verlieren."
+
+- id: "etonne"
+  lemma: "étonné"
+  pos: adjective
+  level: A2
+  ipa: "/e.tɔ.ne/"
+  example: "Elle est étonnée par la nouvelle."
+  translations:
+    de: ["erstaunt"]
+  example_translations:
+    de: "Sie ist über die Nachricht erstaunt."
+
+- id: "fache"
+  lemma: "fâché"
+  pos: adjective
+  level: A2
+  ipa: "/fɑ.ʃe/"
+  example: "Elle est fâchée contre moi."
+  translations:
+    de: ["verärgert", "böse"]
+  example_translations:
+    de: "Sie ist böse auf mich."
+
+- id: "fier"
+  lemma: "fier"
+  pos: adjective
+  level: A2
+  ipa: "/fjɛʁ/"
+  example: "Je suis fier de toi."
+  translations:
+    de: ["stolz"]
+  example_translations:
+    de: "Ich bin stolz auf dich."
+
+- id: "heureusement"
+  lemma: "heureusement"
+  pos: adverb
+  level: A2
+  ipa: "/ø.ʁøz.mɑ̃/"
+  example: "Heureusement, personne n'est blessé."
+  translations:
+    de: ["zum Glück", "glücklicherweise"]
+  example_translations:
+    de: "Zum Glück ist niemand verletzt."
+
+- id: "heureux"
+  lemma: "heureux"
+  pos: adjective
+  level: A1
+  ipa: "/ø.ʁø/"
+  example: "Ils sont très heureux ensemble."
+  translations:
+    de: ["glücklich"]
+  example_translations:
+    de: "Sie sind zusammen sehr glücklich."
+
+- id: "inquiet"
+  lemma: "inquiet"
+  pos: adjective
+  level: A2
+  ipa: "/ɛ̃.kjɛ/"
+  example: "Ma mère est inquiète."
+  translations:
+    de: ["besorgt", "beunruhigt"]
+  example_translations:
+    de: "Meine Mutter ist besorgt."
+
+- id: "jaloux"
+  lemma: "jaloux"
+  pos: adjective
+  level: A2
+  ipa: "/ʒa.lu/"
+  example: "Il est jaloux de son frère."
+  translations:
+    de: ["eifersüchtig"]
+  example_translations:
+    de: "Er ist eifersüchtig auf seinen Bruder."
+
+- id: "joie"
+  lemma: "la joie"
+  pos: noun
+  level: A2
+  ipa: "/ʒwa/"
+  example: "Elle pleure de joie."
+  translations:
+    de: ["die Freude"]
+  example_translations:
+    de: "Sie weint vor Freude."
+
+- id: "malheureusement"
+  lemma: "malheureusement"
+  pos: adverb
+  level: A2
+  ipa: "/ma.lø.ʁøz.mɑ̃/"
+  example: "Malheureusement, je ne peux pas venir."
+  translations:
+    de: ["leider"]
+  example_translations:
+    de: "Leider kann ich nicht kommen."
+
+- id: "malheureux"
+  lemma: "malheureux"
+  pos: adjective
+  level: A2
+  ipa: "/ma.lø.ʁø/"
+  example: "Il est malheureux depuis son départ."
+  translations:
+    de: ["unglücklich"]
+  example_translations:
+    de: "Seit ihrer Abreise ist er unglücklich."
+
+- id: "nerveux"
+  lemma: "nerveux"
+  pos: adjective
+  level: A2
+  ipa: "/nɛʁ.vø/"
+  example: "Je suis nerveux avant l'examen."
+  translations:
+    de: ["nervös"]
+  example_translations:
+    de: "Vor der Prüfung bin ich nervös."
+
+- id: "peur"
+  lemma: "la peur"
+  pos: noun
+  level: A1
+  ipa: "/pœʁ/"
+  example: "Il a peur du noir."
+  translations:
+    de: ["die Angst"]
+  example_translations:
+    de: "Er hat Angst im Dunkeln."
+
+- id: "plaire"
+  lemma: "plaire"
+  pos: verb
+  level: A2
+  ipa: "/plɛʁ/"
+  example: "Ce film me plaît beaucoup."
+  translations:
+    de: ["gefallen"]
+  example_translations:
+    de: "Dieser Film gefällt mir sehr."
+
+- id: "pleurer"
+  lemma: "pleurer"
+  pos: verb
+  level: A1
+  ipa: "/plœ.ʁe/"
+  example: "Le bébé pleure."
+  translations:
+    de: ["weinen"]
+  example_translations:
+    de: "Das Baby weint."
+
+- id: "prefere"
+  lemma: "préféré"
+  pos: adjective
+  level: A1
+  ipa: "/pʁe.fe.ʁe/"
+  example: "C'est mon film préféré."
+  translations:
+    de: ["Lieblings-"]
+  example_translations:
+    de: "Das ist mein Lieblingsfilm."
+
+- id: "preferer"
+  lemma: "préférer"
+  pos: verb
+  level: A1
+  ipa: "/pʁe.fe.ʁe/"
+  example: "Je préfère le thé."
+  translations:
+    de: ["lieber mögen", "vorziehen"]
+  example_translations:
+    de: "Ich trinke lieber Tee."
+
+- id: "ravi"
+  lemma: "ravi"
+  pos: adjective
+  level: A2
+  ipa: "/ʁa.vi/"
+  example: "Je suis ravi de vous rencontrer."
+  translations:
+    de: ["hocherfreut"]
+  example_translations:
+    de: "Ich freue mich sehr, Sie kennenzulernen."
+
+- id: "reve"
+  lemma: "le rêve"
+  pos: noun
+  level: A2
+  ipa: "/ʁɛv/"
+  example: "J'ai fait un drôle de rêve."
+  translations:
+    de: ["der Traum"]
+  example_translations:
+    de: "Ich hatte einen seltsamen Traum."
+
+- id: "rever"
+  lemma: "rêver"
+  pos: verb
+  level: A2
+  ipa: "/ʁɛ.ve/"
+  example: "Je rêve de vacances."
+  translations:
+    de: ["träumen"]
+  example_translations:
+    de: "Ich träume vom Urlaub."
+
+- id: "rire"
+  lemma: "rire"
+  pos: verb
+  level: A1
+  ipa: "/ʁiʁ/"
+  example: "Nous rions beaucoup ensemble."
+  translations:
+    de: ["lachen"]
+  example_translations:
+    de: "Wir lachen viel zusammen."
+
+- id: "s-ennuyer"
+  lemma: "s'ennuyer"
+  pos: verb
+  level: A2
+  ipa: "/sɑ̃.nɥi.je/"
+  example: "Les enfants s'ennuient."
+  translations:
+    de: ["sich langweilen"]
+  example_translations:
+    de: "Die Kinder langweilen sich."
+
+- id: "s-inquieter"
+  lemma: "s'inquiéter"
+  pos: verb
+  level: A2
+  ipa: "/sɛ̃.kje.te/"
+  example: "Ne t'inquiète pas !"
+  translations:
+    de: ["sich Sorgen machen"]
+  example_translations:
+    de: "Mach dir keine Sorgen!"
+
+- id: "se-sentir"
+  lemma: "se sentir"
+  pos: verb
+  level: A2
+  ipa: "/sə sɑ̃.tiʁ/"
+  example: "Je me sens bien ici."
+  translations:
+    de: ["sich fühlen"]
+  example_translations:
+    de: "Ich fühle mich hier wohl."
+
+- id: "sentiment"
+  lemma: "le sentiment"
+  pos: noun
+  level: A2
+  ipa: "/sɑ̃.ti.mɑ̃/"
+  example: "C'est un sentiment étrange."
+  translations:
+    de: ["das Gefühl"]
+  example_translations:
+    de: "Das ist ein seltsames Gefühl."
+
+- id: "souhait"
+  lemma: "le souhait"
+  pos: noun
+  level: A2
+  ipa: "/swɛ/"
+  example: "Fais un souhait !"
+  translations:
+    de: ["der Wunsch"]
+  example_translations:
+    de: "Wünsch dir was!"
+
+- id: "souhaiter"
+  lemma: "souhaiter"
+  pos: verb
+  level: A2
+  ipa: "/swɛ.te/"
+  example: "Je te souhaite un bon anniversaire."
+  translations:
+    de: ["wünschen"]
+  example_translations:
+    de: "Ich wünsche dir alles Gute zum Geburtstag."
+
+- id: "sourire-noun"
+  lemma: "le sourire"
+  pos: noun
+  level: A2
+  ipa: "/su.ʁiʁ/"
+  example: "Il a un beau sourire."
+  translations:
+    de: ["das Lächeln"]
+  example_translations:
+    de: "Er hat ein schönes Lächeln."
+
+- id: "sourire-verb"
+  lemma: "sourire"
+  pos: verb
+  level: A2
+  ipa: "/su.ʁiʁ/"
+  example: "Elle sourit sur la photo."
+  translations:
+    de: ["lächeln"]
+  example_translations:
+    de: "Sie lächelt auf dem Foto."
+
+- id: "stresse"
+  lemma: "stressé"
+  pos: adjective
+  level: A2
+  ipa: "/stʁɛ.se/"
+  example: "Il est très stressé au travail."
+  translations:
+    de: ["gestresst"]
+  example_translations:
+    de: "Er ist bei der Arbeit sehr gestresst."
+
+- id: "surpris"
+  lemma: "surpris"
+  pos: adjective
+  level: A2
+  ipa: "/syʁ.pʁi/"
+  example: "Je suis surpris de te voir ici."
+  translations:
+    de: ["überrascht"]
+  example_translations:
+    de: "Ich bin überrascht, dich hier zu sehen."
+
+- id: "surprise"
+  lemma: "la surprise"
+  pos: noun
+  level: A2
+  ipa: "/syʁ.pʁiz/"
+  example: "Quelle bonne surprise !"
+  translations:
+    de: ["die Überraschung"]
+  example_translations:
+    de: "Was für eine schöne Überraschung!"
+
+- id: "triste"
+  lemma: "triste"
+  pos: adjective
+  level: A1
+  ipa: "/tʁist/"
+  example: "Pourquoi es-tu triste ?"
+  translations:
+    de: ["traurig"]
+  example_translations:
+    de: "Warum bist du traurig?"
+
+- id: "tristesse"
+  lemma: "la tristesse"
+  pos: noun
+  level: A2
+  ipa: "/tʁis.tɛs/"
+  example: "Je comprends ta tristesse."
+  translations:
+    de: ["die Traurigkeit"]
+  example_translations:
+    de: "Ich verstehe deine Traurigkeit."

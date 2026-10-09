@@ -1,0 +1,145 @@
+# 🏛️ Gesellschaft & Politik – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "etat"
+  lemma: "l'État (m.)"
+  pos: noun
+  level: A2
+  ipa: "/e.ta/"
+  example: "L'État paie les écoles."
+  translations:
+    de: ["der Staat"]
+  example_translations:
+    de: "Der Staat bezahlt die Schulen."
+
+- id: "formulaire"
+  lemma: "le formulaire"
+  pos: noun
+  level: A2
+  ipa: "/fɔʁ.my.lɛʁ/"
+  example: "Il faut remplir un formulaire."
+  translations:
+    de: ["das Formular"]
+  example_translations:
+    de: "Man muss ein Formular ausfüllen."
+
+- id: "gouvernement"
+  lemma: "le gouvernement"
+  pos: noun
+  level: A2
+  ipa: "/ɡu.vɛʁ.nə.mɑ̃/"
+  example: "Le gouvernement a pris une décision."
+  translations:
+    de: ["die Regierung"]
+  example_translations:
+    de: "Die Regierung hat eine Entscheidung getroffen."
+
+- id: "guerre"
+  lemma: "la guerre"
+  pos: noun
+  level: A2
+  ipa: "/ɡɛʁ/"
+  example: "La guerre a duré quatre ans."
+  translations:
+    de: ["der Krieg"]
+  example_translations:
+    de: "Der Krieg dauerte vier Jahre."
+
+- id: "interdit"
+  lemma: "interdit"
+  pos: adjective
+  level: A2
+  ipa: "/ɛ̃.tɛʁ.di/"
+  example: "Il est interdit de fumer ici."
+  translations:
+    de: ["verboten"]
+  example_translations:
+    de: "Rauchen ist hier verboten."
+
+- id: "loi"
+  lemma: "la loi"
+  pos: noun
+  level: A2
+  ipa: "/lwa/"
+  example: "C'est interdit par la loi."
+  translations:
+    de: ["das Gesetz"]
+  example_translations:
+    de: "Das ist gesetzlich verboten."
+
+- id: "obligatoire"
+  lemma: "obligatoire"
+  pos: adjective
+  level: A2
+  ipa: "/ɔ.bli.ɡa.twaʁ/"
+  example: "Le casque est obligatoire."
+  translations:
+    de: ["vorgeschrieben", "Pflicht-"]
+  example_translations:
+    de: "Der Helm ist Pflicht."
+
+- id: "paix"
+  lemma: "la paix"
+  pos: noun
+  level: A2
+  ipa: "/pɛ/"
+  example: "Tout le monde veut la paix."
+  translations:
+    de: ["der Frieden"]
+  example_translations:
+    de: "Alle wollen Frieden."
+
+- id: "police"
+  lemma: "la police"
+  pos: noun
+  level: A1
+  ipa: "/pɔ.lis/"
+  example: "Appelle la police !"
+  translations:
+    de: ["die Polizei"]
+  example_translations:
+    de: "Ruf die Polizei!"
+
+- id: "politique"
+  lemma: "la politique"
+  pos: noun
+  level: A2
+  ipa: "/pɔ.li.tik/"
+  example: "Je ne m'intéresse pas à la politique."
+  translations:
+    de: ["die Politik"]
+  example_translations:
+    de: "Ich interessiere mich nicht für Politik."
+
+- id: "president"
+  lemma: "le président"
+  pos: noun
+  level: A2
+  ipa: "/pʁe.zi.dɑ̃/"
+  example: "Le président fait un discours."
+  translations:
+    de: ["der Präsident"]
+  example_translations:
+    de: "Der Präsident hält eine Rede."
+
+- id: "voler"
+  lemma: "voler"
+  pos: verb
+  level: A2
+  ipa: "/vɔ.le/"
+  example: "On m'a volé mon vélo."
+  translations:
+    de: ["stehlen", "fliegen"]
+  example_translations:
+    de: "Man hat mir mein Fahrrad gestohlen."
+
+- id: "voleur"
+  lemma: "le voleur"
+  pos: noun
+  level: A2
+  ipa: "/vɔ.lœʁ/"
+  example: "Le voleur a pris mon sac."
+  translations:
+    de: ["der Dieb"]
+  example_translations:
+    de: "Der Dieb hat meine Tasche genommen."

@@ -1,0 +1,1135 @@
+# 🍎 Essen & Trinken – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "addition"
+  lemma: "l'addition (f.)"
+  pos: noun
+  level: A1
+  ipa: "/a.di.sjɔ̃/"
+  example: "L'addition, s'il vous plaît."
+  translations:
+    de: ["die Rechnung"]
+  example_translations:
+    de: "Die Rechnung, bitte."
+
+- id: "ail"
+  lemma: "l'ail (m.)"
+  pos: noun
+  level: A2
+  ipa: "/aj/"
+  example: "Il y a trop d'ail dans la sauce."
+  translations:
+    de: ["der Knoblauch"]
+  example_translations:
+    de: "In der Soße ist zu viel Knoblauch."
+
+- id: "ananas"
+  lemma: "l'ananas (m.)"
+  pos: noun
+  level: A2
+  ipa: "/a.na.na/"
+  example: "L'ananas vient des pays chauds."
+  translations:
+    de: ["die Ananas"]
+  example_translations:
+    de: "Die Ananas kommt aus warmen Ländern."
+
+- id: "avoir-faim"
+  lemma: "avoir faim"
+  pos: phrase
+  level: A1
+  ipa: "/a.vwaʁ fɛ̃/"
+  example: "J'ai faim !"
+  translations:
+    de: ["Hunger haben"]
+  example_translations:
+    de: "Ich habe Hunger!"
+
+- id: "avoir-soif"
+  lemma: "avoir soif"
+  pos: phrase
+  level: A1
+  ipa: "/a.vwaʁ swaf/"
+  example: "Il fait chaud, j'ai soif."
+  translations:
+    de: ["Durst haben"]
+  example_translations:
+    de: "Es ist heiß, ich habe Durst."
+
+- id: "baguette"
+  lemma: "la baguette"
+  pos: noun
+  level: A1
+  ipa: "/ba.ɡɛt/"
+  example: "Une baguette, s'il vous plaît."
+  translations:
+    de: ["das Baguette"]
+  example_translations:
+    de: "Ein Baguette, bitte."
+
+- id: "banane"
+  lemma: "la banane"
+  pos: noun
+  level: A1
+  ipa: "/ba.nan/"
+  example: "Les singes mangent des bananes."
+  translations:
+    de: ["die Banane"]
+  example_translations:
+    de: "Affen essen Bananen."
+
+- id: "beurre"
+  lemma: "le beurre"
+  pos: noun
+  level: A1
+  ipa: "/bœʁ/"
+  example: "Du pain avec du beurre."
+  translations:
+    de: ["die Butter"]
+  example_translations:
+    de: "Brot mit Butter."
+
+- id: "biere"
+  lemma: "la bière"
+  pos: noun
+  level: A1
+  ipa: "/bjɛʁ/"
+  example: "Deux bières, s'il vous plaît."
+  translations:
+    de: ["das Bier"]
+  example_translations:
+    de: "Zwei Bier, bitte."
+
+- id: "biscuit"
+  lemma: "le biscuit"
+  pos: noun
+  level: A2
+  ipa: "/bis.kɥi/"
+  example: "Tu veux un biscuit ?"
+  translations:
+    de: ["der Keks"]
+  example_translations:
+    de: "Möchtest du einen Keks?"
+
+- id: "boeuf"
+  lemma: "le bœuf"
+  pos: noun
+  level: A2
+  ipa: "/bœf/"
+  example: "Nous mangeons du bœuf ce soir."
+  translations:
+    de: ["das Rindfleisch", "der Ochse"]
+  example_translations:
+    de: "Heute Abend essen wir Rindfleisch."
+
+- id: "boire"
+  lemma: "boire"
+  pos: verb
+  level: A1
+  ipa: "/bwaʁ/"
+  example: "Tu veux boire quelque chose ?"
+  translations:
+    de: ["trinken"]
+  example_translations:
+    de: "Möchtest du etwas trinken?"
+
+- id: "boisson"
+  lemma: "la boisson"
+  pos: noun
+  level: A1
+  ipa: "/bwa.sɔ̃/"
+  example: "Quelle boisson voulez-vous ?"
+  translations:
+    de: ["das Getränk"]
+  example_translations:
+    de: "Welches Getränk möchten Sie?"
+
+- id: "bonbon"
+  lemma: "le bonbon"
+  pos: noun
+  level: A1
+  ipa: "/bɔ̃.bɔ̃/"
+  example: "Les enfants aiment les bonbons."
+  translations:
+    de: ["das Bonbon", "die Süßigkeit"]
+  example_translations:
+    de: "Kinder mögen Süßigkeiten."
+
+- id: "bouteille"
+  lemma: "la bouteille"
+  pos: noun
+  level: A1
+  ipa: "/bu.tɛj/"
+  example: "Une bouteille de vin rouge."
+  translations:
+    de: ["die Flasche"]
+  example_translations:
+    de: "Eine Flasche Rotwein."
+
+- id: "cafe"
+  lemma: "le café"
+  pos: noun
+  level: A1
+  ipa: "/ka.fe/"
+  example: "Je bois un café le matin."
+  translations:
+    de: ["der Kaffee", "das Café"]
+  example_translations:
+    de: "Morgens trinke ich einen Kaffee."
+
+- id: "carotte"
+  lemma: "la carotte"
+  pos: noun
+  level: A1
+  ipa: "/ka.ʁɔt/"
+  example: "Les lapins aiment les carottes."
+  translations:
+    de: ["die Karotte", "die Möhre"]
+  example_translations:
+    de: "Kaninchen mögen Karotten."
+
+- id: "carte"
+  lemma: "la carte"
+  pos: noun
+  level: A1
+  ipa: "/kaʁt/"
+  example: "La carte, s'il vous plaît."
+  translations:
+    de: ["die Speisekarte", "die Karte", "die Landkarte"]
+  example_translations:
+    de: "Die Speisekarte, bitte."
+
+- id: "cerise"
+  lemma: "la cerise"
+  pos: noun
+  level: A2
+  ipa: "/sə.ʁiz/"
+  example: "Il y a beaucoup de cerises sur l'arbre."
+  translations:
+    de: ["die Kirsche"]
+  example_translations:
+    de: "Am Baum hängen viele Kirschen."
+
+- id: "champignon"
+  lemma: "le champignon"
+  pos: noun
+  level: A2
+  ipa: "/ʃɑ̃.pi.ɲɔ̃/"
+  example: "Une pizza aux champignons, s'il vous plaît."
+  translations:
+    de: ["der Pilz"]
+  example_translations:
+    de: "Eine Pizza mit Pilzen, bitte."
+
+- id: "chocolat"
+  lemma: "le chocolat"
+  pos: noun
+  level: A1
+  ipa: "/ʃɔ.kɔ.la/"
+  example: "Un chocolat chaud, s'il vous plaît."
+  translations:
+    de: ["die Schokolade", "der Kakao"]
+  example_translations:
+    de: "Einen heißen Kakao, bitte."
+
+- id: "citron"
+  lemma: "le citron"
+  pos: noun
+  level: A1
+  ipa: "/si.tʁɔ̃/"
+  example: "Un thé au citron, s'il vous plaît."
+  translations:
+    de: ["die Zitrone"]
+  example_translations:
+    de: "Einen Tee mit Zitrone, bitte."
+
+- id: "commander"
+  lemma: "commander"
+  pos: verb
+  level: A1
+  ipa: "/kɔ.mɑ̃.de/"
+  example: "Vous avez choisi ? Je peux commander ?"
+  translations:
+    de: ["bestellen"]
+  example_translations:
+    de: "Haben Sie gewählt? Kann ich bestellen?"
+
+- id: "concombre"
+  lemma: "le concombre"
+  pos: noun
+  level: A2
+  ipa: "/kɔ̃.kɔ̃bʁ/"
+  example: "Je mets du concombre dans la salade."
+  translations:
+    de: ["die Gurke"]
+  example_translations:
+    de: "Ich gebe Gurke in den Salat."
+
+- id: "confiture"
+  lemma: "la confiture"
+  pos: noun
+  level: A1
+  ipa: "/kɔ̃.fi.tyʁ/"
+  example: "J'adore la confiture de fraises."
+  translations:
+    de: ["die Marmelade"]
+  example_translations:
+    de: "Ich liebe Erdbeermarmelade."
+
+- id: "crepe"
+  lemma: "la crêpe"
+  pos: noun
+  level: A1
+  ipa: "/kʁɛp/"
+  example: "Une crêpe au sucre, s'il vous plaît."
+  translations:
+    de: ["der Crêpe", "der Pfannkuchen"]
+  example_translations:
+    de: "Einen Crêpe mit Zucker, bitte."
+
+- id: "croissant"
+  lemma: "le croissant"
+  pos: noun
+  level: A1
+  ipa: "/kʁwa.sɑ̃/"
+  example: "Je mange un croissant le matin."
+  translations:
+    de: ["das Croissant", "das Hörnchen"]
+  example_translations:
+    de: "Morgens esse ich ein Croissant."
+
+- id: "cuire"
+  lemma: "cuire"
+  pos: verb
+  level: A2
+  ipa: "/kɥiʁ/"
+  example: "Faites cuire les pâtes dix minutes."
+  translations:
+    de: ["kochen", "garen", "backen"]
+  example_translations:
+    de: "Kochen Sie die Nudeln zehn Minuten."
+
+- id: "cuisiner"
+  lemma: "cuisiner"
+  pos: verb
+  level: A1
+  ipa: "/kɥi.zi.ne/"
+  example: "Mon père cuisine très bien."
+  translations:
+    de: ["kochen"]
+  example_translations:
+    de: "Mein Vater kocht sehr gut."
+
+- id: "dejeuner-noun"
+  lemma: "le déjeuner"
+  pos: noun
+  level: A1
+  ipa: "/de.ʒœ.ne/"
+  example: "Le déjeuner est à midi."
+  translations:
+    de: ["das Mittagessen"]
+  example_translations:
+    de: "Das Mittagessen ist um zwölf."
+
+- id: "dejeuner-verb"
+  lemma: "déjeuner"
+  pos: verb
+  level: A1
+  ipa: "/de.ʒœ.ne/"
+  example: "Nous déjeunons au restaurant."
+  translations:
+    de: ["zu Mittag essen"]
+  example_translations:
+    de: "Wir essen im Restaurant zu Mittag."
+
+- id: "delicieux"
+  lemma: "délicieux"
+  pos: adjective
+  level: A1
+  ipa: "/de.li.sjø/"
+  example: "Ce gâteau est délicieux !"
+  translations:
+    de: ["köstlich", "lecker"]
+  example_translations:
+    de: "Dieser Kuchen ist köstlich!"
+
+- id: "dessert"
+  lemma: "le dessert"
+  pos: noun
+  level: A1
+  ipa: "/de.sɛʁ/"
+  example: "Qu'est-ce qu'il y a comme dessert ?"
+  translations:
+    de: ["der Nachtisch", "das Dessert"]
+  example_translations:
+    de: "Was gibt es zum Nachtisch?"
+
+- id: "diner-noun"
+  lemma: "le dîner"
+  pos: noun
+  level: A1
+  ipa: "/di.ne/"
+  example: "On prépare le dîner ensemble."
+  translations:
+    de: ["das Abendessen"]
+  example_translations:
+    de: "Wir machen das Abendessen zusammen."
+
+- id: "diner-verb"
+  lemma: "dîner"
+  pos: verb
+  level: A1
+  ipa: "/di.ne/"
+  example: "Ce soir, nous dînons chez des amis."
+  translations:
+    de: ["zu Abend essen"]
+  example_translations:
+    de: "Heute Abend essen wir bei Freunden."
+
+- id: "eau"
+  lemma: "l'eau (f.)"
+  pos: noun
+  level: A1
+  ipa: "/o/"
+  example: "Une bouteille d'eau, s'il vous plaît."
+  translations:
+    de: ["das Wasser"]
+  example_translations:
+    de: "Eine Flasche Wasser, bitte."
+
+- id: "eau-minerale"
+  lemma: "l'eau minérale (f.)"
+  pos: noun
+  level: A2
+  ipa: "/o mi.ne.ʁal/"
+  example: "Je voudrais une eau minérale gazeuse."
+  translations:
+    de: ["das Mineralwasser"]
+  example_translations:
+    de: "Ich hätte gern ein Mineralwasser mit Kohlensäure."
+
+- id: "entree"
+  lemma: "l'entrée (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɑ̃.tʁe/"
+  example: "Comme entrée, je prends une salade."
+  translations:
+    de: ["die Vorspeise", "der Eingang"]
+  example_translations:
+    de: "Als Vorspeise nehme ich einen Salat."
+
+- id: "epice"
+  lemma: "épicé"
+  pos: adjective
+  level: A2
+  ipa: "/e.pi.se/"
+  example: "Je n'aime pas la cuisine épicée."
+  translations:
+    de: ["scharf", "würzig"]
+  example_translations:
+    de: "Ich mag kein scharfes Essen."
+
+- id: "farine"
+  lemma: "la farine"
+  pos: noun
+  level: A2
+  ipa: "/fa.ʁin/"
+  example: "Pour la crêpe, il faut de la farine."
+  translations:
+    de: ["das Mehl"]
+  example_translations:
+    de: "Für den Crêpe braucht man Mehl."
+
+- id: "frais"
+  lemma: "frais"
+  pos: adjective
+  level: A2
+  ipa: "/fʁɛ/"
+  example: "Les légumes sont frais."
+  translations:
+    de: ["frisch", "kühl"]
+  example_translations:
+    de: "Das Gemüse ist frisch."
+
+- id: "fraise"
+  lemma: "la fraise"
+  pos: noun
+  level: A1
+  ipa: "/fʁɛz/"
+  example: "Les fraises sont rouges."
+  translations:
+    de: ["die Erdbeere"]
+  example_translations:
+    de: "Erdbeeren sind rot."
+
+- id: "frites"
+  lemma: "les frites (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/fʁit/"
+  example: "Les enfants veulent des frites."
+  translations:
+    de: ["die Pommes frites"]
+  example_translations:
+    de: "Die Kinder wollen Pommes."
+
+- id: "fromage"
+  lemma: "le fromage"
+  pos: noun
+  level: A1
+  ipa: "/fʁɔ.maʒ/"
+  example: "La France a beaucoup de fromages."
+  translations:
+    de: ["der Käse"]
+  example_translations:
+    de: "Frankreich hat viele Käsesorten."
+
+- id: "fruit"
+  lemma: "le fruit"
+  pos: noun
+  level: A1
+  ipa: "/fʁɥi/"
+  example: "Je mange des fruits tous les jours."
+  translations:
+    de: ["das Obst", "die Frucht"]
+  example_translations:
+    de: "Ich esse jeden Tag Obst."
+
+- id: "fruits-de-mer"
+  lemma: "les fruits de mer (m. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/fʁɥi də mɛʁ/"
+  example: "J'adore les fruits de mer."
+  translations:
+    de: ["die Meeresfrüchte"]
+  example_translations:
+    de: "Ich liebe Meeresfrüchte."
+
+- id: "gateau"
+  lemma: "le gâteau"
+  pos: noun
+  level: A1
+  ipa: "/ɡa.to/"
+  example: "J'ai fait un gâteau au chocolat."
+  translations:
+    de: ["der Kuchen"]
+  example_translations:
+    de: "Ich habe einen Schokoladenkuchen gebacken."
+
+- id: "glace"
+  lemma: "la glace"
+  pos: noun
+  level: A1
+  ipa: "/ɡlas/"
+  example: "Une glace à la vanille, s'il vous plaît."
+  translations:
+    de: ["das Eis", "der Spiegel"]
+  example_translations:
+    de: "Ein Vanilleeis, bitte."
+
+- id: "gouter-noun"
+  lemma: "le goûter"
+  pos: noun
+  level: A2
+  ipa: "/ɡu.te/"
+  example: "Les enfants prennent leur goûter à quatre heures."
+  translations:
+    de: ["der Nachmittagsimbiss"]
+  example_translations:
+    de: "Die Kinder essen um vier Uhr ihren Nachmittagsimbiss."
+
+- id: "gouter-verb"
+  lemma: "goûter"
+  pos: verb
+  level: A2
+  ipa: "/ɡu.te/"
+  example: "Tu veux goûter la soupe ?"
+  translations:
+    de: ["probieren", "kosten"]
+  example_translations:
+    de: "Willst du die Suppe probieren?"
+
+- id: "haricot"
+  lemma: "le haricot"
+  pos: noun
+  level: A2
+  ipa: "/a.ʁi.ko/"
+  example: "Je n'aime pas les haricots verts."
+  translations:
+    de: ["die Bohne"]
+  example_translations:
+    de: "Ich mag keine grünen Bohnen."
+
+- id: "huile"
+  lemma: "l'huile (f.)"
+  pos: noun
+  level: A2
+  ipa: "/ɥil/"
+  example: "Ajoute un peu d'huile d'olive."
+  translations:
+    de: ["das Öl"]
+  example_translations:
+    de: "Gib etwas Olivenöl dazu."
+
+- id: "jambon"
+  lemma: "le jambon"
+  pos: noun
+  level: A1
+  ipa: "/ʒɑ̃.bɔ̃/"
+  example: "Un sandwich au jambon, s'il vous plaît."
+  translations:
+    de: ["der Schinken"]
+  example_translations:
+    de: "Ein Schinkensandwich, bitte."
+
+- id: "jus"
+  lemma: "le jus"
+  pos: noun
+  level: A1
+  ipa: "/ʒy/"
+  example: "Un jus de pomme, s'il vous plaît."
+  translations:
+    de: ["der Saft"]
+  example_translations:
+    de: "Einen Apfelsaft, bitte."
+
+- id: "lait"
+  lemma: "le lait"
+  pos: noun
+  level: A1
+  ipa: "/lɛ/"
+  example: "Un café au lait, s'il vous plaît."
+  translations:
+    de: ["die Milch"]
+  example_translations:
+    de: "Einen Milchkaffee, bitte."
+
+- id: "legume"
+  lemma: "le légume"
+  pos: noun
+  level: A1
+  ipa: "/le.ɡym/"
+  example: "Mange tes légumes !"
+  translations:
+    de: ["das Gemüse"]
+  example_translations:
+    de: "Iss dein Gemüse!"
+
+- id: "manger"
+  lemma: "manger"
+  pos: verb
+  level: A1
+  ipa: "/mɑ̃.ʒe/"
+  example: "Je mange une pomme."
+  translations:
+    de: ["essen"]
+  example_translations:
+    de: "Ich esse einen Apfel."
+
+- id: "melon"
+  lemma: "le melon"
+  pos: noun
+  level: A2
+  ipa: "/mə.lɔ̃/"
+  example: "En été, je mange du melon."
+  translations:
+    de: ["die Melone"]
+  example_translations:
+    de: "Im Sommer esse ich Melone."
+
+- id: "menu"
+  lemma: "le menu"
+  pos: noun
+  level: A1
+  ipa: "/mə.ny/"
+  example: "Le menu du jour coûte quinze euros."
+  translations:
+    de: ["das Menü", "die Speisekarte"]
+  example_translations:
+    de: "Das Tagesmenü kostet fünfzehn Euro."
+
+- id: "morceau"
+  lemma: "le morceau"
+  pos: noun
+  level: A2
+  ipa: "/mɔʁ.so/"
+  example: "Un morceau de gâteau ?"
+  translations:
+    de: ["das Stück"]
+  example_translations:
+    de: "Ein Stück Kuchen?"
+
+- id: "nourriture"
+  lemma: "la nourriture"
+  pos: noun
+  level: A2
+  ipa: "/nu.ʁi.tyʁ/"
+  example: "La nourriture est très bonne ici."
+  translations:
+    de: ["das Essen", "die Nahrung"]
+  example_translations:
+    de: "Das Essen ist hier sehr gut."
+
+- id: "oeuf"
+  lemma: "l'œuf (m.)"
+  pos: noun
+  level: A1
+  ipa: "/œf/"
+  example: "Je mange deux œufs au petit déjeuner."
+  translations:
+    de: ["das Ei"]
+  example_translations:
+    de: "Ich esse zwei Eier zum Frühstück."
+
+- id: "oignon"
+  lemma: "l'oignon (m.)"
+  pos: noun
+  level: A2
+  ipa: "/ɔ.ɲɔ̃/"
+  example: "Coupe l'oignon en petits morceaux."
+  translations:
+    de: ["die Zwiebel"]
+  example_translations:
+    de: "Schneide die Zwiebel in kleine Stücke."
+
+- id: "orange-noun"
+  lemma: "l'orange (f.)"
+  pos: noun
+  level: A1
+  ipa: "/ɔ.ʁɑ̃ʒ/"
+  example: "Un jus d'orange, s'il vous plaît."
+  translations:
+    de: ["die Orange"]
+  example_translations:
+    de: "Einen Orangensaft, bitte."
+
+- id: "pain"
+  lemma: "le pain"
+  pos: noun
+  level: A1
+  ipa: "/pɛ̃/"
+  example: "J'achète du pain à la boulangerie."
+  translations:
+    de: ["das Brot"]
+  example_translations:
+    de: "Ich kaufe Brot in der Bäckerei."
+
+- id: "pates"
+  lemma: "les pâtes (f. pl.)"
+  pos: noun
+  level: A1
+  ipa: "/pɑt/"
+  example: "Les enfants adorent les pâtes."
+  translations:
+    de: ["die Nudeln"]
+  example_translations:
+    de: "Kinder lieben Nudeln."
+
+- id: "peche"
+  lemma: "la pêche"
+  pos: noun
+  level: A2
+  ipa: "/pɛʃ/"
+  example: "Les pêches sont très sucrées."
+  translations:
+    de: ["der Pfirsich", "das Angeln"]
+  example_translations:
+    de: "Die Pfirsiche sind sehr süß."
+
+- id: "petit-dejeuner"
+  lemma: "le petit déjeuner"
+  pos: noun
+  level: A1
+  ipa: "/pə.ti de.ʒœ.ne/"
+  example: "Je prends le petit déjeuner à sept heures."
+  translations:
+    de: ["das Frühstück"]
+  example_translations:
+    de: "Ich frühstücke um sieben Uhr."
+
+- id: "petits-pois"
+  lemma: "les petits pois (m. pl.)"
+  pos: noun
+  level: A2
+  ipa: "/pə.ti pwa/"
+  example: "Il y a des petits pois avec le poulet."
+  translations:
+    de: ["die Erbsen"]
+  example_translations:
+    de: "Es gibt Erbsen zum Hähnchen."
+
+- id: "pizza"
+  lemma: "la pizza"
+  pos: noun
+  level: A1
+  ipa: "/pid.za/"
+  example: "On commande une pizza ?"
+  translations:
+    de: ["die Pizza"]
+  example_translations:
+    de: "Bestellen wir eine Pizza?"
+
+- id: "plat"
+  lemma: "le plat"
+  pos: noun
+  level: A1
+  ipa: "/pla/"
+  example: "Quel est le plat du jour ?"
+  translations:
+    de: ["das Gericht", "der Hauptgang"]
+  example_translations:
+    de: "Was ist das Tagesgericht?"
+
+- id: "poire"
+  lemma: "la poire"
+  pos: noun
+  level: A1
+  ipa: "/pwaʁ/"
+  example: "Je voudrais un kilo de poires."
+  translations:
+    de: ["die Birne"]
+  example_translations:
+    de: "Ich hätte gern ein Kilo Birnen."
+
+- id: "poisson"
+  lemma: "le poisson"
+  pos: noun
+  level: A1
+  ipa: "/pwa.sɔ̃/"
+  example: "Le vendredi, on mange du poisson."
+  translations:
+    de: ["der Fisch"]
+  example_translations:
+    de: "Freitags essen wir Fisch."
+
+- id: "poivre"
+  lemma: "le poivre"
+  pos: noun
+  level: A2
+  ipa: "/pwavʁ/"
+  example: "Du sel et du poivre, s'il vous plaît."
+  translations:
+    de: ["der Pfeffer"]
+  example_translations:
+    de: "Salz und Pfeffer, bitte."
+
+- id: "poivron"
+  lemma: "le poivron"
+  pos: noun
+  level: A2
+  ipa: "/pwa.vʁɔ̃/"
+  example: "Le poivron rouge est sucré."
+  translations:
+    de: ["die Paprika (Gemüse)"]
+  example_translations:
+    de: "Die rote Paprika ist süß."
+
+- id: "pomme"
+  lemma: "la pomme"
+  pos: noun
+  level: A1
+  ipa: "/pɔm/"
+  example: "Cette pomme est très bonne."
+  translations:
+    de: ["der Apfel"]
+  example_translations:
+    de: "Dieser Apfel ist sehr gut."
+
+- id: "pomme-de-terre"
+  lemma: "la pomme de terre"
+  pos: noun
+  level: A1
+  ipa: "/pɔm də tɛʁ/"
+  example: "Je fais une soupe de pommes de terre."
+  translations:
+    de: ["die Kartoffel"]
+  example_translations:
+    de: "Ich mache eine Kartoffelsuppe."
+
+- id: "porc"
+  lemma: "le porc"
+  pos: noun
+  level: A2
+  ipa: "/pɔʁ/"
+  example: "Il ne mange pas de porc."
+  translations:
+    de: ["das Schweinefleisch"]
+  example_translations:
+    de: "Er isst kein Schweinefleisch."
+
+- id: "poulet"
+  lemma: "le poulet"
+  pos: noun
+  level: A1
+  ipa: "/pu.lɛ/"
+  example: "Le poulet est délicieux."
+  translations:
+    de: ["das Hähnchen"]
+  example_translations:
+    de: "Das Hähnchen ist köstlich."
+
+- id: "pourboire"
+  lemma: "le pourboire"
+  pos: noun
+  level: A2
+  ipa: "/puʁ.bwaʁ/"
+  example: "Nous laissons un pourboire."
+  translations:
+    de: ["das Trinkgeld"]
+  example_translations:
+    de: "Wir lassen ein Trinkgeld da."
+
+- id: "raisin"
+  lemma: "le raisin"
+  pos: noun
+  level: A2
+  ipa: "/ʁɛ.zɛ̃/"
+  example: "Le raisin est mûr."
+  translations:
+    de: ["die Weintraube"]
+  example_translations:
+    de: "Die Trauben sind reif."
+
+- id: "recette"
+  lemma: "la recette"
+  pos: noun
+  level: A2
+  ipa: "/ʁə.sɛt/"
+  example: "Tu me donnes la recette ?"
+  translations:
+    de: ["das Rezept"]
+  example_translations:
+    de: "Gibst du mir das Rezept?"
+
+- id: "repas"
+  lemma: "le repas"
+  pos: noun
+  level: A1
+  ipa: "/ʁə.pa/"
+  example: "Le repas est prêt."
+  translations:
+    de: ["die Mahlzeit", "das Essen"]
+  example_translations:
+    de: "Das Essen ist fertig."
+
+- id: "riz"
+  lemma: "le riz"
+  pos: noun
+  level: A1
+  ipa: "/ʁi/"
+  example: "Du poulet avec du riz."
+  translations:
+    de: ["der Reis"]
+  example_translations:
+    de: "Hähnchen mit Reis."
+
+- id: "salade"
+  lemma: "la salade"
+  pos: noun
+  level: A1
+  ipa: "/sa.lad/"
+  example: "Je prends une salade verte."
+  translations:
+    de: ["der Salat"]
+  example_translations:
+    de: "Ich nehme einen grünen Salat."
+
+- id: "sale"
+  lemma: "salé"
+  pos: adjective
+  level: A2
+  ipa: "/sa.le/"
+  example: "La soupe est trop salée."
+  translations:
+    de: ["salzig"]
+  example_translations:
+    de: "Die Suppe ist zu salzig."
+
+- id: "sandwich"
+  lemma: "le sandwich"
+  pos: noun
+  level: A1
+  ipa: "/sɑ̃d.witʃ/"
+  example: "Je mange un sandwich à midi."
+  translations:
+    de: ["das Sandwich", "das belegte Brot"]
+  example_translations:
+    de: "Mittags esse ich ein Sandwich."
+
+- id: "sauce"
+  lemma: "la sauce"
+  pos: noun
+  level: A2
+  ipa: "/sos/"
+  example: "La sauce est un peu épicée."
+  translations:
+    de: ["die Soße"]
+  example_translations:
+    de: "Die Soße ist etwas scharf."
+
+- id: "saucisse"
+  lemma: "la saucisse"
+  pos: noun
+  level: A2
+  ipa: "/so.sis/"
+  example: "Les enfants aiment les saucisses."
+  translations:
+    de: ["die Wurst", "das Würstchen"]
+  example_translations:
+    de: "Die Kinder mögen Würstchen."
+
+- id: "sel"
+  lemma: "le sel"
+  pos: noun
+  level: A1
+  ipa: "/sɛl/"
+  example: "Il manque du sel."
+  translations:
+    de: ["das Salz"]
+  example_translations:
+    de: "Es fehlt Salz."
+
+- id: "soupe"
+  lemma: "la soupe"
+  pos: noun
+  level: A1
+  ipa: "/sup/"
+  example: "La soupe est trop chaude."
+  translations:
+    de: ["die Suppe"]
+  example_translations:
+    de: "Die Suppe ist zu heiß."
+
+- id: "steak"
+  lemma: "le steak"
+  pos: noun
+  level: A2
+  ipa: "/stɛk/"
+  example: "Un steak frites, s'il vous plaît."
+  translations:
+    de: ["das Steak"]
+  example_translations:
+    de: "Ein Steak mit Pommes, bitte."
+
+- id: "sucre-adjective"
+  lemma: "sucré"
+  pos: adjective
+  level: A2
+  ipa: "/sy.kʁe/"
+  example: "Ce café est trop sucré."
+  translations:
+    de: ["süß", "gezuckert"]
+  example_translations:
+    de: "Dieser Kaffee ist zu süß."
+
+- id: "sucre-noun"
+  lemma: "le sucre"
+  pos: noun
+  level: A1
+  ipa: "/sykʁ/"
+  example: "Tu prends du sucre dans ton café ?"
+  translations:
+    de: ["der Zucker"]
+  example_translations:
+    de: "Nimmst du Zucker in den Kaffee?"
+
+- id: "tasse"
+  lemma: "la tasse"
+  pos: noun
+  level: A1
+  ipa: "/tas/"
+  example: "Une tasse de thé ?"
+  translations:
+    de: ["die Tasse"]
+  example_translations:
+    de: "Eine Tasse Tee?"
+
+- id: "the"
+  lemma: "le thé"
+  pos: noun
+  level: A1
+  ipa: "/te/"
+  example: "Tu préfères le thé ou le café ?"
+  translations:
+    de: ["der Tee"]
+  example_translations:
+    de: "Magst du lieber Tee oder Kaffee?"
+
+- id: "tomate"
+  lemma: "la tomate"
+  pos: noun
+  level: A1
+  ipa: "/tɔ.mat/"
+  example: "Une salade de tomates, s'il vous plaît."
+  translations:
+    de: ["die Tomate"]
+  example_translations:
+    de: "Einen Tomatensalat, bitte."
+
+- id: "tranche"
+  lemma: "la tranche"
+  pos: noun
+  level: A2
+  ipa: "/tʁɑ̃ʃ/"
+  example: "Deux tranches de jambon, s'il vous plaît."
+  translations:
+    de: ["die Scheibe"]
+  example_translations:
+    de: "Zwei Scheiben Schinken, bitte."
+
+- id: "vegetarien"
+  lemma: "végétarien"
+  pos: adjective
+  level: A2
+  ipa: "/ve.ʒe.ta.ʁjɛ̃/"
+  example: "Je suis végétarienne."
+  translations:
+    de: ["vegetarisch", "Vegetarier"]
+  example_translations:
+    de: "Ich bin Vegetarierin."
+
+- id: "verre"
+  lemma: "le verre"
+  pos: noun
+  level: A1
+  ipa: "/vɛʁ/"
+  example: "Un verre d'eau, s'il vous plaît."
+  translations:
+    de: ["das Glas"]
+  example_translations:
+    de: "Ein Glas Wasser, bitte."
+
+- id: "viande"
+  lemma: "la viande"
+  pos: noun
+  level: A1
+  ipa: "/vjɑ̃d/"
+  example: "Je ne mange pas de viande."
+  translations:
+    de: ["das Fleisch"]
+  example_translations:
+    de: "Ich esse kein Fleisch."
+
+- id: "vin"
+  lemma: "le vin"
+  pos: noun
+  level: A1
+  ipa: "/vɛ̃/"
+  example: "Un verre de vin rouge, s'il vous plaît."
+  translations:
+    de: ["der Wein"]
+  example_translations:
+    de: "Ein Glas Rotwein, bitte."
+
+- id: "yaourt"
+  lemma: "le yaourt"
+  pos: noun
+  level: A1
+  ipa: "/ja.uʁt/"
+  example: "Je prends un yaourt comme dessert."
+  translations:
+    de: ["der Joghurt"]
+  example_translations:
+    de: "Ich nehme einen Joghurt als Nachtisch."

@@ -1,0 +1,948 @@
+# ✨ Eigenschaften – Vokabeln, alphabetisch nach id sortiert.
+# Format und Regeln: CONTRIBUTING.md
+
+- id: "age-adjective"
+  lemma: "âgé"
+  pos: adjective
+  level: A2
+  ipa: "/ɑ.ʒe/"
+  example: "Ma grand-mère est âgée."
+  translations:
+    de: ["alt", "betagt"]
+  example_translations:
+    de: "Meine Großmutter ist alt."
+
+- id: "amusant"
+  lemma: "amusant"
+  pos: adjective
+  level: A2
+  ipa: "/a.my.zɑ̃/"
+  example: "C'est un jeu amusant."
+  translations:
+    de: ["lustig", "unterhaltsam"]
+  example_translations:
+    de: "Das ist ein lustiges Spiel."
+
+- id: "ancien"
+  lemma: "ancien"
+  pos: adjective
+  level: A2
+  ipa: "/ɑ̃.sjɛ̃/"
+  example: "C'est une ville ancienne."
+  translations:
+    de: ["alt", "ehemalig"]
+  example_translations:
+    de: "Das ist eine alte Stadt."
+
+- id: "bas"
+  lemma: "bas"
+  pos: adjective
+  level: A2
+  ipa: "/ba/"
+  example: "La table est trop basse."
+  translations:
+    de: ["niedrig", "tief"]
+  example_translations:
+    de: "Der Tisch ist zu niedrig."
+
+- id: "beau"
+  lemma: "beau"
+  pos: adjective
+  level: A1
+  ipa: "/bo/"
+  example: "Quel beau jardin !"
+  translations:
+    de: ["schön"]
+  example_translations:
+    de: "Was für ein schöner Garten!"
+
+- id: "bete"
+  lemma: "bête"
+  pos: adjective
+  level: A2
+  ipa: "/bɛt/"
+  example: "Ce n'est pas une question bête."
+  translations:
+    de: ["dumm"]
+  example_translations:
+    de: "Das ist keine dumme Frage."
+
+- id: "bon"
+  lemma: "bon"
+  pos: adjective
+  level: A1
+  ipa: "/bɔ̃/"
+  example: "Le pain est très bon."
+  translations:
+    de: ["gut", "lecker"]
+  example_translations:
+    de: "Das Brot ist sehr gut."
+
+- id: "bruyant"
+  lemma: "bruyant"
+  pos: adjective
+  level: A2
+  ipa: "/bʁɥi.jɑ̃/"
+  example: "Les voisins sont bruyants."
+  translations:
+    de: ["laut"]
+  example_translations:
+    de: "Die Nachbarn sind laut."
+
+- id: "calme"
+  lemma: "calme"
+  pos: adjective
+  level: A1
+  ipa: "/kalm/"
+  example: "Le quartier est calme."
+  translations:
+    de: ["ruhig"]
+  example_translations:
+    de: "Das Viertel ist ruhig."
+
+- id: "celebre"
+  lemma: "célèbre"
+  pos: adjective
+  level: A2
+  ipa: "/se.lɛbʁ/"
+  example: "C'est un acteur célèbre."
+  translations:
+    de: ["berühmt"]
+  example_translations:
+    de: "Das ist ein berühmter Schauspieler."
+
+- id: "confortable"
+  lemma: "confortable"
+  pos: adjective
+  level: A2
+  ipa: "/kɔ̃.fɔʁ.tabl/"
+  example: "Le canapé est confortable."
+  translations:
+    de: ["bequem", "komfortabel"]
+  example_translations:
+    de: "Das Sofa ist bequem."
+
+- id: "connu"
+  lemma: "connu"
+  pos: adjective
+  level: A2
+  ipa: "/kɔ.ny/"
+  example: "Ce restaurant est très connu."
+  translations:
+    de: ["bekannt"]
+  example_translations:
+    de: "Dieses Restaurant ist sehr bekannt."
+
+- id: "court"
+  lemma: "court"
+  pos: adjective
+  level: A1
+  ipa: "/kuʁ/"
+  example: "Le film est court."
+  translations:
+    de: ["kurz"]
+  example_translations:
+    de: "Der Film ist kurz."
+
+- id: "dangereux"
+  lemma: "dangereux"
+  pos: adjective
+  level: A2
+  ipa: "/dɑ̃ʒ.ʁø/"
+  example: "Cette route est dangereuse."
+  translations:
+    de: ["gefährlich"]
+  example_translations:
+    de: "Diese Straße ist gefährlich."
+
+- id: "dernier"
+  lemma: "dernier"
+  pos: adjective
+  level: A1
+  ipa: "/dɛʁ.nje/"
+  example: "C'est le dernier train."
+  translations:
+    de: ["letzte"]
+  example_translations:
+    de: "Das ist der letzte Zug."
+
+- id: "different"
+  lemma: "différent"
+  pos: adjective
+  level: A1
+  ipa: "/di.fe.ʁɑ̃/"
+  example: "Nous sommes très différents."
+  translations:
+    de: ["verschieden", "anders"]
+  example_translations:
+    de: "Wir sind sehr verschieden."
+
+- id: "difficile"
+  lemma: "difficile"
+  pos: adjective
+  level: A1
+  ipa: "/di.fi.sil/"
+  example: "Le français est difficile."
+  translations:
+    de: ["schwierig", "schwer"]
+  example_translations:
+    de: "Französisch ist schwierig."
+
+- id: "doux"
+  lemma: "doux"
+  pos: adjective
+  level: A2
+  ipa: "/du/"
+  example: "Le chat est tout doux."
+  translations:
+    de: ["weich", "sanft", "mild"]
+  example_translations:
+    de: "Die Katze ist ganz weich."
+
+- id: "drole"
+  lemma: "drôle"
+  pos: adjective
+  level: A1
+  ipa: "/dʁol/"
+  example: "Il est très drôle."
+  translations:
+    de: ["lustig", "komisch"]
+  example_translations:
+    de: "Er ist sehr lustig."
+
+- id: "dur"
+  lemma: "dur"
+  pos: adjective
+  level: A2
+  ipa: "/dyʁ/"
+  example: "Le pain est dur."
+  translations:
+    de: ["hart", "schwer"]
+  example_translations:
+    de: "Das Brot ist hart."
+
+- id: "ennuyeux"
+  lemma: "ennuyeux"
+  pos: adjective
+  level: A2
+  ipa: "/ɑ̃.nɥi.jø/"
+  example: "Ce film est ennuyeux."
+  translations:
+    de: ["langweilig"]
+  example_translations:
+    de: "Dieser Film ist langweilig."
+
+- id: "etroit"
+  lemma: "étroit"
+  pos: adjective
+  level: A2
+  ipa: "/e.tʁwa/"
+  example: "Les rues sont étroites."
+  translations:
+    de: ["eng", "schmal"]
+  example_translations:
+    de: "Die Straßen sind eng."
+
+- id: "facile"
+  lemma: "facile"
+  pos: adjective
+  level: A1
+  ipa: "/fa.sil/"
+  example: "L'exercice est facile."
+  translations:
+    de: ["einfach", "leicht"]
+  example_translations:
+    de: "Die Übung ist einfach."
+
+- id: "faible"
+  lemma: "faible"
+  pos: adjective
+  level: A2
+  ipa: "/fɛbl/"
+  example: "Je me sens faible."
+  translations:
+    de: ["schwach"]
+  example_translations:
+    de: "Ich fühle mich schwach."
+
+- id: "faux"
+  lemma: "faux"
+  pos: adjective
+  level: A1
+  ipa: "/fo/"
+  example: "Vrai ou faux ?"
+  translations:
+    de: ["falsch"]
+  example_translations:
+    de: "Richtig oder falsch?"
+
+- id: "formidable"
+  lemma: "formidable"
+  pos: adjective
+  level: A2
+  ipa: "/fɔʁ.mi.dabl/"
+  example: "C'était une soirée formidable."
+  translations:
+    de: ["großartig", "toll"]
+  example_translations:
+    de: "Es war ein großartiger Abend."
+
+- id: "fort"
+  lemma: "fort"
+  pos: adjective
+  level: A1
+  ipa: "/fɔʁ/"
+  example: "Il est fort en maths."
+  translations:
+    de: ["stark", "gut (in)", "laut"]
+  example_translations:
+    de: "Er ist gut in Mathe."
+
+- id: "genial"
+  lemma: "génial"
+  pos: adjective
+  level: A2
+  ipa: "/ʒe.njal/"
+  example: "Ton idée est géniale !"
+  translations:
+    de: ["genial", "toll"]
+  example_translations:
+    de: "Deine Idee ist genial!"
+
+- id: "gentil"
+  lemma: "gentil"
+  pos: adjective
+  level: A1
+  ipa: "/ʒɑ̃.ti/"
+  example: "Merci, tu es gentil."
+  translations:
+    de: ["nett", "freundlich"]
+  example_translations:
+    de: "Danke, du bist nett."
+
+- id: "grand"
+  lemma: "grand"
+  pos: adjective
+  level: A1
+  ipa: "/ɡʁɑ̃/"
+  example: "Mon frère est très grand."
+  translations:
+    de: ["groß"]
+  example_translations:
+    de: "Mein Bruder ist sehr groß."
+
+- id: "gros"
+  lemma: "gros"
+  pos: adjective
+  level: A1
+  ipa: "/ɡʁo/"
+  example: "Le chat est très gros."
+  translations:
+    de: ["dick", "groß"]
+  example_translations:
+    de: "Die Katze ist sehr dick."
+
+- id: "haut"
+  lemma: "haut"
+  pos: adjective
+  level: A2
+  ipa: "/o/"
+  example: "La montagne est très haute."
+  translations:
+    de: ["hoch"]
+  example_translations:
+    de: "Der Berg ist sehr hoch."
+
+- id: "important"
+  lemma: "important"
+  pos: adjective
+  level: A1
+  ipa: "/ɛ̃.pɔʁ.tɑ̃/"
+  example: "C'est très important."
+  translations:
+    de: ["wichtig"]
+  example_translations:
+    de: "Das ist sehr wichtig."
+
+- id: "impossible"
+  lemma: "impossible"
+  pos: adjective
+  level: A1
+  ipa: "/ɛ̃.pɔ.sibl/"
+  example: "C'est impossible !"
+  translations:
+    de: ["unmöglich"]
+  example_translations:
+    de: "Das ist unmöglich!"
+
+- id: "intelligent"
+  lemma: "intelligent"
+  pos: adjective
+  level: A1
+  ipa: "/ɛ̃.te.li.ʒɑ̃/"
+  example: "C'est une fille intelligente."
+  translations:
+    de: ["intelligent", "klug"]
+  example_translations:
+    de: "Das ist ein kluges Mädchen."
+
+- id: "interessant"
+  lemma: "intéressant"
+  pos: adjective
+  level: A1
+  ipa: "/ɛ̃.te.ʁɛ.sɑ̃/"
+  example: "Le livre est intéressant."
+  translations:
+    de: ["interessant"]
+  example_translations:
+    de: "Das Buch ist interessant."
+
+- id: "jeune-adjective"
+  lemma: "jeune"
+  pos: adjective
+  level: A1
+  ipa: "/ʒœn/"
+  example: "Il est encore jeune."
+  translations:
+    de: ["jung"]
+  example_translations:
+    de: "Er ist noch jung."
+
+- id: "joli"
+  lemma: "joli"
+  pos: adjective
+  level: A1
+  ipa: "/ʒɔ.li/"
+  example: "Tu as une jolie robe."
+  translations:
+    de: ["hübsch"]
+  example_translations:
+    de: "Du hast ein hübsches Kleid."
+
+- id: "juste"
+  lemma: "juste"
+  pos: adjective
+  level: A2
+  ipa: "/ʒyst/"
+  example: "C'est la réponse juste."
+  translations:
+    de: ["richtig", "gerecht", "knapp"]
+  example_translations:
+    de: "Das ist die richtige Antwort."
+
+- id: "laid"
+  lemma: "laid"
+  pos: adjective
+  level: A2
+  ipa: "/lɛ/"
+  example: "Ce bâtiment est laid."
+  translations:
+    de: ["hässlich"]
+  example_translations:
+    de: "Dieses Gebäude ist hässlich."
+
+- id: "large"
+  lemma: "large"
+  pos: adjective
+  level: A2
+  ipa: "/laʁʒ/"
+  example: "La rue est large."
+  translations:
+    de: ["breit", "weit"]
+  example_translations:
+    de: "Die Straße ist breit."
+
+- id: "leger"
+  lemma: "léger"
+  pos: adjective
+  level: A2
+  ipa: "/le.ʒe/"
+  example: "Ce sac est léger."
+  translations:
+    de: ["leicht"]
+  example_translations:
+    de: "Diese Tasche ist leicht."
+
+- id: "lent"
+  lemma: "lent"
+  pos: adjective
+  level: A2
+  ipa: "/lɑ̃/"
+  example: "Internet est très lent."
+  translations:
+    de: ["langsam"]
+  example_translations:
+    de: "Das Internet ist sehr langsam."
+
+- id: "libre"
+  lemma: "libre"
+  pos: adjective
+  level: A1
+  ipa: "/libʁ/"
+  example: "Cette place est libre ?"
+  translations:
+    de: ["frei"]
+  example_translations:
+    de: "Ist dieser Platz frei?"
+
+- id: "lointain"
+  lemma: "lointain"
+  pos: adjective
+  level: A2
+  ipa: "/lwɛ̃.tɛ̃/"
+  example: "Il rêve de pays lointains."
+  translations:
+    de: ["fern", "weit entfernt"]
+  example_translations:
+    de: "Er träumt von fernen Ländern."
+
+- id: "long"
+  lemma: "long"
+  pos: adjective
+  level: A1
+  ipa: "/lɔ̃/"
+  example: "Elle a les cheveux longs."
+  translations:
+    de: ["lang"]
+  example_translations:
+    de: "Sie hat lange Haare."
+
+- id: "lourd"
+  lemma: "lourd"
+  pos: adjective
+  level: A2
+  ipa: "/luʁ/"
+  example: "Ma valise est lourde."
+  translations:
+    de: ["schwer"]
+  example_translations:
+    de: "Mein Koffer ist schwer."
+
+- id: "magnifique"
+  lemma: "magnifique"
+  pos: adjective
+  level: A2
+  ipa: "/ma.ɲi.fik/"
+  example: "La vue est magnifique."
+  translations:
+    de: ["wunderschön", "großartig"]
+  example_translations:
+    de: "Die Aussicht ist wunderschön."
+
+- id: "mauvais"
+  lemma: "mauvais"
+  pos: adjective
+  level: A1
+  ipa: "/mo.vɛ/"
+  example: "C'est une mauvaise idée."
+  translations:
+    de: ["schlecht"]
+  example_translations:
+    de: "Das ist eine schlechte Idee."
+
+- id: "mechant"
+  lemma: "méchant"
+  pos: adjective
+  level: A2
+  ipa: "/me.ʃɑ̃/"
+  example: "Le chien n'est pas méchant."
+  translations:
+    de: ["böse", "gemein"]
+  example_translations:
+    de: "Der Hund ist nicht böse."
+
+- id: "meilleur"
+  lemma: "meilleur"
+  pos: adjective
+  level: A1
+  ipa: "/mɛ.jœʁ/"
+  example: "C'est mon meilleur ami."
+  translations:
+    de: ["besser", "beste"]
+  example_translations:
+    de: "Das ist mein bester Freund."
+
+- id: "mince"
+  lemma: "mince"
+  pos: adjective
+  level: A2
+  ipa: "/mɛ̃s/"
+  example: "Elle est grande et mince."
+  translations:
+    de: ["schlank", "dünn"]
+  example_translations:
+    de: "Sie ist groß und schlank."
+
+- id: "moderne"
+  lemma: "moderne"
+  pos: adjective
+  level: A2
+  ipa: "/mɔ.dɛʁn/"
+  example: "C'est un bâtiment moderne."
+  translations:
+    de: ["modern"]
+  example_translations:
+    de: "Das ist ein modernes Gebäude."
+
+- id: "necessaire"
+  lemma: "nécessaire"
+  pos: adjective
+  level: A2
+  ipa: "/ne.se.sɛʁ/"
+  example: "Ce n'est pas nécessaire."
+  translations:
+    de: ["notwendig", "nötig"]
+  example_translations:
+    de: "Das ist nicht nötig."
+
+- id: "neuf-adjective"
+  lemma: "neuf"
+  pos: adjective
+  level: A2
+  ipa: "/nœf/"
+  example: "Ma voiture est neuve."
+  translations:
+    de: ["neu (fabrikneu)"]
+  example_translations:
+    de: "Mein Auto ist neu."
+
+- id: "normal"
+  lemma: "normal"
+  pos: adjective
+  level: A2
+  ipa: "/nɔʁ.mal/"
+  example: "C'est normal."
+  translations:
+    de: ["normal"]
+  example_translations:
+    de: "Das ist normal."
+
+- id: "nouveau"
+  lemma: "nouveau"
+  pos: adjective
+  level: A1
+  ipa: "/nu.vo/"
+  example: "J'ai un nouveau vélo."
+  translations:
+    de: ["neu"]
+  example_translations:
+    de: "Ich habe ein neues Fahrrad."
+
+- id: "occupe"
+  lemma: "occupé"
+  pos: adjective
+  level: A1
+  ipa: "/ɔ.ky.pe/"
+  example: "Je suis très occupé."
+  translations:
+    de: ["besetzt", "beschäftigt"]
+  example_translations:
+    de: "Ich bin sehr beschäftigt."
+
+- id: "pareil"
+  lemma: "pareil"
+  pos: adjective
+  level: A2
+  ipa: "/pa.ʁɛj/"
+  example: "C'est pareil."
+  translations:
+    de: ["gleich", "ähnlich"]
+  example_translations:
+    de: "Das ist dasselbe."
+
+- id: "paresseux"
+  lemma: "paresseux"
+  pos: adjective
+  level: A2
+  ipa: "/pa.ʁɛ.sø/"
+  example: "Il est un peu paresseux."
+  translations:
+    de: ["faul"]
+  example_translations:
+    de: "Er ist ein bisschen faul."
+
+- id: "parfait"
+  lemma: "parfait"
+  pos: adjective
+  level: A2
+  ipa: "/paʁ.fɛ/"
+  example: "C'est parfait !"
+  translations:
+    de: ["perfekt"]
+  example_translations:
+    de: "Das ist perfekt!"
+
+- id: "pauvre"
+  lemma: "pauvre"
+  pos: adjective
+  level: A2
+  ipa: "/povʁ/"
+  example: "C'est une région pauvre."
+  translations:
+    de: ["arm"]
+  example_translations:
+    de: "Das ist eine arme Region."
+
+- id: "petit"
+  lemma: "petit"
+  pos: adjective
+  level: A1
+  ipa: "/pə.ti/"
+  example: "J'habite dans un petit village."
+  translations:
+    de: ["klein"]
+  example_translations:
+    de: "Ich wohne in einem kleinen Dorf."
+
+- id: "plein"
+  lemma: "plein"
+  pos: adjective
+  level: A2
+  ipa: "/plɛ̃/"
+  example: "Le verre est plein."
+  translations:
+    de: ["voll"]
+  example_translations:
+    de: "Das Glas ist voll."
+
+- id: "poli"
+  lemma: "poli"
+  pos: adjective
+  level: A2
+  ipa: "/pɔ.li/"
+  example: "Sois poli avec les gens."
+  translations:
+    de: ["höflich"]
+  example_translations:
+    de: "Sei höflich zu den Leuten."
+
+- id: "possible"
+  lemma: "possible"
+  pos: adjective
+  level: A1
+  ipa: "/pɔ.sibl/"
+  example: "C'est possible."
+  translations:
+    de: ["möglich"]
+  example_translations:
+    de: "Das ist möglich."
+
+- id: "pratique"
+  lemma: "pratique"
+  pos: adjective
+  level: A2
+  ipa: "/pʁa.tik/"
+  example: "Ce sac est très pratique."
+  translations:
+    de: ["praktisch"]
+  example_translations:
+    de: "Diese Tasche ist sehr praktisch."
+
+- id: "pret"
+  lemma: "prêt"
+  pos: adjective
+  level: A1
+  ipa: "/pʁɛ/"
+  example: "Tu es prêt ?"
+  translations:
+    de: ["fertig", "bereit"]
+  example_translations:
+    de: "Bist du fertig?"
+
+- id: "proche"
+  lemma: "proche"
+  pos: adjective
+  level: A2
+  ipa: "/pʁɔʃ/"
+  example: "La gare est proche."
+  translations:
+    de: ["nah"]
+  example_translations:
+    de: "Der Bahnhof ist nah."
+
+- id: "propre"
+  lemma: "propre"
+  pos: adjective
+  level: A1
+  ipa: "/pʁɔpʁ/"
+  example: "La chambre est propre."
+  translations:
+    de: ["sauber", "eigen"]
+  example_translations:
+    de: "Das Zimmer ist sauber."
+
+- id: "rapide"
+  lemma: "rapide"
+  pos: adjective
+  level: A1
+  ipa: "/ʁa.pid/"
+  example: "Le TGV est rapide."
+  translations:
+    de: ["schnell"]
+  example_translations:
+    de: "Der TGV ist schnell."
+
+- id: "riche"
+  lemma: "riche"
+  pos: adjective
+  level: A2
+  ipa: "/ʁiʃ/"
+  example: "Il est très riche."
+  translations:
+    de: ["reich"]
+  example_translations:
+    de: "Er ist sehr reich."
+
+- id: "sale-adjective"
+  lemma: "sale"
+  pos: adjective
+  level: A1
+  ipa: "/sal/"
+  example: "Tes mains sont sales."
+  translations:
+    de: ["schmutzig"]
+  example_translations:
+    de: "Deine Hände sind schmutzig."
+
+- id: "serieux"
+  lemma: "sérieux"
+  pos: adjective
+  level: A2
+  ipa: "/se.ʁjø/"
+  example: "C'est un problème sérieux."
+  translations:
+    de: ["ernst", "zuverlässig"]
+  example_translations:
+    de: "Das ist ein ernstes Problem."
+
+- id: "seul"
+  lemma: "seul"
+  pos: adjective
+  level: A1
+  ipa: "/sœl/"
+  example: "Il habite seul."
+  translations:
+    de: ["allein", "einzig", "einsam"]
+  example_translations:
+    de: "Er wohnt allein."
+
+- id: "simple"
+  lemma: "simple"
+  pos: adjective
+  level: A1
+  ipa: "/sɛ̃pl/"
+  example: "C'est très simple."
+  translations:
+    de: ["einfach"]
+  example_translations:
+    de: "Das ist ganz einfach."
+
+- id: "super"
+  lemma: "super"
+  pos: adjective
+  level: A1
+  ipa: "/sy.pɛʁ/"
+  example: "C'est super !"
+  translations:
+    de: ["super", "toll"]
+  example_translations:
+    de: "Das ist super!"
+
+- id: "sympa"
+  lemma: "sympa"
+  pos: adjective
+  level: A1
+  ipa: "/sɛ̃.pa/"
+  example: "Tes amis sont sympas."
+  translations:
+    de: ["nett", "sympathisch"]
+  example_translations:
+    de: "Deine Freunde sind nett."
+
+- id: "sympathique"
+  lemma: "sympathique"
+  pos: adjective
+  level: A1
+  ipa: "/sɛ̃.pa.tik/"
+  example: "Le voisin est sympathique."
+  translations:
+    de: ["sympathisch", "nett"]
+  example_translations:
+    de: "Der Nachbar ist sympathisch."
+
+- id: "terrible"
+  lemma: "terrible"
+  pos: adjective
+  level: A2
+  ipa: "/te.ʁibl/"
+  example: "L'accident était terrible."
+  translations:
+    de: ["schrecklich", "toll (umgangssprachlich)"]
+  example_translations:
+    de: "Der Unfall war schrecklich."
+
+- id: "timide"
+  lemma: "timide"
+  pos: adjective
+  level: A2
+  ipa: "/ti.mid/"
+  example: "Elle est un peu timide."
+  translations:
+    de: ["schüchtern"]
+  example_translations:
+    de: "Sie ist ein bisschen schüchtern."
+
+- id: "travailleur"
+  lemma: "travailleur"
+  pos: adjective
+  level: A2
+  ipa: "/tʁa.va.jœʁ/"
+  example: "C'est une élève travailleuse."
+  translations:
+    de: ["fleißig"]
+  example_translations:
+    de: "Sie ist eine fleißige Schülerin."
+
+- id: "utile"
+  lemma: "utile"
+  pos: adjective
+  level: A2
+  ipa: "/y.til/"
+  example: "Ce dictionnaire est très utile."
+  translations:
+    de: ["nützlich"]
+  example_translations:
+    de: "Dieses Wörterbuch ist sehr nützlich."
+
+- id: "vide"
+  lemma: "vide"
+  pos: adjective
+  level: A2
+  ipa: "/vid/"
+  example: "La bouteille est vide."
+  translations:
+    de: ["leer"]
+  example_translations:
+    de: "Die Flasche ist leer."
+
+- id: "vieux"
+  lemma: "vieux"
+  pos: adjective
+  level: A1
+  ipa: "/vjø/"
+  example: "C'est une vieille maison."
+  translations:
+    de: ["alt"]
+  example_translations:
+    de: "Das ist ein altes Haus."
+
+- id: "vrai"
+  lemma: "vrai"
+  pos: adjective
+  level: A1
+  ipa: "/vʁɛ/"
+  example: "C'est vrai ?"
+  translations:
+    de: ["wahr", "richtig"]
+  example_translations:
+    de: "Ist das wahr?"
