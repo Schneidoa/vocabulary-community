@@ -21,6 +21,11 @@
       },
       "level": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
       "ipa": {"type": "string", "maxLength": 128},
+      "citation_ipa": {
+        "description": "Lautschrift, wenn das Wort allein ausgesprochen wird (z. B. „a“ /eɪ/ statt /ə/); nur, wenn abweichend von ipa.",
+        "type": "string",
+        "maxLength": 128
+      },
       "example": {"type": "string", "minLength": 1, "maxLength": 512},
       "translations": {
         "description": "Je Basissprache eine Liste; die erste ist die Hauptübersetzung, alle gelten als richtig.",

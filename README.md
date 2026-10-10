@@ -22,6 +22,7 @@ Eine Vokabel sieht so aus:
   pos: noun                     # Wortart
   level: A1                     # Niveau nach GER: A1 … C2
   ipa: "/ˈæp.əl/"               # Lautschrift, optional
+  # citation_ipa: "/…/"         # Lautschrift allein gesprochen, nur wenn abweichend (z. B. „a“ /eɪ/ statt /ə/)
   example: "I eat an apple every day."
   translations:                 # je Basissprache; die erste ist die Hauptübersetzung
     de: ["der Apfel", "Apfel"]

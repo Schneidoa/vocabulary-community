@@ -6,6 +6,7 @@
   pos: determiner
   level: A1
   ipa: "/ə/"
+  citation_ipa: "/eɪ/"
   example: "I have a dog."
   translations:
     de: ["ein", "eine"]
@@ -2349,6 +2350,7 @@
   pos: determiner
   level: A1
   ipa: "/ðə/"
+  citation_ipa: "/ðiː/"
   example: "The sun is shining."
   translations:
     de: ["der", "die", "das"]
