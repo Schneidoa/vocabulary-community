@@ -68,6 +68,25 @@ einer Zahl. Darum steht jeder Text in `"…"`. Nur `pos` und `level` brauchen ke
 
 `level` folgt dem Gemeinsamen Europäischen Referenzrahmen: `A1`, `A2`, `B1`, `B2`, `C1`, `C2`.
 
+### Lautschrift
+
+`ipa` ist optional: Englisch in britischer Lautschrift, Französisch in Standardfranzösisch. Silbengrenzen mit Punkt
+(`/ˈæp.əl/`), Betonung mit `ˈ`.
+
+Manche kurze Wörter klingen im Satz anders als allein. Für Artikel wie „a“ oder „the“ steht in `ipa` die übliche
+Satzform (`/ə/`, `/ðə/`). Wie man das Wort allein ausspricht, gehört dann in `citation_ipa`:
+
+```yaml
+- id: "a"
+  lemma: "a"
+  pos: determiner
+  level: A1
+  ipa: "/ə/"
+  citation_ipa: "/eɪ/"
+```
+
+Der Trainer liest das Wort damit beim Abfragen richtig vor. `citation_ipa` nur angeben, wenn es von `ipa` abweicht.
+
 ### Beispielsätze
 
 Kurz, alltäglich und mit der Vokabel genau in dieser Form. Der Trainer liest sie vor und blendet die Übersetzung
