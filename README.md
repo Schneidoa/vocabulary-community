@@ -1,7 +1,14 @@
 # Vokabeltrainer – Community-Katalog
 
-Die Vokabeln des Vokabeltrainers, gepflegt von der Community. Der Trainer lädt diesen Katalog aus dem Branch `main`;
-Änderungen kommen per Pull Request nach `develop` und von dort gesammelt per Pull Request nach `main`.
+Die Vokabeln des [Vokabeltrainers](https://vocabulary.schneidoa.cloud/), gepflegt von der Community.
+
+Der Vokabeltrainer ist eine Web-App zum Lernen von Englisch- und Französisch-Vokabeln (Oberfläche auf Deutsch). Er
+fragt Wörter mit geplanten Wiederholungen genau dann wieder ab, wenn man sie sonst vergessen würde – etwa fünf
+Minuten am Tag. Auf Wunsch lässt sich ein KI-Assistent wie Claude anbinden, der im Chat abfragt und Wörter erklärt.
+Dieses Repository enthält nur die Vokabeldaten, nicht den Code der App.
+
+Der Trainer lädt diesen Katalog aus dem Branch `main`; Änderungen kommen per Pull Request nach `develop` und von dort
+gesammelt per Pull Request nach `main`.
 
 ## Aufbau
 

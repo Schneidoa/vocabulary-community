@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Worum es geht
 
-Reiner Datenkatalog (YAML) für einen Vokabeltrainer – kein App-Code. Der Trainer importiert den Stand von `main`.
+Reiner Datenkatalog (YAML) für den Vokabeltrainer unter https://vocabulary.schneidoa.cloud/ (Web-App zum Lernen von
+Englisch-/Französisch-Vokabeln mit geplanten Wiederholungen, optional mit KI-Assistent) – kein App-Code; die App liegt
+nicht in diesem Repo. Der Trainer importiert den Stand von `main`.
 Sprache des Repos (Doku, Kommentare, Commit-Messages, Validator-Ausgaben) ist Deutsch.
 
 ## Befehle
